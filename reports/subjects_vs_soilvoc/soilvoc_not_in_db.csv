@@ -1,0 +1,1009 @@
+soilvoc_uri,prefLabel,type
+https://w3id.org/eusoilvoc#AHorizons,A horizons,skos:Concept
+https://w3id.org/eusoilvoc#AcrisolsFAO,Acrisols,skos:Concept
+https://w3id.org/eusoilvoc#AcrisolsWRB,Acrisols,skos:Concept
+https://w3id.org/eusoilvoc#AlfisolsUSDA,Alfisols,skos:Concept
+https://w3id.org/eusoilvoc#AlisolsWRB,Alisols,skos:Concept
+https://w3id.org/eusoilvoc#AndisolsUSDA,Andisols,skos:Concept
+https://w3id.org/eusoilvoc#AnthrosolsWRB,Anthrosols,skos:Concept
+https://w3id.org/eusoilvoc#ArenosolsFAO,Arenosols,skos:Concept
+https://w3id.org/eusoilvoc#ArenosolsWRB,Arenosols,skos:Concept
+https://w3id.org/eusoilvoc#AridisolsUSDA,Aridisols,skos:Concept
+https://w3id.org/eusoilvoc#BHorizons,B horizons,skos:Concept
+https://w3id.org/eusoilvoc#baseSaturationProcedure-BSat_calcul-cec,BSat_calcul-cec,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#baseSaturationProcedure-BSat_calcul-ecec,BSat_calcul-ecec,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#bulkDensityFineEarthProcedure-BlkDensF_fe-cl-fc,BlkDensF_fe-cl-fc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#bulkDensityFineEarthProcedure-BlkDensF_fe-cl-od,BlkDensF_fe-cl-od,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#bulkDensityFineEarthProcedure-BlkDensF_fe-cl-unkn,BlkDensF_fe-cl-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#bulkDensityFineEarthProcedure-BlkDensF_fe-co-fc,BlkDensF_fe-co-fc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#bulkDensityFineEarthProcedure-BlkDensF_fe-co-od,BlkDensF_fe-co-od,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#bulkDensityFineEarthProcedure-BlkDensF_fe-co-unkn,BlkDensF_fe-co-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#bulkDensityFineEarthProcedure-BlkDensF_fe-rpl-unkn,BlkDensF_fe-rpl-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#bulkDensityFineEarthProcedure-BlkDensF_fe-unkn,BlkDensF_fe-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#bulkDensityFineEarthProcedure-BlkDensF_fe-unkn-fc,BlkDensF_fe-unkn-fc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#bulkDensityFineEarthProcedure-BlkDensF_fe-unkn-od,BlkDensF_fe-unkn-od,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#bulkDensityWholeSoilProcedure-BlkDensW_we-cl-fc,BlkDensW_we-cl-fc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#bulkDensityWholeSoilProcedure-BlkDensW_we-cl-od,BlkDensW_we-cl-od,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#bulkDensityWholeSoilProcedure-BlkDensW_we-cl-unkn,BlkDensW_we-cl-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#bulkDensityWholeSoilProcedure-BlkDensW_we-co-fc,BlkDensW_we-co-fc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#bulkDensityWholeSoilProcedure-BlkDensW_we-co-od,BlkDensW_we-co-od,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#bulkDensityWholeSoilProcedure-BlkDensW_we-co-unkn,BlkDensW_we-co-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#bulkDensityWholeSoilProcedure-BlkDensW_we-rpl-unkn,BlkDensW_we-rpl-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#bulkDensityWholeSoilProcedure-BlkDensW_we-unkn,BlkDensW_we-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#CHorizons,C horizons,skos:Concept
+https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph-unkn-cacl2,CEC_ph-unkn-cacl2,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph-unkn-lioac,CEC_ph-unkn-lioac,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph-unkn-m3,CEC_ph-unkn-m3,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph0-ag-thioura,CEC_ph0-ag-thioura,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph0-bacl2,CEC_ph0-bacl2,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph0-cohex,CEC_ph0-cohex,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph0-kcl,CEC_ph0-kcl,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph0-nh4cl,CEC_ph0-nh4cl,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph0-nh4oac,CEC_ph0-nh4oac,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph0-unkn,CEC_ph0-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph7-edta,CEC_ph7-edta,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph7-nh4oac,CEC_ph7-nh4oac,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph7-unkn,CEC_ph7-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph8-bacl2tea,CEC_ph8-bacl2tea,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph8-baoac,CEC_ph8-baoac,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph8-licl2tea,CEC_ph8-licl2tea,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph8-naoac,CEC_ph8-naoac,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph8-nh4oac,CEC_ph8-nh4oac,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph8-unkn,CEC_ph8-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-ch3cooh-dc,CaCO3_acid-ch3cooh-dc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-ch3cooh-nodc,CaCO3_acid-ch3cooh-nodc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-ch3cooh-unkn,CaCO3_acid-ch3cooh-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-dc,CaCO3_acid-dc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-h2so4-dc,CaCO3_acid-h2so4-dc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-h2so4-nodc,CaCO3_acid-h2so4-nodc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-h2so4-unkn,CaCO3_acid-h2so4-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-h3po4-dc,CaCO3_acid-h3po4-dc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-h3po4-nodc,CaCO3_acid-h3po4-nodc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-h3po4-unkn,CaCO3_acid-h3po4-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-hcl-dc,CaCO3_acid-hcl-dc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-hcl-nodc,CaCO3_acid-hcl-nodc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-hcl-unkn,CaCO3_acid-hcl-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-nodc,CaCO3_acid-nodc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-unkn,CaCO3_acid-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca01,CaCO3_ca01,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca02,CaCO3_ca02,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca03,CaCO3_ca03,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca04,CaCO3_ca04,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca05,CaCO3_ca05,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca06,CaCO3_ca06,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca07,CaCO3_ca07,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca08,CaCO3_ca08,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca09,CaCO3_ca09,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca10,CaCO3_ca10,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca11,CaCO3_ca11,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca12,CaCO3_ca12,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_calcul-tc-oc,CaCO3_calcul-tc-oc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#gypsumProcedure-CaSO4_gy01,CaSO4_gy01,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#gypsumProcedure-CaSO4_gy02,CaSO4_gy02,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#gypsumProcedure-CaSO4_gy03,CaSO4_gy03,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#gypsumProcedure-CaSO4_gy04,CaSO4_gy04,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#gypsumProcedure-CaSO4_gy05,CaSO4_gy05,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#gypsumProcedure-CaSO4_gy06,CaSO4_gy06,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#gypsumProcedure-CaSO4_gy07,CaSO4_gy07,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#CalcisolsWRB,Calcisols,skos:Concept
+https://w3id.org/eusoilvoc#CambisolsFAO,Cambisols,skos:Concept
+https://w3id.org/eusoilvoc#CambisolsWRB,Cambisols,skos:Concept
+https://w3id.org/eusoilvoc#coarseFragmentsProcedure-CrsFrg_fld,CrsFrg_fld,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#coarseFragmentsProcedure-CrsFrg_fldcls,CrsFrg_fldcls,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#coarseFragmentsProcedure-CrsFrg_lab,CrsFrg_lab,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#CryosolsWRB,Cryosols,skos:Concept
+https://w3id.org/eusoilvoc#DurisolsWRB,Durisols,skos:Concept
+https://w3id.org/eusoilvoc#EHorizons,E horizons,skos:Concept
+https://w3id.org/eusoilvoc#electricalConductivityProcedure-EC_ratio1-1,EC_ratio1-1,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#electricalConductivityProcedure-EC_ratio1-10,EC_ratio1-10,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#electricalConductivityProcedure-EC_ratio1-2,EC_ratio1-2,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#electricalConductivityProcedure-EC_ratio1-2.5,EC_ratio1-2.5,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#electricalConductivityProcedure-EC_ratio1-5,EC_ratio1-5,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#electricalConductivityProcedure-ECe_sat,ECe_sat,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#effectiveCecProcedure-EffCEC_calcul-b,EffCEC_calcul-b,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#effectiveCecProcedure-EffCEC_calcul-ba,EffCEC_calcul-ba,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#Enchytraeidae,Enchytraeidae,skos:Concept
+https://w3id.org/eusoilvoc#EntisolsUSDA,Entisols,skos:Concept
+https://w3id.org/eusoilvoc#acidityExchangeableProcedure-ExchAcid_ph0-kcl1m,ExchAcid_ph0-kcl1m,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#acidityExchangeableProcedure-ExchAcid_ph0-nh4cl,ExchAcid_ph0-nh4cl,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#acidityExchangeableProcedure-ExchAcid_ph0-unkn,ExchAcid_ph0-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#acidityExchangeableProcedure-ExchAcid_ph7-caoac,ExchAcid_ph7-caoac,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#acidityExchangeableProcedure-ExchAcid_ph7-unkn,ExchAcid_ph7-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#acidityExchangeableProcedure-ExchAcid_ph8-bacl2tea,ExchAcid_ph8-bacl2tea,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#acidityExchangeableProcedure-ExchAcid_ph8-unkn,ExchAcid_ph8-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph-unkn-edta,ExchBases_ph-unkn-edta,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph-unkn-m3,ExchBases_ph-unkn-m3,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph-unkn-m3-spec,ExchBases_ph-unkn-m3-spec,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph0-cohex,ExchBases_ph0-cohex,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph0-nh4cl,ExchBases_ph0-nh4cl,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph7-nh4oac,ExchBases_ph7-nh4oac,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph7-nh4oac-aas,ExchBases_ph7-nh4oac-aas,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph7-nh4oac-fp,ExchBases_ph7-nh4oac-fp,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph7-unkn,ExchBases_ph7-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph8-bacl2tea,ExchBases_ph8-bacl2tea,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph8-unkn,ExchBases_ph8-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_ap14,Extr_ap14,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_ap15,Extr_ap15,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_ap20,Extr_ap20,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_ap21,Extr_ap21,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_c6h8o7-reeuwijk,Extr_c6h8o7-reeuwijk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_cacl2,Extr_cacl2,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_capo4,Extr_capo4,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_dtpa,Extr_dtpa,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_edta,Extr_edta,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_h2so4-truog,Extr_h2so4-truog,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_hcl-h2so4-nelson,Extr_hcl-h2so4-nelso,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_hcl-nh4f-bray1,Extr_hcl-nh4f-bray1,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_hcl-nh4f-bray2,Extr_hcl-nh4f-bray2,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_hcl-nh4f-kurtz-bray,Extr_hcl-nh4f-kurtz-bray,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_hno3,Extr_hno3,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_hotwater,Extr_hotwater,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_m1,Extr_m1,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_m2,Extr_m2,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_m3,Extr_m3,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_m3-spec,Extr_m3-spec,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_nahco3-olsen,Extr_nahco3-ols,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_nahco3-olsen-dabin,Extr_nahco3-olsen-dabi,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_naoac-morgan,Extr_naoac-morga,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_nh4-co3-2-ambic1,Extr_nh4-co3-2-ambic1,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_nh4ch3ch-oh-cooh-leuven,Extr_nh4ch3ch-oh-cooh-leuv,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#FerralsolsFAO,Ferralsols,skos:Concept
+https://w3id.org/eusoilvoc#FerralsolsWRB,Ferralsols,skos:Concept
+https://w3id.org/eusoilvoc#organicMatterProcedure-FulAcidC_unkn,FulAcidC_unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#GelisolsUSDA,Gelisols,skos:Concept
+https://w3id.org/eusoilvoc#GypsisolsWRB,Gypsisols,skos:Concept
+https://w3id.org/eusoilvoc#organicMatterProcedure-HumAcidC_unkn,HumAcidC_unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonInorganicProcedure-InOrgC_calcul-caco3,InOrgC_calcul-caco3,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonInorganicProcedure-InOrgC_calcul-tc-oc,InOrgC_calcul-tc-oc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#InceptisolsUSDA,Inceptisols,skos:Concept
+https://w3id.org/eusoilvoc#hydraulicConductivityProcedure-KSat_calcul-ptf,KSat_calcul-ptf,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#hydraulicConductivityProcedure-KSat_calcul-ptf-genuchten,KSat_calcul-ptf-genucht,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#hydraulicConductivityProcedure-KSat_calcul-ptf-saxton,KSat_calcul-ptf-saxto,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#KastanozemsFAO,Kastanozems,skos:Concept
+https://w3id.org/eusoilvoc#KastanozemsWRB,Kastanozems,skos:Concept
+https://w3id.org/eusoilvoc#hydraulicConductivityProcedure-Ksat_bhole,Ksat_bhol,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#hydraulicConductivityProcedure-Ksat_column,Ksat_colum,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#hydraulicConductivityProcedure-Ksat_dblring,Ksat_dblring,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#hydraulicConductivityProcedure-Ksat_invbhole,Ksat_invbhol,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#LeptosolsWRB,Leptosols,skos:Concept
+https://w3id.org/eusoilvoc#LixisolsWRB,Lixisols,skos:Concept
+https://w3id.org/eusoilvoc#ModifiedUniversalSoilLossEquation,Modified Universal Soil Loss Equation,skos:Concept
+https://w3id.org/eusoilvoc#MollisolsUSDA,Mollisols,skos:Concept
+https://w3id.org/eusoilvoc#NitosolsFAO,Nitosols,skos:Concept
+https://w3id.org/eusoilvoc#NitosolsWRB,Nitosols,skos:Concept
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_acid-dc,OrgC_acid-dc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_acid-dc-ht,OrgC_acid-dc-ht,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_acid-dc-ht-analyser,OrgC_acid-dc-ht-analyser,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_acid-dc-lt,OrgC_acid-dc-lt,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_acid-dc-lt-loi,OrgC_acid-dc-lt-loi,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_acid-dc-mt,OrgC_acid-dc-mt,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_acid-dc-spec,OrgC_acid-dc-spec,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_calcul-tc-ic,OrgC_calcul-tc-ic,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_dc,OrgC_dc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_dc-ht,OrgC_dc-ht,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_dc-ht-analyser,OrgC_dc-ht-analyser,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_dc-lt,OrgC_dc-lt,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_dc-lt-loi,OrgC_dc-lt-loi,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_dc-mt,OrgC_dc-mt,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_dc-spec,OrgC_dc-spec,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_wc,OrgC_wc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_wc-cro3-jackson,OrgC_wc-cro3-jackso,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_wc-cro3-kalembra,OrgC_wc-cro3-kalembra,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_wc-cro3-knopp,OrgC_wc-cro3-knopp,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_wc-cro3-kurmies,OrgC_wc-cro3-kurmies,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_wc-cro3-nelson,OrgC_wc-cro3-nelso,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_wc-cro3-nrcs6a1c,OrgC_wc-cro3-nrcs6a1c,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_wc-cro3-tiurin,OrgC_wc-cro3-tiuri,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_wc-cro3-walkleyblack,OrgC_wc-cro3-walkleyblack,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#organicMatterProcedure-OrgM_calcul-oc1.73,OrgM_calcul-oc1.73,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#availableWaterHoldingCapacityProcedure-PAWHC_calcul-fc100wp,PAWHC_calcul-fc100wp,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#availableWaterHoldingCapacityProcedure-PAWHC_calcul-fc200wp,PAWHC_calcul-fc200wp,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#availableWaterHoldingCapacityProcedure-PAWHC_calcul-fc300wp,PAWHC_calcul-fc300wp,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#PlanosolsFAO,Planosols,skos:Concept
+https://w3id.org/eusoilvoc#PlanosolsWRB,Planosols,skos:Concept
+https://w3id.org/eusoilvoc#PlinthosolsWRB,Plinthosols,skos:Concept
+https://w3id.org/eusoilvoc#porosityProcedure-Poros_calcul-pf0,Poros_calcul-pf0,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#phosphorusRetentionProcedure-RetentP_blakemore,RetentP_blakemor,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#phosphorusRetentionProcedure-RetentP_unkn-spec,RetentP_unkn-spec,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#solubleSaltsProcedure-SlbAn_calcul-unkn,SlbAn_calcul-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#solubleSaltsProcedure-SlbCat_calcul-unkn,SlbCat_calcul-unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#SolonchaksFAO,Solonchaks,skos:Concept
+https://w3id.org/eusoilvoc#SolonchaksWRB,Solonchaks,skos:Concept
+https://w3id.org/eusoilvoc#SolonetzFAO,Solonetz,skos:Concept
+https://w3id.org/eusoilvoc#SolonetzWRB,Solonetz,skos:Concept
+https://w3id.org/eusoilvoc#SpodosolsUSDA,Spodosols,skos:Concept
+https://w3id.org/eusoilvoc#TechnosolsWRB,Technosols,skos:Concept
+https://w3id.org/eusoilvoc#carbonTotalProcedure-TotC_calcul-ic-oc,TotC_calcul-ic-oc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonTotalProcedure-TotC_dc-ht,TotC_dc-ht,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonTotalProcedure-TotC_dc-ht-analyser,TotC_dc-ht-analyser,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonTotalProcedure-TotC_dc-ht-spec,TotC_dc-ht-spec,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#carbonTotalProcedure-TotC_dc-mt,TotC_dc-mt,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#organicMatterProcedure-TotHumC_unkn,TotHumC_unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_bremner,TotalN_bremner,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_calcul,TotalN_calcul,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_calcul-oc10,TotalN_calcul-oc10,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_dc,TotalN_dc,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_dc-ht-dumas,TotalN_dc-ht-dumas,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_dc-ht-leco,TotalN_dc-ht-leco,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_dc-spec,TotalN_dc-spec,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_h2so4,TotalN_h2so4,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_kjeldahl,TotalN_kjeldahl,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_kjeldahl-nh4,TotalN_kjeldahl-nh4,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_nelson,TotalN_nelso,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_tn04,TotalN_tn04,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_tn06,TotalN_tn06,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_tn08,TotalN_tn08,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalElementsProcedure-Total_h2so4,Total_h2so4,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalElementsProcedure-Total_hcl,Total_hcl,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalElementsProcedure-Total_hcl-aquaregia,Total_hcl-aquaregia,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalElementsProcedure-Total_hclo4,Total_hclo4,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalElementsProcedure-Total_hno3-aquafortis,Total_hno3-aquafortis,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalElementsProcedure-Total_nh4-6mo7o24,Total_nh4-6mo7o24,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalElementsProcedure-Total_tp03,Total_tp03,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalElementsProcedure-Total_tp04,Total_tp04,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalElementsProcedure-Total_tp05,Total_tp05,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalElementsProcedure-Total_tp06,Total_tp06,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalElementsProcedure-Total_tp07,Total_tp07,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalElementsProcedure-Total_tp08,Total_tp08,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalElementsProcedure-Total_tp09,Total_tp09,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalElementsProcedure-Total_tp10,Total_tp10,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalElementsProcedure-Total_unkn,Total_unk,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalElementsProcedure-Total_xrd,Total_xrd,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalElementsProcedure-Total_xrf,Total_xrf,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalElementsProcedure-Total_xrf-p,Total_xrf-p,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#totalElementsProcedure-Total_xtf-t,Total_xtf-t,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#UltisolsUSDA,Ultisols,skos:Concept
+https://w3id.org/eusoilvoc#UmbrisolsWRB,Umbrisols,skos:Concept
+https://w3id.org/eusoilvoc#UniversalSoilLossEquation,Universal Soil Loss Equation,skos:Concept
+https://w3id.org/eusoilvoc#moistureContentProcedure-VMC_calcul-ptf,VMC_calcul-ptf,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#moistureContentProcedure-VMC_calcul-ptf-brookscorey,VMC_calcul-ptf-brookscorey,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#moistureContentProcedure-VMC_d,VMC_d,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#moistureContentProcedure-VMC_d-cl,VMC_d-cl,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#moistureContentProcedure-VMC_d-cl-ww,VMC_d-cl-ww,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#moistureContentProcedure-VMC_d-ww,VMC_d-ww,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#moistureContentProcedure-VMC_ud,VMC_ud,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#moistureContentProcedure-VMC_ud-cl,VMC_ud-cl,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#moistureContentProcedure-VMC_ud-co,VMC_ud-co,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#VertisolsFAO,Vertisols,skos:Concept
+https://w3id.org/eusoilvoc#VertisolsUSDA,Vertisols,skos:Concept
+https://w3id.org/eusoilvoc#VertisolsWRB,Vertisols,skos:Concept
+https://w3id.org/eusoilvoc#AcceleratedErosion,accelerated erosion,skos:Concept
+https://w3id.org/eusoilvoc#AcidityExchangeable,acidity exchangeable,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#AerationPorosity,aeration porosity,skos:Concept
+https://w3id.org/eusoilvoc#AggregatedSiltClay,aggregated silt clay,skos:Concept
+https://w3id.org/eusoilvoc#AgriculturalLime,agricultural lime,skos:Concept
+https://w3id.org/eusoilvoc#Agrology,agrology,skos:Concept
+https://w3id.org/eusoilvoc#AirRatio,air ratio,skos:Concept
+https://w3id.org/eusoilvoc#Allophane,allophane,skos:Concept
+https://w3id.org/eusoilvoc#AlluvialSoils,alluvial soils,skos:Concept
+https://w3id.org/eusoilvoc#Alluvium,alluvium,skos:Concept
+https://w3id.org/eusoilvoc#AluminiumExchangeableBase,aluminium exchangeable base,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#AluminiumExtractableElements,aluminium extractable elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#AluminiumMulches,aluminium mulches,skos:Concept
+https://w3id.org/eusoilvoc#AluminiumTotalElements,aluminium total elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#AnionExchangeCapacity,anion exchange capacity,skos:Concept
+https://w3id.org/eusoilvoc#AntecedentSoilMoistureContents,antecedent soil moisture contents,skos:Concept
+https://w3id.org/eusoilvoc#AnthropogenicErosion,anthropogenic erosion,skos:Concept
+https://w3id.org/eusoilvoc#AnthropogenicSoils,anthropogenic soils,skos:Concept
+https://w3id.org/eusoilvoc#Antimony,antimony,skos:Concept
+https://w3id.org/eusoilvoc#BasalticSoils,basaltic soils,skos:Concept
+https://w3id.org/eusoilvoc#Bentonite,bentonite,skos:Concept
+https://w3id.org/eusoilvoc#Biochannel,biochannel,skos:Concept
+https://w3id.org/eusoilvoc#Biodrainage,biodrainage,skos:Concept
+https://w3id.org/eusoilvoc#BiologicalAbundance,biological abundance,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#BleachedSand,bleached sand,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#BogSoils,bog soils,skos:Concept
+https://w3id.org/eusoilvoc#BoronContent,boron content,skos:Concept
+https://w3id.org/eusoilvoc#BoronExtractableElements,boron extractable elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#BoronTotalElements,boron total elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#BottomlandSoils,bottomland soils,skos:Concept
+https://w3id.org/eusoilvoc#BoulderClaySoils,boulder clay soils,skos:Concept
+https://w3id.org/eusoilvoc#BoundaryDistinctness,boundary distinctness,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#BoundaryTopography,boundary topography,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#BuildingStability,building stability,skos:Concept
+https://w3id.org/eusoilvoc#BulkDensityFineEarth,bulk density fine earth,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#BulkDensityMineral,bulk density mineral,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#BulkDensityWholeSoil,bulk density whole soil,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#BuriedSoils,buried soils,skos:Concept
+https://w3id.org/eusoilvoc#CadmiumExtractableElements,cadmium extractable elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#CadmiumTotalElements,cadmium total elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#CalamineSoils,calamine soils,skos:Concept
+https://w3id.org/eusoilvoc#CalciticLimeAmendment,calcitic lime (amendment),skos:Concept
+https://w3id.org/eusoilvoc#CalciumExchangeableBase,calcium exchangeable base,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#CalciumExtractableElements,calcium extractable elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#CalciumTotalElements,calcium total elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#CarbonStorageCapacity,carbon storage capacity,skos:Concept
+https://w3id.org/eusoilvoc#CarbonateForms,carbonate forms,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#CationExchangeCapacityEffective,cation exchange capacity effective,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#CationExchangeCapacitySoil,cation exchange capacity soil,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#CationSum,cation sum,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#CementationContinuity,cementation continuity,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#CementationDegree,cementation degree,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#CementationFabric,cementation fabric,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#CementationNature,cementation nature,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#ChalkSoils,chalk soils,skos:Concept
+https://w3id.org/eusoilvoc#ChemicalSoilTypes,chemical soil types,skos:Concept
+https://w3id.org/eusoilvoc#ClaypanSoils,claypan soils,skos:Concept
+https://w3id.org/eusoilvoc#ClimaticSoilTypes,climatic soil types,skos:Concept
+https://w3id.org/eusoilvoc#CoarseSand,coarse sand,skos:Concept
+https://w3id.org/eusoilvoc#CoarseSilt,coarse silt,skos:Concept
+https://w3id.org/eusoilvoc#CoastalSoils,coastal soils,skos:Concept
+https://w3id.org/eusoilvoc#CoatingAbundance,coating abundance,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#CoatingContrast,coating contrast,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#CoatingForms,coating forms,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#CoatingLocation,coating location,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#CoatingNature,coating nature,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#Cobalt,cobalt,skos:Concept
+https://w3id.org/eusoilvoc#ColloidContentMoistureEquivalentRatio,colloid content moisture equivalent ratio,skos:Concept
+https://w3id.org/eusoilvoc#CompostMulches,compost mulches,skos:Concept
+https://w3id.org/eusoilvoc#ConservativeSolutes,conservative solutes,skos:Concept
+https://w3id.org/eusoilvoc#ConsistenceDry,consistence dry,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#ConsistenceMoist,consistence moist,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#ControlledDrainage,controlled drainage,skos:Concept
+https://w3id.org/eusoilvoc#CopperExtractableElements,copper extractable elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#CopperTotalElements,copper total elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#CriticalSoilOrganicMatterContents,critical soil organic matter contents,skos:Concept
+https://w3id.org/eusoilvoc#CropClass,crop class,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#CulturalServices,cultural services,skos:Concept
+https://w3id.org/eusoilvoc#CulturalSoilTypes,cultural soil types,skos:Concept
+https://w3id.org/eusoilvoc#DeltaSoils,delta soils,skos:Concept
+https://w3id.org/eusoilvoc#DesertSoils,desert soils,skos:Concept
+https://w3id.org/eusoilvoc#DiagnosticHorizons,diagnostic horizons,skos:Concept
+https://w3id.org/eusoilvoc#DioriteSoils,diorite soils,skos:Concept
+https://w3id.org/eusoilvoc#Disking,disking,skos:Concept
+https://w3id.org/eusoilvoc#DispersionRatio,dispersion ratio,skos:Concept
+https://w3id.org/eusoilvoc#DispersiveSoils,dispersive soils,skos:Concept
+https://w3id.org/eusoilvoc#DolomiticLimeAmendment,dolomitic lime (amendment),skos:Concept
+https://w3id.org/eusoilvoc#DrainageEquipment,drainage equipment,skos:Concept
+https://w3id.org/eusoilvoc#DrainageToGroundwater,drainage to groundwater,skos:Concept
+https://w3id.org/eusoilvoc#DrumlinSoils,drumlin soils,skos:Concept
+https://w3id.org/eusoilvoc#DryMulches,dry mulches,skos:Concept
+https://w3id.org/eusoilvoc#DrySoilBulkDensity,dry soil bulk density,skos:Concept
+https://w3id.org/eusoilvoc#DuneFixation,dune fixation,skos:Concept
+https://w3id.org/eusoilvoc#DuneSoils,dune soils,skos:Concept
+https://w3id.org/eusoilvoc#EcologicalSoilTypes,ecological soil types,skos:Concept
+https://w3id.org/eusoilvoc#EffectiveCEC,effective CEC,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#EphemeralGullyErosion,ephemeral gully erosion,skos:Concept
+https://w3id.org/eusoilvoc#ErodedSoils,eroded soils,skos:Concept
+https://w3id.org/eusoilvoc#ErosionControlPlants,erosion control plants,skos:Concept
+https://w3id.org/eusoilvoc#EvaporationSuppressants,evaporation suppressants,skos:Concept
+https://w3id.org/eusoilvoc#ExchangeableCations,exchangeable cations,skos:Concept
+https://w3id.org/eusoilvoc#ExternalFactors,external factors,skos:Concept
+https://w3id.org/eusoilvoc#FenlandSoils,fenland soils,skos:Concept
+https://w3id.org/eusoilvoc#FieldPreparation,field preparation,skos:Concept
+https://w3id.org/eusoilvoc#FineSilt,fine silt,skos:Concept
+https://w3id.org/eusoilvoc#FineSoil,fine soil,skos:Concept
+https://w3id.org/eusoilvoc#FloodFrequency,flood frequency,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#FluxControlledWaterInfiltration,flux controlled water infiltration,skos:Concept
+https://w3id.org/eusoilvoc#Fog,fog,skos:Concept
+https://w3id.org/eusoilvoc#FoundationStability,foundation stability,skos:Concept
+https://w3id.org/eusoilvoc#FoundationStrength,foundation strength,skos:Concept
+https://w3id.org/eusoilvoc#FragmentClass,fragment class,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#FragmentCover,fragment cover,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#FragmentSize,fragment size,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#FriableConsistence,friable consistence,skos:Concept
+https://w3id.org/eusoilvoc#FrigidSoils,frigid soils,skos:Concept
+https://w3id.org/eusoilvoc#FrostHeave,frost heave,skos:Concept
+https://w3id.org/eusoilvoc#GasTurbation,gas turbation,skos:Concept
+https://w3id.org/eusoilvoc#GaseousCompositionOfSoilAir,gaseous composition of soil air,skos:Concept
+https://w3id.org/eusoilvoc#GaseousNitrogen,gaseous nitrogen,skos:Concept
+https://w3id.org/eusoilvoc#GeneticSoilTypes,genetic soil types,skos:Concept
+https://w3id.org/eusoilvoc#GeometricMeanDiametre,geometric mean diametre,skos:Concept
+https://w3id.org/eusoilvoc#GlacialTillSoils,glacial till soils,skos:Concept
+https://w3id.org/eusoilvoc#GraniteSoils,granite soils,skos:Concept
+https://w3id.org/eusoilvoc#GravelMulches,gravel mulches,skos:Concept
+https://w3id.org/eusoilvoc#GreenhouseSoils,greenhouse soils,skos:Concept
+https://w3id.org/eusoilvoc#GreywackeSoils,greywacke soils,skos:Concept
+https://w3id.org/eusoilvoc#GreyzemsFAO,greyzems,skos:Concept
+https://w3id.org/eusoilvoc#GullyControl,gully control,skos:Concept
+https://w3id.org/eusoilvoc#GullyErosion,gully erosion,skos:Concept
+https://w3id.org/eusoilvoc#GypsiferousSoils,gypsiferous soils,skos:Concept
+https://w3id.org/eusoilvoc#GypsumContents,gypsum contents,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#GypsumForms,gypsum forms,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#GypsumWeight,gypsum weight,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#HabitatProvisionCapacity,habitat provision capacity,skos:Concept
+https://w3id.org/eusoilvoc#Hardpans,hardpans,skos:Concept
+https://w3id.org/eusoilvoc#Harrowing,harrowing,skos:Concept
+https://w3id.org/eusoilvoc#HarshConsistence,harsh consistence,skos:Concept
+https://w3id.org/eusoilvoc#HarvestingErosion,harvesting erosion,skos:Concept
+https://w3id.org/eusoilvoc#HeathlandSoils,heathland soils,skos:Concept
+https://w3id.org/eusoilvoc#HillSoils,hill soils,skos:Concept
+https://w3id.org/eusoilvoc#HorticulturalSoils,horticultural soils,skos:Concept
+https://w3id.org/eusoilvoc#HotWaterExtractableNitrogen,hot water-extractable nitrogen,skos:Concept
+https://w3id.org/eusoilvoc#HumanInfluenceClass,human influence class,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SoilHydraulicPotential,hydraulic potential (soil),skos:Concept
+https://w3id.org/eusoilvoc#HydrogenExchangeableBases,hydrogen exchangeable bases,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#HydromorphicSoils,hydromorphic soils,skos:Concept
+https://w3id.org/eusoilvoc#IgneousRockSoils,igneous rock soils,skos:Concept
+https://w3id.org/eusoilvoc#Illites,illites,skos:Concept
+https://w3id.org/eusoilvoc#IlliticSoils,illitic soils,skos:Concept
+https://w3id.org/eusoilvoc#Imogolite,imogolite,skos:Concept
+https://w3id.org/eusoilvoc#InSituSoilConservation,in situ soil conservation,skos:Concept
+https://w3id.org/eusoilvoc#IndexBasedOnTextureAndCementingAgents,index based on texture and cementing agents,skos:Concept
+https://w3id.org/eusoilvoc#IndexOfCrusting,index of crusting,skos:Concept
+https://w3id.org/eusoilvoc#IndexOfErodibility,index of erodibility,skos:Concept
+https://w3id.org/eusoilvoc#IndexOfStructuralStability,index of structural stability,skos:Concept
+https://w3id.org/eusoilvoc#InfiltrationWater,infiltration water,skos:Concept
+https://w3id.org/eusoilvoc#InorganicAmendments,inorganic amendments,skos:Concept
+https://w3id.org/eusoilvoc#IntegratedSoilFertilityManagement,integrated soil fertility management,skos:Concept
+https://w3id.org/eusoilvoc#InterAggregatePorosity,inter aggregate porosity,skos:Concept
+https://w3id.org/eusoilvoc#InteraggregatePores,interaggregate pores,skos:Concept
+https://w3id.org/eusoilvoc#InterlatticeSwelling,interlattice swelling,skos:Concept
+https://w3id.org/eusoilvoc#InterparticleSwelling,interparticle swelling,skos:Concept
+https://w3id.org/eusoilvoc#InterrillErosion,interrill erosion,skos:Concept
+https://w3id.org/eusoilvoc#InterstructuralPores,interstructural pores,skos:Concept
+https://w3id.org/eusoilvoc#IntraAggregatePorosity,intra aggregate porosity,skos:Concept
+https://w3id.org/eusoilvoc#IntraaggregatePores,intraaggregate pores,skos:Concept
+https://w3id.org/eusoilvoc#IntrinsicChargeDensity,intrinsic charge density,skos:Concept
+https://w3id.org/eusoilvoc#Ions,ions,skos:Concept
+https://w3id.org/eusoilvoc#IronExtractableElements,iron extractable elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#IronTotalElements,iron total elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#IrrigatedSoils,irrigated soils,skos:Concept
+https://w3id.org/eusoilvoc#Kaolinite,kaolinite,skos:Concept
+https://w3id.org/eusoilvoc#KarstSoils,karst soils,skos:Concept
+https://w3id.org/eusoilvoc#KoeppenClass,koeppen class,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#LabileSolutes,labile solutes,skos:Concept
+https://w3id.org/eusoilvoc#LandTake,land take,skos:Concept
+https://w3id.org/eusoilvoc#LandUseBareCover,land use bare cover,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#LandUseShrubs,land use shrubs,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#LandformComplex,landform complex,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#LayeredSoils,layered soils,skos:Concept
+https://w3id.org/eusoilvoc#LeafMould,leaf mould,skos:Concept
+https://w3id.org/eusoilvoc#LeafMulches,leaf mulches,skos:Concept
+https://w3id.org/eusoilvoc#LeastLimitingWaterRange,least limiting water range,skos:Concept
+https://w3id.org/eusoilvoc#LimeAmendment,lime (amendment),skos:Concept
+https://w3id.org/eusoilvoc#LimingMaterials,liming materials,skos:Concept
+https://w3id.org/eusoilvoc#LiquidConsistence,liquid consistence,skos:Concept
+https://w3id.org/eusoilvoc#LiquidRatio,liquid ratio,skos:Concept
+https://w3id.org/eusoilvoc#LiquidWasteDisposal,liquid waste disposal,skos:Concept
+https://w3id.org/eusoilvoc#LithologicalSoilTypes,lithological soil types,skos:Concept
+https://w3id.org/eusoilvoc#LithosolsFAO,lithosols,skos:Concept
+https://w3id.org/eusoilvoc#LiveMulches,live mulches,skos:Concept
+https://w3id.org/eusoilvoc#LivestockTramplingErosion,livestock trampling erosion,skos:Concept
+https://w3id.org/eusoilvoc#Loess,loess,skos:Concept
+https://w3id.org/eusoilvoc#LongitudinalDispersion,longitudinal dispersion,skos:Concept
+https://w3id.org/eusoilvoc#Macroporosity,macroporosity,skos:Concept
+https://w3id.org/eusoilvoc#MagnesiumExchangeableBases,magnesium exchangeable bases,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#MagnesiumExtractableElements,magnesium extractable elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#MagnesiumTotalElements,magnesium total elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#MainFieldPreparation,main field preparation,skos:Concept
+https://w3id.org/eusoilvoc#MajorLandForms,major land forms,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#ManganeseExchangeableBases,manganese exchangeable bases,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#ManganeseExtractableElements,manganese extractable elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#ManganeseTotalElements,manganese total elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#MarshlandSoils,marshland soils,skos:Concept
+https://w3id.org/eusoilvoc#MatrixPores,matrix pores,skos:Concept
+https://w3id.org/eusoilvoc#MeadowSoils,meadow soils,skos:Concept
+https://w3id.org/eusoilvoc#MeanWeightDiametre,mean weight diametre,skos:Concept
+https://w3id.org/eusoilvoc#MechanicalRatio,mechanical ratio,skos:Concept
+https://w3id.org/eusoilvoc#MediumSilt,medium silt,skos:Concept
+https://w3id.org/eusoilvoc#MicrositePreparation,microsite preparation,skos:Concept
+https://w3id.org/eusoilvoc#MineralConcAbundance,mineral conc abundance,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#MineralConcColour,mineral conc colour,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#MineralConcHardness,mineral conc hardness,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#MineralConcKind,mineral conc kind,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#MineralConcNature,mineral conc nature,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#MineralConcShape,mineral conc shape,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#MineralConcSize,mineral conc size,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#MineralConcVolume,mineral conc volume,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#MineralContents,mineral contents,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#MineralFragments,mineral fragments,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#MineralogicalSoilTypes,mineralogical soil types,skos:Concept
+https://w3id.org/eusoilvoc#Mist,mist,skos:Concept
+https://w3id.org/eusoilvoc#ModulusOfRupture,modulus of rupture,skos:Concept
+https://w3id.org/eusoilvoc#MoistConsistency,moist consistency,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#Molybdenum,molybdenum,skos:Concept
+https://w3id.org/eusoilvoc#MolybdenumExtractableElements,molybdenum extractable elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#MolybdenumTotalElements,molybdenum total elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#Montmorillonites,montmorillonites,skos:Concept
+https://w3id.org/eusoilvoc#MontmorilloniticSoils,montmorillonitic soils,skos:Concept
+https://w3id.org/eusoilvoc#MoraineSoils,moraine soils,skos:Concept
+https://w3id.org/eusoilvoc#MottleAbundance,mottle abundance,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#MottleBoundaryClassification,mottle boundary classification,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#MottleColour,mottle colour,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#MottleContrast,mottle contrast,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#MottlePresence,mottle presence,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#MottleSize,mottle size,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#MountainSoils,mountain soils,skos:Concept
+https://w3id.org/eusoilvoc#MudFlows,mud flows,skos:Concept
+https://w3id.org/eusoilvoc#MulchFarming,mulch farming,skos:Concept
+https://w3id.org/eusoilvoc#NeutralSoils,neutral soils,skos:Concept
+https://w3id.org/eusoilvoc#NonMatrixPores,non matrix pores,skos:Concept
+https://w3id.org/eusoilvoc#NonsoilIndicators,non-soil indicators,skos:Concept
+https://w3id.org/eusoilvoc#NonconservativeSolutes,nonconservative solutes,skos:Concept
+https://w3id.org/eusoilvoc#NonproteinNitrogen,nonprotein nitrogen,skos:Concept
+https://w3id.org/eusoilvoc#NonproteinNitrogenContent,nonprotein nitrogen content,skos:Concept
+https://w3id.org/eusoilvoc#Nontronite,nontronite,skos:Concept
+https://w3id.org/eusoilvoc#NormalShrinkage,normal shrinkage,skos:Concept
+https://w3id.org/eusoilvoc#NotPlantAvailableWater,not plant available water,skos:Concept
+https://w3id.org/eusoilvoc#NurseryBedPreparation,nursery bed preparation,skos:Concept
+https://w3id.org/eusoilvoc#NutrientBufferingCapacity,nutrient buffering capacity,skos:Concept
+https://w3id.org/eusoilvoc#NutrientMobilisationCapacity,nutrient mobilisation capacity,skos:Concept
+https://w3id.org/eusoilvoc#OrchardSoils,orchard soils,skos:Concept
+https://w3id.org/eusoilvoc#OrganicHorizons,organic horizons,skos:Concept
+https://w3id.org/eusoilvoc#OrganomineralComplexes,organomineral complexes,skos:Concept
+https://w3id.org/eusoilvoc#OverlandFlow,overland flow,skos:Concept
+https://w3id.org/eusoilvoc#OxalateExtractableOpticalDensity,oxalate extractable optical density,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#pHProcedure-pHCaCl2,pHCaCl2,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHCaCl2_ratio1-1,pHCaCl2_ratio1-1,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHCaCl2_ratio1-10,pHCaCl2_ratio1-10,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHCaCl2_ratio1-2,pHCaCl2_ratio1-2,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHCaCl2_ratio1-2.5,pHCaCl2_ratio1-2.5,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHCaCl2_ratio1-5,pHCaCl2_ratio1-5,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHCaCl2_sat,pHCaCl2_sat,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHH2O,pHH2O,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHH2O_ratio1-1,pHH2O_ratio1-1,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHH2O_ratio1-10,pHH2O_ratio1-10,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHH2O_ratio1-2,pHH2O_ratio1-2,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHH2O_ratio1-2.5,pHH2O_ratio1-2.5,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHH2O_ratio1-5,pHH2O_ratio1-5,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHH2O_sat,pHH2O_sat,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHH2O_unkn-spec,pHH2O_unkn-spec,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHKCl,pHKCl,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHKCl_ratio1-1,pHKCl_ratio1-1,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHKCl_ratio1-10,pHKCl_ratio1-10,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHKCl_ratio1-2,pHKCl_ratio1-2,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHKCl_ratio1-2.5,pHKCl_ratio1-2.5,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHKCl_ratio1-5,pHKCl_ratio1-5,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHKCl_sat,pHKCl_sat,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHNaF,pHNaF,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHNaF_ratio1-1,pHNaF_ratio1-1,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHNaF_ratio1-10,pHNaF_ratio1-10,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHNaF_ratio1-2,pHNaF_ratio1-2,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHNaF_ratio1-2.5,pHNaF_ratio1-2.5,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHNaF_ratio1-5,pHNaF_ratio1-5,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#pHProcedure-pHNaF_sat,pHNaF_sat,skos:Concept | sosa:Procedure
+https://w3id.org/eusoilvoc#PaddySoils,paddy soils,skos:Concept
+https://w3id.org/eusoilvoc#PalaeosolicSoilTypes,palaeosolic soil types,skos:Concept
+https://w3id.org/eusoilvoc#Palaeosols,palaeosols,skos:Concept
+https://w3id.org/eusoilvoc#Palygorskite,palygorskite,skos:Concept
+https://w3id.org/eusoilvoc#ParentLithology,parent lithology,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#ParentTextureUnconsolidated,parent texture unconsolidated,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#PavementStability,pavement stability,skos:Concept
+https://w3id.org/eusoilvoc#Pavements,pavements,skos:Concept
+https://w3id.org/eusoilvoc#PeatVolume,peat volume,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#Pedology,pedology,skos:Concept
+https://w3id.org/eusoilvoc#Pedon,pedon,skos:Concept
+https://w3id.org/eusoilvoc#Pedoturbation,pedoturbation,skos:Concept
+https://w3id.org/eusoilvoc#PercentWaterStableAggregation,percent water stable aggregation,skos:Concept
+https://w3id.org/eusoilvoc#PerfluoroalkylAcids,perfluoroalkyl acids,skos:Concept
+https://w3id.org/eusoilvoc#PermanentCharge,permanent charge,skos:Concept
+https://w3id.org/eusoilvoc#PermanentWiltingPoint,permanent wilting point,skos:Concept
+https://w3id.org/eusoilvoc#PhosphorusContent,phosphorus content,skos:Concept
+https://w3id.org/eusoilvoc#PhosphorusExtractableElements,phosphorus extractable elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#PhosphorusTotalElements,phosphorus total elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#PhysiographicSoilTypes,physiographic soil types,skos:Concept
+https://w3id.org/eusoilvoc#PipeDrainage,pipe drainage,skos:Concept
+https://w3id.org/eusoilvoc#PipingErosion,piping erosion,skos:Concept
+https://w3id.org/eusoilvoc#PlanetaryPhenomena,planetary phenomena,skos:Concept
+https://w3id.org/eusoilvoc#Planking,planking,skos:Concept
+https://w3id.org/eusoilvoc#PlantAvailableBoron,plant available boron,skos:Concept
+https://w3id.org/eusoilvoc#PlantAvailableNitrogen,plant available nitrogen,skos:Concept
+https://w3id.org/eusoilvoc#PlantAvailableWaterCapacity,plant available water capacity,skos:Concept
+https://w3id.org/eusoilvoc#PlantGrowthPromotingRhizobacteria,plant growth-promoting rhizobacteria,skos:Concept
+https://w3id.org/eusoilvoc#PlantPart,plant part,skos:Concept
+https://w3id.org/eusoilvoc#PlasticConsistence,plastic consistence,skos:Concept
+https://w3id.org/eusoilvoc#PodzoluvisolsFAO,podzoluvisols,skos:Concept
+https://w3id.org/eusoilvoc#PolderSoils,polder soils,skos:Concept
+https://w3id.org/eusoilvoc#PolygeneticSoilTypes,polygenetic soil types,skos:Concept
+https://w3id.org/eusoilvoc#PorosityClass,porosity class,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#PotassiumExchangeableBases,potassium exchangeable bases,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#PotassiumExtractableElements,potassium extractable elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#PotassiumTotalElements,potassium total elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#PrimaryTillage,primary tillage,skos:Concept
+https://w3id.org/eusoilvoc#ProfileControlledWaterInfiltration,profile controlled water infiltration,skos:Concept
+https://w3id.org/eusoilvoc#ProfileDescriptionStatus,profile description status,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#ProvisioningServices,provisioning services,skos:Concept
+https://w3id.org/eusoilvoc#RadioactiveDecontaminationSoil,radioactive decontamination (soil),skos:Concept
+https://w3id.org/eusoilvoc#RangelandSoils,rangeland soils,skos:Concept
+https://w3id.org/eusoilvoc#RankersFAO,rankers,skos:Concept
+https://w3id.org/eusoilvoc#ReactiveSolutes,reactive solutes,skos:Concept
+https://w3id.org/eusoilvoc#ReclaimedSoils,reclaimed soils,skos:Concept
+https://w3id.org/eusoilvoc#RegulatingServices,regulating services,skos:Concept
+https://w3id.org/eusoilvoc#RendzinasFAO,rendzinas,skos:Concept
+https://w3id.org/eusoilvoc#ResidualShrinkage,residual shrinkage,skos:Concept
+https://w3id.org/eusoilvoc#RhizospherePH,rhizosphere pH,skos:Concept
+https://w3id.org/eusoilvoc#RidgeTillage,ridge tillage,skos:Concept
+https://w3id.org/eusoilvoc#RillErosion,rill erosion,skos:Concept
+https://w3id.org/eusoilvoc#RippingTillage,ripping (tillage),skos:Concept
+https://w3id.org/eusoilvoc#RiverTerraceSoils,river terrace soils,skos:Concept
+https://w3id.org/eusoilvoc#RoadsideSoils,roadside soils,skos:Concept
+https://w3id.org/eusoilvoc#RockAbundance,rock abundance,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#RockOutcropCover,rock outcrop cover,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#RockOutcropDistance,rock outcrop distance,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#RockOutcrops,rock outcrops,skos:Concept
+https://w3id.org/eusoilvoc#RockShape,rock shape,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#RockSize,rock size,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#RootAbundance,root abundance,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#RootPresence,root presence,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#RotaryCultivation,rotary cultivation,skos:Concept
+https://w3id.org/eusoilvoc#SalineSodicSoils,saline sodic soils,skos:Concept
+https://w3id.org/eusoilvoc#SalinityControl,salinity control,skos:Concept
+https://w3id.org/eusoilvoc#SaltIncrustation,salt incrustation,skos:Concept
+https://w3id.org/eusoilvoc#SaltPresence,salt presence,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SandyTexture,sandy texture,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#Saponite,saponite,skos:Concept
+https://w3id.org/eusoilvoc#SaturatedVapourPressure,saturated vapour pressure,skos:Concept
+https://w3id.org/eusoilvoc#SaturatedWaterFlow,saturated water flow,skos:Concept
+https://w3id.org/eusoilvoc#SchistSoils,schist soils,skos:Concept
+https://w3id.org/eusoilvoc#ScrublandSoils,scrubland soils,skos:Concept
+https://w3id.org/eusoilvoc#SecondaryTillage,secondary tillage,skos:Concept
+https://w3id.org/eusoilvoc#Sepiolite,sepiolite,skos:Concept
+https://w3id.org/eusoilvoc#SerpentineSoils,serpentine soils,skos:Concept
+https://w3id.org/eusoilvoc#ShaleSoils,shale soils,skos:Concept
+https://w3id.org/eusoilvoc#SheetErosion,sheet erosion,skos:Concept
+https://w3id.org/eusoilvoc#SilicaSesquioxideRatio,silica sesquioxide ratio,skos:Concept
+https://w3id.org/eusoilvoc#SiltySoils,silty soils,skos:Concept
+https://w3id.org/eusoilvoc#SlippingOfSoil,slipping of soil,skos:Concept
+https://w3id.org/eusoilvoc#SlopeForms,slope forms,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SlopeGradient,slope gradient,skos:Concept
+https://w3id.org/eusoilvoc#SlopeGradientClass,slope gradient class,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SlopeGradientNumeric,slope gradient numeric,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SlopeOrientationClass,slope orientation class,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SlopeOrientationNumeric,slope orientation numeric,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SlopePathways,slope pathways,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#Smectites,smectites,skos:Concept
+https://w3id.org/eusoilvoc#SodiumAdsorptionRatio,sodium adsorption ratio,skos:Concept
+https://w3id.org/eusoilvoc#SodiumExchangeableBases,sodium exchangeable bases,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SodiumExtractableElements,sodium extractable elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SodiumTotalElements,sodium total elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SoftConsistence,soft consistence,skos:Concept
+https://w3id.org/eusoilvoc#SoilAdhesion,soil adhesion,skos:Concept
+https://w3id.org/eusoilvoc#SoilAggregateDegree,soil aggregate degree,skos:Concept
+https://w3id.org/eusoilvoc#SoilAggregateDispersion,soil aggregate dispersion,skos:Concept
+https://w3id.org/eusoilvoc#SoilAggregatePhysicalProperties,soil aggregate physical properties,skos:Concept
+https://w3id.org/eusoilvoc#SoilAggregateShape,soil aggregate shape,skos:Concept
+https://w3id.org/eusoilvoc#SoilAggregateSize,soil aggregate size,skos:Concept
+https://w3id.org/eusoilvoc#SoilAggregateSizeDistribution,soil aggregate size distribution,skos:Concept
+https://w3id.org/eusoilvoc#SoilAggregateStrength,soil aggregate strength,skos:Concept
+https://w3id.org/eusoilvoc#SoilAggregationDegree,soil aggregation degree,skos:Concept
+https://w3id.org/eusoilvoc#SoilAggregationIndex,soil aggregation index,skos:Concept
+https://w3id.org/eusoilvoc#SoilAgriculturalFunctions,soil agricultural functions,skos:Concept
+https://w3id.org/eusoilvoc#SoilAirContents,soil air contents,skos:Concept
+https://w3id.org/eusoilvoc#SoilAirConvection,soil air convection,skos:Concept
+https://w3id.org/eusoilvoc#SoilAirConvectiveFlow,soil air convective flow,skos:Concept
+https://w3id.org/eusoilvoc#SoilAirDiffusion,soil air diffusion,skos:Concept
+https://w3id.org/eusoilvoc#SoilAirDiffusionCoefficient,soil air diffusion coefficient,skos:Concept
+https://w3id.org/eusoilvoc#SoilAirExchange,soil air exchange,skos:Concept
+https://w3id.org/eusoilvoc#SoilAirPhysicalProcesses,soil air physical processes,skos:Concept
+https://w3id.org/eusoilvoc#SoilAirPhysicalProperties,soil air physical properties,skos:Concept
+https://w3id.org/eusoilvoc#SoilAlgae,soil algae,skos:Concept
+https://w3id.org/eusoilvoc#SoilAlgalCrusts,soil algal crusts,skos:Concept
+https://w3id.org/eusoilvoc#SoilAnionExclusion,soil anion exclusion,skos:Concept
+https://w3id.org/eusoilvoc#SoilAnthropogenicChanges,soil anthropogenic changes,skos:Concept
+https://w3id.org/eusoilvoc#SoilApparentDensity,soil apparent density,skos:Concept
+https://w3id.org/eusoilvoc#SoilBearingCapacity,soil bearing capacity,skos:Concept
+https://w3id.org/eusoilvoc#SoilBiologicalDegradation,soil biological degradation,skos:Concept
+https://w3id.org/eusoilvoc#SoilBiopore,soil biopore,skos:Concept
+https://w3id.org/eusoilvoc#SoilBreaking,soil breaking,skos:Concept
+https://w3id.org/eusoilvoc#SoilBufferingCapacity,soil buffering capacity,skos:Concept
+https://w3id.org/eusoilvoc#SoilCarbonDioxideProduction,soil carbon dioxide production,skos:Concept
+https://w3id.org/eusoilvoc#SoilChannel,soil channel,skos:Concept
+https://w3id.org/eusoilvoc#SoilChargeDensity,soil charge density,skos:Concept
+https://w3id.org/eusoilvoc#SoilChemicalCapacity,soil chemical capacity,skos:Concept
+https://w3id.org/eusoilvoc#SoilChemicalCrusts,soil chemical crusts,skos:Concept
+https://w3id.org/eusoilvoc#SoilChemicalDegradation,soil chemical degradation,skos:Concept
+https://w3id.org/eusoilvoc#SoilChemicalDegradativeProcesses,soil chemical degradative processes,skos:Concept
+https://w3id.org/eusoilvoc#SoilChemicalReaction,soil chemical reaction,skos:Concept
+https://w3id.org/eusoilvoc#SoilChemicalTransport,soil chemical transport,skos:Concept
+https://w3id.org/eusoilvoc#SoilClassificationFAO,soil classification FAO,skos:Concept
+https://w3id.org/eusoilvoc#SoilClassificationUSDA,soil classification USDA,skos:Concept
+https://w3id.org/eusoilvoc#SoilClassificationWRB,soil classification WRB,skos:Concept
+https://w3id.org/eusoilvoc#SoilClods,soil clods,skos:Concept
+https://w3id.org/eusoilvoc#SoilCoating,soil coating,skos:Concept
+https://w3id.org/eusoilvoc#SoilCohesiveness,soil cohesiveness,skos:Concept
+https://w3id.org/eusoilvoc#SoilCollapsing,soil collapsing,skos:Concept
+https://w3id.org/eusoilvoc#SoilColour,soil colour,skos:Concept
+https://w3id.org/eusoilvoc#SoilColourDry,soil colour dry,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SoilColourMoist,soil colour moist,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SoilCompactability,soil compactability,skos:Concept
+https://w3id.org/eusoilvoc#SoilCompressibility,soil compressibility,skos:Concept
+https://w3id.org/eusoilvoc#SoilConditioners,soil conditioners,skos:Concept
+https://w3id.org/eusoilvoc#SoilConservationLegislation,soil conservation legislation,skos:Concept
+https://w3id.org/eusoilvoc#SoilConsistence,soil consistence,skos:Concept
+https://w3id.org/eusoilvoc#SoilConsistency,soil consistency,skos:Concept
+https://w3id.org/eusoilvoc#SoilCrackDepth,soil crack depth,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SoilCrackDistance,soil crack distance,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SoilCrackWidth,soil crack width,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SoilCracking,soil cracking,skos:Concept
+https://w3id.org/eusoilvoc#SoilCrackingIntensity,soil cracking intensity,skos:Concept
+https://w3id.org/eusoilvoc#SoilCrackingNumber,soil cracking number,skos:Concept
+https://w3id.org/eusoilvoc#SoilCrackingPhysicalProperties,soil cracking physical properties,skos:Concept
+https://w3id.org/eusoilvoc#SoilCracks,soil cracks,skos:Concept
+https://w3id.org/eusoilvoc#SoilCrustDensity,soil crust density,skos:Concept
+https://w3id.org/eusoilvoc#SoilCrustFormation,soil crust formation,skos:Concept
+https://w3id.org/eusoilvoc#SoilCrustPhysicalProperties,soil crust physical properties,skos:Concept
+https://w3id.org/eusoilvoc#SoilCrustStrength,soil crust strength,skos:Concept
+https://w3id.org/eusoilvoc#SoilCrustThickness,soil crust thickness,skos:Concept
+https://w3id.org/eusoilvoc#SoilCrusting,soil crusting,skos:Concept
+https://w3id.org/eusoilvoc#SoilDeficiencies,soil deficiencies,skos:Concept
+https://w3id.org/eusoilvoc#SoilDeformation,soil deformation,skos:Concept
+https://w3id.org/eusoilvoc#SoilDensification,soil densification,skos:Concept
+https://w3id.org/eusoilvoc#SoilDensity,soil density,skos:Concept
+https://w3id.org/eusoilvoc#SoilDepositionalCrusts,soil depositional crusts,skos:Concept
+https://w3id.org/eusoilvoc#SoilDepthBedrock,soil depth bedrock,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SoilDepthRootable,soil depth rootable,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SoilDepthRootableClass,soil depth rootable class,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SoilDepthSampled,soil depth sampled,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SoilDisinfection,soil disinfection,skos:Concept
+https://w3id.org/eusoilvoc#SoilDispersibility,soil dispersibility,skos:Concept
+https://w3id.org/eusoilvoc#SoilDrySpecificVolume,soil dry specific volume,skos:Concept
+https://w3id.org/eusoilvoc#SoilEcologicalDegradation,soil ecological degradation,skos:Concept
+https://w3id.org/eusoilvoc#SoilElectricalCapacitance,soil electrical capacitance,skos:Concept
+https://w3id.org/eusoilvoc#SoilEngineeringFunctions,soil engineering functions,skos:Concept
+https://w3id.org/eusoilvoc#SoilErodibilityIndex,soil erodibility index,skos:Concept
+https://w3id.org/eusoilvoc#SoilErosionActivityPeriod,soil erosion activity period,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SoilErosionAreaAffected,soil erosion area affected,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SoilErosionCategory,soil erosion category,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SoilErosionTotalAreaAffected,soil erosion total area affected,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SoilExhaustion,soil exhaustion,skos:Concept
+https://w3id.org/eusoilvoc#SoilExposureTypes,soil exposure types,skos:Concept
+https://w3id.org/eusoilvoc#SoilFailure,soil failure,skos:Concept
+https://w3id.org/eusoilvoc#SoilFieldMoistureCapacity,soil field moisture capacity,skos:Concept
+https://w3id.org/eusoilvoc#SoilFilteringCapacity,soil filtering capacity,skos:Concept
+https://w3id.org/eusoilvoc#SoilFlora,soil flora,skos:Concept
+https://w3id.org/eusoilvoc#SoilFluidMovement,soil fluid movement,skos:Concept
+https://w3id.org/eusoilvoc#SoilFluidRetention,soil fluid retention,skos:Concept
+https://w3id.org/eusoilvoc#SoilFluidTransmission,soil fluid transmission,skos:Concept
+https://w3id.org/eusoilvoc#SoilFluidTransport,soil fluid transport,skos:Concept
+https://w3id.org/eusoilvoc#SoilFreezing,soil freezing,skos:Concept
+https://w3id.org/eusoilvoc#SoilFumigation,soil fumigation,skos:Concept
+https://w3id.org/eusoilvoc#SoilFunctionIndicators,soil function indicators,skos:Concept
+https://w3id.org/eusoilvoc#SoilGaseousExchange,soil gaseous exchange,skos:Concept
+https://w3id.org/eusoilvoc#SoilGravimetricMoistureContents,soil gravimetric moisture contents,skos:Concept
+https://w3id.org/eusoilvoc#SoilGravitationalPotential,soil gravitational potential,skos:Concept
+https://w3id.org/eusoilvoc#SoilHardsetting,soil hardsetting,skos:Concept
+https://w3id.org/eusoilvoc#SoilHeatAbsorption,soil heat absorption,skos:Concept
+https://w3id.org/eusoilvoc#SoilHeatCapacity,soil heat capacity,skos:Concept
+https://w3id.org/eusoilvoc#SoilHeatConduction,soil heat conduction,skos:Concept
+https://w3id.org/eusoilvoc#SoilHeatConvection,soil heat convection,skos:Concept
+https://w3id.org/eusoilvoc#SoilHeatExchange,soil heat exchange,skos:Concept
+https://w3id.org/eusoilvoc#SoilHeatMovement,soil heat movement,skos:Concept
+https://w3id.org/eusoilvoc#SoilHeatTransfer,soil heat transfer,skos:Concept
+https://w3id.org/eusoilvoc#SoilHeatTransport,soil heat transport,skos:Concept
+https://w3id.org/eusoilvoc#SoilHorizonBoundary,soil horizon boundary,skos:Concept
+https://w3id.org/eusoilvoc#SoilHydraulicDiffusivity,soil hydraulic diffusivity,skos:Concept
+https://w3id.org/eusoilvoc#SoilHydraulicGradient,soil hydraulic gradient,skos:Concept
+https://w3id.org/eusoilvoc#SoilImmobileWaterContents,soil immobile water contents,skos:Concept
+https://w3id.org/eusoilvoc#SoilInjection,soil injection,skos:Concept
+https://w3id.org/eusoilvoc#SoilInjectors,soil injectors,skos:Concept
+https://w3id.org/eusoilvoc#SoilInoculation,soil inoculation,skos:Concept
+https://w3id.org/eusoilvoc#SoilInorganicComponents,soil inorganic components,skos:Concept
+https://w3id.org/eusoilvoc#SoilInorganicSolid,soil inorganic solid,skos:Concept
+https://w3id.org/eusoilvoc#SoilIntrinsicPermeability,soil intrinsic permeability,skos:Concept
+https://w3id.org/eusoilvoc#SoilInvestigations,soil investigations,skos:Concept
+https://w3id.org/eusoilvoc#SoilLongitudinalStrain,soil longitudinal strain,skos:Concept
+https://w3id.org/eusoilvoc#SoilMacropore,soil macropore,skos:Concept
+https://w3id.org/eusoilvoc#SoilManagementEquipment,soil management equipment,skos:Concept
+https://w3id.org/eusoilvoc#SoilMesopore,soil mesopore,skos:Concept
+https://w3id.org/eusoilvoc#SoilMethanogenesis,soil methanogenesis,skos:Concept
+https://w3id.org/eusoilvoc#SoilMicrobioticCrusts,soil microbiotic crusts,skos:Concept
+https://w3id.org/eusoilvoc#SoilMicromorphologicalFeatures,soil micromorphological features,skos:Concept
+https://w3id.org/eusoilvoc#SoilMobileWaterContents,soil mobile water contents,skos:Concept
+https://w3id.org/eusoilvoc#SoilMoistureCharacteristics,soil moisture characteristics,skos:Concept
+https://w3id.org/eusoilvoc#SoilMoistureHysteresis,soil moisture hysteresis,skos:Concept
+https://w3id.org/eusoilvoc#SoilMoistureMovement,soil moisture movement,skos:Concept
+https://w3id.org/eusoilvoc#SoilMoisturePotential,soil moisture potential,skos:Concept
+https://w3id.org/eusoilvoc#SoilMoistureRedistribution,soil moisture redistribution,skos:Concept
+https://w3id.org/eusoilvoc#SoilMorphologicalFeatures,soil morphological features,skos:Concept
+https://w3id.org/eusoilvoc#SoilMottle,soil mottle,skos:Concept
+https://w3id.org/eusoilvoc#SoilMulches,soil mulches,skos:Concept
+https://w3id.org/eusoilvoc#SoilNegativeAdsorption,soil negative adsorption,skos:Concept
+https://w3id.org/eusoilvoc#SoilNutrientHoldingCapacity,soil nutrient holding capacity,skos:Concept
+https://w3id.org/eusoilvoc#SoilNutrientImmobilisation,soil nutrient immobilisation,skos:Concept
+https://w3id.org/eusoilvoc#SoilNutrientStorage,soil nutrient storage,skos:Concept
+https://w3id.org/eusoilvoc#SoilOrganicComponents,soil organic components,skos:Concept
+https://w3id.org/eusoilvoc#SoilOrganicSolid,soil organic solid,skos:Concept
+https://w3id.org/eusoilvoc#SoilOsmoticPotential,soil osmotic potential,skos:Concept
+https://w3id.org/eusoilvoc#SoilOverburdenPotential,soil overburden potential,skos:Concept
+https://w3id.org/eusoilvoc#SoilOxidationReaction,soil oxidation reaction,skos:Concept
+https://w3id.org/eusoilvoc#SoilOxygenConcentration,soil oxygen concentration,skos:Concept
+https://w3id.org/eusoilvoc#SoilOxygenContents,soil oxygen contents,skos:Concept
+https://w3id.org/eusoilvoc#SoilOxygenDeficiency,soil oxygen deficiency,skos:Concept
+https://w3id.org/eusoilvoc#SoilOxygenDiffusionRate,soil oxygen diffusion rate,skos:Concept
+https://w3id.org/eusoilvoc#SoilPackingArrangement,soil packing arrangement,skos:Concept
+https://w3id.org/eusoilvoc#SoilParticleArrangement,soil particle arrangement,skos:Concept
+https://w3id.org/eusoilvoc#SoilParticleDensity,soil particle density,skos:Concept
+https://w3id.org/eusoilvoc#SoilParticleMovement,soil particle movement,skos:Concept
+https://w3id.org/eusoilvoc#SoilParticlePhysicalProperties,soil particle physical properties,skos:Concept
+https://w3id.org/eusoilvoc#SoilParticleShape,soil particle shape,skos:Concept
+https://w3id.org/eusoilvoc#SoilParticleSpecificSurfaceArea,soil particle specific surface area,skos:Concept
+https://w3id.org/eusoilvoc#SoilParticleSurfaceCharge,soil particle surface charge,skos:Concept
+https://w3id.org/eusoilvoc#SoilPermanentDeformation,soil permanent deformation,skos:Concept
+https://w3id.org/eusoilvoc#SoilPermittivity,soil permittivity,skos:Concept
+https://w3id.org/eusoilvoc#SoilPhenomena,soil phenomena,skos:Concept
+https://w3id.org/eusoilvoc#SoilPhysicalCapacity,soil physical capacity,skos:Concept
+https://w3id.org/eusoilvoc#SoilPhysicalCrusts,soil physical crusts,skos:Concept
+https://w3id.org/eusoilvoc#SoilPhysicalDegradation,soil physical degradation,skos:Concept
+https://w3id.org/eusoilvoc#SoilPhysicalDegradativeProcesses,soil physical degradative processes,skos:Concept
+https://w3id.org/eusoilvoc#SoilPhysicalFunctions,soil physical functions,skos:Concept
+https://w3id.org/eusoilvoc#SoilPhysicalProcesses,soil physical processes,skos:Concept
+https://w3id.org/eusoilvoc#SoilPhysicalQuality,soil physical quality,skos:Concept
+https://w3id.org/eusoilvoc#SoilPlasticity,soil plasticity,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SoilPollutantTransport,soil pollutant transport,skos:Concept
+https://w3id.org/eusoilvoc#SoilPolymerAdsorption,soil polymer adsorption,skos:Concept
+https://w3id.org/eusoilvoc#SoilPoreConnectivity,soil pore connectivity,skos:Concept
+https://w3id.org/eusoilvoc#SoilPoreContinuity,soil pore continuity,skos:Concept
+https://w3id.org/eusoilvoc#SoilPoreGeometry,soil pore geometry,skos:Concept
+https://w3id.org/eusoilvoc#SoilPoreHorizontalContinuity,soil pore horizontal continuity,skos:Concept
+https://w3id.org/eusoilvoc#SoilPoreNumber,soil pore number,skos:Concept
+https://w3id.org/eusoilvoc#SoilPoreOrientation,soil pore orientation,skos:Concept
+https://w3id.org/eusoilvoc#SoilPorePhysicalProperties,soil pore physical properties,skos:Concept
+https://w3id.org/eusoilvoc#SoilPoreSpace,soil pore space,skos:Concept
+https://w3id.org/eusoilvoc#SoilPoreTortuosity,soil pore tortuosity,skos:Concept
+https://w3id.org/eusoilvoc#SoilPoreVerticalContinuity,soil pore vertical continuity,skos:Concept
+https://w3id.org/eusoilvoc#SoilPoreVolume,soil pore volume,skos:Concept
+https://w3id.org/eusoilvoc#SoilPoreWaterVelocity,soil pore water velocity,skos:Concept
+https://w3id.org/eusoilvoc#SoilPorosityIndex,soil porosity index,skos:Concept
+https://w3id.org/eusoilvoc#SoilPreferentialFlowPath,soil preferential flow path,skos:Concept
+https://w3id.org/eusoilvoc#SoilPressurePotential,soil pressure potential,skos:Concept
+https://w3id.org/eusoilvoc#SoilPrimaryParticles,soil primary particles,skos:Concept
+https://w3id.org/eusoilvoc#SoilPuddling,soil puddling,skos:Concept
+https://w3id.org/eusoilvoc#SoilRapidDrying,soil rapid drying,skos:Concept
+https://w3id.org/eusoilvoc#SoilRapidWetting,soil rapid wetting,skos:Concept
+https://w3id.org/eusoilvoc#SoilReclamationPlants,soil reclamation plants,skos:Concept
+https://w3id.org/eusoilvoc#SoilRelativeDensity,soil relative density,skos:Concept
+https://w3id.org/eusoilvoc#SoilRupture,soil rupture,skos:Concept
+https://w3id.org/eusoilvoc#SoilSandContents,soil sand contents,skos:Concept
+https://w3id.org/eusoilvoc#SoilScarification,soil scarification,skos:Concept
+https://w3id.org/eusoilvoc#SoilScientists,soil scientists,skos:Concept
+https://w3id.org/eusoilvoc#SoilSealingConsistence,soil sealing consistence,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SoilSealingThickness,soil sealing thickness,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SoilSecondaryParticles,soil secondary particles,skos:Concept
+https://w3id.org/eusoilvoc#SoilSedimentation,soil sedimentation,skos:Concept
+https://w3id.org/eusoilvoc#SoilSeepage,soil seepage,skos:Concept
+https://w3id.org/eusoilvoc#SoilSequences,soil sequences,skos:Concept
+https://w3id.org/eusoilvoc#SoilSettlement,soil settlement,skos:Concept
+https://w3id.org/eusoilvoc#SoilShearStrain,soil shear strain,skos:Concept
+https://w3id.org/eusoilvoc#SoilShrinkage,soil shrinkage,skos:Concept
+https://w3id.org/eusoilvoc#SoilShrinking,soil shrinking,skos:Concept
+https://w3id.org/eusoilvoc#SoilSiltContents,soil silt contents,skos:Concept
+https://w3id.org/eusoilvoc#SoilSkeleton,soil skeleton,skos:Concept
+https://w3id.org/eusoilvoc#SoilSlaking,soil slaking,skos:Concept
+https://w3id.org/eusoilvoc#SoilSlowDrying,soil slow drying,skos:Concept
+https://w3id.org/eusoilvoc#SoilSlowWetting,soil slow wetting,skos:Concept
+https://w3id.org/eusoilvoc#SoilSolarization,soil solarization,skos:Concept
+https://w3id.org/eusoilvoc#SoilSolid,soil solid,skos:Concept
+https://w3id.org/eusoilvoc#SoilSolidTransport,soil solid transport,skos:Concept
+https://w3id.org/eusoilvoc#SoilSoluteConvection,soil solute convection,skos:Concept
+https://w3id.org/eusoilvoc#SoilSoluteConvectiveTransport,soil solute convective transport,skos:Concept
+https://w3id.org/eusoilvoc#SoilSoluteDiffusion,soil solute diffusion,skos:Concept
+https://w3id.org/eusoilvoc#SoilSoluteDiffusiveTransport,soil solute diffusive transport,skos:Concept
+https://w3id.org/eusoilvoc#SoilSoluteDispersion,soil solute dispersion,skos:Concept
+https://w3id.org/eusoilvoc#SoilSoluteDispersiveTransport,soil solute dispersive transport,skos:Concept
+https://w3id.org/eusoilvoc#SoilSoluteDispersivity,soil solute dispersivity,skos:Concept
+https://w3id.org/eusoilvoc#SoilSoluteFluxDensity,soil solute flux density,skos:Concept
+https://w3id.org/eusoilvoc#SoilSolutePhysicalProperties,soil solute physical properties,skos:Concept
+https://w3id.org/eusoilvoc#SoilSoluteTransport,soil solute transport,skos:Concept
+https://w3id.org/eusoilvoc#SoilSolutes,soil solutes,skos:Concept
+https://w3id.org/eusoilvoc#SoilSpatialProperties,soil spatial properties,skos:Concept
+https://w3id.org/eusoilvoc#SoilSpecificGravity,soil specific gravity,skos:Concept
+https://w3id.org/eusoilvoc#SoilSterilization,soil sterilization,skos:Concept
+https://w3id.org/eusoilvoc#SoilStrain,soil strain,skos:Concept
+https://w3id.org/eusoilvoc#SoilStrainHardening,soil strain hardening,skos:Concept
+https://w3id.org/eusoilvoc#SoilStrengthIndex,soil strength index,skos:Concept
+https://w3id.org/eusoilvoc#SoilStructuralDecline,soil structural decline,skos:Concept
+https://w3id.org/eusoilvoc#SoilStructuralMovement,soil structural movement,skos:Concept
+https://w3id.org/eusoilvoc#SoilStructuralResilience,soil structural resilience,skos:Concept
+https://w3id.org/eusoilvoc#SoilStructureIndex,soil structure index,skos:Concept
+https://w3id.org/eusoilvoc#SoilStructureIndirectIndex,soil structure indirect index,skos:Concept
+https://w3id.org/eusoilvoc#SoilSurfaceAge,soil surface age,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SoilSurfaceCharge,soil surface charge,skos:Concept
+https://w3id.org/eusoilvoc#SoilSurfaceSeal,soil surface seal,skos:Concept
+https://w3id.org/eusoilvoc#SoilSurfaceSealFormation,soil surface seal formation,skos:Concept
+https://w3id.org/eusoilvoc#SoilSurveyGuidelines,soil survey guidelines,skos:Concept
+https://w3id.org/eusoilvoc#SoilSwellShrinkCapacity,soil swell shrink capacity,skos:Concept
+https://w3id.org/eusoilvoc#SoilSwellShrinkProperties,soil swell shrink properties,skos:Concept
+https://w3id.org/eusoilvoc#SoilSwellingCapacity,soil swelling capacity,skos:Concept
+https://w3id.org/eusoilvoc#SoilSwellingPotential,soil swelling potential,skos:Concept
+https://w3id.org/eusoilvoc#SoilTangentialStrain,soil tangential strain,skos:Concept
+https://w3id.org/eusoilvoc#SoilThawing,soil thawing,skos:Concept
+https://w3id.org/eusoilvoc#SoilThermalDiffusivity,soil thermal diffusivity,skos:Concept
+https://w3id.org/eusoilvoc#SoilThermalProcesses,soil thermal processes,skos:Concept
+https://w3id.org/eusoilvoc#SoilThermalRegimes,soil thermal regimes,skos:Concept
+https://w3id.org/eusoilvoc#SoilTilth,soil tilth,skos:Concept
+https://w3id.org/eusoilvoc#SoilToxicity,soil toxicity,skos:Concept
+https://w3id.org/eusoilvoc#SoilTrafficability,soil trafficability,skos:Concept
+https://w3id.org/eusoilvoc#SoilTransportability,soil transportability,skos:Concept
+https://w3id.org/eusoilvoc#SoilTreatment,soil treatment,skos:Concept
+https://w3id.org/eusoilvoc#SoilTrueDensity,soil true density,skos:Concept
+https://w3id.org/eusoilvoc#SoilViscosity,soil viscosity,skos:Concept
+https://w3id.org/eusoilvoc#SoilVoids,soil voids,skos:Concept
+https://w3id.org/eusoilvoc#SoilVolumeChange,soil volume change,skos:Concept
+https://w3id.org/eusoilvoc#SoilVolumetricMoistureContents,soil volumetric moisture contents,skos:Concept
+https://w3id.org/eusoilvoc#SoilWarming,soil warming,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterAbsorption,soil water absorption,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterAbsorptionCapacity,soil water absorption capacity,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterAdsorption,soil water adsorption,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterAffinity,soil water affinity,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterCondensation,soil water condensation,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterConductivity,soil water conductivity,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterConstants,soil water constants,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterDiffusivity,soil water diffusivity,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterEvapouration,soil water evapouration,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterEvapourationRate,soil water evapouration rate,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterFlow,soil water flow,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterInfiltrationCapacity,soil water infiltration capacity,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterInfiltrationRate,soil water infiltration rate,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterInfiltrationRateClass,soil water infiltration rate class,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SoilWaterInfiltrationRateNumeric,soil water infiltration rate numeric,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SoilWaterLoss,soil water loss,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterPermeability,soil water permeability,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterPhysicalProcesses,soil water physical processes,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterPhysicalProperties,soil water physical properties,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterRetentionCapacity,soil water retention capacity,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterRetentionIndex,soil water retention index,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterSorptionProperties,soil water sorption properties,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterTableDepth,soil water table depth,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterTablePosition,soil water table position,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterTransmission,soil water transmission,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterTransmissionIndex,soil water transmission index,skos:Concept
+https://w3id.org/eusoilvoc#SoilWetness,soil wetness,skos:Concept
+https://w3id.org/eusoilvoc#SoilWetting,soil wetting,skos:Concept
+https://w3id.org/eusoilvoc#SoilZonation,soil zonation,skos:Concept
+https://w3id.org/eusoilvoc#SoilBorneFungi,soil-borne fungi,skos:Concept
+https://w3id.org/eusoilvoc#SoilBorneOrganisms,soil-borne organisms,skos:Concept
+https://w3id.org/eusoilvoc#SoilBorneViruses,soil-borne viruses,skos:Concept
+https://w3id.org/eusoilvoc#SoilBorneWheatMosaicVirus,soil-borne wheat mosaic virus,skos:Concept
+https://w3id.org/eusoilvoc#SoilPlantAtmosphereContinuum,soil–plant–atmosphere continuum,skos:Concept
+https://w3id.org/eusoilvoc#Solifluction,solifluction,skos:Concept
+https://w3id.org/eusoilvoc#SolubleAnionTotal,soluble anion total,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SolubleCationTotal,soluble cation total,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SolubleSalts,soluble salts,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SplashErosion,splash erosion,skos:Concept
+https://w3id.org/eusoilvoc#SpodicHorizons,spodic horizons,skos:Concept
+https://w3id.org/eusoilvoc#StickyConsistence,sticky consistence,skos:Concept
+https://w3id.org/eusoilvoc#StoneClearing,stone clearing,skos:Concept
+https://w3id.org/eusoilvoc#StonySoils,stony soils,skos:Concept
+https://w3id.org/eusoilvoc#StratigraphicSoilTypes,stratigraphic soil types,skos:Concept
+https://w3id.org/eusoilvoc#StrawMulches,straw mulches,skos:Concept
+https://w3id.org/eusoilvoc#StripTillage,strip tillage,skos:Concept
+https://w3id.org/eusoilvoc#StructuralPores,structural pores,skos:Concept
+https://w3id.org/eusoilvoc#StructuralPorosity,structural porosity,skos:Concept
+https://w3id.org/eusoilvoc#StructuralSoilTypes,structural soil types,skos:Concept
+https://w3id.org/eusoilvoc#StructureGrade,structure grade,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#StructureSize,structure size,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#StubbleTillage,stubble tillage,skos:Concept
+https://w3id.org/eusoilvoc#SubsurfaceDrainage,subsurface drainage,skos:Concept
+https://w3id.org/eusoilvoc#SubtropicalSoils,subtropical soils,skos:Concept
+https://w3id.org/eusoilvoc#SulfurExtractableElements,sulfur extractable elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SulfurTotalElements,sulfur total elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#SurfaceAggregationRatio,surface aggregation ratio,skos:Concept
+https://w3id.org/eusoilvoc#SurfaceCultivation,surface cultivation,skos:Concept
+https://w3id.org/eusoilvoc#SurfaceDrainage,surface drainage,skos:Concept
+https://w3id.org/eusoilvoc#SwampSoils,swamp soils,skos:Concept
+https://w3id.org/eusoilvoc#TexturalPores,textural pores,skos:Concept
+https://w3id.org/eusoilvoc#TexturalPorosity,textural porosity,skos:Concept
+https://w3id.org/eusoilvoc#TexturalSoilTypes,textural soil types,skos:Concept
+https://w3id.org/eusoilvoc#TextureFieldClass,texture field class,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#TextureLabClass,texture lab class,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#TileDrainage,tile drainage,skos:Concept
+https://w3id.org/eusoilvoc#TotalCarbonateEquivalent,total carbonate equivalent,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#TotalPorosity,total porosity,skos:Concept
+https://w3id.org/eusoilvoc#TotalSoilMoisturePotential,total soil moisture potential,skos:Concept
+https://w3id.org/eusoilvoc#TransverseDispersion,transverse dispersion,skos:Concept
+https://w3id.org/eusoilvoc#Underdrainage,underdrainage,skos:Concept
+https://w3id.org/eusoilvoc#UnsaturatedWaterFlow,unsaturated water flow,skos:Concept
+https://w3id.org/eusoilvoc#UplandSoils,upland soils,skos:Concept
+https://w3id.org/eusoilvoc#Vanadium,vanadium,skos:Concept
+https://w3id.org/eusoilvoc#VariableCharge,variable charge,skos:Concept
+https://w3id.org/eusoilvoc#VegetationClass,vegetation class,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#Vermiculites,vermiculites,skos:Concept
+https://w3id.org/eusoilvoc#VirginSoils,virgin soils,skos:Concept
+https://w3id.org/eusoilvoc#VoidDiameter,void diameter,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#VoidRatio,void ratio,skos:Concept
+https://w3id.org/eusoilvoc#SoilWaterFiltration,water filtration (soil),skos:Concept
+https://w3id.org/eusoilvoc#WaterInterchange,water interchange,skos:Concept
+https://w3id.org/eusoilvoc#WaterRepellentSoils,water repellent soils,skos:Concept
+https://w3id.org/eusoilvoc#WaterStorageCapacity,water storage capacity,skos:Concept
+https://w3id.org/eusoilvoc#WeatherCurrent,weather current,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#WeatheringFragments,weathering fragments,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#WeatheringRock,weathering rock,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#WetSoilBulkDensity,wet soil bulk density,skos:Concept
+https://w3id.org/eusoilvoc#WetlandSoils,wetland soils,skos:Concept
+https://w3id.org/eusoilvoc#WheelTracks,wheel tracks,skos:Concept
+https://w3id.org/eusoilvoc#WoodChipsMulches,wood chips mulches,skos:Concept
+https://w3id.org/eusoilvoc#XerosolsFAO,xerosols,skos:Concept
+https://w3id.org/eusoilvoc#YermosolsFAO,yermosols,skos:Concept
+https://w3id.org/eusoilvoc#ZincExtractableElements,zinc extractable elements,skos:Concept | sosa:ObservableProperty
+https://w3id.org/eusoilvoc#ZincTotalElements,zinc total elements,skos:Concept | sosa:ObservableProperty
