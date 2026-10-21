@@ -15,7 +15,8 @@ Database `msp-kh-stage`, schema `validate` (read-only). SoilVoc concepts: 1464.
 | Matches after cleaning rules A1-A7 (`normalised*` tiers) | 48 |
 | Matches from manual decisions (`manual` tier) | 130 |
 | All matches | 731 (3.9% of non-noise keywords; 553 / 2.9% before cleaning rules and manual decisions) |
-| No match | 18088 |
+| Suggested only: translated labels (`translated_curated` 81, `translated_mt` 25; not counted above) | 106 keywords, 4 more records |
+| No match | 17982 |
 | Records in total | 33566 |
 | Records with subjects | 9927 (29.6%) |
 | Records with a SoilVoc subject | 5762 (17.2% of all records, 58.0% of records with subjects; 5082 / 15.1% before cleaning rules and manual decisions) |
@@ -35,7 +36,9 @@ Noise is codes, numbers, dates, URLs, SDG/OECD labels and keywords under 3 chara
 | normalised_path | 11 | 0.1% | 13 |
 | normalised_prefix | 2 | 0.0% | 247 |
 | manual | 130 | 0.7% | 3196 |
-| none | 18088 | 96.1% | 6780 |
+| translated_curated | 81 | 0.4% | 225 |
+| translated_mt | 25 | 0.1% | 59 |
+| none | 17982 | 95.6% | 6779 |
 | noise | 1122 | 5.6% | 8847 |
 
 ## Curation
@@ -99,11 +102,11 @@ Noise is codes, numbers, dates, URLs, SDG/OECD labels and keywords under 3 chara
 | aquaculture | 57 |
 | arable crops | 56 |
 | pfas | 56 |
-| bodengefüge | 55 |
 | effektive-durchwurzelungstiefe | 55 |
 | bodengüte | 54 |
 | carbon cycle | 54 |
 | durchlässigkeit | 53 |
+| carbon dioxide | 52 |
 
 ## Files
 

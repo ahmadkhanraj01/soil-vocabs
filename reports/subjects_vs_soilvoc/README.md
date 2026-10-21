@@ -28,6 +28,10 @@ The non-noise count fell because 448 keywords were judged to be noise (portal ta
 - Most of the gain left depends on SoilVoc itself: 79 proposed new terms in `curation/soilvoc_new_terms.csv` (agriculture, biodiversity, soil fertility, soil protection, remote sensing and others).
 - 19 keywords were left as `skip` because the meaning is unclear (for example German `bodenform`).
 
+## Translated labels (suggestions only)
+
+`curation/translated_labels.json` is the multilingual SoilVoc label list from `soilwise-he/metadata-augmentation` (`keyword-extractor/concepts_multilingual.json`, MIT licence; en/fr/de/it/es/nl/pt, partly machine-translated with DeepL). The script matches keywords against the non-English labels by exact comparison, with no model. These matches are **not counted** in the numbers above: 106 keywords would match, but they would reach only 4 more records, and some are wrong (Italian `emergenza` = emergency, not seedling emergence). They are listed in `curation/translated_review.csv`. A keyword with a decision in `keyword_decisions.csv` is never suggested.
+
 ## Files
 
 | File | Content |

@@ -17,6 +17,7 @@ Run: python scripts/compare_subjects_to_soilvoc.py [--out reports/subjects_vs_so
 """
 import argparse
 import csv
+import json
 import re
 import runpy
 import unicodedata
@@ -28,6 +29,8 @@ import psycopg2
 ROOT = Path(__file__).resolve().parent.parent
 SEP_RE = re.compile(r"[,;]")
 MATCH_TIERS = ("exact", "mapped", "variant", "normalised", "normalised_path", "normalised_prefix", "manual")
+# translated labels are only suggestions (some are wrong, e.g. it. emergenza = emergency): shown, but not counted in the headline numbers
+REVIEW_TIERS = ("translated_curated", "translated_mt")
 DECISIONS = ("synonym", "broader", "new_term", "noise", "skip")
 DECISION_COLS = ["keyword", "decision", "target_concept_uri", "new_term_label", "notes"]
 SHEET_COLS = ["keyword", "records", "example_raw_labels", "suggested_concept_uri",
@@ -191,7 +194,7 @@ def rule_candidates(t, raw):
     return out
 
 
-def match(t, exact, mapped, uk_us, raw="", exact_u=None, mapped_u=None, stop=frozenset()):
+def match(t, exact, mapped, uk_us, raw="", exact_u=None, mapped_u=None, stop=frozenset(), tr_cur_u=None, tr_mt_u=None):
     """Returns (tier, ids, rule, cleaned)."""
     if t in exact:
         return "exact", exact[t], "", ""
@@ -218,7 +221,38 @@ def match(t, exact, mapped, uk_us, raw="", exact_u=None, mapped_u=None, stop=fro
             return tier, exact_u[key], rule if rule != "A6" or key != t else "A6", text
         if key in mapped_u:
             return tier, mapped_u[key], rule, text
+    # last resort: translated labels (exact, accent-insensitive), suggestions only
+    if len(t) >= 3 and t not in stop:
+        for tier, tr in (("translated_curated", tr_cur_u), ("translated_mt", tr_mt_u)):
+            hit = (tr or {}).get(unaccent(t))
+            if hit:
+                langs = ",".join(sorted({l for _, l in hit}))
+                if len({i for i, _ in hit}) > 1:
+                    tier = "translated_mt"  # ambiguous translation: suggest only
+                return tier, {i for i, _ in hit}, "translated:" + langs, t
     return "none", set(), "", ""
+
+
+def load_translated(concepts, path):
+    """Non-English labels from curation/translated_labels.json (built by soilwise-he/metadata-augmentation).
+    Returns (curated, machine): label -> {(concept id, language)}. Only labels of concepts in SoilVoc_concepts.csv."""
+    curated, machine = defaultdict(set), defaultdict(set)
+    if not Path(path).exists():
+        return curated, machine
+    with open(path, encoding="utf-8") as f:
+        for c in json.load(f):
+            cid = c.get("identifier")
+            if cid not in concepts:
+                continue
+            for lang, labels in c.get("labels", {}).items():
+                if lang == "en":
+                    continue
+                target = curated if c.get("label_sources", {}).get(lang) == "curated" else machine
+                for lab in labels:
+                    k = norm(lab)
+                    if len(k) >= 3:
+                        target[k].add((cid, lang))
+    return curated, machine
 
 
 def validate_decision(r, concepts, where):
@@ -366,6 +400,17 @@ def main():
         return out_d
 
     exact_u, mapped_u = fold(exact), fold(mapped)
+    tr_cur, tr_mt = load_translated(concepts, ROOT / "curation" / "translated_labels.json")
+
+    def fold_tr(d):
+        out_d = defaultdict(set)
+        for k, v in d.items():
+            out_d[unaccent(k)] |= v
+        return out_d
+
+    # a translated label that is already a SoilVoc label is not new information
+    tr_cur_u = {k: v for k, v in fold_tr(tr_cur).items() if k not in exact_u and k not in mapped_u}
+    tr_mt_u = {k: v for k, v in fold_tr(tr_mt).items() if k not in exact_u and k not in mapped_u and k not in tr_cur_u}
     stop_path = ROOT / "curation" / "stoplist.csv"
     q_path = ROOT / "curation" / "path_qualifiers.csv"
     if q_path.exists():
@@ -406,7 +451,10 @@ def main():
         elif noise:
             res[t] = ("noise", set(), "", "")
         else:
-            res[t] = match(t, exact, mapped, uk_us, raw_of.get(t, t), exact_u, mapped_u, stop)
+            res[t] = match(t, exact, mapped, uk_us, raw_of.get(t, t), exact_u, mapped_u, stop, tr_cur_u, tr_mt_u)
+            # a human decision (new_term, skip) beats a suggestion from translated labels
+            if dec and res[t][0].startswith("translated"):
+                res[t] = ("none", set(), "", "")
 
     def concept_cols(ids):
         ids = sorted(ids)
@@ -420,12 +468,13 @@ def main():
     for t in keywords:
         tier, ids, rule, cleaned = res[t]
         n = len(recs[t])
-        if tier in MATCH_TIERS:
+        if tier in MATCH_TIERS or tier in REVIEW_TIERS:
             matched_rows.append([t, tier, n, *concept_cols(ids), rule, cleaned])
         elif tier == "none":
             unmatched_rows.append([t, n, " | ".join(sorted(sources[t]))[:200]])
         else:
             noise_rows.append([t, n])
+    mt_kw = [t for t in keywords if res[t][0] in REVIEW_TIERS]
     matched_rows.sort(key=lambda r: -r[2])
     unmatched_rows.sort(key=lambda r: -r[1])
     noise_rows.sort(key=lambda r: -r[1])
@@ -471,7 +520,11 @@ def main():
 
     write_csv(out / "noise.csv", ["keyword", "records"], noise_rows)
 
-    used = {i for t in keywords for i in res[t][1]}
+    mt_rows = sorted(([t, res[t][0], len(recs[t]), *concept_cols(res[t][1])[:2], res[t][2].split(":", 1)[1], "", ""] for t in mt_kw), key=lambda r: -r[2])
+    write_csv(cur_dir / "translated_review.csv",
+              ["keyword", "tier", "records", "soilvoc_label", "soilvoc_uri", "language", "decision", "target_concept_uri"], mt_rows)
+
+    used = {i for t in keywords if res[t][0] in MATCH_TIERS for i in res[t][1]}
     soilvoc_unused = [[i, c["label"], c["type"]] for i, c in concepts.items() if i not in used]
     write_csv(out / "soilvoc_not_in_db.csv", ["soilvoc_uri", "prefLabel", "type"], sorted(soilvoc_unused, key=lambda r: r[1]))
 
@@ -491,6 +544,7 @@ def main():
     for t in keywords:
         if res[t][0] in base_tiers:
             hit_before |= recs[t]
+    mt_recs = set().union(*(recs[t] for t in mt_kw)) - hit if mt_kw else set()
     n_match = sum(tiers[k][0] for k in MATCH_TIERS)
     n_before = sum(tiers[k][0] for k in base_tiers)
     n_norm = sum(tiers[k][0] for k in ("normalised", "normalised_path", "normalised_prefix"))
@@ -521,6 +575,7 @@ def main():
         f"| Matches after cleaning rules A1-A7 (`normalised*` tiers) | {n_norm} |",
         f"| Matches from manual decisions (`manual` tier) | {n_manual} |",
         f"| All matches | {n_match} ({pct(n_match, len(topic))} of non-noise keywords; {n_before} / {pct(n_before, len(topic))} before cleaning rules and manual decisions) |",
+        f"| Suggested only: translated labels (`translated_curated` {tiers['translated_curated'][0]}, `translated_mt` {tiers['translated_mt'][0]}; not counted above) | {len(mt_kw)} keywords, {len(mt_recs)} more records |",
         f"| No match | {tiers['none'][0]} |",
         f"| Records in total | {n_records} |",
         f"| Records with subjects | {len(with_kw)} ({pct(len(with_kw), n_records)}) |",
@@ -535,7 +590,7 @@ def main():
         "| Tier | Unique keywords | % of non-noise | Records reached |",
         "|---|---|---|---|",
     ]
-    for tier in (*MATCH_TIERS, "none", "noise"):
+    for tier in (*MATCH_TIERS, *REVIEW_TIERS, "none", "noise"):
         n, rs = tiers[tier]
         base = len(topic) if tier != "noise" else len(keywords)
         lines.append(f"| {tier} | {n} | {pct(n, base)} | {len(rs)} |")

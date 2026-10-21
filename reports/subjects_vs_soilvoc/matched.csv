@@ -98,6 +98,7 @@ soil carbon,manual,59,soil organic carbon,https://w3id.org/eusoilvoc#SoilOrganic
 soil water,exact,58,soil water,https://w3id.org/eusoilvoc#SoilWater,skos:Concept,,
 irrigation,exact,57,irrigation,https://w3id.org/eusoilvoc#Irrigation,skos:Concept,,
 soil surface sealing,exact,57,soil surface sealing,https://w3id.org/eusoilvoc#SoilSurfaceSealing,skos:Concept,,
+bodengefüge,translated_curated,55,soil structure,https://w3id.org/eusoilvoc#SoilStructure,skos:Concept,translated:de,bodengefüge
 soil age,exact,55,soil age,https://w3id.org/eusoilvoc#SoilAge,skos:Concept,,
 bodenphysikalische-eigenschaften,manual,54,soil physical properties,https://w3id.org/eusoilvoc#SoilPhysicalProperties,skos:Concept,broader,bodenphysikalische-eigenschaften
 soil map,exact,54,soil maps,https://w3id.org/eusoilvoc#SoilMaps,skos:Concept,,
@@ -261,6 +262,7 @@ season,exact,14,season,https://w3id.org/eusoilvoc#Season,skos:Concept,,
 soil sorption,exact,14,soil sorption,https://w3id.org/eusoilvoc#SoilSorption,skos:Concept,,
 soil thermal properties,exact,14,soil thermal properties,https://w3id.org/eusoilvoc#SoilThermalProperties,skos:Concept,,
 arable land,mapped,13,arable soils,https://w3id.org/eusoilvoc#ArableSoils,skos:Concept,,
+böden,translated_curated,13,soil,https://w3id.org/eusoilvoc#Soil,skos:Concept,translated:de,böden
 conventional drainage,exact,13,conventional drainage,https://w3id.org/eusoilvoc#ConventionalDrainage,skos:Concept,,
 evapouration,exact,13,evapouration,https://w3id.org/eusoilvoc#Evapouration,skos:Concept,,
 filtration,exact,13,filtration,https://w3id.org/eusoilvoc#Filtration,skos:Concept,,
@@ -270,16 +272,20 @@ micronutrients,exact,13,micronutrients,https://w3id.org/eusoilvoc#Micronutrients
 seasons,variant,13,season,https://w3id.org/eusoilvoc#Season,skos:Concept,,
 soil carbon sequestration,exact,13,soil carbon sequestration,https://w3id.org/eusoilvoc#SoilCarbonSequestration,skos:Concept,,
 soil hydraulic properties,exact,13,soil hydraulic properties,https://w3id.org/eusoilvoc#SoilHydraulicProperties,skos:Concept,,
+utilisation du sol,translated_curated,13,land use,https://w3id.org/eusoilvoc#LandUse,skos:Concept,translated:fr,utilisation du sol
 agricultural soil,exact,12,agricultural soils,https://w3id.org/eusoilvoc#AgriculturalSoils,skos:Concept,,
 air porosity,exact,12,air porosity,https://w3id.org/eusoilvoc#AirPorosity,skos:Concept,,
+bodenwasser,translated_curated,12,soil water,https://w3id.org/eusoilvoc#SoilWater,skos:Concept,translated:de,bodenwasser
 inputs,exact,12,inputs,https://w3id.org/eusoilvoc#Inputs,skos:Concept,,
 microorganisms,mapped,12,microbes,https://w3id.org/eusoilvoc#Microbes,skos:Concept,,
+niederschlag,translated_curated,12,precipitation,https://w3id.org/eusoilvoc#Precipitation,skos:Concept,translated:de,niederschlag
 no till,exact,12,no till,https://w3id.org/eusoilvoc#NoTill,skos:Concept,,
 no-till,normalised,12,no till,https://w3id.org/eusoilvoc#NoTill,skos:Concept,A1,no till
 root respiration,exact,12,root respiration,https://w3id.org/eusoilvoc#RootRespiration,skos:Concept,,
 soil depth,exact,12,soil depth,https://w3id.org/eusoilvoc#SoilDepth,skos:Concept | sosa:ObservableProperty,,
 soil function,exact,12,soil functions,https://w3id.org/eusoilvoc#SoilFunctions,skos:Concept,,
 soil nutrients,exact,12,soil nutrients,https://w3id.org/eusoilvoc#SoilNutrients,skos:Concept,,
+torf,translated_curated,12,peat,https://w3id.org/eusoilvoc#Peat,skos:Concept,translated:de,torf
 air quality,exact,11,air quality,https://w3id.org/eusoilvoc#AirQuality,skos:Concept,,
 carbon stock,variant,11,carbon pools,https://w3id.org/eusoilvoc#CarbonPools,skos:Concept,,
 potassium,exact,11,potassium,https://w3id.org/eusoilvoc#Potassium,skos:Concept,,
@@ -292,6 +298,7 @@ weather past,exact,11,weather past,https://w3id.org/eusoilvoc#WeatherPast,skos:C
 biomass productivity,exact,10,biomass productivity,https://w3id.org/eusoilvoc#BiomassProductivity,skos:Concept,,
 building,exact,10,building,https://w3id.org/eusoilvoc#Building,skos:Concept,,
 evaporation,variant,10,evapouration,https://w3id.org/eusoilvoc#Evapouration,skos:Concept,,
+fonction du sol,translated_curated,10,soil functions,https://w3id.org/eusoilvoc#SoilFunctions,skos:Concept,translated:fr,fonction du sol
 root growth,exact,10,root growth,https://w3id.org/eusoilvoc#RootGrowth,skos:Concept,,
 soil chemicophysical properties,exact,10,soil chemicophysical properties,https://w3id.org/eusoilvoc#SoilChemicophysicalProperties,skos:Concept,,
 soil hydraulic conductivity,exact,10,soil hydraulic conductivity,https://w3id.org/eusoilvoc#SoilHydraulicConductivity,skos:Concept | sosa:ObservableProperty,,
@@ -308,13 +315,16 @@ soil fluid,exact,9,soil fluid,https://w3id.org/eusoilvoc#SoilFluid,skos:Concept,
 soil fungi,exact,9,soil fungi,https://w3id.org/eusoilvoc#SoilFungi,skos:Concept,,
 soil nitrogen loss,exact,9,soil nitrogen loss,https://w3id.org/eusoilvoc#SoilNLoss,skos:Concept,,
 soil sampling,exact,9,soil sampling,https://w3id.org/eusoilvoc#SoilSampling,skos:Concept,,
+solo,translated_curated,9,soil,https://w3id.org/eusoilvoc#Soil,skos:Concept,translated:pt,solo
 biological nitrogen fixation,exact,8,biological nitrogen fixation,https://w3id.org/eusoilvoc#BiologicalNitrogenFixation,skos:Concept,,
 biological soil crust,variant,8,soil biological crusts,https://w3id.org/eusoilvoc#SoilBiologicalCrusts,skos:Concept,,
 boron,exact,8,boron,https://w3id.org/eusoilvoc#Boron,skos:Concept,,
 bulk density peat,exact,8,bulk density peat,https://w3id.org/eusoilvoc#BulkDensityPeat,skos:Concept | sosa:ObservableProperty,,
 carbon storage,mapped,8,soil carbon sequestration,https://w3id.org/eusoilvoc#SoilCarbonSequestration,skos:Concept,,
+cubierta terrestre,translated_curated,8,land cover,https://w3id.org/eusoilvoc#LandCover,skos:Concept,translated:es,cubierta terrestre
 earthworm,exact,8,earthworms,https://w3id.org/eusoilvoc#Earthworms,skos:Concept,,
 ecosystem service,exact,8,ecosystem services,https://w3id.org/eusoilvoc#EcosystemServices,skos:Concept,,
+gebäude,translated_mt,8,building,https://w3id.org/eusoilvoc#Building,skos:Concept,translated:de,gebäude
 leaching,mapped,8,soil leaching,https://w3id.org/eusoilvoc#SoilLeaching,skos:Concept,,
 no-tillage,normalised,8,no till,https://w3id.org/eusoilvoc#NoTill,skos:Concept,A1,no tillage
 organic amendments,exact,8,organic amendments,https://w3id.org/eusoilvoc#OrganicAmendments,skos:Concept,,
@@ -328,16 +338,22 @@ water erosion,exact,8,water erosion,https://w3id.org/eusoilvoc#WaterErosion,skos
 conventional tillage,exact,7,conventional tillage,https://w3id.org/eusoilvoc#ConventionalTillage,skos:Concept,,
 digital-soil-mapping,normalised,7,digital soil mapping,https://w3id.org/eusoilvoc#DigitalSoilMapping,skos:Concept,A1,digital soil mapping
 erosion control,exact,7,erosion control,https://w3id.org/eusoilvoc#ErosionControl,skos:Concept,,
+geología,translated_curated,7,geology,https://w3id.org/eusoilvoc#Geology,skos:Concept | sosa:ObservableProperty,"translated:es,it,pt",geología
 ion exchange,exact,7,ion exchange,https://w3id.org/eusoilvoc#IonExchange,skos:Concept,,
+landgebruik,translated_mt,7,land use,https://w3id.org/eusoilvoc#LandUse,skos:Concept,translated:nl,landgebruik
 nematodes,exact,7,nematodes,https://w3id.org/eusoilvoc#Nematodes,skos:Concept,,
 polycyclic aromatic hydrocarbons,exact,7,polycyclic aromatic hydrocarbons,https://w3id.org/eusoilvoc#PolycyclicAromaticHydrocarbons,skos:Concept,,
 soil consolidation,exact,7,soil consolidation,https://w3id.org/eusoilvoc#SoilConsolidation,skos:Concept,,
 soil nutrient availability,exact,7,soil nutrient availability,https://w3id.org/eusoilvoc#SoilNutrientAvailability,skos:Concept,,
 soil particle size,exact,7,soil particle size,https://w3id.org/eusoilvoc#SoilParticleSize,skos:Concept,,
+uso del suelo,translated_curated,7,land use,https://w3id.org/eusoilvoc#LandUse,skos:Concept,translated:es,uso del suelo
 water purification,exact,7,water purification,https://w3id.org/eusoilvoc#WaterPurification,skos:Concept,,
 biocrusts,mapped,6,soil biological crusts,https://w3id.org/eusoilvoc#SoilBiologicalCrusts,skos:Concept,,
 buildings,mapped,6,building,https://w3id.org/eusoilvoc#Building,skos:Concept,,
+carbone organique du sol,translated_curated,6,soil organic carbon,https://w3id.org/eusoilvoc#SoilOrganicCarbon,skos:Concept | sosa:ObservableProperty,translated:fr,carbone organique du sol
 conservation tillage,exact,6,conservation tillage,https://w3id.org/eusoilvoc#ConservationTillage,skos:Concept,,
+géologie,translated_curated,6,geology,https://w3id.org/eusoilvoc#Geology,skos:Concept | sosa:ObservableProperty,"translated:de,fr",géologie
+matière organique du sol,translated_curated,6,soil organic matter,https://w3id.org/eusoilvoc#SoilOrganicMatter,skos:Concept | sosa:ObservableProperty,translated:fr,matière organique du sol
 name=soil science,normalised,6,soil sciences,https://w3id.org/eusoilvoc#SoilSciences,skos:Concept,A3,soil science
 nutrient availability,mapped,6,soil nutrient availability,https://w3id.org/eusoilvoc#SoilNutrientAvailability,skos:Concept,,
 plant cover,exact,6,plant cover,https://w3id.org/eusoilvoc#PlantCover,skos:Concept,,
@@ -356,16 +372,22 @@ soil melting,exact,6,soil melting,https://w3id.org/eusoilvoc#SoilMelting,skos:Co
 soil profiles,exact,6,soil profiles,https://w3id.org/eusoilvoc#SoilProfiles,skos:Concept,,
 soil saturation,exact,6,soil saturation,https://w3id.org/eusoilvoc#SoilSaturation,skos:Concept,,
 soil-type,normalised,6,soil types,https://w3id.org/eusoilvoc#SoilTypes,skos:Concept | sosa:ObservableProperty,A1,soil type
+verzadigingsgraad,translated_mt,6,degree of saturation,https://w3id.org/eusoilvoc#DegreeOfSaturation,skos:Concept,translated:nl,verzadigingsgraad
 waterlogging,exact,6,waterlogging,https://w3id.org/eusoilvoc#Waterlogging,skos:Concept,,
 wind erosion,exact,6,wind erosion,https://w3id.org/eusoilvoc#WindErosion,skos:Concept,,
 biological soil crusts,mapped,5,soil biological crusts,https://w3id.org/eusoilvoc#SoilBiologicalCrusts,skos:Concept,,
+bodentextur,translated_mt,5,soil cohesion | soil texture,https://w3id.org/eusoilvoc#SoilCohesion | https://w3id.org/eusoilvoc#SoilTexture,skos:Concept | skos:Concept | sosa:ObservableProperty,translated:de,bodentextur
 crop yields,mapped,5,crop yield,https://w3id.org/eusoilvoc#CropYield,skos:Concept,,
 emission,exact,5,emissions,https://w3id.org/eusoilvoc#Emissions,skos:Concept,,
+géologie,translated_curated,5,geology,https://w3id.org/eusoilvoc#Geology,skos:Concept | sosa:ObservableProperty,"translated:de,fr",géologie
 grasses,exact,5,grasses,https://w3id.org/eusoilvoc#Grasses,skos:Concept,,
+litologia,translated_curated,5,lithology,https://w3id.org/eusoilvoc#Lithology,skos:Concept | sosa:ObservableProperty,"translated:es,it,pt",litologia
 macronutrients,exact,5,macronutrients,https://w3id.org/eusoilvoc#Macronutrients,skos:Concept,,
 minimum tillage,exact,5,minimum tillage,https://w3id.org/eusoilvoc#MinimumTillage,skos:Concept,,
 nitrogen content,exact,5,nitrogen content,https://w3id.org/eusoilvoc#NitrogenContent,skos:Concept,,
 organic soils,exact,5,organic soils,https://w3id.org/eusoilvoc#OrganicSoils,skos:Concept,,
+organisme du sol,translated_curated,5,soil organisms,https://w3id.org/eusoilvoc#SoilOrganisms,skos:Concept,translated:fr,organisme du sol
+pendenza,translated_curated,5,slope,https://w3id.org/eusoilvoc#Slope,skos:Concept,translated:it,pendenza
 percolation,exact,5,percolation,https://w3id.org/eusoilvoc#Percolation,skos:Concept,,
 plant water uptake,exact,5,plant water uptake,https://w3id.org/eusoilvoc#PlantWaterUptake,skos:Concept,,
 plastic mulch,exact,5,plastic mulches,https://w3id.org/eusoilvoc#PlasticMulches,skos:Concept,,
@@ -396,7 +418,10 @@ vegetation cover,mapped,5,plant cover,https://w3id.org/eusoilvoc#PlantCover,skos
 abiotic factors,mapped,4,environmental factors,https://w3id.org/eusoilvoc#EnvironmentalFactors,skos:Concept,,
 aluminium,exact,4,aluminium,https://w3id.org/eusoilvoc#Aluminium,skos:Concept,,
 base saturation,exact,4,base saturation,https://w3id.org/eusoilvoc#BaseSaturation,skos:Concept | sosa:ObservableProperty,,
+bodeneigenschaft,translated_curated,4,soil properties,https://w3id.org/eusoilvoc#SoilProperties,skos:Concept,translated:de,bodeneigenschaft
 chromium,exact,4,chromium,https://w3id.org/eusoilvoc#Chromium,skos:Concept,,
+couverture du sol,translated_curated,4,land cover,https://w3id.org/eusoilvoc#LandCover,skos:Concept,translated:fr,couverture du sol
+fertilité du sol,translated_curated,4,soil productivity,https://w3id.org/eusoilvoc#SoilProductivity,skos:Concept,translated:fr,fertilité du sol
 histosols,exact,4,Histosols | Histosols | Histosols,https://w3id.org/eusoilvoc#HistosolsFAO | https://w3id.org/eusoilvoc#HistosolsUSDA | https://w3id.org/eusoilvoc#HistosolsWRB,skos:Concept,,
 land-cover,mapped,4,land cover,https://w3id.org/eusoilvoc#LandCover,skos:Concept,,
 mineral soil,exact,4,mineral soils,https://w3id.org/eusoilvoc#MineralSoils,skos:Concept,,
@@ -421,11 +446,15 @@ soil processes,exact,4,soil processes,https://w3id.org/eusoilvoc#SoilProcesses,s
 soil profile,exact,4,soil profiles,https://w3id.org/eusoilvoc#SoilProfiles,skos:Concept,,
 soil transport,exact,4,soil transport,https://w3id.org/eusoilvoc#SoilTransport,skos:Concept,,
 soil-moisture,normalised,4,soil moisture,https://w3id.org/eusoilvoc#SoilMoisture,skos:Concept,A1,soil moisture
+stickstoff,translated_curated,4,nitrogen,https://w3id.org/eusoilvoc#Nitrogen,skos:Concept,translated:de,stickstoff
 supporting services,exact,4,supporting services,https://w3id.org/eusoilvoc#SupportingServices,skos:Concept,,
 trace elements,mapped,4,micronutrients,https://w3id.org/eusoilvoc#Micronutrients,skos:Concept,,
 wet plasticity,exact,4,wet plasticity,https://w3id.org/eusoilvoc#WetPlasticity,skos:Concept | sosa:ObservableProperty,,
 zero tillage,mapped,4,no till,https://w3id.org/eusoilvoc#NoTill,skos:Concept,,
 arsenic,exact,3,arsenic,https://w3id.org/eusoilvoc#Arsenic,skos:Concept,,
+basensättigung,translated_curated,3,base saturation,https://w3id.org/eusoilvoc#BaseSaturation,skos:Concept | sosa:ObservableProperty,translated:de,basensättigung
+bodenbeschaffenheit,translated_mt,3,soil consistency | soil tilth,https://w3id.org/eusoilvoc#SoilConsistency | https://w3id.org/eusoilvoc#SoilTilth,skos:Concept,translated:de,bodenbeschaffenheit
+bodentiefe,translated_mt,3,soil depth,https://w3id.org/eusoilvoc#SoilDepth,skos:Concept | sosa:ObservableProperty,translated:de,bodentiefe
 carbonate contents,exact,3,carbonate contents,https://w3id.org/eusoilvoc#CarbonateContents,skos:Concept | sosa:ObservableProperty,,
 cell respiration,mapped,3,plant respiration,https://w3id.org/eusoilvoc#PlantRespiration,skos:Concept,,
 collembola,exact,3,Collembola,https://w3id.org/eusoilvoc#Collembola,skos:Concept,,
@@ -433,12 +462,16 @@ contaminated soils,mapped,3,polluted soils,https://w3id.org/eusoilvoc#PollutedSo
 crop biomass,mapped,3,biomass,https://w3id.org/eusoilvoc#Biomass,skos:Concept,,
 cropping,mapped,3,crop,https://w3id.org/eusoilvoc#Crop,skos:Concept,,
 cultivation,mapped,3,crop,https://w3id.org/eusoilvoc#Crop,skos:Concept,,
+dégradation du sol,translated_curated,3,soil degradation,https://w3id.org/eusoilvoc#SoilDegradation,skos:Concept,translated:fr,dégradation du sol
 flood,exact,3,floods,https://w3id.org/eusoilvoc#Floods,skos:Concept,,
 flooding,mapped,3,inundation,https://w3id.org/eusoilvoc#Inundation,skos:Concept,,
 gravel,exact,3,gravel,https://w3id.org/eusoilvoc#Gravel,skos:Concept,,
 ground cover,exact,3,ground cover,https://w3id.org/eusoilvoc#GroundCover,skos:Concept,,
 groundwater quality,mapped,3,water quality,https://w3id.org/eusoilvoc#WaterQuality,skos:Concept,,
 groundwater reproduction,exact,3,groundwater reproduction,https://w3id.org/eusoilvoc#GroundwaterReproduction,skos:Concept,,
+klima,translated_curated,3,climate,https://w3id.org/eusoilvoc#Climate,skos:Concept,translated:de,klima
+kohlenstoffspeicher,translated_mt,3,carbon pools,https://w3id.org/eusoilvoc#CarbonPools,skos:Concept,translated:de,kohlenstoffspeicher
+landbedeckung,translated_curated,3,land cover,https://w3id.org/eusoilvoc#LandCover,skos:Concept,translated:de,landbedeckung
 lead,exact,3,lead,https://w3id.org/eusoilvoc#Lead,skos:Concept,,
 luvisols,exact,3,Luvisols | Luvisols,https://w3id.org/eusoilvoc#LuvisolsFAO | https://w3id.org/eusoilvoc#LuvisolsWRB,skos:Concept,,
 mercury,exact,3,mercury,https://w3id.org/eusoilvoc#Mercury,skos:Concept,,
@@ -447,10 +480,13 @@ mineral particles,exact,3,mineral particles,https://w3id.org/eusoilvoc#MineralPa
 nutrient dynamics,exact,3,nutrient dynamics,https://w3id.org/eusoilvoc#NutrientDynamics,skos:Concept,,
 organic amendment,exact,3,organic amendments,https://w3id.org/eusoilvoc#OrganicAmendments,skos:Concept,,
 peat soils,exact,3,peat soils,https://w3id.org/eusoilvoc#PeatSoils,skos:Concept,,
+pedogenese,translated_curated,3,soil formation,https://w3id.org/eusoilvoc#SoilFormation,skos:Concept,"translated:de,fr",pedogenese
 phosphor,mapped,3,phosphorus,https://w3id.org/eusoilvoc#Phosphorus,skos:Concept,,
 phosphorus retention,exact,3,phosphorus retention,https://w3id.org/eusoilvoc#PhosphorusRetention,skos:Concept | sosa:ObservableProperty,,
 plant respiration,exact,3,plant respiration,https://w3id.org/eusoilvoc#PlantRespiration,skos:Concept,,
+qualité du sol,translated_mt,3,soil health | soil quality,https://w3id.org/eusoilvoc#SoilHealth | https://w3id.org/eusoilvoc#SoilQuality,skos:Concept,translated:fr,qualité du sol
 regosols,exact,3,Regosols | Regosols,https://w3id.org/eusoilvoc#RegosolsFAO | https://w3id.org/eusoilvoc#RegosolsWRB,skos:Concept,,
+rendement des cultures,translated_curated,3,crop yield,https://w3id.org/eusoilvoc#CropYield,skos:Concept,translated:fr,rendement des cultures
 sandy soils,exact,3,sandy soils,https://w3id.org/eusoilvoc#SandySoils,skos:Concept,,
 soil amendment,exact,3,soil amendments,https://w3id.org/eusoilvoc#SoilAmendments,skos:Concept,,
 soil bulk density,exact,3,soil bulk density,https://w3id.org/eusoilvoc#SoilBulkDensity,skos:Concept,,
@@ -476,30 +512,48 @@ soil-texture,normalised,3,soil texture,https://w3id.org/eusoilvoc#SoilTexture,sk
 soil-thermal-conductivity,normalised,3,soil thermal conductivity,https://w3id.org/eusoilvoc#SoilThermalConductivity,skos:Concept,A1,soil thermal conductivity
 termites,exact,3,termites,https://w3id.org/eusoilvoc#Termites,skos:Concept,,
 tree,exact,3,trees,https://w3id.org/eusoilvoc#Trees,skos:Concept,,
+type de sol,translated_curated,3,soil types,https://w3id.org/eusoilvoc#SoilTypes,skos:Concept | sosa:ObservableProperty,translated:fr,type de sol
+utilisation des terres,translated_curated,3,land use,https://w3id.org/eusoilvoc#LandUse,skos:Concept,translated:fr,utilisation des terres
 water-quality,normalised,3,water quality,https://w3id.org/eusoilvoc#WaterQuality,skos:Concept,A1,water quality
 wind-erosion,normalised,3,wind erosion,https://w3id.org/eusoilvoc#WindErosion,skos:Concept,A1,wind erosion
 air filled porosity,exact,2,air filled porosity,https://w3id.org/eusoilvoc#AirFilledPorosity,skos:Concept,,
 air-filled porosity,normalised,2,air filled porosity,https://w3id.org/eusoilvoc#AirFilledPorosity,skos:Concept,A1,air filled porosity
 air-quality,normalised,2,air quality,https://w3id.org/eusoilvoc#AirQuality,skos:Concept,A1,air quality
+alluvione,translated_curated,2,inundation,https://w3id.org/eusoilvoc#Inundation,skos:Concept,translated:it,alluvione
 aluminum,mapped,2,aluminium,https://w3id.org/eusoilvoc#Aluminium,skos:Concept,,
 arid soils,exact,2,arid soils,https://w3id.org/eusoilvoc#AridSoils,skos:Concept,,
+ausgangsmaterial,translated_mt,2,parent material,https://w3id.org/eusoilvoc#ParentMaterial,skos:Concept,translated:de,ausgangsmaterial
+basensättigung,translated_curated,2,base saturation,https://w3id.org/eusoilvoc#BaseSaturation,skos:Concept | sosa:ObservableProperty,translated:de,basensättigung
+baum,translated_curated,2,trees,https://w3id.org/eusoilvoc#Trees,skos:Concept,translated:de,baum
+bâtiment,translated_mt,2,building,https://w3id.org/eusoilvoc#Building,skos:Concept,translated:fr,bâtiment
 biocrust,variant,2,soil biological crusts,https://w3id.org/eusoilvoc#SoilBiologicalCrusts,skos:Concept,,
+biomasa,translated_curated,2,biomass,https://w3id.org/eusoilvoc#Biomass,skos:Concept,translated:es,biomasa
 bioturbation,exact,2,bioturbation,https://w3id.org/eusoilvoc#Bioturbation,skos:Concept,,
+bodenmikroorganismus,translated_curated,2,soil microfauna,https://w3id.org/eusoilvoc#SoilMicrofauna,skos:Concept,translated:de,bodenmikroorganismus
+bodenqualität,translated_mt,2,soil health | soil quality,https://w3id.org/eusoilvoc#SoilHealth | https://w3id.org/eusoilvoc#SoilQuality,skos:Concept,translated:de,bodenqualität
 carbon sink,variant,2,carbon pools,https://w3id.org/eusoilvoc#CarbonPools,skos:Concept,,
 carbon sinks,mapped,2,carbon pools,https://w3id.org/eusoilvoc#CarbonPools,skos:Concept,,
 carbon stocks,mapped,2,carbon pools,https://w3id.org/eusoilvoc#CarbonPools,skos:Concept,,
 carbonates,variant,2,carbonate,https://w3id.org/eusoilvoc#Carbonate,skos:Concept,,
 cation-exchange-capacity,normalised,2,cation exchange capacity,https://w3id.org/eusoilvoc#CationExchangeCapacity,skos:Concept | sosa:ObservableProperty,A1,cation exchange capacity
+chimie des sols,translated_mt,2,soil chemical,https://w3id.org/eusoilvoc#SoilChemical,skos:Concept,translated:fr,chimie des sols
 clay ratio,exact,2,clay ratio,https://w3id.org/eusoilvoc#ClayRatio,skos:Concept,,
 clay soils,exact,2,clay soils,https://w3id.org/eusoilvoc#ClaySoils,skos:Concept,,
+cobertura del suelo,translated_curated,2,land cover,https://w3id.org/eusoilvoc#LandCover,skos:Concept,translated:es,cobertura del suelo
 colluvium,exact,2,colluvium,https://w3id.org/eusoilvoc#Colluvium,skos:Concept,,
+corg,translated_curated,2,soil organic carbon,https://w3id.org/eusoilvoc#SoilOrganicCarbon,skos:Concept | sosa:ObservableProperty,translated:de,corg
 crop residue mulch,exact,2,crop residue mulch,https://w3id.org/eusoilvoc#CropResidueMulch,skos:Concept,,
 deep ploughing,exact,2,deep ploughing,https://w3id.org/eusoilvoc#DeepPloughing,skos:Concept,,
 dinitrogen,mapped,2,nitrogen,https://w3id.org/eusoilvoc#Nitrogen,skos:Concept,,
+déterioration du sol,translated_curated,2,soil degradation,https://w3id.org/eusoilvoc#SoilDegradation,skos:Concept,translated:fr,déterioration du sol
 environmental conditions,mapped,2,environmental factors,https://w3id.org/eusoilvoc#EnvironmentalFactors,skos:Concept,,
 fluvisols,exact,2,Fluvisols | Fluvisols,https://w3id.org/eusoilvoc#FluvisolsFAO | https://w3id.org/eusoilvoc#FluvisolsWRB,skos:Concept,,
 groundwater-quality,normalised,2,water quality,https://w3id.org/eusoilvoc#WaterQuality,skos:Concept,A1,groundwater quality
 hail,exact,2,hail,https://w3id.org/eusoilvoc#Hail,skos:Concept,,
+humidite du sol,translated_curated,2,soil moisture,https://w3id.org/eusoilvoc#SoilMoisture,skos:Concept,translated:fr,humidite du sol
+kationenaustauschkapazität,translated_curated,2,cation exchange capacity,https://w3id.org/eusoilvoc#CationExchangeCapacity,skos:Concept | sosa:ObservableProperty,translated:de,kationenaustauschkapazität
+klei,translated_mt,2,clay,https://w3id.org/eusoilvoc#Clay,skos:Concept,translated:nl,klei
+landnutzung,translated_curated,2,land use,https://w3id.org/eusoilvoc#LandUse,skos:Concept,translated:de,landnutzung
 liming,exact,2,liming,https://w3id.org/eusoilvoc#Liming,skos:Concept,,
 loam soil,exact,2,loam soils,https://w3id.org/eusoilvoc#LoamSoils,skos:Concept,,
 losses from soil,exact,2,losses from soil,https://w3id.org/eusoilvoc#LossesFromSoil,skos:Concept,,
@@ -515,6 +569,9 @@ particle size fraction sum,exact,2,particle size fraction sum,https://w3id.org/e
 peat soil,exact,2,peat soils,https://w3id.org/eusoilvoc#PeatSoils,skos:Concept,,
 plant transpiration,mapped,2,transpiration,https://w3id.org/eusoilvoc#Transpiration,skos:Concept,,
 podzols,exact,2,Podzols | Podzols,https://w3id.org/eusoilvoc#PodzolsFAO | https://w3id.org/eusoilvoc#PodzolsWRB,skos:Concept,,
+processi del suolo,translated_mt,2,soil processes,https://w3id.org/eusoilvoc#SoilProcesses,skos:Concept,translated:it,processi del suolo
+propriété physicochimique du sol,translated_curated,2,soil physical properties,https://w3id.org/eusoilvoc#SoilPhysicalProperties,skos:Concept,translated:fr,propriété physicochimique du sol
+racine,translated_curated,2,roots,https://w3id.org/eusoilvoc#Roots,skos:Concept,translated:fr,racine
 rhizosphère,normalised,2,rhizosphere,https://w3id.org/eusoilvoc#Rhizosphere,skos:Concept,A6,rhizosphère
 road,exact,2,road,https://w3id.org/eusoilvoc#Road,skos:Concept,,
 root-growth,normalised,2,root growth,https://w3id.org/eusoilvoc#RootGrowth,skos:Concept,A1,root growth
@@ -551,6 +608,8 @@ soil-erosion,normalised,2,soil erosion,https://w3id.org/eusoilvoc#SoilErosion,sk
 soil-properties,normalised,2,soil properties,https://w3id.org/eusoilvoc#SoilProperties,skos:Concept,A1,soil properties
 soil/chemistry,normalised_path,2,soil,https://w3id.org/eusoilvoc#Soil,skos:Concept,A5,soil
 springtails,mapped,2,Collembola,https://w3id.org/eusoilvoc#Collembola,skos:Concept,,
+strada,translated_mt,2,road,https://w3id.org/eusoilvoc#Road,skos:Concept,translated:it,strada
+structure du sol,translated_curated,2,soil structure,https://w3id.org/eusoilvoc#SoilStructure,skos:Concept,translated:fr,structure du sol
 tillage erosion,exact,2,tillage erosion,https://w3id.org/eusoilvoc#TillageErosion,skos:Concept,,
 végétation,normalised,2,vegetation,https://w3id.org/eusoilvoc#Vegetation,skos:Concept,A6,végétation
 water regulation,exact,2,water regulation,https://w3id.org/eusoilvoc#WaterRegulation,skos:Concept,,
@@ -562,26 +621,41 @@ acid sulfate soils,mapped,1,acid sulphate soils,https://w3id.org/eusoilvoc#AcidS
 agricultural sustainability,exact,1,agricultural sustainability,https://w3id.org/eusoilvoc#AgriculturalSustainability,skos:Concept,,
 alkaline soils,exact,1,alkaline soils,https://w3id.org/eusoilvoc#AlkalineSoils,skos:Concept,,
 andosol,exact,1,Andosols | Andosols,https://w3id.org/eusoilvoc#AndosolsFAO | https://w3id.org/eusoilvoc#AndosolsWRB,skos:Concept,,
+argile,translated_curated,1,clay,https://w3id.org/eusoilvoc#Clay,skos:Concept,translated:fr,argile
 available water holding capacity,exact,1,available water holding capacity,https://w3id.org/eusoilvoc#AvailableWaterHoldingCapacity,skos:Concept | sosa:ObservableProperty,,
+azote,translated_curated,1,nitrogen,https://w3id.org/eusoilvoc#Nitrogen,skos:Concept,translated:fr,azote
+azoto,translated_curated,1,nitrogen,https://w3id.org/eusoilvoc#Nitrogen,skos:Concept,"translated:it,pt",azoto
 bark mulches,exact,1,bark mulches,https://w3id.org/eusoilvoc#BarkMulches,skos:Concept,,
 biological activity in soil,exact,1,biological activity in soil,https://w3id.org/eusoilvoc#SoilBiologicalActivity,skos:Concept,,
 biological features,exact,1,biological features,https://w3id.org/eusoilvoc#BiologicalFeatures,skos:Concept | sosa:ObservableProperty,,
+biomassa,translated_curated,1,biomass,https://w3id.org/eusoilvoc#Biomass,skos:Concept,"translated:it,pt",biomassa
+biomasse,translated_curated,1,biomass,https://w3id.org/eusoilvoc#Biomass,skos:Concept,"translated:de,fr",biomasse
+bodenlösung,translated_curated,1,soil solution,https://w3id.org/eusoilvoc#SoilSolution,skos:Concept,translated:de,bodenlösung
+bodenqualität,translated_mt,1,soil health | soil quality,https://w3id.org/eusoilvoc#SoilHealth | https://w3id.org/eusoilvoc#SoilQuality,skos:Concept,translated:de,bodenqualität
+bodenstandort,translated_mt,1,soil location,https://w3id.org/eusoilvoc#SoilLocation,skos:Concept,translated:de,bodenstandort
+bodenversiegelung,translated_curated,1,soil sealing,https://w3id.org/eusoilvoc#SoilSealing,skos:Concept,translated:de,bodenversiegelung
 calcareous soils,exact,1,calcareous soils,https://w3id.org/eusoilvoc#CalcareousSoils,skos:Concept,,
 carbon pools,exact,1,carbon pools,https://w3id.org/eusoilvoc#CarbonPools,skos:Concept,,
+carbono orgánico del suelo,translated_curated,1,soil organic carbon,https://w3id.org/eusoilvoc#SoilOrganicCarbon,skos:Concept | sosa:ObservableProperty,translated:es,carbono orgánico del suelo
 cation exchange,exact,1,cation exchange,https://w3id.org/eusoilvoc#CationExchange,skos:Concept,,
 chernozems,exact,1,Chernozems | Chernozems,https://w3id.org/eusoilvoc#ChernozemsFAO | https://w3id.org/eusoilvoc#ChernozemsWRB,skos:Concept,,
 coarse fragments,exact,1,coarse fragments,https://w3id.org/eusoilvoc#CoarseFragments,skos:Concept | sosa:ObservableProperty,,
+contaminación del suelo,translated_curated,1,soil pollution,https://w3id.org/eusoilvoc#SoilPollution,skos:Concept,translated:es,contaminación del suelo
 contaminated soil,variant,1,polluted soils,https://w3id.org/eusoilvoc#PollutedSoils,skos:Concept,,
 deep-tillage,normalised,1,deep tillage,https://w3id.org/eusoilvoc#DeepTillage,skos:Concept,A1,deep tillage
+degradação do solo,translated_curated,1,soil degradation,https://w3id.org/eusoilvoc#SoilDegradation,skos:Concept,translated:pt,degradação do solo
 degree of saturation,exact,1,degree of saturation,https://w3id.org/eusoilvoc#DegreeOfSaturation,skos:Concept,,
 dry consistency,exact,1,dry consistency,https://w3id.org/eusoilvoc#DryConsistency,skos:Concept | sosa:ObservableProperty,,
 edaphic factors,exact,1,edaphic factors,https://w3id.org/eusoilvoc#EdaphicFactors,skos:Concept,,
+emergenza,translated_curated,1,seedling emergence,https://w3id.org/eusoilvoc#SeedlingEmergence,skos:Concept,translated:it,emergenza
 environmental benefits,mapped,1,ecosystem services,https://w3id.org/eusoilvoc#EcosystemServices,skos:Concept,,
 environmental factor,exact,1,environmental factors,https://w3id.org/eusoilvoc#EnvironmentalFactors,skos:Concept,,
 environmental variables,mapped,1,environmental factors,https://w3id.org/eusoilvoc#EnvironmentalFactors,skos:Concept,,
 erosion ratio,exact,1,erosion ratio,https://w3id.org/eusoilvoc#ErosionRatio,skos:Concept,,
 fe2+,mapped,1,iron,https://w3id.org/eusoilvoc#Iron,skos:Concept,,
+fertilidad del suelo,translated_curated,1,soil productivity,https://w3id.org/eusoilvoc#SoilProductivity,skos:Concept,translated:es,fertilidad del suelo
 flood duration,exact,1,flood duration,https://w3id.org/eusoilvoc#FloodDuration,skos:Concept | sosa:ObservableProperty,,
+foreste e uso del suolo,translated_mt,1,land use forests,https://w3id.org/eusoilvoc#LandUseForests,skos:Concept | sosa:ObservableProperty,translated:it,foreste e uso del suolo
 fragment,exact,1,fragments,https://w3id.org/eusoilvoc#Fragments,skos:Concept,,
 fragments,exact,1,fragments,https://w3id.org/eusoilvoc#Fragments,skos:Concept,,
 free-living nematodes,exact,1,free-living nematodes,https://w3id.org/eusoilvoc#FreeLivingNematodes,skos:Concept,,
@@ -590,15 +664,24 @@ gradient,mapped,1,slope,https://w3id.org/eusoilvoc#Slope,skos:Concept,,
 grass,exact,1,grasses,https://w3id.org/eusoilvoc#Grasses,skos:Concept,,
 grassland soils,exact,1,grassland soils,https://w3id.org/eusoilvoc#GrasslandSoils,skos:Concept,,
 groundwater depth,exact,1,groundwater depth,https://w3id.org/eusoilvoc#GroundwaterDepth,skos:Concept | sosa:ObservableProperty,,
+grundwasserneubildung,translated_mt,1,groundwater reproduction,https://w3id.org/eusoilvoc#GroundwaterReproduction,skos:Concept,translated:de,grundwasserneubildung
 halloysite,exact,1,halloysite,https://w3id.org/eusoilvoc#Halloysite,skos:Concept,,
+humidité du sol,translated_curated,1,soil moisture,https://w3id.org/eusoilvoc#SoilMoisture,skos:Concept,translated:fr,humidité du sol
 hydromorphology,mapped,1,waterlogging,https://w3id.org/eusoilvoc#Waterlogging,skos:Concept,,
 index of resistance,exact,1,index of resistance,https://w3id.org/eusoilvoc#IndexOfResistance,skos:Concept,,
+kalium,translated_curated,1,potassium,https://w3id.org/eusoilvoc#Potassium,skos:Concept,translated:de,kalium
+kationenaustauschkapazität,translated_curated,1,cation exchange capacity,https://w3id.org/eusoilvoc#CationExchangeCapacity,skos:Concept | sosa:ObservableProperty,translated:de,kationenaustauschkapazität
+klimaat,translated_mt,1,climate,https://w3id.org/eusoilvoc#Climate,skos:Concept,translated:nl,klimaat
 land reclamation,mapped,1,land rehabilitation | soil reclamation,https://w3id.org/eusoilvoc#LandRehabilitation | https://w3id.org/eusoilvoc#SoilReclamation,skos:Concept,,
 land use class,exact,1,land use class,https://w3id.org/eusoilvoc#LandUseClass,skos:Concept | sosa:ObservableProperty,,
 land use forests,exact,1,land use forests,https://w3id.org/eusoilvoc#LandUseForests,skos:Concept | sosa:ObservableProperty,,
 land use grasses,exact,1,land use grasses,https://w3id.org/eusoilvoc#LandUseGrasses,skos:Concept | sosa:ObservableProperty,,
+limon,translated_curated,1,silt,https://w3id.org/eusoilvoc#Silt,skos:Concept,translated:fr,limon
 loess soils,exact,1,loess soils,https://w3id.org/eusoilvoc#LoessSoils,skos:Concept,,
+lombrichi,translated_curated,1,earthworms,https://w3id.org/eusoilvoc#Earthworms,skos:Concept,translated:it,lombrichi
+manejo del suelo,translated_curated,1,soil management,https://w3id.org/eusoilvoc#SoilManagement,skos:Concept,translated:es,manejo del suelo
 mass wasting,mapped,1,mass movement,https://w3id.org/eusoilvoc#MassMovement,skos:Concept,,
+matéria orgânica do solo,translated_curated,1,soil organic matter,https://w3id.org/eusoilvoc#SoilOrganicMatter,skos:Concept | sosa:ObservableProperty,translated:pt,matéria orgânica do solo
 mediterranean soils,mapped,1,xeric soils,https://w3id.org/eusoilvoc#XericSoils,skos:Concept,,
 medium sand,exact,1,medium sand,https://w3id.org/eusoilvoc#MediumSand,skos:Concept,,
 microbe,exact,1,microbes,https://w3id.org/eusoilvoc#Microbes,skos:Concept,,
@@ -610,11 +693,15 @@ mineral soils,exact,1,mineral soils,https://w3id.org/eusoilvoc#MineralSoils,skos
 mite,exact,1,mites,https://w3id.org/eusoilvoc#Mites,skos:Concept,,
 mulch,exact,1,mulch,https://w3id.org/eusoilvoc#Mulch,skos:Concept,,
 nanoplastic,exact,1,nanoplastics,https://w3id.org/eusoilvoc#Nanoplastics,skos:Concept,,
+natrium,translated_curated,1,sodium,https://w3id.org/eusoilvoc#Sodium,skos:Concept,translated:de,natrium
+neve,translated_curated,1,snow,https://w3id.org/eusoilvoc#Snow,skos:Concept,"translated:it,pt",neve
 nitrogen loss,mapped,1,soil nitrogen loss,https://w3id.org/eusoilvoc#SoilNLoss,skos:Concept,,
 nitrogen total,exact,1,nitrogen total,https://w3id.org/eusoilvoc#NitrogenTotal,skos:Concept | sosa:ObservableProperty,,
 no tillage,mapped,1,no till,https://w3id.org/eusoilvoc#NoTill,skos:Concept,,
+oberflächenabfluss,translated_mt,1,runoff | surface runoff,https://w3id.org/eusoilvoc#Runoff | https://w3id.org/eusoilvoc#SurfaceRunoff,skos:Concept,translated:de,oberflächenabfluss
 organic mulch,exact,1,organic mulches,https://w3id.org/eusoilvoc#OrganicMulches,skos:Concept,,
 organic mulches,exact,1,organic mulches,https://w3id.org/eusoilvoc#OrganicMulches,skos:Concept,,
+organischer bodenkohlenstoff,translated_curated,1,soil organic carbon,https://w3id.org/eusoilvoc#SoilOrganicCarbon,skos:Concept | sosa:ObservableProperty,translated:de,organischer bodenkohlenstoff
 oxisol,exact,1,Oxisols,https://w3id.org/eusoilvoc#OxisolsUSDA,skos:Concept,,
 peat decomposition,exact,1,peat decomposition,https://w3id.org/eusoilvoc#PeatDecomposition,skos:Concept | sosa:ObservableProperty,,
 peat drainage,exact,1,peat drainage,https://w3id.org/eusoilvoc#PeatDrainage,skos:Concept | sosa:ObservableProperty,,
@@ -622,6 +709,8 @@ pedogenesis,mapped,1,soil formation,https://w3id.org/eusoilvoc#SoilFormation,sko
 pf curve,exact,1,pF curve,https://w3id.org/eusoilvoc#pFcurve,skos:Concept,,
 pf-curve,normalised,1,pF curve,https://w3id.org/eusoilvoc#pFcurve,skos:Concept,A1,pf curve
 phaeozems,exact,1,Phaeozems | Phaeozems,https://w3id.org/eusoilvoc#PhaeozemsFAO | https://w3id.org/eusoilvoc#PhaeozemsWRB,skos:Concept,,
+phosphore,translated_curated,1,phosphorus,https://w3id.org/eusoilvoc#Phosphorus,skos:Concept,translated:fr,phosphore
+physikochemische bodeneigenschaft,translated_curated,1,soil physical properties,https://w3id.org/eusoilvoc#SoilPhysicalProperties,skos:Concept,translated:de,physikochemische bodeneigenschaft
 plant available water,exact,1,plant available water,https://w3id.org/eusoilvoc#PlantAvailableWater,skos:Concept,,
 plant available water contents,exact,1,plant available water contents,https://w3id.org/eusoilvoc#PlantAvailableWaterContents,skos:Concept,,
 plant roots/genetics,normalised_path,1,roots,https://w3id.org/eusoilvoc#Roots,skos:Concept,A5,plant roots
@@ -630,21 +719,30 @@ plant roots/microbiology,normalised_path,1,roots,https://w3id.org/eusoilvoc#Root
 plant-roots,normalised,1,roots,https://w3id.org/eusoilvoc#Roots,skos:Concept,A1,plant roots
 polluted soil,exact,1,polluted soils,https://w3id.org/eusoilvoc#PollutedSoils,skos:Concept,,
 polluted soils,exact,1,polluted soils,https://w3id.org/eusoilvoc#PollutedSoils,skos:Concept,,
+pollution du sol,translated_curated,1,soil pollution,https://w3id.org/eusoilvoc#SoilPollution,skos:Concept,translated:fr,pollution du sol
+polución del suelo,translated_curated,1,soil pollution,https://w3id.org/eusoilvoc#SoilPollution,skos:Concept,translated:es,polución del suelo
 pore abundance,exact,1,pore abundance,https://w3id.org/eusoilvoc#PoreAbundance,skos:Concept | sosa:ObservableProperty,,
+rendimiento de cultivos,translated_curated,1,crop yield,https://w3id.org/eusoilvoc#CropYield,skos:Concept,translated:es,rendimiento de cultivos
 retisol,exact,1,Retisols,https://w3id.org/eusoilvoc#RetisolsWRB,skos:Concept,,
 retisols,exact,1,Retisols,https://w3id.org/eusoilvoc#RetisolsWRB,skos:Concept,,
 revised universal soil loss equation,exact,1,Revised Universal Soil Loss Equation,https://w3id.org/eusoilvoc#RevisedUniversalSoilLossEquation,skos:Concept,,
 rhizobacteria,exact,1,Rhizobacteria,https://w3id.org/eusoilvoc#Rhizobacteria,skos:Concept,,
+riego,translated_curated,1,irrigation,https://w3id.org/eusoilvoc#Irrigation,skos:Concept,translated:es,riego
 roads,variant,1,road,https://w3id.org/eusoilvoc#Road,skos:Concept,,
+roccia,translated_curated,1,rock,https://w3id.org/eusoilvoc#Rock,skos:Concept,translated:it,roccia
+sable,translated_curated,1,sand,https://w3id.org/eusoilvoc#Sand,skos:Concept,translated:fr,sable
 saline soil,exact,1,saline soils,https://w3id.org/eusoilvoc#SalineSoils,skos:Concept,,
 salt,exact,1,salts,https://w3id.org/eusoilvoc#Salts,skos:Concept | sosa:ObservableProperty,,
 salt cover,exact,1,salt cover,https://w3id.org/eusoilvoc#SaltCover,skos:Concept | sosa:ObservableProperty,,
 salt sieving,exact,1,salt sieving,https://w3id.org/eusoilvoc#SaltSieving,skos:Concept,,
 salt thickness,exact,1,salt thickness,https://w3id.org/eusoilvoc#SaltThickness,skos:Concept | sosa:ObservableProperty,,
+schluff,translated_curated,1,silt,https://w3id.org/eusoilvoc#Silt,skos:Concept,translated:de,schluff
 seedbed preparation,exact,1,seedbed preparation,https://w3id.org/eusoilvoc#SeedbedPreparation,skos:Concept,,
 semiarid soil,variant,1,semi-arid soils,https://w3id.org/eusoilvoc#SemiAridSoils,skos:Concept,,
+services écosystémiques,translated_curated,1,ecosystem services,https://w3id.org/eusoilvoc#EcosystemServices,skos:Concept,translated:fr,services écosystémiques
 site preparation,exact,1,site preparation,https://w3id.org/eusoilvoc#SitePreparation,skos:Concept,,
 sleet,exact,1,sleet,https://w3id.org/eusoilvoc#Sleet,skos:Concept,,
+slib,translated_mt,1,silt,https://w3id.org/eusoilvoc#Silt,skos:Concept,translated:nl,slib
 sodic soils,exact,1,sodic soils,https://w3id.org/eusoilvoc#SodicSoils,skos:Concept,,
 soil absorption,exact,1,soil absorption,https://w3id.org/eusoilvoc#SoilAbsorption,skos:Concept,,
 soil accumulation,exact,1,soil accumulation,https://w3id.org/eusoilvoc#SoilAccumulation,skos:Concept,,
@@ -720,13 +818,21 @@ stickiness,exact,1,stickiness,https://w3id.org/eusoilvoc#Stickiness,skos:Concept
 subsoiling,exact,1,subsoiling,https://w3id.org/eusoilvoc#Subsoiling,skos:Concept,,
 subsoils,variant,1,subsoil,https://w3id.org/eusoilvoc#Subsoil,skos:Concept,,
 subsurface runoff,mapped,1,interflow,https://w3id.org/eusoilvoc#Interflow,skos:Concept,,
+sòl,translated_curated,1,soil,https://w3id.org/eusoilvoc#Soil,skos:Concept,translated:fr,sòl
+température du sol,translated_curated,1,soil temperature,https://w3id.org/eusoilvoc#SoilTemperature,skos:Concept,translated:fr,température du sol
+ton,translated_curated,1,clay,https://w3id.org/eusoilvoc#Clay,skos:Concept,translated:de,ton
 topsoils,variant,1,topsoil,https://w3id.org/eusoilvoc#Topsoil,skos:Concept,,
 tree density,exact,1,tree density,https://w3id.org/eusoilvoc#TreeDensity,skos:Concept | sosa:ObservableProperty,,
 trees/growth & development,normalised_path,1,trees,https://w3id.org/eusoilvoc#Trees,skos:Concept,A5,trees
 tropical soils,exact,1,tropical soils,https://w3id.org/eusoilvoc#TropicalSoils,skos:Concept,,
+turf,translated_mt,1,peat,https://w3id.org/eusoilvoc#Peat,skos:Concept,translated:nl,turf
 unsaturated hydraulic conductivity,exact,1,unsaturated hydraulic conductivity,https://w3id.org/eusoilvoc#UnsaturatedHydraulicConductivity,skos:Concept,,
 vegetation type,variant,1,vegetation,https://w3id.org/eusoilvoc#Vegetation,skos:Concept,,
 vegetation types,mapped,1,vegetation,https://w3id.org/eusoilvoc#Vegetation,skos:Concept,,
+verdunstung,translated_mt,1,evapouration,https://w3id.org/eusoilvoc#Evapouration,skos:Concept,translated:de,verdunstung
 volcanic ash soils,mapped,1,volcanic soils,https://w3id.org/eusoilvoc#VolcanicSoils,skos:Concept,,
 waste disposal,exact,1,waste disposal,https://w3id.org/eusoilvoc#WasteDisposal,skos:Concept,,
+waterkwaliteit,translated_mt,1,water quality,https://w3id.org/eusoilvoc#WaterQuality,skos:Concept,translated:nl,waterkwaliteit
+wurzel,translated_curated,1,roots,https://w3id.org/eusoilvoc#Roots,skos:Concept,translated:de,wurzel
 érosion,normalised,1,soil erosion,https://w3id.org/eusoilvoc#SoilErosion,skos:Concept,A6,érosion
+überflutung,translated_curated,1,inundation,https://w3id.org/eusoilvoc#Inundation,skos:Concept,translated:de,überflutung
