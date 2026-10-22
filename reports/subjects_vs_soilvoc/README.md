@@ -32,6 +32,10 @@ The non-noise count fell because 448 keywords were judged to be noise (portal ta
 
 `curation/translated_labels.json` is the multilingual SoilVoc label list from `soilwise-he/metadata-augmentation` (`keyword-extractor/concepts_multilingual.json`, MIT licence; en/fr/de/it/es/nl/pt, partly machine-translated with DeepL). The script matches keywords against the non-English labels by exact comparison, with no model. These matches are **not counted** in the numbers above: 106 keywords would match, but they would reach only 4 more records, and some are wrong (Italian `emergenza` = emergency, not seedling emergence). They are listed in `curation/translated_review.csv`. A keyword with a decision in `keyword_decisions.csv` is never suggested.
 
+## Records without subjects
+
+Matching can only help the 9,927 records that have subjects. For the other records, see `../../LLM_EXTRACTION.md` (LLM suggestions from title and abstract, with a progress dashboard; experimental).
+
 ## Files
 
 | File | Content |

@@ -1,0 +1,3 @@
+# for scripts/llm_extract_subjects.py and scripts/progress_ui.py (progress_ui needs nothing extra)
+numpy>=1.24
+psycopg2-binary>=2.9   # only for --from-db (read-only SELECT)
