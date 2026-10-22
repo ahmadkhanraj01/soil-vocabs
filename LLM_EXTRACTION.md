@@ -33,6 +33,18 @@ Procedures (`sosa:Procedure`, e.g. `ExchAcid_ph0-kcl1m`) are left out because th
 3. For `--from-db`, put the database settings in `.env` (same file as the comparison script, never committed).
 4. Check: `python scripts/llm_extract_subjects.py --records sample.json --limit 5`
 
+## Quickest way: one script
+
+```
+bash scripts/run_extraction.sh                      # all records without subjects
+LIMIT=200 bash scripts/run_extraction.sh            # first test with 200 random records
+MODEL=qwen2.5:14b WORKERS=2 bash scripts/run_extraction.sh
+```
+
+It checks Python and Ollama, installs the Python packages, starts Ollama if needed, downloads the models (skipped when already present), counts the records to process and asks for confirmation, opens the progress page in the browser (progress bar, records per minute and estimated time remaining), and runs the extraction. The settings are listed at the top of the script. Ctrl+C stops safely, and the same command continues later.
+
+The steps below do the same thing by hand.
+
 ## Run
 
 Terminal 1, the dashboard:
