@@ -1,0 +1,6 @@
+# per-run working files; keep only the estimate reports
+runs/*/results.jsonl
+runs/*/progress.json
+runs/*/label_embeddings_*.npy
+runs/*/llm_concepts.csv
+__pycache__/

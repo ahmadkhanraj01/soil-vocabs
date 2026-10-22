@@ -1,0 +1,78 @@
+{
+ "model": "mistral-small-latest",
+ "workers": 4,
+ "sample": 500,
+ "rate_limited": 40,
+ "errors": 0,
+ "prices": {
+  "input": 0.15,
+  "output": 0.6
+ },
+ "embed_price": 0.1,
+ "table": [
+  {
+   "records": 10,
+   "seconds": 4.0,
+   "seconds_per_record": 0.4,
+   "tokens_in": 4261,
+   "tokens_out": 306,
+   "tokens_embed": 2749,
+   "cost_usd": 0.0011,
+   "cost_per_record_usd": 0.00011,
+   "avg_terms": 4.7,
+   "empty": 0
+  },
+  {
+   "records": 50,
+   "seconds": 17.8,
+   "seconds_per_record": 0.36,
+   "tokens_in": 22401,
+   "tokens_out": 1608,
+   "tokens_embed": 15054,
+   "cost_usd": 0.00583,
+   "cost_per_record_usd": 0.000117,
+   "avg_terms": 4.82,
+   "empty": 0
+  },
+  {
+   "records": 100,
+   "seconds": 33.1,
+   "seconds_per_record": 0.33,
+   "tokens_in": 44291,
+   "tokens_out": 3176,
+   "tokens_embed": 29348,
+   "cost_usd": 0.01148,
+   "cost_per_record_usd": 0.000115,
+   "avg_terms": 4.77,
+   "empty": 2
+  },
+  {
+   "records": 500,
+   "seconds": 439.3,
+   "seconds_per_record": 0.88,
+   "tokens_in": 220392,
+   "tokens_out": 15825,
+   "tokens_embed": 145680,
+   "cost_usd": 0.05712,
+   "cost_per_record_usd": 0.000114,
+   "avg_terms": 4.78,
+   "empty": 11
+  }
+ ],
+ "projection": {
+  "records": 23319,
+  "basis_records": 500,
+  "cost_usd": 2.66,
+  "cost_usd_low": 2.59,
+  "cost_usd_high": 2.72,
+  "seconds": 20521
+ },
+ "what_if_cost_usd_same_tokens": {
+  "ministral-3b-latest": 1.78,
+  "ministral-8b-latest": 2.33,
+  "ministral-14b-latest": 2.88,
+  "mistral-small-latest": 2.66
+ },
+ "prices_checked": "2026-10-22, from the model cards on docs.mistral.ai (USD per million tokens). Check https://mistral.ai/pricing before a large run.",
+ "at": "2026-10-22T05:15:37+00:00"
+}

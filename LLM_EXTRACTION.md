@@ -6,6 +6,8 @@ It is **read-only**. The database is only read (a `SELECT` in a read-only sessio
 
 The approach follows `soilwise-he/metadata-augmentation` (keyword-extractor, KeyLLM). It is **not validated**: there is no labelled test set yet, so treat the output as suggestions and review a sample before using it anywhere.
 
+> **Using the Mistral API instead of a local model?** See `mistral/README.md` (cost and time estimate, its own scripts and dashboard).
+
 ## How it works
 
 ```mermaid

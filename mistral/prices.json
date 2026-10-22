@@ -1,0 +1,12 @@
+{
+  "checked": "2026-10-22, from the model cards on docs.mistral.ai (USD per million tokens). Check https://mistral.ai/pricing before a large run.",
+  "models": {
+    "ministral-3b-latest":   {"input": 0.10, "output": 0.10},
+    "ministral-8b-latest":   {"input": 0.15, "output": 0.15},
+    "ministral-14b-latest":  {"input": 0.20, "output": 0.20},
+    "mistral-small-latest":  {"input": 0.15, "output": 0.60}
+  },
+  "embeddings": {
+    "mistral-embed": {"input": 0.10, "note": "not checked against the pricing page; confirm in the Mistral console"}
+  }
+}
