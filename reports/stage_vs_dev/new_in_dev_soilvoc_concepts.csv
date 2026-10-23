@@ -1,0 +1,647 @@
+soilvoc_label,soilvoc_uri,records
+soil,https://w3id.org/eusoilvoc#Soil,5740
+soil biology,https://w3id.org/eusoilvoc#SoilBiology,1922
+soil microfauna,https://w3id.org/eusoilvoc#SoilMicrofauna,1916
+soil pollution,https://w3id.org/eusoilvoc#SoilPollution,1672
+soil pollutants,https://w3id.org/eusoilvoc#SoilPollutants,1510
+environmental factors,https://w3id.org/eusoilvoc#EnvironmentalFactors,957
+nitrogen,https://w3id.org/eusoilvoc#Nitrogen,912
+soil sciences,https://w3id.org/eusoilvoc#SoilSciences,892
+soil organic carbon,https://w3id.org/eusoilvoc#SoilOrganicCarbon,841
+carbonate,https://w3id.org/eusoilvoc#Carbonate,839
+soil bacteria,https://w3id.org/eusoilvoc#SoilBacteria,756
+climate,https://w3id.org/eusoilvoc#Climate,697
+geology,https://w3id.org/eusoilvoc#Geology,685
+soil subsidence,https://w3id.org/eusoilvoc#SoilSubsidence,582
+microbes,https://w3id.org/eusoilvoc#Microbes,555
+roots,https://w3id.org/eusoilvoc#Roots,545
+soil moisture,https://w3id.org/eusoilvoc#SoilMoisture,505
+biomass,https://w3id.org/eusoilvoc#Biomass,480
+fertiliser use,https://w3id.org/eusoilvoc#FertiliserUse,465
+soil temperature,https://w3id.org/eusoilvoc#SoilTemperature,461
+soil water,https://w3id.org/eusoilvoc#SoilWater,442
+soil carbon sequestration,https://w3id.org/eusoilvoc#SoilCarbonSequestration,404
+rhizosphere,https://w3id.org/eusoilvoc#Rhizosphere,402
+phosphorus,https://w3id.org/eusoilvoc#Phosphorus,401
+soil productivity,https://w3id.org/eusoilvoc#SoilProductivity,393
+soil health,https://w3id.org/eusoilvoc#SoilHealth,380
+forest soils,https://w3id.org/eusoilvoc#ForestSoils,367
+soil erosion,https://w3id.org/eusoilvoc#SoilErosion,367
+weather,https://w3id.org/eusoilvoc#Weather,351
+soil fungi,https://w3id.org/eusoilvoc#SoilFungi,325
+land use,https://w3id.org/eusoilvoc#LandUse,321
+soil organic matter,https://w3id.org/eusoilvoc#SoilOrganicMatter,312
+grassland soils,https://w3id.org/eusoilvoc#GrasslandSoils,258
+agricultural soils,https://w3id.org/eusoilvoc#AgriculturalSoils,254
+iron,https://w3id.org/eusoilvoc#Iron,253
+microplastics,https://w3id.org/eusoilvoc#Microplastics,249
+soil respiration,https://w3id.org/eusoilvoc#SoilRespiration,237
+cadmium,https://w3id.org/eusoilvoc#Cadmium,233
+trees,https://w3id.org/eusoilvoc#Trees,211
+copper,https://w3id.org/eusoilvoc#Copper,190
+soil hydrology,https://w3id.org/eusoilvoc#SoilHydrology,190
+soil properties,https://w3id.org/eusoilvoc#SoilProperties,185
+soil management,https://w3id.org/eusoilvoc#SoilManagement,180
+soil nutrients,https://w3id.org/eusoilvoc#SoilNutrients,176
+soil cohesion,https://w3id.org/eusoilvoc#SoilCohesion,166
+season,https://w3id.org/eusoilvoc#Season,158
+earthworms,https://w3id.org/eusoilvoc#Earthworms,156
+soil salinity,https://w3id.org/eusoilvoc#SoilSalinity,152
+crop yield,https://w3id.org/eusoilvoc#CropYield,152
+soil degradation,https://w3id.org/eusoilvoc#SoilDegradation,147
+soil texture,https://w3id.org/eusoilvoc#SoilTexture,145
+soil physical properties,https://w3id.org/eusoilvoc#SoilPhysicalProperties,139
+soil quality,https://w3id.org/eusoilvoc#SoilQuality,134
+rain,https://w3id.org/eusoilvoc#Rain,130
+soil adsorption,https://w3id.org/eusoilvoc#SoilAdsorption,124
+soil tillage,https://w3id.org/eusoilvoc#SoilTillage,121
+mulching,https://w3id.org/eusoilvoc#Mulching,120
+soil microbial biomass,https://w3id.org/eusoilvoc#SoilMicrobialBiomass,117
+arsenic,https://w3id.org/eusoilvoc#Arsenic,116
+emissions,https://w3id.org/eusoilvoc#Emissions,115
+ecosystem services,https://w3id.org/eusoilvoc#EcosystemServices,114
+soil functions,https://w3id.org/eusoilvoc#SoilFunctions,113
+irrigation,https://w3id.org/eusoilvoc#Irrigation,113
+peat,https://w3id.org/eusoilvoc#Peat,113
+soil compaction,https://w3id.org/eusoilvoc#SoilCompaction,113
+zinc,https://w3id.org/eusoilvoc#Zinc,112
+no till,https://w3id.org/eusoilvoc#NoTill,110
+food production,https://w3id.org/eusoilvoc#FoodProduction,106
+soil movement,https://w3id.org/eusoilvoc#SoilMovement,104
+lead,https://w3id.org/eusoilvoc#Lead,103
+soil salinization,https://w3id.org/eusoilvoc#SoilSalinization,103
+vegetation,https://w3id.org/eusoilvoc#Vegetation,99
+soil pH,https://w3id.org/eusoilvoc#SoilpH,98
+soil conservation,https://w3id.org/eusoilvoc#SoilConservation,96
+soil microbial activity,https://w3id.org/eusoilvoc#SoilMicrobialActivity,96
+digital soil mapping,https://w3id.org/eusoilvoc#DigitalSoilMapping,87
+soil chemistry,https://w3id.org/eusoilvoc#SoilChemistry,86
+soil oxidation reduction reaction,https://w3id.org/eusoilvoc#SoilOxidationReductionReaction,86
+precipitation,https://w3id.org/eusoilvoc#Precipitation,81
+lithology,https://w3id.org/eusoilvoc#Lithology,81
+soil stabilization,https://w3id.org/eusoilvoc#SoilStabilization,81
+soil biodiversity loss,https://w3id.org/eusoilvoc#SoilBiodiversityLoss,80
+micronutrients,https://w3id.org/eusoilvoc#Micronutrients,80
+soil denitrification,https://w3id.org/eusoilvoc#SoilDenitrification,79
+pesticide use,https://w3id.org/eusoilvoc#PesticideUse,78
+transpiration,https://w3id.org/eusoilvoc#Transpiration,78
+potassium,https://w3id.org/eusoilvoc#Potassium,77
+soil formation,https://w3id.org/eusoilvoc#SoilFormation,77
+soil types,https://w3id.org/eusoilvoc#SoilTypes,77
+polycyclic aromatic hydrocarbons,https://w3id.org/eusoilvoc#PolycyclicAromaticHydrocarbons,75
+soil mineralization,https://w3id.org/eusoilvoc#SoilMineralization,75
+biological nitrogen fixation,https://w3id.org/eusoilvoc#BiologicalNitrogenFixation,74
+evapotranspiration,https://w3id.org/eusoilvoc#Evapotranspiration,74
+soil amendments,https://w3id.org/eusoilvoc#SoilAmendments,73
+soil profiles,https://w3id.org/eusoilvoc#SoilProfiles,73
+water quality,https://w3id.org/eusoilvoc#WaterQuality,72
+sand,https://w3id.org/eusoilvoc#Sand,71
+soil air,https://w3id.org/eusoilvoc#SoilAir,69
+carbon pools,https://w3id.org/eusoilvoc#CarbonPools,66
+nitrate-nitrogen,https://w3id.org/eusoilvoc#NitrateNitrogen,66
+soil structure,https://w3id.org/eusoilvoc#SoilStructure,65
+soil chemical properties,https://w3id.org/eusoilvoc#SoilChemicalProperties,64
+soil analysis,https://w3id.org/eusoilvoc#SoilAnalysis,63
+soil moisture contents,https://w3id.org/eusoilvoc#SoilMoistureContents,63
+soil nitrogen loss,https://w3id.org/eusoilvoc#SoilNLoss,62
+soil consolidation,https://w3id.org/eusoilvoc#SoilConsolidation,61
+soil fauna,https://w3id.org/eusoilvoc#SoilFauna,60
+conservation tillage,https://w3id.org/eusoilvoc#ConservationTillage,60
+clay,https://w3id.org/eusoilvoc#Clay,59
+soil maps,https://w3id.org/eusoilvoc#SoilMaps,58
+soil organic carbon loss,https://w3id.org/eusoilvoc#SOCLoss,57
+soil fluid,https://w3id.org/eusoilvoc#SoilFluid,57
+soil aggregate,https://w3id.org/eusoilvoc#SoilAggregate,51
+land cover,https://w3id.org/eusoilvoc#LandCover,51
+crop,https://w3id.org/eusoilvoc#Crop,50
+soil water contents,https://w3id.org/eusoilvoc#SoilWaterContents,50
+soil mechanics,https://w3id.org/eusoilvoc#SoilMechanics,50
+topsoil,https://w3id.org/eusoilvoc#Topsoil,50
+surface runoff,https://w3id.org/eusoilvoc#SurfaceRunoff,49
+chromium,https://w3id.org/eusoilvoc#Chromium,49
+cementation,https://w3id.org/eusoilvoc#Cementation,46
+soil water retention,https://w3id.org/eusoilvoc#SoilWaterRetention,45
+soil biological crusts,https://w3id.org/eusoilvoc#SoilBiologicalCrusts,45
+manganese,https://w3id.org/eusoilvoc#Manganese,44
+soil reclamation,https://w3id.org/eusoilvoc#SoilReclamation,44
+soil particles,https://w3id.org/eusoilvoc#SoilParticles,44
+soil chemicophysical properties,https://w3id.org/eusoilvoc#SoilChemicophysicalProperties,43
+soil classification,https://w3id.org/eusoilvoc#SoilClassification,43
+sulfur,https://w3id.org/eusoilvoc#Sulfur,42
+grasses,https://w3id.org/eusoilvoc#Grasses,42
+soil acidification,https://w3id.org/eusoilvoc#SoilAcidification,42
+filtration,https://w3id.org/eusoilvoc#Filtration,41
+organic amendments,https://w3id.org/eusoilvoc#OrganicAmendments,41
+calcium,https://w3id.org/eusoilvoc#Calcium,39
+mercury,https://w3id.org/eusoilvoc#Mercury,39
+soil microorganisms,https://w3id.org/eusoilvoc#SoilMicroorganisms,39
+air porosity,https://w3id.org/eusoilvoc#AirPorosity,39
+soil physics,https://w3id.org/eusoilvoc#SoilPhysics,39
+soil stability,https://w3id.org/eusoilvoc#SoilStability,39
+soil aggregate stability,https://w3id.org/eusoilvoc#SoilAggregateStability,38
+clay soils,https://w3id.org/eusoilvoc#ClaySoils,38
+bulk density peat,https://w3id.org/eusoilvoc#BulkDensityPeat,38
+soil sealing,https://w3id.org/eusoilvoc#SoilSealing,37
+snow,https://w3id.org/eusoilvoc#Snow,36
+floods,https://w3id.org/eusoilvoc#Floods,35
+tropical soils,https://w3id.org/eusoilvoc#TropicalSoils,35
+soil leaching,https://w3id.org/eusoilvoc#SoilLeaching,35
+soil nutrient availability,https://w3id.org/eusoilvoc#SoilNutrientAvailability,35
+soil improvement,https://w3id.org/eusoilvoc#SoilImprovement,35
+soil hydraulic conductivity,https://w3id.org/eusoilvoc#SoilHydraulicConductivity,34
+runoff,https://w3id.org/eusoilvoc#Runoff,33
+soil electrical conductivity,https://w3id.org/eusoilvoc#SoilElectricalConductivity,33
+polluted soils,https://w3id.org/eusoilvoc#PollutedSoils,32
+soil water movement,https://w3id.org/eusoilvoc#SoilWaterMovement,32
+soil depth,https://w3id.org/eusoilvoc#SoilDepth,31
+inundation,https://w3id.org/eusoilvoc#Inundation,31
+soil aggregation,https://w3id.org/eusoilvoc#SoilAggregation,31
+soil sedimentation,https://w3id.org/eusoilvoc#SoilSedimentation,30
+soil particle size,https://w3id.org/eusoilvoc#SoilParticleSize,30
+nickel,https://w3id.org/eusoilvoc#Nickel,29
+ions,https://w3id.org/eusoilvoc#Ions,29
+soil organisms,https://w3id.org/eusoilvoc#SoilOrganisms,29
+soil indicators,https://w3id.org/eusoilvoc#SoilIndicators,28
+root biomass,https://w3id.org/eusoilvoc#RootBiomass,28
+aluminium,https://w3id.org/eusoilvoc#Aluminium,28
+saline soils,https://w3id.org/eusoilvoc#SalineSoils,28
+gypsum,https://w3id.org/eusoilvoc#Gypsum,28
+soil micropore,https://w3id.org/eusoilvoc#SoilMicropore,28
+soil water potential,https://w3id.org/eusoilvoc#SoilWaterPotential,28
+soil reactivity,https://w3id.org/eusoilvoc#SoilReactivity,27
+magnesium,https://w3id.org/eusoilvoc#Magnesium,27
+soil warming,https://w3id.org/eusoilvoc#SoilWarming,27
+Collembola,https://w3id.org/eusoilvoc#Collembola,27
+parent material,https://w3id.org/eusoilvoc#ParentMaterial,26
+conventional tillage,https://w3id.org/eusoilvoc#ConventionalTillage,26
+conventional drainage,https://w3id.org/eusoilvoc#ConventionalDrainage,26
+paddy soils,https://w3id.org/eusoilvoc#PaddySoils,26
+soil thermal properties,https://w3id.org/eusoilvoc#SoilThermalProperties,26
+salts,https://w3id.org/eusoilvoc#Salts,25
+agricultural sustainability,https://w3id.org/eusoilvoc#AgriculturalSustainability,25
+physiography,https://w3id.org/eusoilvoc#Physiography,25
+soil permittivity,https://w3id.org/eusoilvoc#SoilPermittivity,25
+soil water storage,https://w3id.org/eusoilvoc#SoilWaterStorage,24
+soil bulk density,https://w3id.org/eusoilvoc#SoilBulkDensity,23
+nutrient dynamics,https://w3id.org/eusoilvoc#NutrientDynamics,23
+organic soils,https://w3id.org/eusoilvoc#OrganicSoils,23
+soil inorganic carbon,https://w3id.org/eusoilvoc#SoilInorganicCarbon,23
+soil phosphorus loss,https://w3id.org/eusoilvoc#SoilPLoss,23
+soil permeability,https://w3id.org/eusoilvoc#SoilPermeability,23
+soil clay mineralogy,https://w3id.org/eusoilvoc#SoilClayMineralogy,23
+antimony,https://w3id.org/eusoilvoc#Antimony,22
+soil strength,https://w3id.org/eusoilvoc#SoilStrength,22
+slope,https://w3id.org/eusoilvoc#Slope,22
+soil substance,https://w3id.org/eusoilvoc#SoilSubstance,22
+soil shear strength,https://w3id.org/eusoilvoc#SoilShearStrength,22
+soil hydraulic properties,https://w3id.org/eusoilvoc#SoilHydraulicProperties,22
+climate regulation,https://w3id.org/eusoilvoc#ClimateRegulation,21
+soil macrofauna,https://w3id.org/eusoilvoc#SoilMacrofauna,21
+sandy soils,https://w3id.org/eusoilvoc#SandySoils,21
+plant cover,https://w3id.org/eusoilvoc#PlantCover,21
+air quality,https://w3id.org/eusoilvoc#AirQuality,21
+fine sand,https://w3id.org/eusoilvoc#FineSand,20
+nematodes,https://w3id.org/eusoilvoc#Nematodes,20
+ammonium fixation,https://w3id.org/eusoilvoc#AmmoniumFixation,20
+soil deformation,https://w3id.org/eusoilvoc#SoilDeformation,20
+soil threats,https://w3id.org/eusoilvoc#SoilThreats,20
+soil settlement,https://w3id.org/eusoilvoc#SoilSettlement,19
+soil melting,https://w3id.org/eusoilvoc#SoilMelting,19
+humus,https://w3id.org/eusoilvoc#Humus,19
+soil water characteristics,https://w3id.org/eusoilvoc#SoilWaterCharacteristics,19
+soil surveys,https://w3id.org/eusoilvoc#SoilSurveys,19
+soil retention,https://w3id.org/eusoilvoc#SoilRetention,19
+plant nutrient uptake,https://w3id.org/eusoilvoc#PlantNutrientUptake,18
+soil salinisation,https://w3id.org/eusoilvoc#SoilSalinisation,18
+soil drainage,https://w3id.org/eusoilvoc#SoilDrainage,18
+soil horizons,https://w3id.org/eusoilvoc#SoilHorizons,18
+cation exchange capacity,https://w3id.org/eusoilvoc#CationExchangeCapacity,18
+silt,https://w3id.org/eusoilvoc#Silt,18
+acid soils,https://w3id.org/eusoilvoc#AcidSoils,17
+boron,https://w3id.org/eusoilvoc#Boron,17
+plant water uptake,https://w3id.org/eusoilvoc#PlantWaterUptake,17
+soil aeration,https://w3id.org/eusoilvoc#SoilAeration,17
+evapouration,https://w3id.org/eusoilvoc#Evapouration,17
+soil density,https://w3id.org/eusoilvoc#SoilDensity,17
+soil age,https://w3id.org/eusoilvoc#SoilAge,16
+soil organic matter contents,https://w3id.org/eusoilvoc#SoilOrganicMatterContents,16
+mineral soils,https://w3id.org/eusoilvoc#MineralSoils,16
+soil porosity,https://w3id.org/eusoilvoc#SoilPorosity,16
+slope orientation,https://w3id.org/eusoilvoc#SlopeOrientation,16
+soil bearing capacity,https://w3id.org/eusoilvoc#SoilBearingCapacity,16
+soil sampling,https://w3id.org/eusoilvoc#SoilSampling,16
+soil microbial respiration,https://w3id.org/eusoilvoc#SoilMicrobialRespiration,15
+bentonite,https://w3id.org/eusoilvoc#Bentonite,15
+water purification,https://w3id.org/eusoilvoc#WaterPurification,15
+soil processes,https://w3id.org/eusoilvoc#SoilProcesses,15
+subsoil,https://w3id.org/eusoilvoc#Subsoil,15
+soil water availability,https://w3id.org/eusoilvoc#SoilWaterAvailability,15
+void classification,https://w3id.org/eusoilvoc#VoidClassification,15
+pedology,https://w3id.org/eusoilvoc#Pedology,15
+land rehabilitation,https://w3id.org/eusoilvoc#LandRehabilitation,14
+Oxisols,https://w3id.org/eusoilvoc#OxisolsUSDA,14
+crop residue mulch,https://w3id.org/eusoilvoc#CropResidueMulch,14
+soil biota,https://w3id.org/eusoilvoc#SoilBiota,14
+biomass productivity,https://w3id.org/eusoilvoc#BiomassProductivity,14
+soil saturation,https://w3id.org/eusoilvoc#SoilSaturation,14
+root growth,https://w3id.org/eusoilvoc#RootGrowth,14
+soil landscapes,https://w3id.org/eusoilvoc#SoilLandscapes,14
+soil slope stability,https://w3id.org/eusoilvoc#SoilSlopeStability,14
+wetland soils,https://w3id.org/eusoilvoc#WetlandSoils,13
+soil desertification,https://w3id.org/eusoilvoc#SoilDesertification,13
+soil penetration resistance,https://w3id.org/eusoilvoc#SoilPenetrationResistance,13
+soil denudation,https://w3id.org/eusoilvoc#SoilDenudation,13
+soil crusts,https://w3id.org/eusoilvoc#SoilCrusts,13
+soil components,https://w3id.org/eusoilvoc#SoilComponents,13
+bioturbation,https://w3id.org/eusoilvoc#Bioturbation,13
+soil water holding capacity,https://w3id.org/eusoilvoc#SoilWaterHoldingCapacity,12
+mulch,https://w3id.org/eusoilvoc#Mulch,12
+plant respiration,https://w3id.org/eusoilvoc#PlantRespiration,12
+cation sum,https://w3id.org/eusoilvoc#CationSum,12
+soil suitability,https://w3id.org/eusoilvoc#SoilSuitability,12
+peat soils,https://w3id.org/eusoilvoc#PeatSoils,12
+soil desiccation,https://w3id.org/eusoilvoc#SoilDesiccation,12
+liming,https://w3id.org/eusoilvoc#Liming,11
+Mollisols,https://w3id.org/eusoilvoc#MollisolsUSDA,11
+soil erodibility,https://w3id.org/eusoilvoc#SoilErodibility,11
+soil nutrient retention,https://w3id.org/eusoilvoc#SoilNutrientRetention,11
+soil dynamics,https://w3id.org/eusoilvoc#SoilDynamics,11
+soil sensitivity,https://w3id.org/eusoilvoc#SoilSensitivity,11
+calcareous soils,https://w3id.org/eusoilvoc#CalcareousSoils,11
+sodium,https://w3id.org/eusoilvoc#Sodium,10
+soil sorption,https://w3id.org/eusoilvoc#SoilSorption,10
+Vertisols,https://w3id.org/eusoilvoc#VertisolsUSDA,10
+soil water condensation,https://w3id.org/eusoilvoc#SoilWaterCondensation,10
+molybdenum,https://w3id.org/eusoilvoc#Molybdenum,10
+Technosols,https://w3id.org/eusoilvoc#TechnosolsWRB,10
+soil surface sealing,https://w3id.org/eusoilvoc#SoilSurfaceSealing,10
+building,https://w3id.org/eusoilvoc#Building,10
+soil conditioners,https://w3id.org/eusoilvoc#SoilConditioners,10
+soil pores,https://w3id.org/eusoilvoc#SoilPores,10
+soil treatment,https://w3id.org/eusoilvoc#SoilTreatment,10
+water erosion,https://w3id.org/eusoilvoc#WaterErosion,10
+Ultisols,https://w3id.org/eusoilvoc#UltisolsUSDA,10
+exchangeable cations,https://w3id.org/eusoilvoc#ExchangeableCations,10
+seedling emergence,https://w3id.org/eusoilvoc#SeedlingEmergence,10
+loess,https://w3id.org/eusoilvoc#Loess,9
+termites,https://w3id.org/eusoilvoc#Termites,9
+phosphorus retention,https://w3id.org/eusoilvoc#PhosphorusRetention,9
+volcanic soils,https://w3id.org/eusoilvoc#VolcanicSoils,9
+prairie soils,https://w3id.org/eusoilvoc#PrairieSoils,9
+habitats,https://w3id.org/eusoilvoc#Habitats,9
+arid soils,https://w3id.org/eusoilvoc#AridSoils,9
+interflow,https://w3id.org/eusoilvoc#Interflow,9
+soil vapour pressure,https://w3id.org/eusoilvoc#SoilVapourPressure,9
+soil thermal conductivity,https://w3id.org/eusoilvoc#SoilThermalConductivity,9
+soil moisture hysteresis,https://w3id.org/eusoilvoc#SoilMoistureHysteresis,9
+soil solution,https://w3id.org/eusoilvoc#SoilSolution,9
+soil water infiltration,https://w3id.org/eusoilvoc#SoilWaterInfiltration,9
+plant available phosphorus,https://w3id.org/eusoilvoc#PlantAvailablePhosphorus,8
+soil fragmentation,https://w3id.org/eusoilvoc#SoilFragmentation,8
+water regulation,https://w3id.org/eusoilvoc#WaterRegulation,8
+inorganic nitrogen,https://w3id.org/eusoilvoc#InorganicNitrogen,8
+soil physical quality,https://w3id.org/eusoilvoc#SoilPhysicalQuality,8
+ploughing,https://w3id.org/eusoilvoc#Ploughing,8
+macronutrients,https://w3id.org/eusoilvoc#Macronutrients,8
+wind erosion,https://w3id.org/eusoilvoc#WindErosion,8
+erosion control,https://w3id.org/eusoilvoc#ErosionControl,8
+edaphic factors,https://w3id.org/eusoilvoc#EdaphicFactors,8
+salt cover,https://w3id.org/eusoilvoc#SaltCover,8
+structural pores,https://w3id.org/eusoilvoc#StructuralPores,8
+arable soils,https://w3id.org/eusoilvoc#ArableSoils,8
+soil moisture movement,https://w3id.org/eusoilvoc#SoilMoistureMovement,8
+soil water balance,https://w3id.org/eusoilvoc#SoilWaterBalance,8
+soil water repellency,https://w3id.org/eusoilvoc#SoilWaterRepellency,7
+Vertisols,https://w3id.org/eusoilvoc#VertisolsWRB,7
+Vertisols,https://w3id.org/eusoilvoc#VertisolsFAO,7
+wet plasticity,https://w3id.org/eusoilvoc#WetPlasticity,7
+Andosols,https://w3id.org/eusoilvoc#AndosolsFAO,7
+Andosols,https://w3id.org/eusoilvoc#AndosolsWRB,7
+polychlorinated biphenyls,https://w3id.org/eusoilvoc#PolychlorinatedBiphenyls,7
+soil moisture deficit,https://w3id.org/eusoilvoc#SoilMoistureDeficit,7
+particle size fraction sum,https://w3id.org/eusoilvoc#ParticleSizeFractionSum,7
+plant available water contents,https://w3id.org/eusoilvoc#PlantAvailableWaterContents,7
+Rhizobacteria,https://w3id.org/eusoilvoc#Rhizobacteria,7
+plant part,https://w3id.org/eusoilvoc#PlantPart,7
+soil location,https://w3id.org/eusoilvoc#SoilLocation,7
+gully erosion,https://w3id.org/eusoilvoc#GullyErosion,7
+mites,https://w3id.org/eusoilvoc#Mites,7
+macroporosity,https://w3id.org/eusoilvoc#Macroporosity,7
+coastal soils,https://w3id.org/eusoilvoc#CoastalSoils,7
+nanoplastics,https://w3id.org/eusoilvoc#Nanoplastics,7
+soil chemical processes,https://w3id.org/eusoilvoc#SoilChemicalProcesses,7
+soil heat radiation,https://w3id.org/eusoilvoc#SoilHeatRadiation,7
+alluvial soils,https://w3id.org/eusoilvoc#AlluvialSoils,7
+base saturation,https://w3id.org/eusoilvoc#BaseSaturation,7
+soil resources,https://w3id.org/eusoilvoc#SoilResources,7
+coarse fragments,https://w3id.org/eusoilvoc#CoarseFragments,7
+vanadium,https://w3id.org/eusoilvoc#Vanadium,6
+soil heat transfer,https://w3id.org/eusoilvoc#SoilHeatTransfer,6
+soil heating,https://w3id.org/eusoilvoc#SoilHeating,6
+soil clay mineral,https://w3id.org/eusoilvoc#SoilClayMineral,6
+plant available water,https://w3id.org/eusoilvoc#PlantAvailableWater,6
+soil slaking,https://w3id.org/eusoilvoc#SoilSlaking,6
+mineral contents,https://w3id.org/eusoilvoc#MineralContents,6
+nitrogen content,https://w3id.org/eusoilvoc#NitrogenContent,6
+soil absorption,https://w3id.org/eusoilvoc#SoilAbsorption,6
+soil volumetric moisture contents,https://w3id.org/eusoilvoc#SoilVolumetricMoistureContents,6
+cobalt,https://w3id.org/eusoilvoc#Cobalt,6
+soil seed banks,https://w3id.org/eusoilvoc#SoilSeedBanks,6
+site preparation,https://w3id.org/eusoilvoc#SitePreparation,6
+ion exchange,https://w3id.org/eusoilvoc#IonExchange,6
+overland flow,https://w3id.org/eusoilvoc#OverlandFlow,6
+soil biological properties,https://w3id.org/eusoilvoc#SoilBiologicalProperties,6
+soil flocculation,https://w3id.org/eusoilvoc#SoilFlocculation,6
+soil gas,https://w3id.org/eusoilvoc#SoilGas,6
+soil moisture redistribution,https://w3id.org/eusoilvoc#SoilMoistureRedistribution,6
+desert soils,https://w3id.org/eusoilvoc#DesertSoils,6
+soil pore size distribution,https://w3id.org/eusoilvoc#SoilPoreSizeDistribution,6
+root respiration,https://w3id.org/eusoilvoc#RootRespiration,6
+soil structural stability,https://w3id.org/eusoilvoc#SoilStructuralStability,6
+waterlogging,https://w3id.org/eusoilvoc#Waterlogging,6
+soil physical functions,https://w3id.org/eusoilvoc#SoilPhysicalFunctions,5
+acid sulphate soils,https://w3id.org/eusoilvoc#AcidSulphateSoils,5
+soil heat capacity,https://w3id.org/eusoilvoc#SoilHeatCapacity,5
+soil pore heterogeneity,https://w3id.org/eusoilvoc#SoilPoreHeterogeneity,5
+parent deposition,https://w3id.org/eusoilvoc#ParentDeposition,5
+strip tillage,https://w3id.org/eusoilvoc#StripTillage,5
+peat drainage,https://w3id.org/eusoilvoc#PeatDrainage,5
+carbonate contents,https://w3id.org/eusoilvoc#CarbonateContents,5
+anthropogenic soils,https://w3id.org/eusoilvoc#AnthropogenicSoils,5
+soil information,https://w3id.org/eusoilvoc#SoilInformation,5
+unsaturated hydraulic conductivity,https://w3id.org/eusoilvoc#UnsaturatedHydraulicConductivity,5
+soil nutrient loss,https://w3id.org/eusoilvoc#SoilNutrientLoss,5
+saturated hydraulic conductivity,https://w3id.org/eusoilvoc#SaturatedHydraulicConductivity,5
+semi-arid soils,https://w3id.org/eusoilvoc#SemiAridSoils,5
+minimum tillage,https://w3id.org/eusoilvoc#MinimumTillage,5
+soil transport,https://w3id.org/eusoilvoc#SoilTransport,5
+soil redox potential,https://w3id.org/eusoilvoc#SoilRedoxPotential,5
+soil oxygen consumption,https://w3id.org/eusoilvoc#SoilOxygenConsumption,5
+plant growth-promoting rhizobacteria,https://w3id.org/eusoilvoc#PlantGrowthPromotingRhizobacteria,5
+soil carbon density,https://w3id.org/eusoilvoc#SoilCarbonDensity,5
+tree density,https://w3id.org/eusoilvoc#TreeDensity,5
+soil methanogenesis,https://w3id.org/eusoilvoc#SoilMethanogenesis,5
+weather past,https://w3id.org/eusoilvoc#WeatherPast,5
+ground cover,https://w3id.org/eusoilvoc#GroundCover,5
+soil particle size distribution,https://w3id.org/eusoilvoc#SoilParticleSizeDistribution,5
+road,https://w3id.org/eusoilvoc#Road,5
+soil mesofauna,https://w3id.org/eusoilvoc#SoilMesofauna,4
+soil nutrient storage,https://w3id.org/eusoilvoc#SoilNutrientStorage,4
+xeric soils,https://w3id.org/eusoilvoc#XericSoils,4
+Ferralsols,https://w3id.org/eusoilvoc#FerralsolsFAO,4
+Ferralsols,https://w3id.org/eusoilvoc#FerralsolsWRB,4
+inputs,https://w3id.org/eusoilvoc#Inputs,4
+soil densification,https://w3id.org/eusoilvoc#SoilDensification,4
+groundwater reproduction,https://w3id.org/eusoilvoc#GroundwaterReproduction,4
+soil buffering capacity,https://w3id.org/eusoilvoc#SoilBufferingCapacity,4
+soil structural crusts,https://w3id.org/eusoilvoc#SoilStructuralCrusts,4
+soil matric potential,https://w3id.org/eusoilvoc#SoilMatricPotential,4
+soil function indicators,https://w3id.org/eusoilvoc#SoilFunctionIndicators,4
+kaolinite,https://w3id.org/eusoilvoc#Kaolinite,4
+Histosols,https://w3id.org/eusoilvoc#HistosolsWRB,4
+Histosols,https://w3id.org/eusoilvoc#HistosolsUSDA,4
+Histosols,https://w3id.org/eusoilvoc#HistosolsFAO,4
+soil dispersion,https://w3id.org/eusoilvoc#SoilDispersion,4
+integrated soil fertility management,https://w3id.org/eusoilvoc#IntegratedSoilFertilityManagement,4
+soil available water capacity,https://w3id.org/eusoilvoc#SoilAvailableWaterCapacity,4
+erosion ratio,https://w3id.org/eusoilvoc#ErosionRatio,4
+subsoiling,https://w3id.org/eusoilvoc#Subsoiling,4
+karst soils,https://w3id.org/eusoilvoc#KarstSoils,4
+soil water table depth,https://w3id.org/eusoilvoc#SoilWaterTableDepth,4
+soil surface age,https://w3id.org/eusoilvoc#SoilSurfaceAge,4
+soil compression,https://w3id.org/eusoilvoc#SoilCompression,4
+rock,https://w3id.org/eusoilvoc#Rock,4
+soil description,https://w3id.org/eusoilvoc#SoilDescription,4
+soil total carbon,https://w3id.org/eusoilvoc#SoilTotalCarbon,4
+soil-borne fungi,https://w3id.org/eusoilvoc#SoilBorneFungi,4
+soil morphology,https://w3id.org/eusoilvoc#SoilMorphology,4
+roadside soils,https://w3id.org/eusoilvoc#RoadsideSoils,4
+building stability,https://w3id.org/eusoilvoc#BuildingStability,4
+land use grasses,https://w3id.org/eusoilvoc#LandUseGrasses,3
+nitrogen total,https://w3id.org/eusoilvoc#NitrogenTotal,3
+least limiting water range,https://w3id.org/eusoilvoc#LeastLimitingWaterRange,3
+soil biological functions,https://w3id.org/eusoilvoc#SoilBiologicalFunctions,3
+soil hydrophobicity,https://w3id.org/eusoilvoc#SoilHydrophobicity,3
+soil organic matter class,https://w3id.org/eusoilvoc#SoilOrganicMatterClass,3
+soil aggregate strength,https://w3id.org/eusoilvoc#SoilAggregateStrength,3
+salt thickness,https://w3id.org/eusoilvoc#SaltThickness,3
+soil air exchange,https://w3id.org/eusoilvoc#SoilAirExchange,3
+frigid soils,https://w3id.org/eusoilvoc#FrigidSoils,3
+soil contents,https://w3id.org/eusoilvoc#SoilContents,3
+pavements,https://w3id.org/eusoilvoc#Pavements,3
+Fluvisols,https://w3id.org/eusoilvoc#FluvisolsWRB,3
+Fluvisols,https://w3id.org/eusoilvoc#FluvisolsFAO,3
+loess soils,https://w3id.org/eusoilvoc#LoessSoils,3
+Acrisols,https://w3id.org/eusoilvoc#AcrisolsFAO,3
+Acrisols,https://w3id.org/eusoilvoc#AcrisolsWRB,3
+waste disposal,https://w3id.org/eusoilvoc#WasteDisposal,3
+percolation,https://w3id.org/eusoilvoc#Percolation,3
+layered soils,https://w3id.org/eusoilvoc#LayeredSoils,3
+soil water retention capacity,https://w3id.org/eusoilvoc#SoilWaterRetentionCapacity,3
+soil structure index,https://w3id.org/eusoilvoc#SoilStructureIndex,3
+loam soils,https://w3id.org/eusoilvoc#LoamSoils,3
+air filled porosity,https://w3id.org/eusoilvoc#AirFilledPorosity,3
+void ratio,https://w3id.org/eusoilvoc#VoidRatio,3
+fragments,https://w3id.org/eusoilvoc#Fragments,3
+soil volume,https://w3id.org/eusoilvoc#SoilVolume,3
+soil coating,https://w3id.org/eusoilvoc#SoilCoating,3
+Podzols,https://w3id.org/eusoilvoc#PodzolsWRB,3
+Podzols,https://w3id.org/eusoilvoc#PodzolsFAO,3
+bulk density whole soil,https://w3id.org/eusoilvoc#BulkDensityWholeSoil,3
+ion transport in soil,https://w3id.org/eusoilvoc#IonTransportInSoil,3
+soil aeration index,https://w3id.org/eusoilvoc#SoilAerationIndex,3
+primary tillage,https://w3id.org/eusoilvoc#PrimaryTillage,3
+seedbed preparation,https://w3id.org/eusoilvoc#SeedbedPreparation,3
+soil cracking,https://w3id.org/eusoilvoc#SoilCracking,3
+soil structure indirect index,https://w3id.org/eusoilvoc#SoilStructureIndirectIndex,3
+soil failure,https://w3id.org/eusoilvoc#SoilFailure,3
+organic mulches,https://w3id.org/eusoilvoc#OrganicMulches,3
+Revised Universal Soil Loss Equation,https://w3id.org/eusoilvoc#RevisedUniversalSoilLossEquation,3
+groundwater depth,https://w3id.org/eusoilvoc#GroundwaterDepth,3
+soil biological processes,https://w3id.org/eusoilvoc#SoilBiologicalProcesses,3
+mineral concentration,https://w3id.org/eusoilvoc#MineralConcentration,3
+soil consistence,https://w3id.org/eusoilvoc#SoilConsistence,3
+frost heave,https://w3id.org/eusoilvoc#FrostHeave,3
+soil field moisture capacity,https://w3id.org/eusoilvoc#SoilFieldMoistureCapacity,3
+Cambisols,https://w3id.org/eusoilvoc#CambisolsWRB,2
+Cambisols,https://w3id.org/eusoilvoc#CambisolsFAO,2
+Leptosols,https://w3id.org/eusoilvoc#LeptosolsWRB,2
+mean weight diametre,https://w3id.org/eusoilvoc#MeanWeightDiametre,2
+straw mulches,https://w3id.org/eusoilvoc#StrawMulches,2
+soil security,https://w3id.org/eusoilvoc#SoilSecurity,2
+mist,https://w3id.org/eusoilvoc#Mist,2
+controlled drainage,https://w3id.org/eusoilvoc#ControlledDrainage,2
+soil scarification,https://w3id.org/eusoilvoc#SoilScarification,2
+agricultural lime,https://w3id.org/eusoilvoc#AgriculturalLime,2
+soil erodibility index,https://w3id.org/eusoilvoc#SoilErodibilityIndex,2
+soil heat absorption,https://w3id.org/eusoilvoc#SoilHeatAbsorption,2
+soil shrinking,https://w3id.org/eusoilvoc#SoilShrinking,2
+foundation stability,https://w3id.org/eusoilvoc#FoundationStability,2
+tillage erosion,https://w3id.org/eusoilvoc#TillageErosion,2
+water storage capacity,https://w3id.org/eusoilvoc#WaterStorageCapacity,2
+soil channel,https://w3id.org/eusoilvoc#SoilChannel,2
+Alfisols,https://w3id.org/eusoilvoc#AlfisolsUSDA,2
+hail,https://w3id.org/eusoilvoc#Hail,2
+soil swelling potential,https://w3id.org/eusoilvoc#SoilSwellingPotential,2
+plastic mulches,https://w3id.org/eusoilvoc#PlasticMulches,2
+genetic soil types,https://w3id.org/eusoilvoc#GeneticSoilTypes,2
+soil phenomena,https://w3id.org/eusoilvoc#SoilPhenomena,2
+Inceptisols,https://w3id.org/eusoilvoc#InceptisolsUSDA,2
+Entisols,https://w3id.org/eusoilvoc#EntisolsUSDA,2
+pore abundance,https://w3id.org/eusoilvoc#PoreAbundance,2
+soil swelling,https://w3id.org/eusoilvoc#SoilSwelling,2
+biological features,https://w3id.org/eusoilvoc#BiologicalFeatures,2
+palaeosols,https://w3id.org/eusoilvoc#Palaeosols,2
+sodic soils,https://w3id.org/eusoilvoc#SodicSoils,2
+free-living nematodes,https://w3id.org/eusoilvoc#FreeLivingNematodes,2
+soil volume change,https://w3id.org/eusoilvoc#SoilVolumeChange,2
+soil water physical properties,https://w3id.org/eusoilvoc#SoilWaterPhysicalProperties,2
+foundation strength,https://w3id.org/eusoilvoc#FoundationStrength,2
+soil permanent deformation,https://w3id.org/eusoilvoc#SoilPermanentDeformation,2
+soil physical crusts,https://w3id.org/eusoilvoc#SoilPhysicalCrusts,2
+subsurface drainage,https://w3id.org/eusoilvoc#SubsurfaceDrainage,2
+soil inoculation,https://w3id.org/eusoilvoc#SoilInoculation,2
+soil trafficability,https://w3id.org/eusoilvoc#SoilTrafficability,2
+soil nutrient immobilisation,https://w3id.org/eusoilvoc#SoilNutrientImmobilisation,2
+soil moisture potential,https://w3id.org/eusoilvoc#SoilMoisturePotential,2
+soil water loss,https://w3id.org/eusoilvoc#SoilWaterLoss,2
+soil thermal regimes,https://w3id.org/eusoilvoc#SoilThermalRegimes,2
+drainage equipment,https://w3id.org/eusoilvoc#DrainageEquipment,2
+Phaeozems,https://w3id.org/eusoilvoc#PhaeozemsFAO,2
+Phaeozems,https://w3id.org/eusoilvoc#PhaeozemsWRB,2
+regulating services,https://w3id.org/eusoilvoc#RegulatingServices,2
+antecedent soil moisture contents,https://w3id.org/eusoilvoc#AntecedentSoilMoistureContents,2
+soil organic components,https://w3id.org/eusoilvoc#SoilOrganicComponents,2
+Cryosols,https://w3id.org/eusoilvoc#CryosolsWRB,2
+Chernozems,https://w3id.org/eusoilvoc#ChernozemsFAO,2
+Chernozems,https://w3id.org/eusoilvoc#ChernozemsWRB,2
+flood duration,https://w3id.org/eusoilvoc#FloodDuration,2
+irrigated soils,https://w3id.org/eusoilvoc#IrrigatedSoils,2
+gypsiferous soils,https://w3id.org/eusoilvoc#GypsiferousSoils,2
+land take,https://w3id.org/eusoilvoc#LandTake,2
+soil chemical reaction,https://w3id.org/eusoilvoc#SoilChemicalReaction,2
+soil zonation,https://w3id.org/eusoilvoc#SoilZonation,2
+soil air contents,https://w3id.org/eusoilvoc#SoilAirContents,1
+solifluction,https://w3id.org/eusoilvoc#Solifluction,1
+alkaline soils,https://w3id.org/eusoilvoc#AlkalineSoils,1
+water filtration (soil),https://w3id.org/eusoilvoc#SoilWaterFiltration,1
+heathland soils,https://w3id.org/eusoilvoc#HeathlandSoils,1
+flood frequency,https://w3id.org/eusoilvoc#FloodFrequency,1
+live mulches,https://w3id.org/eusoilvoc#LiveMulches,1
+soil deficiencies,https://w3id.org/eusoilvoc#SoilDeficiencies,1
+deep tillage,https://w3id.org/eusoilvoc#DeepTillage,1
+rill erosion,https://w3id.org/eusoilvoc#RillErosion,1
+soil environmental functions,https://w3id.org/eusoilvoc#SoilEnvironmentalFunctions,1
+soil pore size,https://w3id.org/eusoilvoc#SoilPoreSize,1
+ridge tillage,https://w3id.org/eusoilvoc#RidgeTillage,1
+soil depth rootable,https://w3id.org/eusoilvoc#SoilDepthRootable,1
+soil osmotic potential,https://w3id.org/eusoilvoc#SoilOsmoticPotential,1
+Andisols,https://w3id.org/eusoilvoc#AndisolsUSDA,1
+soil physical processes,https://w3id.org/eusoilvoc#SoilPhysicalProcesses,1
+soil shear strain,https://w3id.org/eusoilvoc#SoilShearStrain,1
+soil organic solid,https://w3id.org/eusoilvoc#SoilOrganicSolid,1
+soil sand contents,https://w3id.org/eusoilvoc#SoilSandContents,1
+splash erosion,https://w3id.org/eusoilvoc#SplashErosion,1
+piping erosion,https://w3id.org/eusoilvoc#PipingErosion,1
+field preparation,https://w3id.org/eusoilvoc#FieldPreparation,1
+soil water absorption,https://w3id.org/eusoilvoc#SoilWaterAbsorption,1
+soil air diffusion coefficient,https://w3id.org/eusoilvoc#SoilAirDiffusionCoefficient,1
+tile drainage,https://w3id.org/eusoilvoc#TileDrainage,1
+dispersive soils,https://w3id.org/eusoilvoc#DispersiveSoils,1
+soil voids,https://w3id.org/eusoilvoc#SoilVoids,1
+soil surface seal,https://w3id.org/eusoilvoc#SoilSurfaceSeal,1
+organomineral complexes,https://w3id.org/eusoilvoc#OrganomineralComplexes,1
+soil pore connectivity,https://w3id.org/eusoilvoc#SoilPoreConnectivity,1
+Luvisols,https://w3id.org/eusoilvoc#LuvisolsWRB,1
+Luvisols,https://w3id.org/eusoilvoc#LuvisolsFAO,1
+variable charge,https://w3id.org/eusoilvoc#VariableCharge,1
+soil water infiltration rate,https://w3id.org/eusoilvoc#SoilWaterInfiltrationRate,1
+soil air permeability,https://w3id.org/eusoilvoc#SoilAirPermeability,1
+biological activity in soil,https://w3id.org/eusoilvoc#SoilBiologicalActivity,1
+soil thermal processes,https://w3id.org/eusoilvoc#SoilThermalProcesses,1
+salt contents,https://w3id.org/eusoilvoc#SaltContents,1
+subtropical soils,https://w3id.org/eusoilvoc#SubtropicalSoils,1
+hydromorphic soils,https://w3id.org/eusoilvoc#HydromorphicSoils,1
+soil fumigation,https://w3id.org/eusoilvoc#SoilFumigation,1
+plant available nitrogen,https://w3id.org/eusoilvoc#PlantAvailableNitrogen,1
+soil chemical functions,https://w3id.org/eusoilvoc#SoilChemicalFunctions,1
+mineral particles,https://w3id.org/eusoilvoc#MineralParticles,1
+bleached sand,https://w3id.org/eusoilvoc#BleachedSand,1
+sandy texture,https://w3id.org/eusoilvoc#SandyTexture,1
+rotary cultivation,https://w3id.org/eusoilvoc#RotaryCultivation,1
+soil pore volume,https://w3id.org/eusoilvoc#SoilPoreVolume,1
+Universal Soil Loss Equation,https://w3id.org/eusoilvoc#UniversalSoilLossEquation,1
+serpentine soils,https://w3id.org/eusoilvoc#SerpentineSoils,1
+soil compressibility,https://w3id.org/eusoilvoc#SoilCompressibility,1
+structure size,https://w3id.org/eusoilvoc#StructureSize,1
+soil strength index,https://w3id.org/eusoilvoc#SoilStrengthIndex,1
+slope gradient,https://w3id.org/eusoilvoc#SlopeGradient,1
+soil sterilization,https://w3id.org/eusoilvoc#SoilSterilization,1
+soil clods,https://w3id.org/eusoilvoc#SoilClods,1
+soil colour,https://w3id.org/eusoilvoc#SoilColour,1
+soil mulches,https://w3id.org/eusoilvoc#SoilMulches,1
+soil seepage,https://w3id.org/eusoilvoc#SoilSeepage,1
+upland soils,https://w3id.org/eusoilvoc#UplandSoils,1
+soil water flow,https://w3id.org/eusoilvoc#SoilWaterFlow,1
+soil clay contents,https://w3id.org/eusoilvoc#SoilClayContents,1
+mechanical ratio,https://w3id.org/eusoilvoc#MechanicalRatio,1
+soil hydraulic gradient,https://w3id.org/eusoilvoc#SoilHydraulicGradient,1
+Anthrosols,https://w3id.org/eusoilvoc#AnthrosolsWRB,1
+peat volume,https://w3id.org/eusoilvoc#PeatVolume,1
+soil flow,https://w3id.org/eusoilvoc#SoilFlow,1
+soil flora,https://w3id.org/eusoilvoc#SoilFlora,1
+soil solutes,https://w3id.org/eusoilvoc#SoilSolutes,1
+sodium adsorption ratio,https://w3id.org/eusoilvoc#SodiumAdsorptionRatio,1
+available water holding capacity,https://w3id.org/eusoilvoc#AvailableWaterHoldingCapacity,1
+soil separate,https://w3id.org/eusoilvoc#SoilSeparate,1
+soil water transport,https://w3id.org/eusoilvoc#SoilWaterTransport,1
+pedon,https://w3id.org/eusoilvoc#Pedon,1
+total carbonate equivalent,https://w3id.org/eusoilvoc#TotalCarbonateEquivalent,1
+fog,https://w3id.org/eusoilvoc#Fog,1
+soil specific gravity,https://w3id.org/eusoilvoc#SoilSpecificGravity,1
+soil relative density,https://w3id.org/eusoilvoc#SoilRelativeDensity,1
+soil mechanical properties,https://w3id.org/eusoilvoc#SoilMechanicalProperties,1
+montmorillonites,https://w3id.org/eusoilvoc#Montmorillonites,1
+unsaturated water flow,https://w3id.org/eusoilvoc#UnsaturatedWaterFlow,1
+soil strain,https://w3id.org/eusoilvoc#SoilStrain,1
+soil structural resilience,https://w3id.org/eusoilvoc#SoilStructuralResilience,1
+land use class,https://w3id.org/eusoilvoc#LandUseClass,1
+provisioning services,https://w3id.org/eusoilvoc#ProvisioningServices,1
+saponite,https://w3id.org/eusoilvoc#Saponite,1
+soil solid,https://w3id.org/eusoilvoc#SoilSolid,1
+soil erosion degree,https://w3id.org/eusoilvoc#SoilErosionDegree,1
+soil exhaustion,https://w3id.org/eusoilvoc#SoilExhaustion,1
+soil cracks,https://w3id.org/eusoilvoc#SoilCracks,1
+soil aggregate size distribution,https://w3id.org/eusoilvoc#SoilAggregateSizeDistribution,1
+soil toxicity,https://w3id.org/eusoilvoc#SoilToxicity,1
+soil preferential flow path,https://w3id.org/eusoilvoc#SoilPreferentialFlowPath,1
+buried soils,https://w3id.org/eusoilvoc#BuriedSoils,1
+soil chemical degradation,https://w3id.org/eusoilvoc#SoilChemicalDegradation,1
+soil wetness,https://w3id.org/eusoilvoc#SoilWetness,1
+saturated vapour pressure,https://w3id.org/eusoilvoc#SaturatedVapourPressure,1
+soluble salts,https://w3id.org/eusoilvoc#SolubleSalts,1
+gaseous nitrogen,https://w3id.org/eusoilvoc#GaseousNitrogen,1
+coating forms,https://w3id.org/eusoilvoc#CoatingForms,1
+soil surface charge,https://w3id.org/eusoilvoc#SoilSurfaceCharge,1
+soil heat conduction,https://w3id.org/eusoilvoc#SoilHeatConduction,1
+carbonate forms,https://w3id.org/eusoilvoc#CarbonateForms,1
+rock abundance,https://w3id.org/eusoilvoc#RockAbundance,1
+illitic soils,https://w3id.org/eusoilvoc#IlliticSoils,1
+soil aggregate size,https://w3id.org/eusoilvoc#SoilAggregateSize,1
+soil classification FAO,https://w3id.org/eusoilvoc#SoilClassificationFAO,1
+soil classification USDA,https://w3id.org/eusoilvoc#SoilClassificationUSDA,1
+liming materials,https://w3id.org/eusoilvoc#LimingMaterials,1
+soil drying,https://w3id.org/eusoilvoc#SoilDrying,1
+soil mineral matter,https://w3id.org/eusoilvoc#SoilMineralMatter,1
+losses from soil,https://w3id.org/eusoilvoc#LossesFromSoil,1
+soil gaseous emission,https://w3id.org/eusoilvoc#SoilGaseousEmission,1
+soil true density,https://w3id.org/eusoilvoc#SoilTrueDensity,1
+Stagnosols,https://w3id.org/eusoilvoc#StagnosolsWRB,1
+weathering rock,https://w3id.org/eusoilvoc#WeatheringRock,1
+liquid ratio,https://w3id.org/eusoilvoc#LiquidRatio,1
+soil crusting,https://w3id.org/eusoilvoc#SoilCrusting,1
+soil elasticity,https://w3id.org/eusoilvoc#SoilElasticity,1
+supporting services,https://w3id.org/eusoilvoc#SupportingServices,1
+Solonchaks,https://w3id.org/eusoilvoc#SolonchaksWRB,1
+Solonchaks,https://w3id.org/eusoilvoc#SolonchaksFAO,1
+degree of saturation,https://w3id.org/eusoilvoc#DegreeOfSaturation,1

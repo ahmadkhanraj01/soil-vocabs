@@ -132,6 +132,45 @@ copies can be kept for reference; neither Pages nor the API image depends on the
 The previous HTML/JSON viewer and its publishing workflow are no longer used.
 Older versions remain available in Git history rather than in the current tree.
 
+## Subject classification of SoilWise metadata
+
+Added in this fork: tools that compare the free-text subjects in a SoilWise metadata database with SoilVoc and propose SoilVoc concepts for records that have no subjects. The database is only read (read-only `SELECT`); nothing is written to it. Database and API settings go in a git-ignored `.env`.
+
+```mermaid
+flowchart LR
+    DB[("SoilWise database<br/>read-only")] --> A["1. Keyword comparison<br/>scripts/compare_subjects_to_soilvoc.py"]
+    SV["SoilVoc_concepts.csv<br/>+ ontovocabs/"] --> A
+    A --> R["reports/subjects_vs_soilvoc/<br/>matched, unmatched, report"]
+    A --> C["curation/<br/>decisions, proposed new terms"]
+    DB --> B["2. Records without subjects"]
+    SV --> B
+    B --> L["Local model (Ollama)<br/>scripts/llm_extract_subjects.py"]
+    B --> M["Mistral API<br/>mistral/"]
+    L --> O["suggested SoilVoc concepts<br/>(CSV)"]
+    M --> O
+```
+
+**1. Keyword comparison** (rule-based, no model). Matches each subject keyword against SoilVoc by exact label, mapped AGROVOC/GEMET labels, spelling variants, cleaning rules and manual decisions.
+
+| | Before | After |
+|---|---|---|
+| Matched keywords | 553 (2.9%) | 731 (3.9%) |
+| Records with a SoilVoc subject | 5,082 (15.1%) | 5,762 (17.2%) |
+
+Details and the files: [reports/subjects_vs_soilvoc/README.md](./reports/subjects_vs_soilvoc/README.md). Plans: [SUBJECT_FACETS_PLAN.md](./SUBJECT_FACETS_PLAN.md) (facet design with one `record_concept` table) and [MATCH_IMPROVEMENT_PLAN.md](./MATCH_IMPROVEMENT_PLAN.md). Proposed new SoilVoc terms and synonyms are in `curation/`.
+
+**2. Suggestions for records without subjects** (about 23,300 records with a title and abstract in the stage database). Both versions shortlist the 25 closest SoilVoc concepts by embedding similarity and let a language model choose at most 5 of them. Results are suggestions and have not been checked against labelled data.
+
+| | Local model | Mistral API |
+|---|---|---|
+| Documentation | [LLM_EXTRACTION.md](./LLM_EXTRACTION.md) | [mistral/README.md](./mistral/README.md) |
+| Where it runs | your computer (Ollama) | Mistral servers |
+| Data leaves your computer | no | yes, titles and abstracts |
+| Cost | none | about $2.66 for all records (estimate) |
+| Dashboard | `scripts/progress_ui.py` | `mistral/ui.py` (also shows cost) |
+
+Both can be stopped and continued, and both have a progress page with a progress bar and estimated time remaining.
+
 ## Source vocabularies
 
 Source vocabulary data is stored under [ontovocabs](./ontovocabs). Every source is retained as a SKOS Turtle file and a derived CSV label index, with columns `concept`, `prefLabel`, and `altLabels`. Multiple alternative labels are separated by semicolons; definitions, mappings, and relationships remain in the Turtle file.

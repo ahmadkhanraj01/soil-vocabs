@@ -1,4 +1,4 @@
-# Propose SoilVoc subjects for records without subjects (LLM)
+# Local model (Ollama): propose SoilVoc subjects for records without subjects
 
 For the records that have **no subjects** in the database (about 23,600 of 33,566 in stage, 23,300 of them with a title and abstract), this proposes SoilVoc concepts from the title and abstract.
 
@@ -7,6 +7,38 @@ It is **read-only**. The database is only read (a `SELECT` in a read-only sessio
 The approach follows `soilwise-he/metadata-augmentation` (keyword-extractor, KeyLLM). It is **not validated**: there is no labelled test set yet, so treat the output as suggestions and review a sample before using it anywhere.
 
 > **Using the Mistral API instead of a local model?** See `mistral/README.md` (cost and time estimate, its own scripts and dashboard).
+
+## At a glance
+
+| | |
+|---|---|
+| Code | `scripts/llm_extract_subjects.py`, `scripts/progress_ui.py`, `scripts/run_extraction.sh` |
+| Model | any Ollama model for choosing (default `llama3.2:3b`), `nomic-embed-text` for the shortlist |
+| Data | stays on your computer |
+| Cost | none; you pay in time and hardware |
+| Speed (4 GB GPU laptop, 3B model) | about 2 to 6 s per record, so roughly 14 to 30 hours for all records |
+| Quality | not validated; the 3B model picked about 8 terms per record on the first prompt and tagged off-topic records |
+| Alternative | [mistral/README.md](./mistral/README.md): hosted API, about $2.66 and 2 to 6 hours for all records |
+
+```mermaid
+sequenceDiagram
+    participant You
+    participant RUN as run_extraction.sh
+    participant OL as Ollama (local)
+    participant DB as Database (read-only)
+    participant UI as Progress page
+    You->>RUN: bash scripts/run_extraction.sh
+    RUN->>OL: pull models (if missing)
+    RUN->>DB: count records without subjects
+    RUN-->>You: plan, confirm?
+    You->>RUN: y
+    RUN->>UI: start http://localhost:8765
+    loop every record
+        RUN->>OL: embed text, shortlist, choose terms
+        RUN->>UI: progress.json (bar, ETA)
+    end
+    RUN-->>You: llm_concepts.csv
+```
 
 ## How it works
 
