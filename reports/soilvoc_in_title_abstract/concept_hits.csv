@@ -1,0 +1,1465 @@
+level,prefLabel,top_concept,records_title,records_abstract,records_any,records_without_subjects,ambiguous_word,uri
+1,soil,soil,9940,16112,16607,11808,,https://w3id.org/eusoilvoc#Soil
+3,crop,land cover,1742,5886,6058,4942,,https://w3id.org/eusoilvoc#Crop
+2,climate,planetary phenomena,706,4135,4232,3000,,https://w3id.org/eusoilvoc#Climate
+4,nitrogen,soil substance,1606,3870,4147,3514,,https://w3id.org/eusoilvoc#Nitrogen
+4,biomass,soil properties,730,3723,3782,3161,,https://w3id.org/eusoilvoc#Biomass
+4,inputs,soil indicators,220,2586,2628,2039,yes,https://w3id.org/eusoilvoc#Inputs
+4,emissions,soil indicators,818,2304,2332,1837,,https://w3id.org/eusoilvoc#Emissions
+4,roots,land cover,531,2283,2323,1748,,https://w3id.org/eusoilvoc#Roots
+4,trees,land cover,479,2193,2248,1947,,https://w3id.org/eusoilvoc#Trees
+4,soil organic carbon,soil properties,791,2063,2197,1800,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+3,vegetation,land cover,278,2043,2078,1536,,https://w3id.org/eusoilvoc#Vegetation
+2,season,planetary phenomena,122,1977,2006,1702,,https://w3id.org/eusoilvoc#Season
+4,land use,soil indicators,451,1663,1715,1153,,https://w3id.org/eusoilvoc#LandUse
+1,soil properties,soil properties,342,1436,1542,1139,,https://w3id.org/eusoilvoc#SoilProperties
+4,lead,soil threats,38,1372,1391,1099,yes,https://w3id.org/eusoilvoc#Lead
+4,grasses,land cover,218,1295,1314,1175,,https://w3id.org/eusoilvoc#Grasses
+4,soil organic matter,soil substance,278,1168,1223,1007,,https://w3id.org/eusoilvoc#SoilOrganicMatter
+4,phosphorus,soil substance,340,1130,1190,968,,https://w3id.org/eusoilvoc#Phosphorus
+4,clay,soil properties,80,1157,1162,797,,https://w3id.org/eusoilvoc#Clay
+2,weather,planetary phenomena,44,1141,1150,613,,https://w3id.org/eusoilvoc#Weather
+1,soil health,soil health,299,1066,1105,771,,https://w3id.org/eusoilvoc#SoilHealth
+3,soil water,soil substance,192,1008,1039,791,,https://w3id.org/eusoilvoc#SoilWater
+3,precipitation,planetary phenomena,136,1014,1021,766,,https://w3id.org/eusoilvoc#Precipitation
+2,irrigation,soil management,292,930,960,758,,https://w3id.org/eusoilvoc#Irrigation
+3,soil moisture,soil substance,130,908,921,669,,https://w3id.org/eusoilvoc#SoilMoisture
+2,building,land cover,119,858,912,742,yes,https://w3id.org/eusoilvoc#Building
+1,ecosystem services,ecosystem services,159,822,837,543,,https://w3id.org/eusoilvoc#EcosystemServices
+3,crop yield,soil functions,162,765,795,635,,https://w3id.org/eusoilvoc#CropYield
+2,soil quality,soil properties,225,752,783,603,,https://w3id.org/eusoilvoc#SoilQuality
+2,topsoil,soil,162,699,733,418,,https://w3id.org/eusoilvoc#Topsoil
+3,soil pH,soil properties,39,681,687,584,,https://w3id.org/eusoilvoc#SoilpH
+5,sand,soil substance,69,672,681,511,,https://w3id.org/eusoilvoc#Sand
+6,agricultural soils,soil properties,216,580,668,376,,https://w3id.org/eusoilvoc#AgriculturalSoils
+2,habitats,soil functions,75,652,664,459,,https://w3id.org/eusoilvoc#Habitats
+3,soil profiles,soil description,62,618,631,454,,https://w3id.org/eusoilvoc#SoilProfiles
+4,soil types,soil properties,112,621,630,473,,https://w3id.org/eusoilvoc#SoilTypes
+1,soil management,soil management,161,567,607,366,,https://w3id.org/eusoilvoc#SoilManagement
+5,silt,soil substance,25,538,544,432,,https://w3id.org/eusoilvoc#Silt
+3,soil temperature,soil properties,36,533,535,464,,https://w3id.org/eusoilvoc#SoilTemperature
+2,slope,physiography,49,501,518,376,,https://w3id.org/eusoilvoc#Slope
+3,soil depth,soil properties,26,504,518,417,,https://w3id.org/eusoilvoc#SoilDepth
+3,soil structure,soil properties,53,467,480,373,,https://w3id.org/eusoilvoc#SoilStructure
+2,soil nutrients,soil substance,113,432,478,413,,https://w3id.org/eusoilvoc#SoilNutrients
+3,soil respiration,soil functions,190,451,475,407,,https://w3id.org/eusoilvoc#SoilRespiration
+3,conventional tillage,soil management,33,448,457,395,,https://w3id.org/eusoilvoc#ConventionalTillage
+2,soil erosion,soil threats,104,430,449,287,,https://w3id.org/eusoilvoc#SoilErosion
+3,microbes,soil substance,48,432,445,285,,https://w3id.org/eusoilvoc#Microbes
+3,soil maps,soil description,154,388,435,232,,https://w3id.org/eusoilvoc#SoilMaps
+4,potassium,soil substance,29,428,433,357,,https://w3id.org/eusoilvoc#Potassium
+6,forest soils,soil properties,172,366,430,342,,https://w3id.org/eusoilvoc#ForestSoils
+3,soil texture,soil properties,63,410,429,311,,https://w3id.org/eusoilvoc#SoilTexture
+2,no till,soil management,98,400,408,368,,https://w3id.org/eusoilvoc#NoTill
+5,soil water contents,soil properties,80,375,386,311,,https://w3id.org/eusoilvoc#SoilWaterContents
+3,earthworms,soil substance,203,371,377,288,,https://w3id.org/eusoilvoc#Earthworms
+6,mineral soils,soil properties,39,356,365,289,,https://w3id.org/eusoilvoc#MineralSoils
+3,runoff,planetary phenomena,80,353,359,241,,https://w3id.org/eusoilvoc#Runoff
+5,soil microbial biomass,soil properties,86,336,353,324,,https://w3id.org/eusoilvoc#SoilMicrobialBiomass
+1,land cover,land cover,84,333,351,152,,https://w3id.org/eusoilvoc#LandCover
+2,food production,soil functions,24,340,349,270,,https://w3id.org/eusoilvoc#FoodProduction
+4,calcium,soil substance,19,337,345,291,,https://w3id.org/eusoilvoc#Calcium
+2,soil degradation,soil threats,30,337,344,197,,https://w3id.org/eusoilvoc#SoilDegradation
+2,rhizosphere,soil,102,317,333,210,,https://w3id.org/eusoilvoc#Rhizosphere
+3,salts,soil substance,108,323,330,246,,https://w3id.org/eusoilvoc#Salts
+2,subsoil,soil,76,314,326,187,,https://w3id.org/eusoilvoc#Subsoil
+3,evapotranspiration,planetary phenomena,107,323,324,202,,https://w3id.org/eusoilvoc#Evapotranspiration
+4,rain,planetary phenomena,54,312,324,268,,https://w3id.org/eusoilvoc#Rain
+2,soil compaction,soil threats,42,305,315,251,,https://w3id.org/eusoilvoc#SoilCompaction
+5,root biomass,soil properties,15,293,294,246,,https://w3id.org/eusoilvoc#RootBiomass
+3,water quality,soil functions,39,286,291,223,,https://w3id.org/eusoilvoc#WaterQuality
+4,fragments,soil properties,17,281,283,218,yes,https://w3id.org/eusoilvoc#Fragments
+4,cation exchange,soil processes,13,267,270,209,,https://w3id.org/eusoilvoc#CationExchange
+2,soil chemical,soil substance,64,239,263,227,,https://w3id.org/eusoilvoc#SoilChemical
+4,peat,soil properties,55,251,260,190,,https://w3id.org/eusoilvoc#Peat
+5,cation exchange capacity,soil properties,11,253,256,196,,https://w3id.org/eusoilvoc#CationExchangeCapacity
+3,soil solution,soil substance,24,237,242,220,,https://w3id.org/eusoilvoc#SoilSolution
+5,nematodes,soil substance,90,234,238,180,,https://w3id.org/eusoilvoc#Nematodes
+2,soil moisture contents,soil properties,9,231,234,197,,https://w3id.org/eusoilvoc#SoilMoistureContents
+6,clay soils,soil properties,18,229,232,77,,https://w3id.org/eusoilvoc#ClaySoils
+4,iron,soil substance,55,221,230,131,,https://w3id.org/eusoilvoc#Iron
+2,mulch,soil management,49,221,229,177,,https://w3id.org/eusoilvoc#Mulch
+4,soil bulk density,soil properties,11,222,227,189,,https://w3id.org/eusoilvoc#SoilBulkDensity
+6,loam soils,soil properties,53,213,226,193,,https://w3id.org/eusoilvoc#LoamSoils
+2,carbon pools,soil functions,81,179,224,191,,https://w3id.org/eusoilvoc#CarbonPools
+3,nitrogen content,soil properties,25,208,218,181,,https://w3id.org/eusoilvoc#NitrogenContent
+3,organic amendments,soil management,65,208,217,185,,https://w3id.org/eusoilvoc#OrganicAmendments
+2,mulching,soil management,53,194,205,160,,https://w3id.org/eusoilvoc#Mulching
+4,microplastics,soil threats,158,188,204,66,,https://w3id.org/eusoilvoc#Microplastics
+1,soil sciences,soil sciences,12,199,203,142,,https://w3id.org/eusoilvoc#SoilSciences
+3,environmental factors,soil indicators,13,199,202,144,,https://w3id.org/eusoilvoc#EnvironmentalFactors
+3,transpiration,planetary phenomena,28,198,199,143,,https://w3id.org/eusoilvoc#Transpiration
+6,sandy soils,soil properties,38,184,195,160,,https://w3id.org/eusoilvoc#SandySoils
+3,root growth,soil functions,43,171,192,129,,https://w3id.org/eusoilvoc#RootGrowth
+3,soil aggregate,soil substance,53,176,188,141,,https://w3id.org/eusoilvoc#SoilAggregate
+1,soil functions,soil functions,37,185,187,96,,https://w3id.org/eusoilvoc#SoilFunctions
+2,soil information,soil description,28,170,184,116,,https://w3id.org/eusoilvoc#SoilInformation
+2,soil carbon sequestration,soil processes,75,137,184,143,,https://w3id.org/eusoilvoc#SoilCarbonSequestration
+3,soil microorganisms,soil substance,22,177,184,125,,https://w3id.org/eusoilvoc#SoilMicroorganisms
+3,loess,geology,115,170,183,154,,https://w3id.org/eusoilvoc#Loess
+2,liming,soil management,80,168,182,153,,https://w3id.org/eusoilvoc#Liming
+4,coarse fragments,soil substance,11,180,180,160,,https://w3id.org/eusoilvoc#CoarseFragments
+3,conservation tillage,soil management,66,169,178,153,,https://w3id.org/eusoilvoc#ConservationTillage
+4,sodium,soil properties,11,175,178,159,,https://w3id.org/eusoilvoc#Sodium
+4,magnesium,soil substance,3,174,175,142,,https://w3id.org/eusoilvoc#Magnesium
+4,snow,planetary phenomena,49,170,172,139,,https://w3id.org/eusoilvoc#Snow
+5,humus,soil substance,24,166,172,121,,https://w3id.org/eusoilvoc#Humus
+3,ions,soil substance,22,169,171,105,,https://w3id.org/eusoilvoc#Ions
+2,soil amendments,soil management,31,157,167,138,,https://w3id.org/eusoilvoc#SoilAmendments
+3,soil sampling,soil description,16,160,164,120,,https://w3id.org/eusoilvoc#SoilSampling
+3,ploughing,soil management,13,162,164,142,,https://w3id.org/eusoilvoc#Ploughing
+1,soil processes,soil processes,16,157,163,117,,https://w3id.org/eusoilvoc#SoilProcesses
+3,road,land cover,15,159,162,120,,https://w3id.org/eusoilvoc#Road
+4,carbonate,soil properties,12,154,156,96,,https://w3id.org/eusoilvoc#Carbonate
+4,zinc,soil substance,26,149,156,86,,https://w3id.org/eusoilvoc#Zinc
+5,rock,soil properties,20,146,149,75,,https://w3id.org/eusoilvoc#Rock
+4,copper,soil substance,40,139,146,101,,https://w3id.org/eusoilvoc#Copper
+3,floods,planetary phenomena,22,142,143,99,,https://w3id.org/eusoilvoc#Floods
+6,organic soils,soil properties,26,125,133,97,,https://w3id.org/eusoilvoc#OrganicSoils
+6,paddy soils,soil properties,88,113,131,119,,https://w3id.org/eusoilvoc#PaddySoils
+3,soil physical properties,soil properties,42,117,130,102,,https://w3id.org/eusoilvoc#SoilPhysicalProperties
+6,grassland soils,soil properties,44,112,129,107,,https://w3id.org/eusoilvoc#GrasslandSoils
+2,soil organisms,soil substance,5,124,128,77,,https://w3id.org/eusoilvoc#SoilOrganisms
+2,soil denudation,soil processes,16,124,126,57,,https://w3id.org/eusoilvoc#SoilDenudation
+2,pesticide use,soil management,9,119,124,111,,https://w3id.org/eusoilvoc#PesticideUse
+2,soil tillage,soil management,20,110,119,102,,https://w3id.org/eusoilvoc#SoilTillage
+3,digital soil mapping,soil description,8,116,117,67,,https://w3id.org/eusoilvoc#DigitalSoilMapping
+5,saturated hydraulic conductivity,soil indicators,9,115,117,79,,https://w3id.org/eusoilvoc#SaturatedHydraulicConductivity
+3,soil chemical properties,soil properties,34,103,116,101,,https://w3id.org/eusoilvoc#SoilChemicalProperties
+4,mineral particles,soil properties,0,114,114,109,,https://w3id.org/eusoilvoc#MineralParticles
+8,Luvisols,soil properties,23,110,114,80,,https://w3id.org/eusoilvoc#LuvisolsFAO
+8,Luvisols,soil properties,23,110,114,80,,https://w3id.org/eusoilvoc#LuvisolsWRB
+3,soil microbial activity,soil functions,24,100,111,89,,https://w3id.org/eusoilvoc#SoilMicrobialActivity
+4,soil separate,soil substance,0,111,111,111,,https://w3id.org/eusoilvoc#SoilSeparate
+3,soil aggregation,soil processes,38,102,110,92,,https://w3id.org/eusoilvoc#SoilAggregation
+3,filtration,soil functions,17,106,109,77,,https://w3id.org/eusoilvoc#Filtration
+2,plant cover,land cover,6,105,106,90,,https://w3id.org/eusoilvoc#PlantCover
+2,soil sealing,soil threats,16,95,104,35,,https://w3id.org/eusoilvoc#SoilSealing
+6,arable soils,soil properties,26,96,103,70,,https://w3id.org/eusoilvoc#ArableSoils
+2,soil surveys,soil description,19,88,102,59,,https://w3id.org/eusoilvoc#SoilSurveys
+4,gypsum,soil properties,39,95,100,49,,https://w3id.org/eusoilvoc#Gypsum
+4,minimum tillage,soil management,8,99,99,77,,https://w3id.org/eusoilvoc#MinimumTillage
+3,soil horizons,soil description,3,97,98,61,,https://w3id.org/eusoilvoc#SoilHorizons
+3,water erosion,soil threats,22,91,97,48,,https://w3id.org/eusoilvoc#WaterErosion
+2,soil productivity,soil properties,11,92,95,72,,https://w3id.org/eusoilvoc#SoilProductivity
+3,micronutrients,soil substance,11,91,93,66,,https://w3id.org/eusoilvoc#Micronutrients
+4,cadmium,soil threats,20,84,92,43,,https://w3id.org/eusoilvoc#Cadmium
+2,soil resources,soil,11,86,91,61,,https://w3id.org/eusoilvoc#SoilResources
+8,Cambisols,soil properties,13,86,91,60,,https://w3id.org/eusoilvoc#CambisolsFAO
+8,Cambisols,soil properties,13,86,91,60,,https://w3id.org/eusoilvoc#CambisolsWRB
+4,surface runoff,planetary phenomena,15,88,90,54,,https://w3id.org/eusoilvoc#SurfaceRunoff
+5,soil organic matter contents,soil properties,6,87,90,73,,https://w3id.org/eusoilvoc#SoilOrganicMatterContents
+6,acid soils,soil properties,41,77,90,80,,https://w3id.org/eusoilvoc#AcidSoils
+4,sulfur,soil substance,8,87,89,71,,https://w3id.org/eusoilvoc#Sulfur
+2,soil conservation,soil management,10,84,88,61,,https://w3id.org/eusoilvoc#SoilConservation
+2,soil chemistry,soil sciences,28,73,88,64,,https://w3id.org/eusoilvoc#SoilChemistry
+2,parent material,geology,6,86,87,42,,https://w3id.org/eusoilvoc#ParentMaterial
+4,base saturation,soil properties,0,86,86,71,,https://w3id.org/eusoilvoc#BaseSaturation
+5,mites,soil substance,21,85,85,69,,https://w3id.org/eusoilvoc#Mites
+3,erosion control,soil management,18,76,84,60,,https://w3id.org/eusoilvoc#ErosionControl
+5,inorganic nitrogen,soil substance,21,73,83,77,,https://w3id.org/eusoilvoc#InorganicNitrogen
+3,soil biota,soil properties,20,78,82,56,,https://w3id.org/eusoilvoc#SoilBiota
+3,soil salinity,soil properties,7,82,82,54,,https://w3id.org/eusoilvoc#SoilSalinity
+2,nutrient dynamics,soil functions,23,72,80,70,,https://w3id.org/eusoilvoc#NutrientDynamics
+3,air quality,soil functions,13,76,79,42,,https://w3id.org/eusoilvoc#AirQuality
+4,soil water retention,soil processes,14,78,79,51,,https://w3id.org/eusoilvoc#SoilWaterRetention
+2,soil acidification,soil threats,16,78,79,62,,https://w3id.org/eusoilvoc#SoilAcidification
+3,soil analysis,soil description,9,73,76,57,,https://w3id.org/eusoilvoc#SoilAnalysis
+4,A horizons,soil description,3,71,73,59,,https://w3id.org/eusoilvoc#AHorizons
+3,soil fauna,soil substance,20,69,72,45,,https://w3id.org/eusoilvoc#SoilFauna
+6,peat soils,soil properties,17,65,71,52,,https://w3id.org/eusoilvoc#PeatSoils
+1,soil threats,soil threats,19,69,71,20,,https://w3id.org/eusoilvoc#SoilThreats
+4,aluminium,soil threats,9,71,71,55,,https://w3id.org/eusoilvoc#Aluminium
+4,manganese,soil substance,5,69,70,56,,https://w3id.org/eusoilvoc#Manganese
+6,tropical soils,soil properties,20,61,68,60,,https://w3id.org/eusoilvoc#TropicalSoils
+8,Oxisols,soil properties,29,63,68,61,,https://w3id.org/eusoilvoc#OxisolsUSDA
+2,ground cover,land cover,5,67,67,57,,https://w3id.org/eusoilvoc#GroundCover
+4,soil warming,soil processes,33,64,67,61,,https://w3id.org/eusoilvoc#SoilWarming
+8,Vertisols,soil properties,25,67,67,60,,https://w3id.org/eusoilvoc#VertisolsFAO
+8,Vertisols,soil properties,25,67,67,60,,https://w3id.org/eusoilvoc#VertisolsUSDA
+8,Vertisols,soil properties,25,67,67,60,,https://w3id.org/eusoilvoc#VertisolsWRB
+3,soil particles,soil substance,7,66,67,38,,https://w3id.org/eusoilvoc#SoilParticles
+1,geology,geology,8,66,66,27,,https://w3id.org/eusoilvoc#Geology
+3,wind erosion,soil threats,16,60,66,47,,https://w3id.org/eusoilvoc#WindErosion
+4,soil nutrient availability,soil properties,8,59,64,56,,https://w3id.org/eusoilvoc#SoilNutrientAvailability
+2,water regulation,soil functions,8,58,59,37,,https://w3id.org/eusoilvoc#WaterRegulation
+3,soil hydraulic properties,soil properties,17,53,58,26,,https://w3id.org/eusoilvoc#SoilHydraulicProperties
+2,edaphic factors,soil properties,6,55,57,45,,https://w3id.org/eusoilvoc#EdaphicFactors
+3,total porosity,soil properties,0,56,56,39,,https://w3id.org/eusoilvoc#TotalPorosity
+2,soil organic carbon loss,soil threats,9,51,56,28,,https://w3id.org/eusoilvoc#SOCLoss
+5,nanoplastics,soil threats,38,55,56,25,,https://w3id.org/eusoilvoc#Nanoplastics
+3,percolation,planetary phenomena,20,55,55,28,,https://w3id.org/eusoilvoc#Percolation
+8,Alfisols,soil properties,22,50,55,54,,https://w3id.org/eusoilvoc#AlfisolsUSDA
+4,soil bacteria,soil substance,19,44,55,33,,https://w3id.org/eusoilvoc#SoilBacteria
+2,climate regulation,soil functions,4,53,54,26,,https://w3id.org/eusoilvoc#ClimateRegulation
+3,agricultural sustainability,soil functions,3,52,54,38,,https://w3id.org/eusoilvoc#AgriculturalSustainability
+6,wetland soils,soil properties,11,50,53,47,,https://w3id.org/eusoilvoc#WetlandSoils
+4,exchangeable cations,soil substance,6,52,53,47,,https://w3id.org/eusoilvoc#ExchangeableCations
+2,soil pollution,soil threats,11,49,53,27,,https://w3id.org/eusoilvoc#SoilPollution
+2,fertiliser use,soil management,8,50,52,50,,https://w3id.org/eusoilvoc#FertiliserUse
+3,root respiration,soil processes,10,51,51,45,,https://w3id.org/eusoilvoc#RootRespiration
+5,soil aggregate stability,soil properties,16,46,51,38,,https://w3id.org/eusoilvoc#SoilAggregateStability
+8,Chernozems,soil properties,23,42,51,36,,https://w3id.org/eusoilvoc#ChernozemsFAO
+8,Chernozems,soil properties,23,42,51,36,,https://w3id.org/eusoilvoc#ChernozemsWRB
+2,soil porosity,soil properties,4,48,50,34,,https://w3id.org/eusoilvoc#SoilPorosity
+6,polluted soils,soil properties,18,43,49,36,,https://w3id.org/eusoilvoc#PollutedSoils
+4,organic horizons,soil description,5,44,47,41,,https://w3id.org/eusoilvoc#OrganicHorizons
+8,Ultisols,soil properties,23,35,46,42,,https://w3id.org/eusoilvoc#UltisolsUSDA
+3,macroporosity,soil properties,1,46,46,35,,https://w3id.org/eusoilvoc#Macroporosity
+2,lithology,geology,14,43,44,9,,https://w3id.org/eusoilvoc#Lithology
+6,calcareous soils,soil properties,20,39,44,36,,https://w3id.org/eusoilvoc#CalcareousSoils
+3,macronutrients,soil substance,7,43,44,36,,https://w3id.org/eusoilvoc#Macronutrients
+2,waterlogging,soil threats,3,44,44,28,,https://w3id.org/eusoilvoc#Waterlogging
+3,soil water availability,soil functions,11,40,42,31,,https://w3id.org/eusoilvoc#SoilWaterAvailability
+3,biological nitrogen fixation,soil processes,17,41,42,28,,https://w3id.org/eusoilvoc#BiologicalNitrogenFixation
+2,soil treatment,soil management,2,40,41,30,,https://w3id.org/eusoilvoc#SoilTreatment
+4,soil water balance,soil properties,8,40,41,20,,https://w3id.org/eusoilvoc#SoilWaterBalance
+4,soil erodibility,soil properties,11,39,41,22,,https://w3id.org/eusoilvoc#SoilErodibility
+4,soil fungi,soil substance,2,40,41,27,,https://w3id.org/eusoilvoc#SoilFungi
+2,soil pores,soil substance,5,40,41,25,,https://w3id.org/eusoilvoc#SoilPores
+3,phosphorus content,soil properties,3,38,40,32,,https://w3id.org/eusoilvoc#PhosphorusContent
+6,soil classification,soil properties,6,37,40,21,,https://w3id.org/eusoilvoc#SoilClassification
+5,tree density,land cover,3,38,39,34,,https://w3id.org/eusoilvoc#TreeDensity
+8,Ferralsols,soil properties,12,35,39,33,,https://w3id.org/eusoilvoc#FerralsolsFAO
+8,Ferralsols,soil properties,12,35,39,33,,https://w3id.org/eusoilvoc#FerralsolsWRB
+3,Universal Soil Loss Equation,soil sciences,1,39,39,12,,https://w3id.org/eusoilvoc#UniversalSoilLossEquation
+3,harrowing,soil management,2,38,38,36,,https://w3id.org/eusoilvoc#Harrowing
+8,Mollisols,soil properties,21,32,38,37,,https://w3id.org/eusoilvoc#MollisolsUSDA
+2,soil biology,soil sciences,4,36,38,26,,https://w3id.org/eusoilvoc#SoilBiology
+4,plant available water,soil substance,6,37,38,25,,https://w3id.org/eusoilvoc#PlantAvailableWater
+5,Collembola,soil substance,10,37,38,23,,https://w3id.org/eusoilvoc#Collembola
+3,gravel,geology,4,37,37,24,,https://w3id.org/eusoilvoc#Gravel
+6,alkaline soils,soil properties,11,32,37,23,,https://w3id.org/eusoilvoc#AlkalineSoils
+4,nickel,soil threats,10,32,37,14,,https://w3id.org/eusoilvoc#Nickel
+6,upland soils,soil properties,9,33,36,32,,https://w3id.org/eusoilvoc#UplandSoils
+2,water purification,soil functions,5,32,34,15,,https://w3id.org/eusoilvoc#WaterPurification
+2,soil crusts,soil substance,10,32,34,23,,https://w3id.org/eusoilvoc#SoilCrusts
+4,boron,soil substance,4,33,34,28,,https://w3id.org/eusoilvoc#Boron
+2,soil improvement,soil management,7,28,33,24,,https://w3id.org/eusoilvoc#SoilImprovement
+4,soil water storage,soil processes,6,29,32,24,,https://w3id.org/eusoilvoc#SoilWaterStorage
+4,nitrate-nitrogen,soil properties,3,29,32,26,,https://w3id.org/eusoilvoc#NitrateNitrogen
+8,Acrisols,soil properties,11,30,32,31,,https://w3id.org/eusoilvoc#AcrisolsFAO
+8,Acrisols,soil properties,11,30,32,31,,https://w3id.org/eusoilvoc#AcrisolsWRB
+5,soil clay contents,soil properties,1,30,31,24,,https://w3id.org/eusoilvoc#SoilClayContents
+4,arsenic,soil threats,12,29,31,16,,https://w3id.org/eusoilvoc#Arsenic
+4,soil microbial respiration,soil functions,9,25,30,22,,https://w3id.org/eusoilvoc#SoilMicrobialRespiration
+3,permanent wilting point,soil properties,0,30,30,20,,https://w3id.org/eusoilvoc#PermanentWiltingPoint
+1,soil indicators,soil indicators,3,26,29,14,,https://w3id.org/eusoilvoc#SoilIndicators
+3,ion exchange,soil processes,7,28,29,22,,https://w3id.org/eusoilvoc#IonExchange
+8,Fluvisols,soil properties,4,29,29,18,,https://w3id.org/eusoilvoc#FluvisolsFAO
+8,Podzols,soil properties,5,28,29,18,,https://w3id.org/eusoilvoc#PodzolsFAO
+8,Fluvisols,soil properties,4,29,29,18,,https://w3id.org/eusoilvoc#FluvisolsWRB
+8,Podzols,soil properties,5,28,29,18,,https://w3id.org/eusoilvoc#PodzolsWRB
+4,mercury,soil threats,12,24,29,12,,https://w3id.org/eusoilvoc#Mercury
+2,seedbed preparation,soil management,1,27,28,26,,https://w3id.org/eusoilvoc#SeedbedPreparation
+8,Andosols,soil properties,10,26,28,20,,https://w3id.org/eusoilvoc#AndosolsFAO
+8,Andosols,soil properties,10,26,28,20,,https://w3id.org/eusoilvoc#AndosolsWRB
+6,loess soils,soil properties,18,19,28,23,,https://w3id.org/eusoilvoc#LoessSoils
+3,plant part,land cover,0,27,27,23,,https://w3id.org/eusoilvoc#PlantPart
+4,plastic mulches,soil management,9,27,27,9,,https://w3id.org/eusoilvoc#PlasticMulches
+3,subsoiling,soil management,6,26,27,23,,https://w3id.org/eusoilvoc#Subsoiling
+3,Revised Universal Soil Loss Equation,soil sciences,1,26,27,8,,https://w3id.org/eusoilvoc#RevisedUniversalSoilLossEquation
+3,soil aeration,soil functions,1,26,26,18,,https://w3id.org/eusoilvoc#SoilAeration
+8,Arenosols,soil properties,3,26,26,18,,https://w3id.org/eusoilvoc#ArenosolsFAO
+8,Andisols,soil properties,10,25,26,22,,https://w3id.org/eusoilvoc#AndisolsUSDA
+8,Arenosols,soil properties,3,26,26,18,,https://w3id.org/eusoilvoc#ArenosolsWRB
+5,fine sand,soil properties,1,26,26,20,,https://w3id.org/eusoilvoc#FineSand
+2,soil hydrology,soil sciences,7,22,26,11,,https://w3id.org/eusoilvoc#SoilHydrology
+2,site preparation,soil management,5,23,25,22,,https://w3id.org/eusoilvoc#SitePreparation
+5,soil water holding capacity,soil properties,0,25,25,17,,https://w3id.org/eusoilvoc#SoilWaterHoldingCapacity
+4,soil stability,soil properties,1,24,25,16,,https://w3id.org/eusoilvoc#SoilStability
+2,soil scientists,soil sciences,0,25,25,11,,https://w3id.org/eusoilvoc#SoilScientists
+3,biomass productivity,soil indicators,2,24,24,19,,https://w3id.org/eusoilvoc#BiomassProductivity
+2,soil biological properties,soil properties,5,23,24,23,,https://w3id.org/eusoilvoc#SoilBiologicalProperties
+3,biological features,soil properties,0,24,24,4,,https://w3id.org/eusoilvoc#BiologicalFeatures
+6,saline soils,soil properties,8,22,24,17,,https://w3id.org/eusoilvoc#SalineSoils
+5,coarse sand,soil properties,2,24,24,17,,https://w3id.org/eusoilvoc#CoarseSand
+2,soil components,soil substance,1,24,24,17,,https://w3id.org/eusoilvoc#SoilComponents
+5,Rhizobacteria,soil substance,4,22,24,13,,https://w3id.org/eusoilvoc#Rhizobacteria
+4,polycyclic aromatic hydrocarbons,soil threats,5,23,24,14,,https://w3id.org/eusoilvoc#PolycyclicAromaticHydrocarbons
+3,waste disposal,soil functions,1,22,23,19,,https://w3id.org/eusoilvoc#WasteDisposal
+4,straw mulches,soil management,1,22,23,19,,https://w3id.org/eusoilvoc#StrawMulches
+3,deep tillage,soil management,0,23,23,22,,https://w3id.org/eusoilvoc#DeepTillage
+2,losses from soil,soil processes,1,22,23,22,,https://w3id.org/eusoilvoc#LossesFromSoil
+5,carbonate contents,soil properties,1,23,23,18,,https://w3id.org/eusoilvoc#CarbonateContents
+4,soil contents,soil properties,0,23,23,16,,https://w3id.org/eusoilvoc#SoilContents
+4,soil electrical conductivity,soil properties,2,23,23,15,,https://w3id.org/eusoilvoc#SoilElectricalConductivity
+4,soil mesofauna,soil substance,4,23,23,13,,https://w3id.org/eusoilvoc#SoilMesofauna
+2,inundation,planetary phenomena,3,22,22,15,,https://w3id.org/eusoilvoc#Inundation
+3,soil moisture deficit,soil indicators,3,20,22,14,,https://w3id.org/eusoilvoc#SoilMoistureDeficit
+4,nitrogen total,soil properties,0,22,22,17,,https://w3id.org/eusoilvoc#NitrogenTotal
+4,soil physical quality,soil properties,3,22,22,19,,https://w3id.org/eusoilvoc#SoilPhysicalQuality
+6,volcanic soils,soil properties,11,22,22,19,,https://w3id.org/eusoilvoc#VolcanicSoils
+3,soil strength,soil properties,2,21,22,19,,https://w3id.org/eusoilvoc#SoilStrength
+2,soil landscapes,soil description,5,20,21,7,,https://w3id.org/eusoilvoc#SoilLandscapes
+2,soil drainage,soil management,1,20,21,16,,https://w3id.org/eusoilvoc#SoilDrainage
+4,strip tillage,soil management,4,20,21,20,,https://w3id.org/eusoilvoc#StripTillage
+3,disking,soil management,1,21,21,19,,https://w3id.org/eusoilvoc#Disking
+8,Regosols,soil properties,0,21,21,16,,https://w3id.org/eusoilvoc#RegosolsFAO
+8,Regosols,soil properties,0,21,21,16,,https://w3id.org/eusoilvoc#RegosolsWRB
+3,soil penetration resistance,soil properties,3,21,21,14,,https://w3id.org/eusoilvoc#SoilPenetrationResistance
+4,soil macrofauna,soil substance,6,18,21,18,,https://w3id.org/eusoilvoc#SoilMacrofauna
+2,soil age,soil properties,4,20,20,6,,https://w3id.org/eusoilvoc#SoilAge
+6,effective CEC,soil properties,0,20,20,20,,https://w3id.org/eusoilvoc#EffectiveCEC
+5,soil particle size,soil properties,5,18,20,10,,https://w3id.org/eusoilvoc#SoilParticleSize
+3,soil gas,soil substance,5,19,20,10,,https://w3id.org/eusoilvoc#SoilGas
+3,plant nutrient uptake,soil functions,1,19,19,14,,https://w3id.org/eusoilvoc#PlantNutrientUptake
+3,controlled drainage,soil management,2,19,19,16,,https://w3id.org/eusoilvoc#ControlledDrainage
+3,soil inorganic carbon,soil properties,4,19,19,13,,https://w3id.org/eusoilvoc#SoilInorganicCarbon
+5,gypsum contents,soil properties,0,19,19,14,,https://w3id.org/eusoilvoc#GypsumContents
+8,Histosols,soil properties,3,19,19,13,,https://w3id.org/eusoilvoc#HistosolsFAO
+8,Histosols,soil properties,3,19,19,13,,https://w3id.org/eusoilvoc#HistosolsUSDA
+8,Histosols,soil properties,3,19,19,13,,https://w3id.org/eusoilvoc#HistosolsWRB
+4,ridge tillage,soil management,2,18,18,18,,https://w3id.org/eusoilvoc#RidgeTillage
+3,soil salinization,soil processes,2,18,18,5,,https://w3id.org/eusoilvoc#SoilSalinization
+4,soil drying,soil processes,5,14,18,10,,https://w3id.org/eusoilvoc#SoilDrying
+6,prairie soils,soil properties,9,16,18,16,,https://w3id.org/eusoilvoc#PrairieSoils
+3,bioturbation,soil processes,3,16,17,11,,https://w3id.org/eusoilvoc#Bioturbation
+3,soil formation,soil processes,2,16,17,10,,https://w3id.org/eusoilvoc#SoilFormation
+6,irrigated soils,soil properties,3,15,17,15,,https://w3id.org/eusoilvoc#IrrigatedSoils
+8,Inceptisols,soil properties,6,15,17,15,,https://w3id.org/eusoilvoc#InceptisolsUSDA
+8,Calcisols,soil properties,0,17,17,8,,https://w3id.org/eusoilvoc#CalcisolsWRB
+3,soil water potential,soil properties,0,17,17,12,,https://w3id.org/eusoilvoc#SoilWaterPotential
+3,soil air,soil substance,1,16,17,14,,https://w3id.org/eusoilvoc#SoilAir
+4,chromium,soil threats,6,14,17,4,,https://w3id.org/eusoilvoc#Chromium
+4,polychlorinated biphenyls,soil threats,3,17,17,9,,https://w3id.org/eusoilvoc#PolychlorinatedBiphenyls
+2,pedon,soil description,0,16,16,15,,https://w3id.org/eusoilvoc#Pedon
+3,water storage capacity,soil indicators,1,16,16,12,,https://w3id.org/eusoilvoc#WaterStorageCapacity
+2,soil water repellency,soil phenomena,5,15,16,6,,https://w3id.org/eusoilvoc#SoilWaterRepellency
+4,soil freezing,soil processes,5,16,16,16,,https://w3id.org/eusoilvoc#SoilFreezing
+4,plant available phosphorus,soil properties,2,15,16,11,,https://w3id.org/eusoilvoc#PlantAvailablePhosphorus
+3,soil density,soil properties,2,15,16,13,,https://w3id.org/eusoilvoc#SoilDensity
+6,kaolinite,soil properties,0,16,16,10,,https://w3id.org/eusoilvoc#Kaolinite
+6,orchard soils,soil properties,7,14,16,11,,https://w3id.org/eusoilvoc#OrchardSoils
+2,soil physics,soil sciences,1,16,16,12,,https://w3id.org/eusoilvoc#SoilPhysics
+3,soil seed banks,soil substance,6,14,16,14,,https://w3id.org/eusoilvoc#SoilSeedBanks
+5,plant growth-promoting rhizobacteria,soil substance,3,15,16,7,,https://w3id.org/eusoilvoc#PlantGrowthPromotingRhizobacteria
+4,hail,planetary phenomena,0,15,15,15,,https://w3id.org/eusoilvoc#Hail
+5,unsaturated hydraulic conductivity,soil indicators,0,15,15,10,,https://w3id.org/eusoilvoc#UnsaturatedHydraulicConductivity
+3,soil deformation,soil processes,7,11,15,6,,https://w3id.org/eusoilvoc#SoilDeformation
+5,mineral contents,soil properties,2,14,15,14,,https://w3id.org/eusoilvoc#MineralContents
+6,arid soils,soil properties,3,14,15,12,,https://w3id.org/eusoilvoc#AridSoils
+8,Phaeozems,soil properties,1,15,15,12,,https://w3id.org/eusoilvoc#PhaeozemsFAO
+8,Phaeozems,soil properties,1,15,15,12,,https://w3id.org/eusoilvoc#PhaeozemsWRB
+4,soil volume,soil properties,1,14,15,8,,https://w3id.org/eusoilvoc#SoilVolume
+4,fine silt,soil properties,0,15,15,9,,https://w3id.org/eusoilvoc#FineSilt
+3,soil dynamics,soil sciences,4,13,15,10,,https://w3id.org/eusoilvoc#SoilDynamics
+5,termites,soil substance,4,15,15,12,,https://w3id.org/eusoilvoc#Termites
+3,overland flow,planetary phenomena,0,14,14,9,,https://w3id.org/eusoilvoc#OverlandFlow
+3,soil investigations,soil description,2,12,14,1,,https://w3id.org/eusoilvoc#SoilInvestigations
+4,soil redox potential,soil properties,3,13,14,12,,https://w3id.org/eusoilvoc#SoilRedoxPotential
+4,cementation,soil properties,3,14,14,7,,https://w3id.org/eusoilvoc#Cementation
+6,silty soils,soil properties,5,13,14,9,,https://w3id.org/eusoilvoc#SiltySoils
+3,soil total carbon,soil properties,1,14,14,12,,https://w3id.org/eusoilvoc#SoilTotalCarbon
+4,soil matric potential,soil properties,2,14,14,10,,https://w3id.org/eusoilvoc#SoilMatricPotential
+3,soil pollutants,soil threats,1,14,14,6,,https://w3id.org/eusoilvoc#SoilPollutants
+4,cobalt,soil threats,2,13,14,7,,https://w3id.org/eusoilvoc#Cobalt
+2,fine soil,soil,0,13,13,10,,https://w3id.org/eusoilvoc#FineSoil
+4,B horizons,soil description,0,13,13,10,,https://w3id.org/eusoilvoc#BHorizons
+3,external factors,soil indicators,0,13,13,11,,https://w3id.org/eusoilvoc#ExternalFactors
+4,clay ratio,soil indicators,2,13,13,4,,https://w3id.org/eusoilvoc#ClayRatio
+2,integrated soil fertility management,soil management,3,11,13,12,,https://w3id.org/eusoilvoc#IntegratedSoilFertilityManagement
+3,organic mulches,soil management,3,13,13,9,,https://w3id.org/eusoilvoc#OrganicMulches
+6,smectites,soil properties,1,12,13,6,,https://w3id.org/eusoilvoc#Smectites
+4,soil structural stability,soil properties,2,11,13,8,,https://w3id.org/eusoilvoc#SoilStructuralStability
+6,neutral soils,soil properties,1,13,13,9,,https://w3id.org/eusoilvoc#NeutralSoils
+6,desert soils,soil properties,4,11,13,12,,https://w3id.org/eusoilvoc#DesertSoils
+6,subtropical soils,soil properties,4,12,13,13,,https://w3id.org/eusoilvoc#SubtropicalSoils
+3,air filled porosity,soil properties,0,13,13,6,,https://w3id.org/eusoilvoc#AirFilledPorosity
+2,soil suitability,soil properties,8,11,13,6,,https://w3id.org/eusoilvoc#SoilSuitability
+2,soil biodiversity loss,soil threats,0,13,13,9,,https://w3id.org/eusoilvoc#SoilBiodiversityLoss
+4,soil hydraulic conductivity,soil indicators,2,10,12,10,,https://w3id.org/eusoilvoc#SoilHydraulicConductivity
+3,soil inoculation,soil management,1,11,12,7,,https://w3id.org/eusoilvoc#SoilInoculation
+3,land take,soil processes,1,12,12,5,,https://w3id.org/eusoilvoc#LandTake
+5,soil aggregate size,soil properties,0,12,12,12,,https://w3id.org/eusoilvoc#SoilAggregateSize
+5,soil sand contents,soil properties,1,11,12,8,,https://w3id.org/eusoilvoc#SoilSandContents
+6,available water holding capacity,soil properties,4,12,12,11,,https://w3id.org/eusoilvoc#AvailableWaterHoldingCapacity
+6,sodic soils,soil properties,8,12,12,8,,https://w3id.org/eusoilvoc#SodicSoils
+8,Gleysols,soil properties,1,12,12,9,,https://w3id.org/eusoilvoc#GleysolsFAO
+8,Spodosols,soil properties,5,12,12,11,,https://w3id.org/eusoilvoc#SpodosolsUSDA
+8,Gleysols,soil properties,1,12,12,9,,https://w3id.org/eusoilvoc#GleysolsWRB
+8,Leptosols,soil properties,0,12,12,8,,https://w3id.org/eusoilvoc#LeptosolsWRB
+8,Retisols,soil properties,2,12,12,2,,https://w3id.org/eusoilvoc#RetisolsWRB
+3,soil water regimes,soil properties,2,11,12,8,,https://w3id.org/eusoilvoc#SoilWaterRegimes
+1,soil description,soil description,0,11,11,7,,https://w3id.org/eusoilvoc#SoilDescription
+6,eroded soils,soil properties,0,11,11,8,,https://w3id.org/eusoilvoc#ErodedSoils
+8,Anthrosols,soil properties,3,10,11,8,,https://w3id.org/eusoilvoc#AnthrosolsWRB
+8,Stagnosols,soil properties,0,11,11,9,,https://w3id.org/eusoilvoc#StagnosolsWRB
+5,soil wetness,soil properties,3,8,11,4,,https://w3id.org/eusoilvoc#SoilWetness
+4,coarse silt,soil properties,0,11,11,6,,https://w3id.org/eusoilvoc#CoarseSilt
+3,liming materials,soil management,1,10,10,10,,https://w3id.org/eusoilvoc#LimingMaterials
+5,peat decomposition,soil properties,0,10,10,6,,https://w3id.org/eusoilvoc#PeatDecomposition
+6,vermiculites,soil properties,0,10,10,7,,https://w3id.org/eusoilvoc#Vermiculites
+6,meadow soils,soil properties,1,10,10,10,,https://w3id.org/eusoilvoc#MeadowSoils
+3,soil location,soil properties,1,10,10,1,,https://w3id.org/eusoilvoc#SoilLocation
+2,soil morphology,soil sciences,0,10,10,6,,https://w3id.org/eusoilvoc#SoilMorphology
+3,slope gradient,physiography,0,9,9,7,,https://w3id.org/eusoilvoc#SlopeGradient
+4,fog,planetary phenomena,2,9,9,6,,https://w3id.org/eusoilvoc#Fog
+3,carbon storage capacity,soil indicators,0,9,9,8,,https://w3id.org/eusoilvoc#CarbonStorageCapacity
+4,plant available water capacity,soil indicators,1,9,9,5,,https://w3id.org/eusoilvoc#PlantAvailableWaterCapacity
+3,soil conditioners,soil management,0,9,9,8,,https://w3id.org/eusoilvoc#SoilConditioners
+3,subsurface drainage,soil management,1,9,9,6,,https://w3id.org/eusoilvoc#SubsurfaceDrainage
+3,soil heating,soil management,2,9,9,5,,https://w3id.org/eusoilvoc#SoilHeating
+5,soil denitrification,soil processes,1,9,9,9,,https://w3id.org/eusoilvoc#SoilDenitrification
+3,soil mineralization,soil processes,1,8,9,9,,https://w3id.org/eusoilvoc#SoilMineralization
+4,soil accumulation,soil processes,0,9,9,8,,https://w3id.org/eusoilvoc#SoilAccumulation
+4,plant available nitrogen,soil properties,2,8,9,8,,https://w3id.org/eusoilvoc#PlantAvailableNitrogen
+8,Technosols,soil properties,5,9,9,9,,https://w3id.org/eusoilvoc#TechnosolsWRB
+4,soluble salts,soil substance,0,9,9,7,,https://w3id.org/eusoilvoc#SolubleSalts
+4,free-living nematodes,soil substance,1,9,9,5,,https://w3id.org/eusoilvoc#FreeLivingNematodes
+2,provisioning services,ecosystem services,0,8,8,4,,https://w3id.org/eusoilvoc#ProvisioningServices
+3,soil disinfection,soil management,1,7,8,6,,https://w3id.org/eusoilvoc#SoilDisinfection
+4,soil subsidence,soil processes,0,8,8,8,,https://w3id.org/eusoilvoc#SoilSubsidence
+5,bulk density fine earth,soil properties,5,4,8,8,,https://w3id.org/eusoilvoc#BulkDensityFineEarth
+6,illites,soil properties,0,8,8,4,,https://w3id.org/eusoilvoc#Illites
+8,Entisols,soil properties,0,8,8,7,,https://w3id.org/eusoilvoc#EntisolsUSDA
+8,Lixisols,soil properties,0,8,8,7,,https://w3id.org/eusoilvoc#LixisolsWRB
+6,alluvial soils,soil properties,3,7,8,7,,https://w3id.org/eusoilvoc#AlluvialSoils
+5,salt contents,soil substance,1,8,8,5,,https://w3id.org/eusoilvoc#SaltContents
+3,soil solid,soil substance,0,8,8,2,,https://w3id.org/eusoilvoc#SoilSolid
+4,molybdenum,soil substance,0,8,8,2,,https://w3id.org/eusoilvoc#Molybdenum
+4,soil biopore,soil substance,1,8,8,7,,https://w3id.org/eusoilvoc#SoilBiopore
+4,gully erosion,soil threats,3,8,8,4,,https://w3id.org/eusoilvoc#GullyErosion
+4,vanadium,soil threats,4,6,8,3,,https://w3id.org/eusoilvoc#Vanadium
+2,cultural services,ecosystem services,0,7,7,4,,https://w3id.org/eusoilvoc#CulturalServices
+5,root abundance,land cover,2,7,7,5,,https://w3id.org/eusoilvoc#RootAbundance
+4,C horizons,soil description,0,7,7,5,,https://w3id.org/eusoilvoc#CHorizons
+4,deep ploughing,soil management,0,7,7,5,,https://w3id.org/eusoilvoc#DeepPloughing
+3,primary tillage,soil management,0,7,7,7,,https://w3id.org/eusoilvoc#PrimaryTillage
+3,seedling emergence,soil processes,0,7,7,7,,https://w3id.org/eusoilvoc#SeedlingEmergence
+3,soil retention,soil processes,0,7,7,4,,https://w3id.org/eusoilvoc#SoilRetention
+4,mineral concentration,soil properties,1,7,7,3,,https://w3id.org/eusoilvoc#MineralConcentration
+8,Umbrisols,soil properties,1,7,7,7,,https://w3id.org/eusoilvoc#UmbrisolsWRB
+6,claypan soils,soil properties,5,6,7,7,,https://w3id.org/eusoilvoc#ClaypanSoils
+6,stony soils,soil properties,0,7,7,7,,https://w3id.org/eusoilvoc#StonySoils
+5,medium sand,soil properties,0,7,7,3,,https://w3id.org/eusoilvoc#MediumSand
+5,soil carbon density,soil properties,0,7,7,6,,https://w3id.org/eusoilvoc#SoilCarbonDensity
+2,soil permeability,soil properties,2,7,7,3,,https://w3id.org/eusoilvoc#SoilPermeability
+3,soil macropore,soil substance,1,6,7,2,,https://w3id.org/eusoilvoc#SoilMacropore
+2,regulating services,ecosystem services,1,6,6,2,,https://w3id.org/eusoilvoc#RegulatingServices
+2,rock outcrops,geology,0,6,6,5,,https://w3id.org/eusoilvoc#RockOutcrops
+1,physiography,physiography,1,6,6,3,,https://w3id.org/eusoilvoc#Physiography
+3,soil water infiltration,planetary phenomena,0,6,6,6,,https://w3id.org/eusoilvoc#SoilWaterInfiltration
+3,wheel tracks,soil description,1,6,6,5,,https://w3id.org/eusoilvoc#WheelTracks
+3,soil stabilization,soil management,0,6,6,4,,https://w3id.org/eusoilvoc#SoilStabilization
+3,tile drainage,soil management,1,5,6,3,,https://w3id.org/eusoilvoc#TileDrainage
+4,soil leaching,soil processes,1,5,6,4,,https://w3id.org/eusoilvoc#SoilLeaching
+4,mass movement,soil processes,0,6,6,2,,https://w3id.org/eusoilvoc#MassMovement
+4,soil water movement,soil processes,0,6,6,4,,https://w3id.org/eusoilvoc#SoilWaterMovement
+4,sodium adsorption ratio,soil properties,0,6,6,5,,https://w3id.org/eusoilvoc#SodiumAdsorptionRatio
+5,soil particle size distribution,soil properties,0,6,6,3,,https://w3id.org/eusoilvoc#SoilParticleSizeDistribution
+5,soil water retention capacity,soil properties,0,6,6,3,,https://w3id.org/eusoilvoc#SoilWaterRetentionCapacity
+8,Kastanozems,soil properties,1,6,6,6,,https://w3id.org/eusoilvoc#KastanozemsFAO
+8,Planosols,soil properties,0,6,6,3,,https://w3id.org/eusoilvoc#PlanosolsFAO
+8,Kastanozems,soil properties,1,6,6,6,,https://w3id.org/eusoilvoc#KastanozemsWRB
+8,Planosols,soil properties,0,6,6,3,,https://w3id.org/eusoilvoc#PlanosolsWRB
+6,coastal soils,soil properties,2,5,6,4,,https://w3id.org/eusoilvoc#CoastalSoils
+5,bentonite,soil properties,0,6,6,4,,https://w3id.org/eusoilvoc#Bentonite
+2,soil erosion models,soil sciences,2,5,6,2,,https://w3id.org/eusoilvoc#SoilErosionModels
+4,infiltration water,soil substance,1,6,6,4,,https://w3id.org/eusoilvoc#InfiltrationWater
+5,phosphorus retention,soil substance,5,3,6,4,,https://w3id.org/eusoilvoc#PhosphorusRetention
+3,tillage erosion,soil threats,1,6,6,3,,https://w3id.org/eusoilvoc#TillageErosion
+4,splash erosion,soil threats,4,5,6,4,,https://w3id.org/eusoilvoc#SplashErosion
+4,mist,planetary phenomena,0,5,5,3,,https://w3id.org/eusoilvoc#Mist
+2,land use class,soil description,0,5,5,4,,https://w3id.org/eusoilvoc#LandUseClass
+4,diagnostic horizons,soil description,1,4,5,2,,https://w3id.org/eusoilvoc#DiagnosticHorizons
+2,soil biological processes,soil processes,0,5,5,4,,https://w3id.org/eusoilvoc#SoilBiologicalProcesses
+3,soil structural change,soil processes,1,4,5,2,,https://w3id.org/eusoilvoc#SoilStructuralChange
+4,soil thawing,soil processes,0,5,5,5,,https://w3id.org/eusoilvoc#SoilThawing
+4,soil water loss,soil processes,0,5,5,5,,https://w3id.org/eusoilvoc#SoilWaterLoss
+5,gaseous nitrogen,soil properties,2,5,5,5,,https://w3id.org/eusoilvoc#GaseousNitrogen
+4,soil colour,soil properties,0,5,5,3,,https://w3id.org/eusoilvoc#SoilColour
+5,soil silt contents,soil properties,0,5,5,5,,https://w3id.org/eusoilvoc#SoilSiltContents
+4,soil tilth,soil properties,0,5,5,4,,https://w3id.org/eusoilvoc#SoilTilth
+8,rankers,soil properties,1,4,5,1,,https://w3id.org/eusoilvoc#RankersFAO
+7,serpentine soils,soil properties,2,4,5,4,,https://w3id.org/eusoilvoc#SerpentineSoils
+5,soil saturation,soil properties,0,5,5,3,,https://w3id.org/eusoilvoc#SoilSaturation
+4,sandy texture,soil properties,0,5,5,4,,https://w3id.org/eusoilvoc#SandyTexture
+3,least limiting water range,soil properties,2,5,5,5,,https://w3id.org/eusoilvoc#LeastLimitingWaterRange
+3,soil exhaustion,soil threats,0,5,5,5,,https://w3id.org/eusoilvoc#SoilExhaustion
+,pHCaCl2,,3,3,5,2,,https://w3id.org/eusoilvoc#pHProcedure-pHCaCl2
+,pHKCl,,0,5,5,2,,https://w3id.org/eusoilvoc#pHProcedure-pHKCl
+3,alluvium,geology,0,4,4,2,,https://w3id.org/eusoilvoc#Alluvium
+3,plant water uptake,soil functions,0,4,4,1,,https://w3id.org/eusoilvoc#PlantWaterUptake
+4,soil nutrient retention,soil processes,1,3,4,3,,https://w3id.org/eusoilvoc#SoilNutrientRetention
+5,total carbonate equivalent,soil properties,0,4,4,3,,https://w3id.org/eusoilvoc#TotalCarbonateEquivalent
+6,allophane,soil properties,0,4,4,2,,https://w3id.org/eusoilvoc#Allophane
+6,montmorillonites,soil properties,0,4,4,1,,https://w3id.org/eusoilvoc#Montmorillonites
+5,soil pore space,soil properties,0,4,4,1,,https://w3id.org/eusoilvoc#SoilPoreSpace
+5,anthropogenic soils,soil properties,2,3,4,4,,https://w3id.org/eusoilvoc#AnthropogenicSoils
+6,reclaimed soils,soil properties,1,3,4,4,,https://w3id.org/eusoilvoc#ReclaimedSoils
+6,horticultural soils,soil properties,2,3,4,3,,https://w3id.org/eusoilvoc#HorticulturalSoils
+6,heathland soils,soil properties,3,2,4,3,,https://w3id.org/eusoilvoc#HeathlandSoils
+6,rangeland soils,soil properties,1,3,4,4,,https://w3id.org/eusoilvoc#RangelandSoils
+6,virgin soils,soil properties,1,3,4,4,,https://w3id.org/eusoilvoc#VirginSoils
+8,Solonetz,soil properties,0,4,4,4,,https://w3id.org/eusoilvoc#SolonetzFAO
+8,Solonetz,soil properties,0,4,4,4,,https://w3id.org/eusoilvoc#SolonetzWRB
+6,mountain soils,soil properties,2,4,4,3,,https://w3id.org/eusoilvoc#MountainSoils
+2,soil surface properties,soil properties,0,4,4,1,,https://w3id.org/eusoilvoc#SoilSurfaceProperties
+2,soil mechanics,soil sciences,1,3,4,1,,https://w3id.org/eusoilvoc#SoilMechanics
+3,accelerated erosion,soil threats,2,3,4,4,,https://w3id.org/eusoilvoc#AcceleratedErosion
+4,antimony,soil threats,1,4,4,2,,https://w3id.org/eusoilvoc#Antimony
+,pHH2O,,0,4,4,4,,https://w3id.org/eusoilvoc#pHProcedure-pHH2O
+3,plant respiration,soil functions,1,2,3,3,,https://w3id.org/eusoilvoc#PlantRespiration
+3,soil gaseous emission,soil functions,0,3,3,3,,https://w3id.org/eusoilvoc#SoilGaseousEmission
+5,land use forests,soil indicators,0,3,3,3,,https://w3id.org/eusoilvoc#LandUseForests
+4,soil aggregate size distribution,soil indicators,0,3,3,3,,https://w3id.org/eusoilvoc#SoilAggregateSizeDistribution
+4,dispersion ratio,soil indicators,0,3,3,3,,https://w3id.org/eusoilvoc#DispersionRatio
+3,inorganic amendments,soil management,1,2,3,1,,https://w3id.org/eusoilvoc#InorganicAmendments
+4,agricultural lime,soil management,0,3,3,3,,https://w3id.org/eusoilvoc#AgriculturalLime
+4,lime (amendment),soil management,0,3,3,1,,https://w3id.org/eusoilvoc#LimeAmendment
+3,land rehabilitation,soil management,1,2,3,3,,https://w3id.org/eusoilvoc#LandRehabilitation
+2,soil reclamation,soil management,0,3,3,2,,https://w3id.org/eusoilvoc#SoilReclamation
+3,field preparation,soil management,0,3,3,2,,https://w3id.org/eusoilvoc#FieldPreparation
+3,secondary tillage,soil management,0,3,3,3,,https://w3id.org/eusoilvoc#SecondaryTillage
+3,soil cracking,soil phenomena,0,3,3,2,,https://w3id.org/eusoilvoc#SoilCracking
+2,soil hydrophobicity,soil phenomena,1,3,3,2,,https://w3id.org/eusoilvoc#SoilHydrophobicity
+4,soil crusting,soil processes,0,3,3,2,,https://w3id.org/eusoilvoc#SoilCrusting
+3,soil sorption,soil processes,1,3,3,1,,https://w3id.org/eusoilvoc#SoilSorption
+2,soil physical processes,soil processes,0,3,3,1,,https://w3id.org/eusoilvoc#SoilPhysicalProcesses
+5,soil water flow,soil processes,0,3,3,0,,https://w3id.org/eusoilvoc#SoilWaterFlow
+5,soil desiccation,soil processes,0,3,3,2,,https://w3id.org/eusoilvoc#SoilDesiccation
+6,variable charge,soil properties,1,2,3,2,,https://w3id.org/eusoilvoc#VariableCharge
+6,cation exchange capacity soil,soil properties,0,3,3,3,,https://w3id.org/eusoilvoc#CationExchangeCapacitySoil
+5,bulk density whole soil,soil properties,3,0,3,3,,https://w3id.org/eusoilvoc#BulkDensityWholeSoil
+4,soil water characteristics,soil properties,0,3,3,2,,https://w3id.org/eusoilvoc#SoilWaterCharacteristics
+4,rhizosphere pH,soil properties,1,3,3,0,,https://w3id.org/eusoilvoc#RhizospherePH
+4,soil thermal properties,soil properties,1,3,3,1,,https://w3id.org/eusoilvoc#SoilThermalProperties
+7,Solonchaks,soil properties,0,3,3,3,,https://w3id.org/eusoilvoc#SolonchaksWRB
+6,semi-arid soils,soil properties,2,3,3,3,,https://w3id.org/eusoilvoc#SemiAridSoils
+6,hydromorphic soils,soil properties,1,3,3,3,,https://w3id.org/eusoilvoc#HydromorphicSoils
+8,Solonchaks,soil properties,0,3,3,3,,https://w3id.org/eusoilvoc#SolonchaksFAO
+8,Aridisols,soil properties,3,3,3,3,,https://w3id.org/eusoilvoc#AridisolsUSDA
+8,Alisols,soil properties,0,3,3,3,,https://w3id.org/eusoilvoc#AlisolsWRB
+8,Gypsisols,soil properties,0,3,3,2,,https://w3id.org/eusoilvoc#GypsisolsWRB
+6,basaltic soils,soil properties,0,3,3,1,,https://w3id.org/eusoilvoc#BasalticSoils
+4,stickiness,soil properties,0,3,3,2,,https://w3id.org/eusoilvoc#Stickiness
+4,structure size,soil properties,1,3,3,2,,https://w3id.org/eusoilvoc#StructureSize
+4,medium silt,soil properties,0,3,3,2,,https://w3id.org/eusoilvoc#MediumSilt
+3,degree of saturation,soil properties,0,3,3,0,,https://w3id.org/eusoilvoc#DegreeOfSaturation
+3,structural porosity,soil properties,0,3,3,2,,https://w3id.org/eusoilvoc#StructuralPorosity
+2,pedology,soil sciences,1,2,3,2,,https://w3id.org/eusoilvoc#Pedology
+4,soil-borne fungi,soil substance,0,3,3,3,,https://w3id.org/eusoilvoc#SoilBorneFungi
+4,rill erosion,soil threats,0,3,3,3,,https://w3id.org/eusoilvoc#RillErosion
+4,sheet erosion,soil threats,0,3,3,2,,https://w3id.org/eusoilvoc#SheetErosion
+4,perfluoroalkyl acids,soil threats,1,3,3,2,,https://w3id.org/eusoilvoc#PerfluoroalkylAcids
+2,supporting services,ecosystem services,0,2,2,1,,https://w3id.org/eusoilvoc#SupportingServices
+5,root presence,land cover,0,2,2,2,,https://w3id.org/eusoilvoc#RootPresence
+4,flood frequency,planetary phenomena,0,2,2,1,,https://w3id.org/eusoilvoc#FloodFrequency
+4,E horizons,soil description,0,2,2,2,,https://w3id.org/eusoilvoc#EHorizons
+4,spodic horizons,soil description,0,2,2,1,,https://w3id.org/eusoilvoc#SpodicHorizons
+2,soil biological functions,soil functions,2,2,2,1,,https://w3id.org/eusoilvoc#SoilBiologicalFunctions
+3,soil bearing capacity,soil functions,0,2,2,2,,https://w3id.org/eusoilvoc#SoilBearingCapacity
+2,soil function indicators,soil indicators,0,2,2,0,,https://w3id.org/eusoilvoc#SoilFunctionIndicators
+4,aeration porosity,soil indicators,0,2,2,2,,https://w3id.org/eusoilvoc#AerationPorosity
+4,soil mulches,soil management,2,0,2,2,,https://w3id.org/eusoilvoc#SoilMulches
+4,leaf mulches,soil management,1,2,2,2,,https://w3id.org/eusoilvoc#LeafMulches
+4,live mulches,soil management,0,2,2,1,,https://w3id.org/eusoilvoc#LiveMulches
+4,gully control,soil management,1,1,2,1,,https://w3id.org/eusoilvoc#GullyControl
+4,dune fixation,soil management,0,2,2,0,,https://w3id.org/eusoilvoc#DuneFixation
+3,soil sterilization,soil management,0,2,2,2,,https://w3id.org/eusoilvoc#SoilSterilization
+3,soil adsorption,soil processes,0,2,2,2,,https://w3id.org/eusoilvoc#SoilAdsorption
+5,soil shrinkage,soil processes,0,2,2,1,,https://w3id.org/eusoilvoc#SoilShrinkage
+3,soil movement,soil processes,0,2,2,2,,https://w3id.org/eusoilvoc#SoilMovement
+4,soil nutrient storage,soil processes,0,2,2,2,,https://w3id.org/eusoilvoc#SoilNutrientStorage
+5,soil water transport,soil processes,0,2,2,1,,https://w3id.org/eusoilvoc#SoilWaterTransport
+4,soil wetting,soil processes,0,2,2,1,,https://w3id.org/eusoilvoc#SoilWetting
+2,soil chemicophysical properties,soil properties,0,2,2,0,,https://w3id.org/eusoilvoc#SoilChemicophysicalProperties
+5,anion exchange capacity,soil properties,0,2,2,2,,https://w3id.org/eusoilvoc#AnionExchangeCapacity
+4,soil toxicity,soil properties,0,2,2,0,,https://w3id.org/eusoilvoc#SoilToxicity
+5,bulk density mineral,soil properties,0,2,2,2,,https://w3id.org/eusoilvoc#BulkDensityMineral
+4,soil particle density,soil properties,0,2,2,2,,https://w3id.org/eusoilvoc#SoilParticleDensity
+6,halloysite,soil properties,1,2,2,1,,https://w3id.org/eusoilvoc#Halloysite
+6,imogolite,soil properties,0,2,2,1,,https://w3id.org/eusoilvoc#Imogolite
+4,soil dispersibility,soil properties,0,2,2,2,,https://w3id.org/eusoilvoc#SoilDispersibility
+4,soil plasticity,soil properties,0,2,2,0,,https://w3id.org/eusoilvoc#SoilPlasticity
+5,soil thermal conductivity,soil properties,0,2,2,0,,https://w3id.org/eusoilvoc#SoilThermalConductivity
+6,water repellent soils,soil properties,1,1,2,0,,https://w3id.org/eusoilvoc#WaterRepellentSoils
+6,xeric soils,soil properties,0,2,2,1,,https://w3id.org/eusoilvoc#XericSoils
+6,greenhouse soils,soil properties,0,2,2,1,,https://w3id.org/eusoilvoc#GreenhouseSoils
+7,soil classification FAO,soil properties,0,2,2,2,,https://w3id.org/eusoilvoc#SoilClassificationFAO
+8,lithosols,soil properties,0,2,2,1,,https://w3id.org/eusoilvoc#LithosolsFAO
+8,Nitosols,soil properties,0,2,2,1,,https://w3id.org/eusoilvoc#NitosolsFAO
+8,rendzinas,soil properties,0,2,2,1,,https://w3id.org/eusoilvoc#RendzinasFAO
+8,Cryosols,soil properties,0,2,2,2,,https://w3id.org/eusoilvoc#CryosolsWRB
+8,Durisols,soil properties,0,2,2,2,,https://w3id.org/eusoilvoc#DurisolsWRB
+8,Nitosols,soil properties,0,2,2,1,,https://w3id.org/eusoilvoc#NitosolsWRB
+8,Plinthosols,soil properties,0,2,2,2,,https://w3id.org/eusoilvoc#PlinthosolsWRB
+5,layered soils,soil properties,1,1,2,0,,https://w3id.org/eusoilvoc#LayeredSoils
+6,granite soils,soil properties,0,2,2,1,,https://w3id.org/eusoilvoc#GraniteSoils
+6,buried soils,soil properties,1,2,2,2,,https://w3id.org/eusoilvoc#BuriedSoils
+6,hill soils,soil properties,0,2,2,1,,https://w3id.org/eusoilvoc#HillSoils
+6,karst soils,soil properties,1,2,2,2,,https://w3id.org/eusoilvoc#KarstSoils
+4,soil viscosity,soil properties,0,2,2,1,,https://w3id.org/eusoilvoc#SoilViscosity
+5,groundwater depth,soil properties,0,2,2,1,,https://w3id.org/eusoilvoc#GroundwaterDepth
+6,plant available water contents,soil properties,0,2,2,1,,https://w3id.org/eusoilvoc#PlantAvailableWaterContents
+3,antecedent soil moisture contents,soil properties,0,2,2,2,,https://w3id.org/eusoilvoc#AntecedentSoilMoistureContents
+2,soil security,soil properties,0,2,2,1,,https://w3id.org/eusoilvoc#SoilSecurity
+1,soil substance,soil substance,0,2,2,0,,https://w3id.org/eusoilvoc#SoilSubstance
+5,acidity exchangeable,soil substance,0,2,2,2,,https://w3id.org/eusoilvoc#AcidityExchangeable
+6,bleached sand,soil substance,0,2,2,2,,https://w3id.org/eusoilvoc#BleachedSand
+4,soil microfauna,soil substance,0,2,2,2,,https://w3id.org/eusoilvoc#SoilMicrofauna
+3,soil mesopore,soil substance,0,2,2,1,,https://w3id.org/eusoilvoc#SoilMesopore
+3,structural pores,soil substance,0,2,2,1,,https://w3id.org/eusoilvoc#StructuralPores
+3,soil salinisation,soil threats,1,2,2,1,,https://w3id.org/eusoilvoc#SoilSalinisation
+4,interrill erosion,soil threats,2,1,2,2,,https://w3id.org/eusoilvoc#InterrillErosion
+3,soil nitrogen loss,soil threats,0,2,2,2,,https://w3id.org/eusoilvoc#SoilNLoss
+3,rock outcrop cover,geology,0,1,1,1,,https://w3id.org/eusoilvoc#RockOutcropCover
+2,pavements,land cover,0,1,1,1,,https://w3id.org/eusoilvoc#Pavements
+3,slope forms,physiography,0,1,1,1,,https://w3id.org/eusoilvoc#SlopeForms
+3,slope orientation,physiography,0,1,1,1,,https://w3id.org/eusoilvoc#SlopeOrientation
+2,porosity class,soil description,0,1,1,1,,https://w3id.org/eusoilvoc#PorosityClass
+2,slope gradient class,soil description,0,1,1,1,,https://w3id.org/eusoilvoc#SlopeGradientClass
+2,soil sequences,soil description,0,1,1,1,,https://w3id.org/eusoilvoc#SoilSequences
+2,soil environmental functions,soil functions,0,1,1,1,,https://w3id.org/eusoilvoc#SoilEnvironmentalFunctions
+4,modulus of rupture,soil indicators,0,1,1,1,,https://w3id.org/eusoilvoc#ModulusOfRupture
+4,soil water infiltration capacity,soil indicators,0,1,1,1,,https://w3id.org/eusoilvoc#SoilWaterInfiltrationCapacity
+4,soil water infiltration rate,soil indicators,0,1,1,1,,https://w3id.org/eusoilvoc#SoilWaterInfiltrationRate
+3,crop residue mulch,soil management,0,1,1,0,,https://w3id.org/eusoilvoc#CropResidueMulch
+2,salinity control,soil management,0,1,1,0,,https://w3id.org/eusoilvoc#SalinityControl
+3,surface drainage,soil management,0,1,1,0,,https://w3id.org/eusoilvoc#SurfaceDrainage
+3,drainage equipment,soil management,0,1,1,1,,https://w3id.org/eusoilvoc#DrainageEquipment
+3,soil injectors,soil management,0,1,1,1,,https://w3id.org/eusoilvoc#SoilInjectors
+4,stubble tillage,soil management,0,1,1,1,,https://w3id.org/eusoilvoc#StubbleTillage
+3,planking,soil management,0,1,1,1,,https://w3id.org/eusoilvoc#Planking
+3,rotary cultivation,soil management,0,1,1,1,,https://w3id.org/eusoilvoc#RotaryCultivation
+3,soil scarification,soil management,0,1,1,1,,https://w3id.org/eusoilvoc#SoilScarification
+3,soil injection,soil management,1,1,1,1,,https://w3id.org/eusoilvoc#SoilInjection
+1,soil phenomena,soil phenomena,0,1,1,0,,https://w3id.org/eusoilvoc#SoilPhenomena
+3,soil fragmentation,soil phenomena,0,1,1,1,,https://w3id.org/eusoilvoc#SoilFragmentation
+2,soil–plant–atmosphere continuum,soil phenomena,0,1,1,0,,https://w3id.org/eusoilvoc#SoilPlantAtmosphereContinuum
+4,soil crust formation,soil processes,0,1,1,1,,https://w3id.org/eusoilvoc#SoilCrustFormation
+3,soil chemical reaction,soil processes,0,1,1,0,,https://w3id.org/eusoilvoc#SoilChemicalReaction
+4,soil strain,soil processes,0,1,1,0,,https://w3id.org/eusoilvoc#SoilStrain
+4,soil volume change,soil processes,0,1,1,1,,https://w3id.org/eusoilvoc#SoilVolumeChange
+5,soil swelling,soil processes,0,1,1,1,,https://w3id.org/eusoilvoc#SoilSwelling
+4,soil compression,soil processes,0,1,1,1,,https://w3id.org/eusoilvoc#SoilCompression
+5,soil consolidation,soil processes,0,1,1,1,,https://w3id.org/eusoilvoc#SoilConsolidation
+3,soil flocculation,soil processes,0,1,1,1,,https://w3id.org/eusoilvoc#SoilFlocculation
+4,frost heave,soil processes,0,1,1,1,,https://w3id.org/eusoilvoc#FrostHeave
+4,soil particle movement,soil processes,0,1,1,0,,https://w3id.org/eusoilvoc#SoilParticleMovement
+5,soil settlement,soil processes,0,1,1,0,,https://w3id.org/eusoilvoc#SoilSettlement
+3,soil sedimentation,soil processes,0,1,1,1,,https://w3id.org/eusoilvoc#SoilSedimentation
+3,soil transport,soil processes,0,1,1,1,,https://w3id.org/eusoilvoc#SoilTransport
+6,saturated water flow,soil processes,0,1,1,0,,https://w3id.org/eusoilvoc#SaturatedWaterFlow
+4,soil water transmission,soil processes,0,1,1,1,,https://w3id.org/eusoilvoc#SoilWaterTransmission
+5,soil buffering capacity,soil properties,0,1,1,1,,https://w3id.org/eusoilvoc#SoilBufferingCapacity
+5,dry soil bulk density,soil properties,0,1,1,0,,https://w3id.org/eusoilvoc#DrySoilBulkDensity
+5,fragment cover,soil properties,1,0,1,0,,https://w3id.org/eusoilvoc#FragmentCover
+5,peat drainage,soil properties,0,1,1,1,,https://w3id.org/eusoilvoc#PeatDrainage
+5,soil oxygen concentration,soil properties,0,1,1,0,,https://w3id.org/eusoilvoc#SoilOxygenConcentration
+4,soil clay mineralogy,soil properties,0,1,1,1,,https://w3id.org/eusoilvoc#SoilClayMineralogy
+4,soil compressibility,soil properties,1,0,1,1,,https://w3id.org/eusoilvoc#SoilCompressibility
+5,dry consistency,soil properties,0,1,1,1,,https://w3id.org/eusoilvoc#DryConsistency
+5,soil clay mineral,soil properties,0,1,1,1,,https://w3id.org/eusoilvoc#SoilClayMineral
+6,palygorskite,soil properties,1,1,1,0,,https://w3id.org/eusoilvoc#Palygorskite
+5,soil available water capacity,soil properties,0,1,1,0,,https://w3id.org/eusoilvoc#SoilAvailableWaterCapacity
+5,wet plasticity,soil properties,0,1,1,1,,https://w3id.org/eusoilvoc#WetPlasticity
+5,soil pore geometry,soil properties,0,1,1,0,,https://w3id.org/eusoilvoc#SoilPoreGeometry
+5,soil pore volume,soil properties,0,1,1,0,,https://w3id.org/eusoilvoc#SoilPoreVolume
+6,roadside soils,soil properties,0,1,1,0,,https://w3id.org/eusoilvoc#RoadsideSoils
+6,gypsiferous soils,soil properties,1,0,1,0,,https://w3id.org/eusoilvoc#GypsiferousSoils
+6,frigid soils,soil properties,0,1,1,1,,https://w3id.org/eusoilvoc#FrigidSoils
+8,xerosols,soil properties,0,1,1,1,,https://w3id.org/eusoilvoc#XerosolsFAO
+7,soil classification WRB,soil properties,0,1,1,0,,https://w3id.org/eusoilvoc#SoilClassificationWRB
+6,shale soils,soil properties,1,0,1,1,,https://w3id.org/eusoilvoc#ShaleSoils
+6,palaeosols,soil properties,0,1,1,1,,https://w3id.org/eusoilvoc#Palaeosols
+5,textural soil types,soil properties,0,1,1,1,,https://w3id.org/eusoilvoc#TexturalSoilTypes
+5,soil water conductivity,soil properties,0,1,1,1,,https://w3id.org/eusoilvoc#SoilWaterConductivity
+4,soil shear strength,soil properties,0,1,1,0,,https://w3id.org/eusoilvoc#SoilShearStrength
+4,structure grade,soil properties,0,1,1,0,,https://w3id.org/eusoilvoc#StructureGrade
+3,soil thermal regimes,soil properties,1,0,1,1,,https://w3id.org/eusoilvoc#SoilThermalRegimes
+2,soil consistence,soil properties,0,1,1,0,,https://w3id.org/eusoilvoc#SoilConsistence
+3,consistence dry,soil properties,0,1,1,1,,https://w3id.org/eusoilvoc#ConsistenceDry
+3,consistence moist,soil properties,0,1,1,1,,https://w3id.org/eusoilvoc#ConsistenceMoist
+3,liquid ratio,soil properties,0,1,1,1,,https://w3id.org/eusoilvoc#LiquidRatio
+3,soil gravimetric moisture contents,soil properties,0,1,1,1,,https://w3id.org/eusoilvoc#SoilGravimetricMoistureContents
+3,soil volumetric moisture contents,soil properties,0,1,1,0,,https://w3id.org/eusoilvoc#SoilVolumetricMoistureContents
+3,soil water permeability,soil properties,1,0,1,0,,https://w3id.org/eusoilvoc#SoilWaterPermeability
+3,air porosity,soil properties,0,1,1,1,,https://w3id.org/eusoilvoc#AirPorosity
+3,air ratio,soil properties,1,1,1,1,,https://w3id.org/eusoilvoc#AirRatio
+3,void ratio,soil properties,0,1,1,1,,https://w3id.org/eusoilvoc#VoidRatio
+2,soil trafficability,soil properties,0,1,1,0,,https://w3id.org/eusoilvoc#SoilTrafficability
+5,cation sum,soil substance,0,1,1,1,,https://w3id.org/eusoilvoc#CationSum
+3,soil liquid,soil substance,0,1,1,1,,https://w3id.org/eusoilvoc#SoilLiquid
+6,leaf mould,soil substance,0,1,1,1,,https://w3id.org/eusoilvoc#LeafMould
+5,organomineral complexes,soil substance,0,1,1,1,,https://w3id.org/eusoilvoc#OrganomineralComplexes
+3,soil solutes,soil substance,0,1,1,0,,https://w3id.org/eusoilvoc#SoilSolutes
+5,reactive solutes,soil substance,0,1,1,0,,https://w3id.org/eusoilvoc#ReactiveSolutes
+3,soil biological crusts,soil substance,0,1,1,1,,https://w3id.org/eusoilvoc#SoilBiologicalCrusts
+5,Enchytraeidae,soil substance,0,1,1,1,,https://w3id.org/eusoilvoc#Enchytraeidae
+3,soil flora,soil substance,0,1,1,1,,https://w3id.org/eusoilvoc#SoilFlora
+3,intraaggregate pores,soil substance,0,1,1,1,,https://w3id.org/eusoilvoc#IntraaggregatePores
+3,soil channel,soil substance,0,1,1,0,,https://w3id.org/eusoilvoc#SoilChannel
+3,soil micropore,soil substance,0,1,1,1,,https://w3id.org/eusoilvoc#SoilMicropore
+3,soil pore size,soil substance,0,1,1,1,,https://w3id.org/eusoilvoc#SoilPoreSize
+2,soil surface seal,soil substance,0,1,1,0,,https://w3id.org/eusoilvoc#SoilSurfaceSeal
+2,soil deficiencies,soil threats,0,1,1,1,,https://w3id.org/eusoilvoc#SoilDeficiencies
+3,soil physical degradation,soil threats,0,1,1,0,,https://w3id.org/eusoilvoc#SoilPhysicalDegradation
+3,soil sickness,soil threats,0,1,1,0,,https://w3id.org/eusoilvoc#SoilSickness
+2,soil nutrient loss,soil threats,0,1,1,1,,https://w3id.org/eusoilvoc#SoilNutrientLoss
+3,colluvium,geology,0,0,0,0,,https://w3id.org/eusoilvoc#Colluvium
+3,parent deposition,geology,0,0,0,0,,https://w3id.org/eusoilvoc#ParentDeposition
+3,parent lithology,geology,0,0,0,0,,https://w3id.org/eusoilvoc#ParentLithology
+3,parent texture unconsolidated,geology,0,0,0,0,,https://w3id.org/eusoilvoc#ParentTextureUnconsolidated
+3,rock outcrop distance,geology,0,0,0,0,,https://w3id.org/eusoilvoc#RockOutcropDistance
+2,landform complex,physiography,0,0,0,0,,https://w3id.org/eusoilvoc#LandformComplex
+2,major land forms,physiography,0,0,0,0,,https://w3id.org/eusoilvoc#MajorLandForms
+4,slope gradient numeric,physiography,0,0,0,0,,https://w3id.org/eusoilvoc#SlopeGradientNumeric
+4,slope orientation numeric,physiography,0,0,0,0,,https://w3id.org/eusoilvoc#SlopeOrientationNumeric
+3,slope pathways,physiography,0,0,0,0,,https://w3id.org/eusoilvoc#SlopePathways
+1,planetary phenomena,planetary phenomena,0,0,0,0,,https://w3id.org/eusoilvoc#PlanetaryPhenomena
+4,flood duration,planetary phenomena,0,0,0,0,,https://w3id.org/eusoilvoc#FloodDuration
+2,water interchange,planetary phenomena,0,0,0,0,,https://w3id.org/eusoilvoc#WaterInterchange
+3,evapouration,planetary phenomena,0,0,0,0,,https://w3id.org/eusoilvoc#Evapouration
+4,soil water evapouration,planetary phenomena,0,0,0,0,,https://w3id.org/eusoilvoc#SoilWaterEvapouration
+3,interflow,planetary phenomena,0,0,0,0,,https://w3id.org/eusoilvoc#Interflow
+4,sleet,planetary phenomena,0,0,0,0,,https://w3id.org/eusoilvoc#Sleet
+4,flux controlled water infiltration,planetary phenomena,0,0,0,0,,https://w3id.org/eusoilvoc#FluxControlledWaterInfiltration
+4,profile controlled water infiltration,planetary phenomena,0,0,0,0,,https://w3id.org/eusoilvoc#ProfileControlledWaterInfiltration
+3,weather current,planetary phenomena,0,0,0,0,,https://w3id.org/eusoilvoc#WeatherCurrent
+3,weather past,planetary phenomena,0,0,0,0,,https://w3id.org/eusoilvoc#WeatherPast
+2,soil skeleton,soil,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSkeleton
+2,crop class,soil description,0,0,0,0,,https://w3id.org/eusoilvoc#CropClass
+2,fragment class,soil description,0,0,0,0,,https://w3id.org/eusoilvoc#FragmentClass
+2,human influence class,soil description,0,0,0,0,,https://w3id.org/eusoilvoc#HumanInfluenceClass
+2,koeppen class,soil description,0,0,0,0,,https://w3id.org/eusoilvoc#KoeppenClass
+2,profile description status,soil description,0,0,0,0,,https://w3id.org/eusoilvoc#ProfileDescriptionStatus
+2,slope orientation class,soil description,0,0,0,0,,https://w3id.org/eusoilvoc#SlopeOrientationClass
+2,soil depth rootable class,soil description,0,0,0,0,,https://w3id.org/eusoilvoc#SoilDepthRootableClass
+2,soil morphological features,soil description,0,0,0,0,,https://w3id.org/eusoilvoc#SoilMorphologicalFeatures
+4,hardpans,soil description,0,0,0,0,,https://w3id.org/eusoilvoc#Hardpans
+3,soil micromorphological features,soil description,0,0,0,0,,https://w3id.org/eusoilvoc#SoilMicromorphologicalFeatures
+2,soil organic matter class,soil description,0,0,0,0,,https://w3id.org/eusoilvoc#SoilOrganicMatterClass
+4,soil exposure types,soil description,0,0,0,0,,https://w3id.org/eusoilvoc#SoilExposureTypes
+3,soil survey guidelines,soil description,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSurveyGuidelines
+2,soil water infiltration rate class,soil description,0,0,0,0,,https://w3id.org/eusoilvoc#SoilWaterInfiltrationRateClass
+2,soil zonation,soil description,0,0,0,0,,https://w3id.org/eusoilvoc#SoilZonation
+2,texture field class,soil description,0,0,0,0,,https://w3id.org/eusoilvoc#TextureFieldClass
+2,texture lab class,soil description,0,0,0,0,,https://w3id.org/eusoilvoc#TextureLabClass
+2,vegetation class,soil description,0,0,0,0,,https://w3id.org/eusoilvoc#VegetationClass
+2,soil agricultural functions,soil functions,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAgriculturalFunctions
+3,soil chemical transport,soil functions,0,0,0,0,,https://w3id.org/eusoilvoc#SoilChemicalTransport
+2,soil chemical functions,soil functions,0,0,0,0,,https://w3id.org/eusoilvoc#SoilChemicalFunctions
+2,soil engineering functions,soil functions,0,0,0,0,,https://w3id.org/eusoilvoc#SoilEngineeringFunctions
+3,building stability,soil functions,0,0,0,0,,https://w3id.org/eusoilvoc#BuildingStability
+3,foundation stability,soil functions,0,0,0,0,,https://w3id.org/eusoilvoc#FoundationStability
+3,foundation strength,soil functions,0,0,0,0,,https://w3id.org/eusoilvoc#FoundationStrength
+3,pavement stability,soil functions,0,0,0,0,,https://w3id.org/eusoilvoc#PavementStability
+3,soil seepage,soil functions,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSeepage
+4,liquid waste disposal,soil functions,0,0,0,0,,https://w3id.org/eusoilvoc#LiquidWasteDisposal
+2,soil physical functions,soil functions,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPhysicalFunctions
+3,water filtration (soil),soil functions,0,0,0,0,,https://w3id.org/eusoilvoc#SoilWaterFiltration
+2,non-soil indicators,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#NonsoilIndicators
+5,land use bare cover,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#LandUseBareCover
+5,land use grasses,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#LandUseGrasses
+5,land use shrubs,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#LandUseShrubs
+3,groundwater reproduction,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#GroundwaterReproduction
+3,habitat provision capacity,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#HabitatProvisionCapacity
+3,nutrient buffering capacity,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#NutrientBufferingCapacity
+3,nutrient mobilisation capacity,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#NutrientMobilisationCapacity
+2,soil structure index,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#SoilStructureIndex
+3,soil aeration index,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAerationIndex
+4,soil air diffusion coefficient,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAirDiffusionCoefficient
+4,soil oxygen diffusion rate,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#SoilOxygenDiffusionRate
+3,soil aggregation index,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAggregationIndex
+4,geometric mean diametre,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#GeometricMeanDiametre
+4,mean weight diametre,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#MeanWeightDiametre
+4,percent water stable aggregation,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#PercentWaterStableAggregation
+4,soil aggregate strength,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAggregateStrength
+3,soil pore tortuosity,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPoreTortuosity
+3,soil porosity index,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPorosityIndex
+4,soil pore size distribution,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPoreSizeDistribution
+3,soil strength index,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#SoilStrengthIndex
+4,soil relative density,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#SoilRelativeDensity
+3,soil structure indirect index,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#SoilStructureIndirectIndex
+4,aggregated silt clay,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#AggregatedSiltClay
+4,critical soil organic matter contents,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#CriticalSoilOrganicMatterContents
+4,index based on texture and cementing agents,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#IndexBasedOnTextureAndCementingAgents
+4,index of crusting,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#IndexOfCrusting
+4,index of resistance,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#IndexOfResistance
+4,index of structural stability,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#IndexOfStructuralStability
+4,mechanical ratio,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#MechanicalRatio
+4,soil erodibility index,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#SoilErodibilityIndex
+5,colloid content moisture equivalent ratio,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#ColloidContentMoistureEquivalentRatio
+5,erosion ratio,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#ErosionRatio
+5,index of erodibility,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#IndexOfErodibility
+5,silica sesquioxide ratio,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#SilicaSesquioxideRatio
+4,surface aggregation ratio,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#SurfaceAggregationRatio
+3,soil water retention index,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#SoilWaterRetentionIndex
+3,soil water transmission index,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#SoilWaterTransmissionIndex
+4,soil hydraulic gradient,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#SoilHydraulicGradient
+4,soil water evapouration rate,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#SoilWaterEvapourationRate
+5,soil water infiltration rate numeric,soil indicators,0,0,0,0,,https://w3id.org/eusoilvoc#SoilWaterInfiltrationRateNumeric
+3,dry mulches,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#DryMulches
+4,aluminium mulches,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#AluminiumMulches
+4,gravel mulches,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#GravelMulches
+4,bark mulches,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#BarkMulches
+4,compost mulches,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#CompostMulches
+4,wood chips mulches,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#WoodChipsMulches
+2,mulch farming,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#MulchFarming
+3,microsite preparation,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#MicrositePreparation
+3,evaporation suppressants,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#EvaporationSuppressants
+4,calcitic lime (amendment),soil management,0,0,0,0,,https://w3id.org/eusoilvoc#CalciticLimeAmendment
+4,dolomitic lime (amendment),soil management,0,0,0,0,,https://w3id.org/eusoilvoc#DolomiticLimeAmendment
+4,erosion control plants,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#ErosionControlPlants
+3,in situ soil conservation,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#InSituSoilConservation
+3,soil conservation legislation,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#SoilConservationLegislation
+3,biodrainage,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#Biodrainage
+3,conventional drainage,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#ConventionalDrainage
+3,pipe drainage,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#PipeDrainage
+3,underdrainage,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#Underdrainage
+2,soil management equipment,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#SoilManagementEquipment
+3,soil reclamation plants,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#SoilReclamationPlants
+4,main field preparation,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#MainFieldPreparation
+4,nursery bed preparation,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#NurseryBedPreparation
+3,ripping (tillage),soil management,0,0,0,0,,https://w3id.org/eusoilvoc#RippingTillage
+3,soil breaking,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#SoilBreaking
+3,soil puddling,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPuddling
+3,stone clearing,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#StoneClearing
+3,surface cultivation,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#SurfaceCultivation
+3,radioactive decontamination (soil),soil management,0,0,0,0,,https://w3id.org/eusoilvoc#RadioactiveDecontaminationSoil
+3,soil fumigation,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#SoilFumigation
+3,soil solarization,soil management,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSolarization
+2,drainage to groundwater,soil phenomena,0,0,0,0,,https://w3id.org/eusoilvoc#DrainageToGroundwater
+2,salt sieving,soil phenomena,0,0,0,0,,https://w3id.org/eusoilvoc#SaltSieving
+2,soil failure,soil phenomena,0,0,0,0,,https://w3id.org/eusoilvoc#SoilFailure
+3,soil flow,soil phenomena,0,0,0,0,,https://w3id.org/eusoilvoc#SoilFlow
+3,soil rupture,soil phenomena,0,0,0,0,,https://w3id.org/eusoilvoc#SoilRupture
+2,soil moisture hysteresis,soil phenomena,0,0,0,0,,https://w3id.org/eusoilvoc#SoilMoistureHysteresis
+2,soil moisture redistribution,soil phenomena,0,0,0,0,,https://w3id.org/eusoilvoc#SoilMoistureRedistribution
+2,soil oxygen deficiency,soil phenomena,0,0,0,0,,https://w3id.org/eusoilvoc#SoilOxygenDeficiency
+2,soil strain hardening,soil phenomena,0,0,0,0,,https://w3id.org/eusoilvoc#SoilStrainHardening
+2,soil anthropogenic changes,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAnthropogenicChanges
+3,biological activity in soil,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilBiologicalActivity
+3,soil carbon dioxide production,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilCarbonDioxideProduction
+3,soil oxygen consumption,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilOxygenConsumption
+2,soil chemical processes,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilChemicalProcesses
+3,salt incrustation,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SaltIncrustation
+4,soil polymer adsorption,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPolymerAdsorption
+4,soil water adsorption,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilWaterAdsorption
+3,soil anion exclusion,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAnionExclusion
+3,soil chemical degradative processes,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilChemicalDegradativeProcesses
+4,soil structural decline,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilStructuralDecline
+4,soil surface seal formation,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSurfaceSealFormation
+4,soil surface sealing,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSurfaceSealing
+4,soil oxidation reaction,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilOxidationReaction
+4,soil oxidation reduction reaction,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilOxidationReductionReaction
+5,soil methanogenesis,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilMethanogenesis
+3,soil desertification,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilDesertification
+3,soil negative adsorption,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilNegativeAdsorption
+3,soil nutrient immobilisation,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilNutrientImmobilisation
+3,soil absorption,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAbsorption
+4,soil heat absorption,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilHeatAbsorption
+4,soil water absorption,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilWaterAbsorption
+3,soil aggregate dispersion,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAggregateDispersion
+3,soil air physical processes,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAirPhysicalProcesses
+4,soil air exchange,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAirExchange
+4,soil air movement,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAirMovement
+5,soil air flow,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAirFlow
+6,soil air convection,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAirConvection
+6,soil air convective flow,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAirConvectiveFlow
+6,soil air diffusion,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAirDiffusion
+4,soil gaseous exchange,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilGaseousExchange
+4,soil collapsing,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilCollapsing
+4,soil permanent deformation,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPermanentDeformation
+5,soil longitudinal strain,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilLongitudinalStrain
+5,soil shear strain,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilShearStrain
+5,soil tangential strain,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilTangentialStrain
+6,normal shrinkage,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#NormalShrinkage
+6,residual shrinkage,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#ResidualShrinkage
+5,soil shrinking,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilShrinking
+6,interlattice swelling,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#InterlatticeSwelling
+6,interparticle swelling,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#InterparticleSwelling
+3,soil densification,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilDensification
+4,soil hardsetting,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilHardsetting
+3,soil dispersion,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilDispersion
+4,mud flows,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#MudFlows
+4,pedoturbation,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#Pedoturbation
+5,gas turbation,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#GasTurbation
+4,slipping of soil,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SlippingOfSoil
+4,soil fluid movement,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilFluidMovement
+4,soil structural movement,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilStructuralMovement
+4,solifluction,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#Solifluction
+3,soil physical degradative processes,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPhysicalDegradativeProcesses
+4,soil fluid retention,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilFluidRetention
+3,soil slaking,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSlaking
+3,soil thermal processes,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilThermalProcesses
+4,soil heat exchange,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilHeatExchange
+4,soil heat movement,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilHeatMovement
+5,soil heat transfer,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilHeatTransfer
+6,soil heat conduction,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilHeatConduction
+6,soil heat convection,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilHeatConvection
+6,soil heat radiation,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilHeatRadiation
+5,soil heat transport,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilHeatTransport
+4,ion transport in soil,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#IonTransportInSoil
+4,soil fluid transmission,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilFluidTransmission
+4,soil fluid transport,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilFluidTransport
+4,soil pollutant transport,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPollutantTransport
+4,soil solid transport,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSolidTransport
+4,soil solute transport,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSoluteTransport
+5,soil solute convection,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSoluteConvection
+5,soil solute convective transport,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSoluteConvectiveTransport
+5,soil solute diffusion,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSoluteDiffusion
+5,soil solute diffusive transport,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSoluteDiffusiveTransport
+5,soil solute dispersion,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSoluteDispersion
+5,soil solute dispersive transport,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSoluteDispersiveTransport
+6,longitudinal dispersion,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#LongitudinalDispersion
+6,transverse dispersion,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#TransverseDispersion
+6,unsaturated water flow,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#UnsaturatedWaterFlow
+3,soil water physical processes,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilWaterPhysicalProcesses
+5,soil rapid drying,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilRapidDrying
+5,soil slow drying,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSlowDrying
+4,soil melting,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilMelting
+4,soil moisture movement,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilMoistureMovement
+4,soil water condensation,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilWaterCondensation
+5,soil rapid wetting,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilRapidWetting
+5,soil slow wetting,soil processes,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSlowWetting
+3,soil surface age,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSurfaceAge
+3,biological abundance,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#BiologicalAbundance
+3,boron content,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#BoronContent
+4,plant available boron,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#PlantAvailableBoron
+4,hot water-extractable nitrogen,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#HotWaterExtractableNitrogen
+4,nonprotein nitrogen,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#NonproteinNitrogen
+4,nonprotein nitrogen content,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#NonproteinNitrogenContent
+4,phosphorus total elements,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#PhosphorusTotalElements
+5,carbonate forms,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#CarbonateForms
+4,hydrogen exchangeable bases,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#HydrogenExchangeableBases
+4,oxalate extractable optical density,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#OxalateExtractableOpticalDensity
+5,sodium exchangeable bases,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SodiumExchangeableBases
+5,sodium extractable elements,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SodiumExtractableElements
+5,sodium total elements,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SodiumTotalElements
+4,soil charge properties,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilChargeProperties
+5,soil charge density,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilChargeDensity
+6,intrinsic charge density,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#IntrinsicChargeDensity
+5,soil particle surface charge,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilParticleSurfaceCharge
+5,soil surface charge,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSurfaceCharge
+6,permanent charge,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#PermanentCharge
+4,soil chemical capacity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilChemicalCapacity
+6,cation exchange capacity effective,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#CationExchangeCapacityEffective
+5,soil filtering capacity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilFilteringCapacity
+4,soil reactivity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilReactivity
+4,soil apparent density,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilApparentDensity
+5,bulk density peat,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#BulkDensityPeat
+5,wet soil bulk density,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#WetSoilBulkDensity
+4,soil dry specific volume,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilDrySpecificVolume
+4,soil specific gravity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSpecificGravity
+4,soil true density,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilTrueDensity
+5,cementation continuity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#CementationContinuity
+5,cementation degree,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#CementationDegree
+5,cementation fabric,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#CementationFabric
+5,cementation nature,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#CementationNature
+5,fragment size,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#FragmentSize
+6,rock abundance,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#RockAbundance
+6,rock shape,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#RockShape
+6,rock size,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#RockSize
+6,weathering rock,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#WeatheringRock
+5,weathering fragments,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#WeatheringFragments
+5,gypsum forms,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#GypsumForms
+5,gypsum weight,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#GypsumWeight
+5,mineral conc abundance,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#MineralConcAbundance
+5,mineral conc colour,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#MineralConcColour
+5,mineral conc hardness,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#MineralConcHardness
+5,mineral conc kind,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#MineralConcKind
+5,mineral conc nature,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#MineralConcNature
+5,mineral conc shape,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#MineralConcShape
+5,mineral conc size,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#MineralConcSize
+5,mineral conc volume,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#MineralConcVolume
+5,mineral fragments,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#MineralFragments
+5,peat volume,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#PeatVolume
+4,soil adhesion,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAdhesion
+4,soil aggregate physical properties,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAggregatePhysicalProperties
+5,soil aggregate degree,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAggregateDegree
+5,soil aggregate shape,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAggregateShape
+5,soil aggregation degree,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAggregationDegree
+4,soil air physical properties,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAirPhysicalProperties
+5,gaseous composition of soil air,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#GaseousCompositionOfSoilAir
+5,soil air contents,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAirContents
+5,soil oxygen contents,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilOxygenContents
+4,soil coating,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilCoating
+5,coating abundance,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#CoatingAbundance
+5,coating contrast,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#CoatingContrast
+5,coating forms,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#CoatingForms
+5,coating location,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#CoatingLocation
+5,coating nature,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#CoatingNature
+4,soil cohesion,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilCohesion
+4,soil cohesiveness,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilCohesiveness
+5,soil colour dry,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilColourDry
+5,soil colour moist,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilColourMoist
+4,soil compactability,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilCompactability
+4,soil consistency,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilConsistency
+5,moist consistency,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#MoistConsistency
+6,nontronite,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#Nontronite
+6,saponite,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#Saponite
+6,sepiolite,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#Sepiolite
+5,soil gravel contents,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilGravelContents
+4,soil cracking physical properties,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilCrackingPhysicalProperties
+5,soil cracking intensity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilCrackingIntensity
+5,soil cracking number,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilCrackingNumber
+4,soil crust physical properties,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilCrustPhysicalProperties
+5,soil crust density,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilCrustDensity
+5,soil crust strength,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilCrustStrength
+5,soil crust thickness,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilCrustThickness
+4,soil elasticity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilElasticity
+4,soil electrical capacitance,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilElectricalCapacitance
+4,soil horizon boundary,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilHorizonBoundary
+5,boundary distinctness,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#BoundaryDistinctness
+5,boundary topography,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#BoundaryTopography
+4,soil hydraulic diffusivity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilHydraulicDiffusivity
+4,soil intrinsic permeability,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilIntrinsicPermeability
+4,soil mottle,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilMottle
+5,mottle abundance,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#MottleAbundance
+5,mottle boundary classification,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#MottleBoundaryClassification
+5,mottle colour,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#MottleColour
+5,mottle contrast,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#MottleContrast
+5,mottle presence,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#MottlePresence
+5,mottle size,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#MottleSize
+5,ammonium fixation,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#AmmoniumFixation
+4,soil packing arrangement,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPackingArrangement
+4,soil particle physical properties,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilParticlePhysicalProperties
+5,particle size fraction sum,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#ParticleSizeFractionSum
+5,soil particle arrangement,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilParticleArrangement
+5,soil particle shape,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilParticleShape
+5,soil particle specific surface area,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilParticleSpecificSurfaceArea
+4,soil permittivity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPermittivity
+4,soil physical capacity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPhysicalCapacity
+5,soil heat capacity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilHeatCapacity
+5,soil nutrient holding capacity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilNutrientHoldingCapacity
+5,soil swell shrink capacity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSwellShrinkCapacity
+6,soil swelling capacity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSwellingCapacity
+5,soil water absorption capacity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilWaterAbsorptionCapacity
+4,soil pore physical properties,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPorePhysicalProperties
+5,soil pore connectivity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPoreConnectivity
+5,soil pore continuity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPoreContinuity
+6,soil pore horizontal continuity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPoreHorizontalContinuity
+6,soil pore vertical continuity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPoreVerticalContinuity
+5,soil pore heterogeneity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPoreHeterogeneity
+5,soil pore number,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPoreNumber
+5,soil pore orientation,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPoreOrientation
+5,soil pore shape,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPoreShape
+4,soil sensitivity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSensitivity
+4,soil solute physical properties,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSolutePhysicalProperties
+5,soil pore water velocity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPoreWaterVelocity
+5,soil solute dispersivity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSoluteDispersivity
+5,soil solute flux density,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSoluteFluxDensity
+5,soil slope stability,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSlopeStability
+4,soil structural resilience,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilStructuralResilience
+4,soil swell shrink properties,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSwellShrinkProperties
+5,soil swelling potential,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSwellingPotential
+5,soil thermal diffusivity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilThermalDiffusivity
+4,soil transportability,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilTransportability
+6,polder soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#PolderSoils
+5,chemical soil types,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#ChemicalSoilTypes
+6,acid sulphate soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#AcidSulphateSoils
+6,saline sodic soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SalineSodicSoils
+5,climatic soil types,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#ClimaticSoilTypes
+5,cultural soil types,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#CulturalSoilTypes
+5,ecological soil types,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#EcologicalSoilTypes
+6,bog soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#BogSoils
+6,marshland soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#MarshlandSoils
+6,scrubland soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#ScrublandSoils
+6,swamp soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SwampSoils
+5,genetic soil types,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#GeneticSoilTypes
+8,greyzems,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#GreyzemsFAO
+8,podzoluvisols,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#PodzoluvisolsFAO
+8,yermosols,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#YermosolsFAO
+7,soil classification USDA,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilClassificationUSDA
+8,Gelisols,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#GelisolsUSDA
+5,lithological soil types,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#LithologicalSoilTypes
+6,boulder clay soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#BoulderClaySoils
+6,chalk soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#ChalkSoils
+6,diorite soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#DioriteSoils
+6,glacial till soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#GlacialTillSoils
+6,greywacke soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#GreywackeSoils
+6,igneous rock soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#IgneousRockSoils
+6,schist soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SchistSoils
+5,mineralogical soil types,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#MineralogicalSoilTypes
+6,calamine soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#CalamineSoils
+6,illitic soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#IlliticSoils
+6,montmorillonitic soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#MontmorilloniticSoils
+5,palaeosolic soil types,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#PalaeosolicSoilTypes
+5,physiographic soil types,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#PhysiographicSoilTypes
+6,bottomland soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#BottomlandSoils
+6,delta soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#DeltaSoils
+6,drumlin soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#DrumlinSoils
+6,dune soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#DuneSoils
+6,fenland soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#FenlandSoils
+6,moraine soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#MoraineSoils
+6,river terrace soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#RiverTerraceSoils
+5,polygenetic soil types,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#PolygeneticSoilTypes
+5,stratigraphic soil types,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#StratigraphicSoilTypes
+5,structural soil types,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#StructuralSoilTypes
+6,dispersive soils,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#DispersiveSoils
+4,soil vapour pressure,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilVapourPressure
+5,saturated vapour pressure,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SaturatedVapourPressure
+4,soil voids,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilVoids
+5,void classification,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#VoidClassification
+5,void diameter,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#VoidDiameter
+4,soil water physical properties,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilWaterPhysicalProperties
+5,pF curve,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#pFcurve
+5,soil moisture characteristics,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilMoistureCharacteristics
+5,soil moisture potential,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilMoisturePotential
+6,soil gravitational potential,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilGravitationalPotential
+6,soil osmotic potential,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilOsmoticPotential
+6,soil overburden potential,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilOverburdenPotential
+6,soil pressure potential,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPressurePotential
+6,total soil moisture potential,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#TotalSoilMoisturePotential
+5,soil water affinity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilWaterAffinity
+6,soil immobile water contents,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilImmobileWaterContents
+6,soil mobile water contents,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilMobileWaterContents
+5,soil water diffusivity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilWaterDiffusivity
+5,soil water sorption properties,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilWaterSorptionProperties
+3,soil water constants,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilWaterConstants
+4,hydraulic potential (soil),soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilHydraulicPotential
+3,friable consistence,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#FriableConsistence
+3,harsh consistence,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#HarshConsistence
+3,liquid consistence,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#LiquidConsistence
+3,plastic consistence,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#PlasticConsistence
+3,soft consistence,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoftConsistence
+3,sticky consistence,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#StickyConsistence
+2,soil mechanical properties,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilMechanicalProperties
+3,soil field moisture capacity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilFieldMoistureCapacity
+3,soil air permeability,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAirPermeability
+3,inter aggregate porosity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#InterAggregatePorosity
+3,intra aggregate porosity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#IntraAggregatePorosity
+3,textural porosity,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#TexturalPorosity
+2,soil spatial properties,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSpatialProperties
+4,soil depth bedrock,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilDepthBedrock
+4,soil depth rootable,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilDepthRootable
+4,soil depth sampled,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilDepthSampled
+3,soil water table depth,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilWaterTableDepth
+3,soil water table position,soil properties,0,0,0,0,,https://w3id.org/eusoilvoc#SoilWaterTablePosition
+2,agrology,soil sciences,0,0,0,0,,https://w3id.org/eusoilvoc#Agrology
+3,Modified Universal Soil Loss Equation,soil sciences,0,0,0,0,,https://w3id.org/eusoilvoc#ModifiedUniversalSoilLossEquation
+4,salt cover,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SaltCover
+4,salt presence,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SaltPresence
+4,salt thickness,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SaltThickness
+3,soil clods,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilClods
+3,soil fluid,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilFluid
+3,soil inorganic components,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilInorganicComponents
+3,soil mineral matter,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilMineralMatter
+3,soil organic components,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilOrganicComponents
+4,soil primary particles,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPrimaryParticles
+4,soil secondary particles,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSecondaryParticles
+4,soil inorganic solid,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilInorganicSolid
+4,soil organic solid,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilOrganicSolid
+4,conservative solutes,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#ConservativeSolutes
+4,nonconservative solutes,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#NonconservativeSolutes
+5,labile solutes,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#LabileSolutes
+4,soluble anion total,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SolubleAnionTotal
+4,soluble cation total,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SolubleCationTotal
+4,not plant available water,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#NotPlantAvailableWater
+4,soil algal crusts,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAlgalCrusts
+3,soil chemical crusts,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilChemicalCrusts
+3,soil microbiotic crusts,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilMicrobioticCrusts
+3,soil physical crusts,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPhysicalCrusts
+4,soil depositional crusts,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilDepositionalCrusts
+4,soil structural crusts,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilStructuralCrusts
+5,calcium exchangeable base,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#CalciumExchangeableBase
+5,calcium extractable elements,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#CalciumExtractableElements
+5,calcium total elements,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#CalciumTotalElements
+5,phosphorus extractable elements,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#PhosphorusExtractableElements
+5,potassium exchangeable bases,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#PotassiumExchangeableBases
+5,potassium extractable elements,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#PotassiumExtractableElements
+5,potassium total elements,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#PotassiumTotalElements
+5,sulfur extractable elements,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SulfurExtractableElements
+5,sulfur total elements,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SulfurTotalElements
+5,boron extractable elements,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#BoronExtractableElements
+5,boron total elements,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#BoronTotalElements
+5,copper extractable elements,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#CopperExtractableElements
+5,copper total elements,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#CopperTotalElements
+5,iron extractable elements,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#IronExtractableElements
+5,iron total elements,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#IronTotalElements
+5,magnesium exchangeable bases,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#MagnesiumExchangeableBases
+5,magnesium extractable elements,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#MagnesiumExtractableElements
+5,magnesium total elements,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#MagnesiumTotalElements
+5,manganese exchangeable bases,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#ManganeseExchangeableBases
+5,manganese extractable elements,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#ManganeseExtractableElements
+5,manganese total elements,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#ManganeseTotalElements
+5,molybdenum extractable elements,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#MolybdenumExtractableElements
+5,molybdenum total elements,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#MolybdenumTotalElements
+5,zinc extractable elements,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#ZincExtractableElements
+5,zinc total elements,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#ZincTotalElements
+4,soil algae,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilAlgae
+3,soil-borne organisms,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilBorneOrganisms
+4,soil-borne viruses,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilBorneViruses
+5,soil-borne wheat mosaic virus,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilBorneWheatMosaicVirus
+3,biochannel,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#Biochannel
+3,interaggregate pores,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#InteraggregatePores
+3,interstructural pores,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#InterstructuralPores
+3,matrix pores,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#MatrixPores
+3,non matrix pores,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#NonMatrixPores
+3,pore abundance,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#PoreAbundance
+4,soil cracks,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilCracks
+5,soil crack depth,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilCrackDepth
+5,soil crack distance,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilCrackDistance
+5,soil crack width,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilCrackWidth
+3,soil preferential flow path,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPreferentialFlowPath
+3,textural pores,soil substance,0,0,0,0,,https://w3id.org/eusoilvoc#TexturalPores
+3,soil biological degradation,soil threats,0,0,0,0,,https://w3id.org/eusoilvoc#SoilBiologicalDegradation
+3,soil chemical degradation,soil threats,0,0,0,0,,https://w3id.org/eusoilvoc#SoilChemicalDegradation
+3,soil ecological degradation,soil threats,0,0,0,0,,https://w3id.org/eusoilvoc#SoilEcologicalDegradation
+3,anthropogenic erosion,soil threats,0,0,0,0,,https://w3id.org/eusoilvoc#AnthropogenicErosion
+4,harvesting erosion,soil threats,0,0,0,0,,https://w3id.org/eusoilvoc#HarvestingErosion
+4,livestock trampling erosion,soil threats,0,0,0,0,,https://w3id.org/eusoilvoc#LivestockTramplingErosion
+3,soil erosion activity period,soil threats,0,0,0,0,,https://w3id.org/eusoilvoc#SoilErosionActivityPeriod
+3,soil erosion area affected,soil threats,0,0,0,0,,https://w3id.org/eusoilvoc#SoilErosionAreaAffected
+3,soil erosion category,soil threats,0,0,0,0,,https://w3id.org/eusoilvoc#SoilErosionCategory
+3,soil erosion degree,soil threats,0,0,0,0,,https://w3id.org/eusoilvoc#SoilErosionDegree
+3,soil erosion total area affected,soil threats,0,0,0,0,,https://w3id.org/eusoilvoc#SoilErosionTotalAreaAffected
+4,ephemeral gully erosion,soil threats,0,0,0,0,,https://w3id.org/eusoilvoc#EphemeralGullyErosion
+4,piping erosion,soil threats,0,0,0,0,,https://w3id.org/eusoilvoc#PipingErosion
+3,soil phosphorus loss,soil threats,0,0,0,0,,https://w3id.org/eusoilvoc#SoilPLoss
+5,aluminium exchangeable base,soil threats,0,0,0,0,,https://w3id.org/eusoilvoc#AluminiumExchangeableBase
+5,aluminium extractable elements,soil threats,0,0,0,0,,https://w3id.org/eusoilvoc#AluminiumExtractableElements
+5,aluminium total elements,soil threats,0,0,0,0,,https://w3id.org/eusoilvoc#AluminiumTotalElements
+5,cadmium extractable elements,soil threats,0,0,0,0,,https://w3id.org/eusoilvoc#CadmiumExtractableElements
+5,cadmium total elements,soil threats,0,0,0,0,,https://w3id.org/eusoilvoc#CadmiumTotalElements
+3,soil sealing consistence,soil threats,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSealingConsistence
+3,soil sealing thickness,soil threats,0,0,0,0,,https://w3id.org/eusoilvoc#SoilSealingThickness
+,BlkDensF_fe-cl-fc,,0,0,0,0,,https://w3id.org/eusoilvoc#bulkDensityFineEarthProcedure-BlkDensF_fe-cl-fc
+,BlkDensF_fe-cl-od,,0,0,0,0,,https://w3id.org/eusoilvoc#bulkDensityFineEarthProcedure-BlkDensF_fe-cl-od
+,BlkDensF_fe-cl-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#bulkDensityFineEarthProcedure-BlkDensF_fe-cl-unkn
+,BlkDensF_fe-co-fc,,0,0,0,0,,https://w3id.org/eusoilvoc#bulkDensityFineEarthProcedure-BlkDensF_fe-co-fc
+,BlkDensF_fe-co-od,,0,0,0,0,,https://w3id.org/eusoilvoc#bulkDensityFineEarthProcedure-BlkDensF_fe-co-od
+,BlkDensF_fe-co-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#bulkDensityFineEarthProcedure-BlkDensF_fe-co-unkn
+,BlkDensF_fe-rpl-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#bulkDensityFineEarthProcedure-BlkDensF_fe-rpl-unkn
+,BlkDensF_fe-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#bulkDensityFineEarthProcedure-BlkDensF_fe-unkn
+,BlkDensF_fe-unkn-fc,,0,0,0,0,,https://w3id.org/eusoilvoc#bulkDensityFineEarthProcedure-BlkDensF_fe-unkn-fc
+,BlkDensF_fe-unkn-od,,0,0,0,0,,https://w3id.org/eusoilvoc#bulkDensityFineEarthProcedure-BlkDensF_fe-unkn-od
+,BlkDensW_we-cl-fc,,0,0,0,0,,https://w3id.org/eusoilvoc#bulkDensityWholeSoilProcedure-BlkDensW_we-cl-fc
+,BlkDensW_we-cl-od,,0,0,0,0,,https://w3id.org/eusoilvoc#bulkDensityWholeSoilProcedure-BlkDensW_we-cl-od
+,BlkDensW_we-cl-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#bulkDensityWholeSoilProcedure-BlkDensW_we-cl-unkn
+,BlkDensW_we-co-fc,,0,0,0,0,,https://w3id.org/eusoilvoc#bulkDensityWholeSoilProcedure-BlkDensW_we-co-fc
+,BlkDensW_we-co-od,,0,0,0,0,,https://w3id.org/eusoilvoc#bulkDensityWholeSoilProcedure-BlkDensW_we-co-od
+,BlkDensW_we-co-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#bulkDensityWholeSoilProcedure-BlkDensW_we-co-unkn
+,BlkDensW_we-rpl-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#bulkDensityWholeSoilProcedure-BlkDensW_we-rpl-unkn
+,BlkDensW_we-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#bulkDensityWholeSoilProcedure-BlkDensW_we-unkn
+,BSat_calcul-cec,,0,0,0,0,,https://w3id.org/eusoilvoc#baseSaturationProcedure-BSat_calcul-cec
+,BSat_calcul-ecec,,0,0,0,0,,https://w3id.org/eusoilvoc#baseSaturationProcedure-BSat_calcul-ecec
+,CaCO3_acid-ch3cooh-dc,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-ch3cooh-dc
+,CaCO3_acid-ch3cooh-nodc,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-ch3cooh-nodc
+,CaCO3_acid-ch3cooh-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-ch3cooh-unkn
+,CaCO3_acid-dc,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-dc
+,CaCO3_acid-h2so4-dc,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-h2so4-dc
+,CaCO3_acid-h2so4-nodc,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-h2so4-nodc
+,CaCO3_acid-h2so4-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-h2so4-unkn
+,CaCO3_acid-h3po4-dc,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-h3po4-dc
+,CaCO3_acid-h3po4-nodc,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-h3po4-nodc
+,CaCO3_acid-h3po4-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-h3po4-unkn
+,CaCO3_acid-hcl-dc,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-hcl-dc
+,CaCO3_acid-hcl-nodc,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-hcl-nodc
+,CaCO3_acid-hcl-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-hcl-unkn
+,CaCO3_acid-nodc,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-nodc
+,CaCO3_acid-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_acid-unkn
+,CaCO3_ca01,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca01
+,CaCO3_ca02,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca02
+,CaCO3_ca03,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca03
+,CaCO3_ca04,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca04
+,CaCO3_ca05,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca05
+,CaCO3_ca06,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca06
+,CaCO3_ca07,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca07
+,CaCO3_ca08,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca08
+,CaCO3_ca09,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca09
+,CaCO3_ca10,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca10
+,CaCO3_ca11,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca11
+,CaCO3_ca12,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_ca12
+,CaCO3_calcul-tc-oc,,0,0,0,0,,https://w3id.org/eusoilvoc#totalCarbonateEquivalentProcedure-CaCO3_calcul-tc-oc
+,CaSO4_gy01,,0,0,0,0,,https://w3id.org/eusoilvoc#gypsumProcedure-CaSO4_gy01
+,CaSO4_gy02,,0,0,0,0,,https://w3id.org/eusoilvoc#gypsumProcedure-CaSO4_gy02
+,CaSO4_gy03,,0,0,0,0,,https://w3id.org/eusoilvoc#gypsumProcedure-CaSO4_gy03
+,CaSO4_gy04,,0,0,0,0,,https://w3id.org/eusoilvoc#gypsumProcedure-CaSO4_gy04
+,CaSO4_gy05,,0,0,0,0,,https://w3id.org/eusoilvoc#gypsumProcedure-CaSO4_gy05
+,CaSO4_gy06,,0,0,0,0,,https://w3id.org/eusoilvoc#gypsumProcedure-CaSO4_gy06
+,CaSO4_gy07,,0,0,0,0,,https://w3id.org/eusoilvoc#gypsumProcedure-CaSO4_gy07
+,CEC_ph-unkn-cacl2,,0,0,0,0,,https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph-unkn-cacl2
+,CEC_ph-unkn-lioac,,0,0,0,0,,https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph-unkn-lioac
+,CEC_ph-unkn-m3,,0,0,0,0,,https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph-unkn-m3
+,CEC_ph0-ag-thioura,,0,0,0,0,,https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph0-ag-thioura
+,CEC_ph0-bacl2,,0,0,0,0,,https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph0-bacl2
+,CEC_ph0-cohex,,0,0,0,0,,https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph0-cohex
+,CEC_ph0-kcl,,0,0,0,0,,https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph0-kcl
+,CEC_ph0-nh4cl,,0,0,0,0,,https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph0-nh4cl
+,CEC_ph0-nh4oac,,0,0,0,0,,https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph0-nh4oac
+,CEC_ph0-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph0-unkn
+,CEC_ph7-edta,,0,0,0,0,,https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph7-edta
+,CEC_ph7-nh4oac,,0,0,0,0,,https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph7-nh4oac
+,CEC_ph7-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph7-unkn
+,CEC_ph8-bacl2tea,,0,0,0,0,,https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph8-bacl2tea
+,CEC_ph8-baoac,,0,0,0,0,,https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph8-baoac
+,CEC_ph8-licl2tea,,0,0,0,0,,https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph8-licl2tea
+,CEC_ph8-naoac,,0,0,0,0,,https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph8-naoac
+,CEC_ph8-nh4oac,,0,0,0,0,,https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph8-nh4oac
+,CEC_ph8-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#cationExchangeCapacitySoilProcedure-CEC_ph8-unkn
+,CrsFrg_fld,,0,0,0,0,,https://w3id.org/eusoilvoc#coarseFragmentsProcedure-CrsFrg_fld
+,CrsFrg_fldcls,,0,0,0,0,,https://w3id.org/eusoilvoc#coarseFragmentsProcedure-CrsFrg_fldcls
+,CrsFrg_lab,,0,0,0,0,,https://w3id.org/eusoilvoc#coarseFragmentsProcedure-CrsFrg_lab
+,EC_ratio1-1,,0,0,0,0,,https://w3id.org/eusoilvoc#electricalConductivityProcedure-EC_ratio1-1
+,EC_ratio1-10,,0,0,0,0,,https://w3id.org/eusoilvoc#electricalConductivityProcedure-EC_ratio1-10
+,EC_ratio1-2,,0,0,0,0,,https://w3id.org/eusoilvoc#electricalConductivityProcedure-EC_ratio1-2
+,EC_ratio1-2.5,,0,0,0,0,,https://w3id.org/eusoilvoc#electricalConductivityProcedure-EC_ratio1-2.5
+,EC_ratio1-5,,0,0,0,0,,https://w3id.org/eusoilvoc#electricalConductivityProcedure-EC_ratio1-5
+,ECe_sat,,0,0,0,0,,https://w3id.org/eusoilvoc#electricalConductivityProcedure-ECe_sat
+,EffCEC_calcul-b,,0,0,0,0,,https://w3id.org/eusoilvoc#effectiveCecProcedure-EffCEC_calcul-b
+,EffCEC_calcul-ba,,0,0,0,0,,https://w3id.org/eusoilvoc#effectiveCecProcedure-EffCEC_calcul-ba
+,ExchAcid_ph0-kcl1m,,0,0,0,0,,https://w3id.org/eusoilvoc#acidityExchangeableProcedure-ExchAcid_ph0-kcl1m
+,ExchAcid_ph0-nh4cl,,0,0,0,0,,https://w3id.org/eusoilvoc#acidityExchangeableProcedure-ExchAcid_ph0-nh4cl
+,ExchAcid_ph0-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#acidityExchangeableProcedure-ExchAcid_ph0-unkn
+,ExchAcid_ph7-caoac,,0,0,0,0,,https://w3id.org/eusoilvoc#acidityExchangeableProcedure-ExchAcid_ph7-caoac
+,ExchAcid_ph7-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#acidityExchangeableProcedure-ExchAcid_ph7-unkn
+,ExchAcid_ph8-bacl2tea,,0,0,0,0,,https://w3id.org/eusoilvoc#acidityExchangeableProcedure-ExchAcid_ph8-bacl2tea
+,ExchAcid_ph8-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#acidityExchangeableProcedure-ExchAcid_ph8-unkn
+,ExchBases_ph-unkn-edta,,0,0,0,0,,https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph-unkn-edta
+,ExchBases_ph-unkn-m3,,0,0,0,0,,https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph-unkn-m3
+,ExchBases_ph-unkn-m3-spec,,0,0,0,0,,https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph-unkn-m3-spec
+,ExchBases_ph0-cohex,,0,0,0,0,,https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph0-cohex
+,ExchBases_ph0-nh4cl,,0,0,0,0,,https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph0-nh4cl
+,ExchBases_ph7-nh4oac,,0,0,0,0,,https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph7-nh4oac
+,ExchBases_ph7-nh4oac-aas,,0,0,0,0,,https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph7-nh4oac-aas
+,ExchBases_ph7-nh4oac-fp,,0,0,0,0,,https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph7-nh4oac-fp
+,ExchBases_ph7-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph7-unkn
+,ExchBases_ph8-bacl2tea,,0,0,0,0,,https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph8-bacl2tea
+,ExchBases_ph8-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#exchangeableBasesProcedure-ExchBases_ph8-unkn
+,Extr_ap14,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_ap14
+,Extr_ap15,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_ap15
+,Extr_ap20,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_ap20
+,Extr_ap21,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_ap21
+,Extr_c6h8o7-reeuwijk,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_c6h8o7-reeuwijk
+,Extr_cacl2,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_cacl2
+,Extr_capo4,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_capo4
+,Extr_dtpa,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_dtpa
+,Extr_edta,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_edta
+,Extr_h2so4-truog,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_h2so4-truog
+,Extr_hcl-h2so4-nelso,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_hcl-h2so4-nelson
+,Extr_hcl-nh4f-bray1,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_hcl-nh4f-bray1
+,Extr_hcl-nh4f-bray2,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_hcl-nh4f-bray2
+,Extr_hcl-nh4f-kurtz-bray,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_hcl-nh4f-kurtz-bray
+,Extr_hno3,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_hno3
+,Extr_hotwater,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_hotwater
+,Extr_m1,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_m1
+,Extr_m2,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_m2
+,Extr_m3,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_m3
+,Extr_m3-spec,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_m3-spec
+,Extr_nahco3-ols,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_nahco3-olsen
+,Extr_nahco3-olsen-dabi,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_nahco3-olsen-dabin
+,Extr_naoac-morga,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_naoac-morgan
+,Extr_nh4-co3-2-ambic1,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_nh4-co3-2-ambic1
+,Extr_nh4ch3ch-oh-cooh-leuv,,0,0,0,0,,https://w3id.org/eusoilvoc#extractableElementsProcedure-Extr_nh4ch3ch-oh-cooh-leuven
+,FulAcidC_unk,,0,0,0,0,,https://w3id.org/eusoilvoc#organicMatterProcedure-FulAcidC_unkn
+,HumAcidC_unk,,0,0,0,0,,https://w3id.org/eusoilvoc#organicMatterProcedure-HumAcidC_unkn
+,InOrgC_calcul-caco3,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonInorganicProcedure-InOrgC_calcul-caco3
+,InOrgC_calcul-tc-oc,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonInorganicProcedure-InOrgC_calcul-tc-oc
+,Ksat_bhol,,0,0,0,0,,https://w3id.org/eusoilvoc#hydraulicConductivityProcedure-Ksat_bhole
+,KSat_calcul-ptf,,0,0,0,0,,https://w3id.org/eusoilvoc#hydraulicConductivityProcedure-KSat_calcul-ptf
+,KSat_calcul-ptf-genucht,,0,0,0,0,,https://w3id.org/eusoilvoc#hydraulicConductivityProcedure-KSat_calcul-ptf-genuchten
+,KSat_calcul-ptf-saxto,,0,0,0,0,,https://w3id.org/eusoilvoc#hydraulicConductivityProcedure-KSat_calcul-ptf-saxton
+,Ksat_colum,,0,0,0,0,,https://w3id.org/eusoilvoc#hydraulicConductivityProcedure-Ksat_column
+,Ksat_dblring,,0,0,0,0,,https://w3id.org/eusoilvoc#hydraulicConductivityProcedure-Ksat_dblring
+,Ksat_invbhol,,0,0,0,0,,https://w3id.org/eusoilvoc#hydraulicConductivityProcedure-Ksat_invbhole
+,OrgC_acid-dc,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_acid-dc
+,OrgC_acid-dc-ht,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_acid-dc-ht
+,OrgC_acid-dc-ht-analyser,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_acid-dc-ht-analyser
+,OrgC_acid-dc-lt,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_acid-dc-lt
+,OrgC_acid-dc-lt-loi,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_acid-dc-lt-loi
+,OrgC_acid-dc-mt,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_acid-dc-mt
+,OrgC_acid-dc-spec,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_acid-dc-spec
+,OrgC_calcul-tc-ic,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_calcul-tc-ic
+,OrgC_dc,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_dc
+,OrgC_dc-ht,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_dc-ht
+,OrgC_dc-ht-analyser,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_dc-ht-analyser
+,OrgC_dc-lt,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_dc-lt
+,OrgC_dc-lt-loi,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_dc-lt-loi
+,OrgC_dc-mt,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_dc-mt
+,OrgC_dc-spec,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_dc-spec
+,OrgC_wc,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_wc
+,OrgC_wc-cro3-jackso,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_wc-cro3-jackson
+,OrgC_wc-cro3-kalembra,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_wc-cro3-kalembra
+,OrgC_wc-cro3-knopp,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_wc-cro3-knopp
+,OrgC_wc-cro3-kurmies,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_wc-cro3-kurmies
+,OrgC_wc-cro3-nelso,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_wc-cro3-nelson
+,OrgC_wc-cro3-nrcs6a1c,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_wc-cro3-nrcs6a1c
+,OrgC_wc-cro3-tiuri,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_wc-cro3-tiurin
+,OrgC_wc-cro3-walkleyblack,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonOrganicProcedure-OrgC_wc-cro3-walkleyblack
+,OrgM_calcul-oc1.73,,0,0,0,0,,https://w3id.org/eusoilvoc#organicMatterProcedure-OrgM_calcul-oc1.73
+,PAWHC_calcul-fc100wp,,0,0,0,0,,https://w3id.org/eusoilvoc#availableWaterHoldingCapacityProcedure-PAWHC_calcul-fc100wp
+,PAWHC_calcul-fc200wp,,0,0,0,0,,https://w3id.org/eusoilvoc#availableWaterHoldingCapacityProcedure-PAWHC_calcul-fc200wp
+,PAWHC_calcul-fc300wp,,0,0,0,0,,https://w3id.org/eusoilvoc#availableWaterHoldingCapacityProcedure-PAWHC_calcul-fc300wp
+,pHKCl_sat,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHKCl_sat
+,pHNaF,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHNaF
+,Poros_calcul-pf0,,0,0,0,0,,https://w3id.org/eusoilvoc#porosityProcedure-Poros_calcul-pf0
+,RetentP_blakemor,,0,0,0,0,,https://w3id.org/eusoilvoc#phosphorusRetentionProcedure-RetentP_blakemore
+,RetentP_unkn-spec,,0,0,0,0,,https://w3id.org/eusoilvoc#phosphorusRetentionProcedure-RetentP_unkn-spec
+,SlbAn_calcul-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#solubleSaltsProcedure-SlbAn_calcul-unkn
+,SlbCat_calcul-unk,,0,0,0,0,,https://w3id.org/eusoilvoc#solubleSaltsProcedure-SlbCat_calcul-unkn
+,Total_h2so4,,0,0,0,0,,https://w3id.org/eusoilvoc#totalElementsProcedure-Total_h2so4
+,Total_hcl,,0,0,0,0,,https://w3id.org/eusoilvoc#totalElementsProcedure-Total_hcl
+,Total_hcl-aquaregia,,0,0,0,0,,https://w3id.org/eusoilvoc#totalElementsProcedure-Total_hcl-aquaregia
+,Total_hclo4,,0,0,0,0,,https://w3id.org/eusoilvoc#totalElementsProcedure-Total_hclo4
+,Total_hno3-aquafortis,,0,0,0,0,,https://w3id.org/eusoilvoc#totalElementsProcedure-Total_hno3-aquafortis
+,Total_nh4-6mo7o24,,0,0,0,0,,https://w3id.org/eusoilvoc#totalElementsProcedure-Total_nh4-6mo7o24
+,Total_tp03,,0,0,0,0,,https://w3id.org/eusoilvoc#totalElementsProcedure-Total_tp03
+,Total_tp04,,0,0,0,0,,https://w3id.org/eusoilvoc#totalElementsProcedure-Total_tp04
+,Total_tp05,,0,0,0,0,,https://w3id.org/eusoilvoc#totalElementsProcedure-Total_tp05
+,Total_tp06,,0,0,0,0,,https://w3id.org/eusoilvoc#totalElementsProcedure-Total_tp06
+,Total_tp07,,0,0,0,0,,https://w3id.org/eusoilvoc#totalElementsProcedure-Total_tp07
+,Total_tp08,,0,0,0,0,,https://w3id.org/eusoilvoc#totalElementsProcedure-Total_tp08
+,Total_tp09,,0,0,0,0,,https://w3id.org/eusoilvoc#totalElementsProcedure-Total_tp09
+,Total_tp10,,0,0,0,0,,https://w3id.org/eusoilvoc#totalElementsProcedure-Total_tp10
+,Total_unk,,0,0,0,0,,https://w3id.org/eusoilvoc#totalElementsProcedure-Total_unkn
+,Total_xrd,,0,0,0,0,,https://w3id.org/eusoilvoc#totalElementsProcedure-Total_xrd
+,Total_xrf,,0,0,0,0,,https://w3id.org/eusoilvoc#totalElementsProcedure-Total_xrf
+,Total_xrf-p,,0,0,0,0,,https://w3id.org/eusoilvoc#totalElementsProcedure-Total_xrf-p
+,Total_xtf-t,,0,0,0,0,,https://w3id.org/eusoilvoc#totalElementsProcedure-Total_xtf-t
+,TotalN_bremner,,0,0,0,0,,https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_bremner
+,TotalN_calcul,,0,0,0,0,,https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_calcul
+,TotalN_calcul-oc10,,0,0,0,0,,https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_calcul-oc10
+,TotalN_dc,,0,0,0,0,,https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_dc
+,TotalN_h2so4,,0,0,0,0,,https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_h2so4
+,TotalN_kjeldahl,,0,0,0,0,,https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_kjeldahl
+,TotalN_kjeldahl-nh4,,0,0,0,0,,https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_kjeldahl-nh4
+,TotalN_nelso,,0,0,0,0,,https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_nelson
+,TotalN_tn04,,0,0,0,0,,https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_tn04
+,TotalN_tn06,,0,0,0,0,,https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_tn06
+,TotalN_tn08,,0,0,0,0,,https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_tn08
+,TotC_calcul-ic-oc,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonTotalProcedure-TotC_calcul-ic-oc
+,TotC_dc-ht,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonTotalProcedure-TotC_dc-ht
+,TotC_dc-ht-analyser,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonTotalProcedure-TotC_dc-ht-analyser
+,TotC_dc-ht-spec,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonTotalProcedure-TotC_dc-ht-spec
+,TotC_dc-mt,,0,0,0,0,,https://w3id.org/eusoilvoc#carbonTotalProcedure-TotC_dc-mt
+,TotHumC_unk,,0,0,0,0,,https://w3id.org/eusoilvoc#organicMatterProcedure-TotHumC_unkn
+,VMC_calcul-ptf,,0,0,0,0,,https://w3id.org/eusoilvoc#moistureContentProcedure-VMC_calcul-ptf
+,VMC_calcul-ptf-brookscorey,,0,0,0,0,,https://w3id.org/eusoilvoc#moistureContentProcedure-VMC_calcul-ptf-brookscorey
+,VMC_d,,0,0,0,0,,https://w3id.org/eusoilvoc#moistureContentProcedure-VMC_d
+,VMC_d-cl,,0,0,0,0,,https://w3id.org/eusoilvoc#moistureContentProcedure-VMC_d-cl
+,VMC_d-cl-ww,,0,0,0,0,,https://w3id.org/eusoilvoc#moistureContentProcedure-VMC_d-cl-ww
+,VMC_d-ww,,0,0,0,0,,https://w3id.org/eusoilvoc#moistureContentProcedure-VMC_d-ww
+,VMC_ud,,0,0,0,0,,https://w3id.org/eusoilvoc#moistureContentProcedure-VMC_ud
+,VMC_ud-cl,,0,0,0,0,,https://w3id.org/eusoilvoc#moistureContentProcedure-VMC_ud-cl
+,VMC_ud-co,,0,0,0,0,,https://w3id.org/eusoilvoc#moistureContentProcedure-VMC_ud-co
+,pHCaCl2_ratio1-1,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHCaCl2_ratio1-1
+,pHCaCl2_ratio1-10,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHCaCl2_ratio1-10
+,pHCaCl2_ratio1-2,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHCaCl2_ratio1-2
+,pHCaCl2_ratio1-2.5,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHCaCl2_ratio1-2.5
+,pHCaCl2_ratio1-5,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHCaCl2_ratio1-5
+,pHCaCl2_sat,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHCaCl2_sat
+,pHH2O_ratio1-1,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHH2O_ratio1-1
+,pHH2O_ratio1-10,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHH2O_ratio1-10
+,pHH2O_ratio1-2,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHH2O_ratio1-2
+,pHH2O_ratio1-2.5,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHH2O_ratio1-2.5
+,pHH2O_ratio1-5,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHH2O_ratio1-5
+,pHH2O_sat,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHH2O_sat
+,pHH2O_unkn-spec,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHH2O_unkn-spec
+,pHKCl_ratio1-1,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHKCl_ratio1-1
+,pHKCl_ratio1-10,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHKCl_ratio1-10
+,pHKCl_ratio1-2,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHKCl_ratio1-2
+,pHKCl_ratio1-2.5,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHKCl_ratio1-2.5
+,pHKCl_ratio1-5,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHKCl_ratio1-5
+,pHNaF_ratio1-1,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHNaF_ratio1-1
+,pHNaF_ratio1-10,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHNaF_ratio1-10
+,pHNaF_ratio1-2,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHNaF_ratio1-2
+,pHNaF_ratio1-2.5,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHNaF_ratio1-2.5
+,pHNaF_ratio1-5,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHNaF_ratio1-5
+,pHNaF_sat,,0,0,0,0,,https://w3id.org/eusoilvoc#pHProcedure-pHNaF_sat
+,TotalN_dc-ht-dumas,,0,0,0,0,,https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_dc-ht-dumas
+,TotalN_dc-ht-leco,,0,0,0,0,,https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_dc-ht-leco
+,TotalN_dc-spec,,0,0,0,0,,https://w3id.org/eusoilvoc#nitrogenTotalProcedure-TotalN_dc-spec

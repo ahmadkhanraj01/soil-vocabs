@@ -1,0 +1,191 @@
+label,scheme
+no poverty,SDG goal
+zero hunger,SDG goal
+good health,SDG goal
+good health and well being,SDG goal
+good health and wellbeing,SDG goal
+quality education,SDG goal
+gender equality,SDG goal
+clean water,SDG goal
+clean water and sanitation,SDG goal
+affordable and clean energy,SDG goal
+clean energy,SDG goal
+decent work,SDG goal
+decent work and economic growth,SDG goal
+industry and infrastructure,SDG goal
+industry innovation and infrastructure,SDG goal
+reduced inequalities,SDG goal
+reduced inequality,SDG goal
+sustainable cities,SDG goal
+sustainable cities and communities,SDG goal
+responsible consumption,SDG goal
+responsible consumption and production,SDG goal
+climate action,SDG goal
+life underwater,SDG goal
+life below water,SDG goal
+life on land,SDG goal
+peace & justice,SDG goal
+peace and justice,SDG goal
+peace justice and strong institutions,SDG goal
+partnerships for the goals,SDG goal
+partnerships,SDG goal
+natural sciences,OECD field of science
+mathematics,OECD field of science
+computer and information sciences,OECD field of science
+physical sciences,OECD field of science
+chemical sciences,OECD field of science
+earth and related environmental sciences,OECD field of science
+biological sciences,OECD field of science
+other natural sciences,OECD field of science
+engineering and technology,OECD field of science
+civil engineering,OECD field of science
+electrical engineering,OECD field of science
+electronic engineering,OECD field of science
+information engineering,OECD field of science
+electrical engineering electronic engineering information engineering,OECD field of science
+mechanical engineering,OECD field of science
+chemical engineering,OECD field of science
+materials engineering,OECD field of science
+medical engineering,OECD field of science
+environmental engineering,OECD field of science
+environmental biotechnology,OECD field of science
+industrial biotechnology,OECD field of science
+nano technology,OECD field of science
+nanotechnology,OECD field of science
+other engineering and technologies,OECD field of science
+medical and health sciences,OECD field of science
+basic medicine,OECD field of science
+clinical medicine,OECD field of science
+health sciences,OECD field of science
+medical biotechnology,OECD field of science
+other medical sciences,OECD field of science
+agricultural sciences,OECD field of science
+agricultural and veterinary sciences,OECD field of science
+agriculture forestry and fisheries,OECD field of science
+animal and dairy science,OECD field of science
+veterinary science,OECD field of science
+agricultural biotechnology,OECD field of science
+other agricultural sciences,OECD field of science
+social sciences,OECD field of science
+psychology,OECD field of science
+economics and business,OECD field of science
+educational sciences,OECD field of science
+sociology,OECD field of science
+law,OECD field of science
+political science,OECD field of science
+social and economic geography,OECD field of science
+media and communications,OECD field of science
+other social sciences,OECD field of science
+humanities,OECD field of science
+history and archaeology,OECD field of science
+languages and literature,OECD field of science
+philosophy ethics and religion,OECD field of science
+arts,OECD field of science
+other humanities,OECD field of science
+life sciences,HAL domain
+sciences of the universe,HAL domain
+environmental sciences,HAL domain
+humanities and social sciences,HAL domain
+computer science,HAL domain
+engineering sciences,HAL domain
+physics,HAL domain
+cognitive science,HAL domain
+statistics,HAL domain
+nonlinear sciences,HAL domain
+all subjects,HAL domain
+addresses,INSPIRE theme
+administrative units,INSPIRE theme
+cadastral parcels,INSPIRE theme
+coordinate reference systems,INSPIRE theme
+geographical grid systems,INSPIRE theme
+geographical names,INSPIRE theme
+hydrography,INSPIRE theme
+protected sites,INSPIRE theme
+transport networks,INSPIRE theme
+elevation,INSPIRE theme
+orthoimagery,INSPIRE theme
+agricultural and aquaculture facilities,INSPIRE theme
+area management,INSPIRE theme
+restriction,INSPIRE theme
+regulation zones and reporting units,INSPIRE theme
+area management restriction regulation zones and reporting units,INSPIRE theme
+atmospheric conditions,INSPIRE theme
+bio geographical regions,INSPIRE theme
+buildings,INSPIRE theme
+energy resources,INSPIRE theme
+environmental monitoring facilities,INSPIRE theme
+human health and safety,INSPIRE theme
+meteorological geographical features,INSPIRE theme
+mineral resources,INSPIRE theme
+natural risk zones,INSPIRE theme
+oceanographic geographical features,INSPIRE theme
+population distribution,INSPIRE theme
+demography,INSPIRE theme
+production and industrial facilities,INSPIRE theme
+sea regions,INSPIRE theme
+statistical units,INSPIRE theme
+utility and governmental services,INSPIRE theme
+economic growth,SDG goal
+sanitation,SDG goal
+affordable energy,SDG goal
+strong institutions,SDG goal
+well being,SDG goal
+wellbeing,SDG goal
+continental interfaces,HAL domain
+continental interfaces environment,HAL domain
+ocean,HAL domain
+ocean atmosphere,HAL domain
+biodiversity and ecology,HAL domain
+vegetal biology,HAL domain
+global changes,HAL domain
+earth sciences,HAL domain
+environment and society,HAL domain
+ecology environment,HAL domain
+physical geography and environmental geoscience,HAL domain
+general environmental science,HAL domain
+humanities and the arts,HAL domain
+classical physics,HAL domain
+materials science,HAL domain
+geography & travel,HAL domain
+high value dataset,portal/metadata tag
+high value datasets,portal/metadata tag
+high value datasets regulation,portal/metadata tag
+raw data,portal/metadata tag
+research data,portal/metadata tag
+bepress,portal/metadata tag
+bmgf aws,portal/metadata tag
+open data,portal/metadata tag
+opendata,portal/metadata tag
+inspire,portal/metadata tag
+inspirecore,portal/metadata tag
+inspireidentifiziert,portal/metadata tag
+wms,portal/metadata tag
+wfs,portal/metadata tag
+csw,portal/metadata tag
+download service,portal/metadata tag
+view service,portal/metadata tag
+catalog service,portal/metadata tag
+infomanagementservice,portal/metadata tag
+geoportal,portal/metadata tag
+metadata,portal/metadata tag
+dataset,portal/metadata tag
+datasets,portal/metadata tag
+data,portal/metadata tag
+database,portal/metadata tag
+datenbank,portal/metadata tag
+geobasisdaten,portal/metadata tag
+sentinel 1,portal/metadata tag
+sentinel 2,portal/metadata tag
+research infrastructure,portal/metadata tag
+soil functions data,portal/metadata tag
+soil projects data,portal/metadata tag
+view,portal/metadata tag
+download,portal/metadata tag
+hvd,portal/metadata tag
+national,portal/metadata tag
+nationaal,portal/metadata tag
+regional,portal/metadata tag
+régional,portal/metadata tag
+lokal,portal/metadata tag
+local,portal/metadata tag
+covid 19,portal/metadata tag

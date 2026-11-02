@@ -1,0 +1,162 @@
+top_concept,level2,concepts,concepts_in_db,pct_in_db,db_keywords,db_records
+ecosystem services,(the top concept itself),1,1,100.0%,3,86
+ecosystem services,supporting services,1,1,100.0%,1,4
+ecosystem services,cultural services,1,0,0.0%,0,0
+ecosystem services,provisioning services,1,0,0.0%,0,0
+ecosystem services,regulating services,1,0,0.0%,0,0
+geology,(the top concept itself),1,1,100.0%,4,780
+geology,parent material,8,4,50.0%,5,76
+geology,lithology,1,1,100.0%,1,64
+geology,rock outcrops,3,0,0.0%,0,0
+land cover,(the top concept itself),1,1,100.0%,5,443
+land cover,plant cover,10,7,70.0%,24,303
+land cover,building,1,1,100.0%,2,16
+land cover,ground cover,1,1,100.0%,1,3
+land cover,pavements,2,1,50.0%,2,3
+physiography,(the top concept itself),1,1,100.0%,1,29
+physiography,slope,7,2,28.6%,3,23
+physiography,landform complex,1,0,0.0%,0,0
+physiography,major land forms,1,0,0.0%,0,0
+planetary phenomena,climate,1,1,100.0%,2,301
+planetary phenomena,water interchange,20,13,65.0%,15,179
+planetary phenomena,weather,3,2,66.7%,3,131
+planetary phenomena,inundation,4,3,75.0%,5,43
+planetary phenomena,season,1,1,100.0%,2,27
+planetary phenomena,(the top concept itself),1,0,0.0%,0,0
+soil,(the top concept itself),1,1,100.0%,14,3558
+soil,topsoil,1,1,100.0%,3,101
+soil,rhizosphere,1,1,100.0%,2,49
+soil,soil resources,1,1,100.0%,3,44
+soil,subsoil,1,1,100.0%,2,38
+soil,fine soil,1,0,0.0%,0,0
+soil,soil skeleton,1,0,0.0%,0,0
+soil description,soil information,2,2,100.0%,6,494
+soil description,soil morphological features,13,2,15.4%,7,218
+soil description,soil surveys,7,4,57.1%,8,76
+soil description,soil landscapes,1,1,100.0%,1,21
+soil description,(the top concept itself),1,1,100.0%,1,6
+soil description,land use class,1,1,100.0%,1,1
+soil description,soil organic matter class,1,1,100.0%,1,1
+soil description,crop class,1,0,0.0%,0,0
+soil description,fragment class,1,0,0.0%,0,0
+soil description,human influence class,1,0,0.0%,0,0
+soil description,koeppen class,1,0,0.0%,0,0
+soil description,pedon,1,0,0.0%,0,0
+soil description,porosity class,1,0,0.0%,0,0
+soil description,profile description status,1,0,0.0%,0,0
+soil description,slope gradient class,1,0,0.0%,0,0
+soil description,slope orientation class,1,0,0.0%,0,0
+soil description,soil depth rootable class,1,0,0.0%,0,0
+soil description,soil sequences,1,0,0.0%,0,0
+soil description,soil water infiltration rate class,1,0,0.0%,0,0
+soil description,soil zonation,1,0,0.0%,0,0
+soil description,texture field class,1,0,0.0%,0,0
+soil description,texture lab class,1,0,0.0%,0,0
+soil description,vegetation class,1,0,0.0%,0,0
+soil functions,(the top concept itself),1,1,100.0%,5,292
+soil functions,soil agricultural functions,13,11,84.6%,16,259
+soil functions,soil engineering functions,11,3,27.3%,6,53
+soil functions,habitats,1,1,100.0%,2,41
+soil functions,food production,1,1,100.0%,1,36
+soil functions,climate regulation,1,1,100.0%,1,24
+soil functions,carbon pools,1,1,100.0%,5,18
+soil functions,soil environmental functions,3,3,100.0%,4,16
+soil functions,water purification,2,1,50.0%,1,7
+soil functions,nutrient dynamics,1,1,100.0%,1,3
+soil functions,water regulation,1,1,100.0%,1,2
+soil functions,soil biological functions,1,1,100.0%,1,1
+soil functions,soil chemical functions,1,1,100.0%,1,1
+soil functions,soil physical functions,1,0,0.0%,0,0
+soil health,(the top concept itself),1,1,100.0%,3,238
+soil indicators,non-soil indicators,10,6,60.0%,20,773
+soil indicators,(the top concept itself),1,1,100.0%,2,38
+soil indicators,soil structure index,44,8,18.2%,8,33
+soil indicators,soil function indicators,9,3,33.3%,3,14
+soil management,(the top concept itself),1,1,100.0%,3,150
+soil management,soil tillage,26,8,30.8%,10,98
+soil management,pesticide use,1,1,100.0%,2,70
+soil management,irrigation,1,1,100.0%,1,57
+soil management,mulching,1,1,100.0%,1,51
+soil management,soil conservation,8,3,37.5%,4,40
+soil management,no till,1,1,100.0%,5,37
+soil management,soil drainage,9,2,22.2%,4,33
+soil management,fertiliser use,1,1,100.0%,1,29
+soil management,soil improvement,2,2,100.0%,2,24
+soil management,soil amendments,10,2,20.0%,4,15
+soil management,mulch,14,5,35.7%,6,11
+soil management,liming,1,1,100.0%,1,2
+soil management,soil reclamation,2,1,50.0%,2,2
+soil management,seedbed preparation,1,1,100.0%,1,1
+soil management,site preparation,2,1,50.0%,1,1
+soil management,soil treatment,9,1,11.1%,1,1
+soil management,integrated soil fertility management,1,0,0.0%,0,0
+soil management,mulch farming,1,0,0.0%,0,0
+soil management,salinity control,1,0,0.0%,0,0
+soil management,soil management equipment,3,0,0.0%,0,0
+soil phenomena,soil failure,5,2,40.0%,2,6
+soil phenomena,soil water repellency,1,1,100.0%,1,5
+soil phenomena,salt sieving,1,1,100.0%,1,1
+soil phenomena,soil hydrophobicity,1,1,100.0%,1,1
+soil phenomena,(the top concept itself),1,0,0.0%,0,0
+soil phenomena,drainage to groundwater,1,0,0.0%,0,0
+soil phenomena,soil moisture hysteresis,1,0,0.0%,0,0
+soil phenomena,soil moisture redistribution,1,0,0.0%,0,0
+soil phenomena,soil oxygen deficiency,1,0,0.0%,0,0
+soil phenomena,soil strain hardening,1,0,0.0%,0,0
+soil phenomena,soil–plant–atmosphere continuum,1,0,0.0%,0,0
+soil processes,soil physical processes,104,27,26.0%,34,480
+soil processes,soil chemical processes,26,12,46.2%,14,316
+soil processes,soil carbon sequestration,1,1,100.0%,3,93
+soil processes,soil biological processes,8,7,87.5%,8,52
+soil processes,(the top concept itself),1,1,100.0%,1,4
+soil processes,losses from soil,1,1,100.0%,1,2
+soil processes,soil denudation,1,1,100.0%,1,2
+soil processes,soil anthropogenic changes,2,0,0.0%,0,0
+soil properties,soil chemicophysical properties,450,137,30.4%,192,3530
+soil properties,(the top concept itself),1,1,100.0%,5,453
+soil properties,soil productivity,1,1,100.0%,3,190
+soil properties,soil biological properties,7,6,85.7%,8,145
+soil properties,soil quality,1,1,100.0%,4,64
+soil properties,soil age,2,1,50.0%,1,55
+soil properties,soil suitability,1,1,100.0%,2,40
+soil properties,soil porosity,11,3,27.3%,4,20
+soil properties,soil mechanical properties,2,2,100.0%,3,17
+soil properties,soil spatial properties,8,2,25.0%,2,14
+soil properties,soil permeability,3,2,66.7%,2,3
+soil properties,soil moisture contents,9,2,22.2%,2,2
+soil properties,soil surface properties,1,1,100.0%,1,2
+soil properties,edaphic factors,1,1,100.0%,1,1
+soil properties,soil security,1,1,100.0%,1,1
+soil properties,soil consistence,9,0,0.0%,0,0
+soil properties,soil trafficability,1,0,0.0%,0,0
+soil sciences,(the top concept itself),1,1,100.0%,6,419
+soil sciences,soil biology,1,1,100.0%,5,362
+soil sciences,soil chemistry,1,1,100.0%,3,108
+soil sciences,soil mechanics,2,2,100.0%,3,70
+soil sciences,soil hydrology,1,1,100.0%,2,24
+soil sciences,soil physics,1,1,100.0%,2,8
+soil sciences,soil erosion models,4,2,50.0%,3,3
+soil sciences,soil morphology,1,1,100.0%,1,1
+soil sciences,agrology,1,0,0.0%,0,0
+soil sciences,pedology,1,0,0.0%,0,0
+soil sciences,soil scientists,1,0,0.0%,0,0
+soil substance,soil components,39,19,48.7%,31,892
+soil substance,soil organisms,24,16,66.7%,31,706
+soil substance,soil nutrients,42,16,38.1%,24,687
+soil substance,soil crusts,8,3,37.5%,6,26
+soil substance,soil chemical,11,5,45.5%,6,14
+soil substance,soil pores,21,4,19.0%,4,8
+soil substance,(the top concept itself),1,1,100.0%,1,5
+soil substance,soil surface seal,1,0,0.0%,0,0
+soil threats,soil pollution,22,13,59.1%,26,740
+soil threats,soil erosion,20,5,25.0%,12,368
+soil threats,soil degradation,7,3,42.9%,9,334
+soil threats,soil compaction,1,1,100.0%,2,128
+soil threats,(the top concept itself),1,1,100.0%,2,93
+soil threats,soil sealing,3,1,33.3%,2,80
+soil threats,soil biodiversity loss,1,1,100.0%,1,36
+soil threats,soil acidification,1,1,100.0%,2,29
+soil threats,soil organic carbon loss,1,1,100.0%,2,26
+soil threats,soil nutrient loss,3,3,100.0%,5,16
+soil threats,waterlogging,1,1,100.0%,2,7
+soil threats,soil deficiencies,2,0,0.0%,0,0
