@@ -1,0 +1,867 @@
+keyword,soilvoc_term,records,verdict,note,soilvoc_uri
+landwirtschaftliche nutzung,land use,41,same,agricultural land use,https://w3id.org/eusoilvoc#LandUse
+nutzung der landwirtschaftlichen fläche,land use,41,same,agricultural land use,https://w3id.org/eusoilvoc#LandUse
+zinkgehalt,zinc,21,same,zinc content,https://w3id.org/eusoilvoc#Zinc
+sustainable soil management,soil management,16,same,kind of soil management,https://w3id.org/eusoilvoc#SoilManagement
+bodemvochthuishouding,soil moisture,15,same,Dutch soil moisture regime,https://w3id.org/eusoilvoc#SoilMoisture
+effektive kationenaustauschkapazitäten,cation exchange capacity,10,same,effective CEC,https://w3id.org/eusoilvoc#CationExchangeCapacity
+exploitation de la terre agricole,land use,10,same,agricultural land use,https://w3id.org/eusoilvoc#LandUse
+kakeff,cation exchange capacity,10,same,effective CEC abbreviation,https://w3id.org/eusoilvoc#CationExchangeCapacity
+bonitate,soil quality,7,same,soil rating (Bonität),https://w3id.org/eusoilvoc#SoilQuality
+humusgehalt,humus,7,same,humus content,https://w3id.org/eusoilvoc#Humus
+bodenerosionsgefährdung,soil erosion,6,same,soil erosion risk,https://w3id.org/eusoilvoc#SoilErosion
+konzeptbodenkarte,soil maps,6,same,concept soil map,https://w3id.org/eusoilvoc#SoilMaps
+obszar badań gleby,soil surveys,6,same,Polish soil survey area,https://w3id.org/eusoilvoc#SoilSurveys
+ocena jakości gleb,soil quality,6,same,Polish soil quality assessment,https://w3id.org/eusoilvoc#SoilQuality
+bodemkaartvannederland,soil maps,3,same,soil map of the Netherlands,https://w3id.org/eusoilvoc#SoilMaps
+nutzart,land use,3,same,land-use type,https://w3id.org/eusoilvoc#LandUse
+pf wg kurve,soil water retention,3,same,pF curve = water retention curve,https://w3id.org/eusoilvoc#SoilWaterRetention
+plant growth promoting rhizobacteria,plant growth-promoting rhizobacteria,3,same,hyphen only,https://w3id.org/eusoilvoc#PlantGrowthPromotingRhizobacteria
+boniteet,soil quality,2,same,soil rating (Estonian),https://w3id.org/eusoilvoc#SoilQuality
+digital soil mapping techniques,digital soil mapping,2,same,same concept,https://w3id.org/eusoilvoc#DigitalSoilMapping
+flurstücksnutzung,land use,2,same,parcel land use,https://w3id.org/eusoilvoc#LandUse
+plan de utilizare a terenului,land use,2,same,Romanian land-use plan,https://w3id.org/eusoilvoc#LandUse
+podzol soil,Podzols,2,same,same term,https://w3id.org/eusoilvoc#PodzolsWRB
+riserva idrica dei suoli,soil water,2,same,Italian soil water reserve,https://w3id.org/eusoilvoc#SoilWater
+soil sciences not elsewhere classified,soil sciences,2,same,ANZSRC field label,https://w3id.org/eusoilvoc#SoilSciences
+soil water retention curve,soil water retention,2,same,same concept,https://w3id.org/eusoilvoc#SoilWaterRetention
+torfarten,peat,2,same,peat types,https://w3id.org/eusoilvoc#Peat
+начин коришћења земљишта,land use,2,same,Serbian for land use,https://w3id.org/eusoilvoc#LandUse
+bodemkaart van belgië,soil maps,1,same,soil map of Belgium,https://w3id.org/eusoilvoc#SoilMaps
+carta de solos e de aptidão agrícola e florestal,soil maps,1,same,Portuguese soil map,https://w3id.org/eusoilvoc#SoilMaps
+field saturated hydraulic conductivity,saturated hydraulic conductivity,1,same,field-measured Ksat,https://w3id.org/eusoilvoc#SaturatedHydraulicConductivity
+gestion durable des sols,soil management,1,same,sustainable soil management,https://w3id.org/eusoilvoc#SoilManagement
+gestão sustentável do solo,soil management,1,same,sustainable soil management,https://w3id.org/eusoilvoc#SoilManagement
+hauptbodennutzung,land use,1,same,main land use,https://w3id.org/eusoilvoc#LandUse
+maankäytön suunnittelu,land use,1,same,Finnish land-use planning,https://w3id.org/eusoilvoc#LandUse
+mejora de suelos ácidos,acid soils,1,same,Spanish acid soil improvement,https://w3id.org/eusoilvoc#AcidSoils
+nitrate nitrogen,nitrate-nitrogen,1,same,same term,https://w3id.org/eusoilvoc#NitrateNitrogen
+plantio direto,no till,1,same,Portuguese for no-till,https://w3id.org/eusoilvoc#NoTill
+plastic mulch film,plastic mulches,1,same,same concept,https://w3id.org/eusoilvoc#PlasticMulches
+regim de umiditate a solului,soil moisture,1,same,Romanian soil moisture regime,https://w3id.org/eusoilvoc#SoilMoisture
+soil digital soil mapping,digital soil mapping,1,same,duplicated word,https://w3id.org/eusoilvoc#DigitalSoilMapping
+soil loss ratio,soil denudation,1,same,soil loss,https://w3id.org/eusoilvoc#SoilDenudation
+soil loss severity analysis,soil denudation,1,same,soil loss,https://w3id.org/eusoilvoc#SoilDenudation
+soil nitrogen content,nitrogen content,1,same,same term,https://w3id.org/eusoilvoc#NitrogenContent
+soil phosphorus content,phosphorus content,1,same,same term,https://w3id.org/eusoilvoc#PhosphorusContent
+soils soil science,soil sciences,1,same,same term,https://w3id.org/eusoilvoc#SoilSciences
+sòls humitat mesurament,soil moisture,1,same,Catalan soil moisture measurement,https://w3id.org/eusoilvoc#SoilMoisture
+total soil loss,soil denudation,1,same,soil loss,https://w3id.org/eusoilvoc#SoilDenudation
+zero artificialisation nette,land take,1,same,French policy on land take,https://w3id.org/eusoilvoc#LandTake
+òxids de ferro,iron,1,same,iron oxides,https://w3id.org/eusoilvoc#Iron
+ackerbauliches ertragspotential,crop yield,56,narrower,,https://w3id.org/eusoilvoc#CropYield
+bodenfunktionskriterien,soil functions,22,narrower,,https://w3id.org/eusoilvoc#SoilFunctions
+land use change,land use,18,narrower,,https://w3id.org/eusoilvoc#LandUse
+nitrogen fertilizers,nitrogen,15,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+soil based ecosystem services,ecosystem services,13,narrower,,https://w3id.org/eusoilvoc#EcosystemServices
+existinglandusedataset,land use,12,narrower,,https://w3id.org/eusoilvoc#LandUse
+existinglanduseobject,land use,12,narrower,,https://w3id.org/eusoilvoc#LandUse
+soil ecosystem services,ecosystem services,12,narrower,,https://w3id.org/eusoilvoc#EcosystemServices
+austauschhäufigkeit des bodenwassers,soil water,11,narrower,,https://w3id.org/eusoilvoc#SoilWater
+existing land use,land use,11,narrower,,https://w3id.org/eusoilvoc#LandUse
+regulationsfunktion für den wasserhaushalt,water regulation,11,narrower,,https://w3id.org/eusoilvoc#WaterRegulation
+soil water index,soil water,11,narrower,,https://w3id.org/eusoilvoc#SoilWater
+verdunstungspotenzial der böden auf grundlage der bodeneigenschaften,soil properties,11,narrower,,https://w3id.org/eusoilvoc#SoilProperties
+calcium carbonate,carbonate,10,narrower,,https://w3id.org/eusoilvoc#Carbonate
+european soil database and soil properties,soil properties,10,narrower,,https://w3id.org/eusoilvoc#SoilProperties
+organischer kohlenstoffvorrat,soil organic carbon,10,narrower,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+sickerwasserrate,percolation,10,narrower,,https://w3id.org/eusoilvoc#Percolation
+plant microbe interactions,microbes,9,narrower,,https://w3id.org/eusoilvoc#Microbes
+variante van de profielontwikkeling,soil profiles,9,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+variante van het moedermateriaal,parent material,9,narrower,,https://w3id.org/eusoilvoc#ParentMaterial
+nitrogen cycling,nitrogen,8,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+normalized difference vegetation index,vegetation,8,narrower,,https://w3id.org/eusoilvoc#Vegetation
+actual evapotranspiration,evapotranspiration,7,narrower,,https://w3id.org/eusoilvoc#Evapotranspiration
+bodenerosionsgefährdung durch wasser in brandenburg,water erosion,7,narrower,,https://w3id.org/eusoilvoc#WaterErosion
+evapotranspiration from precipitation,evapotranspiration,7,narrower,,https://w3id.org/eusoilvoc#Evapotranspiration
+evapotranspiration from precipitation,precipitation,7,narrower,,https://w3id.org/eusoilvoc#Precipitation
+observedsoilprofile,soil profiles,7,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+soil microbes,microbes,7,narrower,,https://w3id.org/eusoilvoc#Microbes
+bodemprofielstudie,soil profiles,6,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+calcium sulfate,calcium,6,narrower,,https://w3id.org/eusoilvoc#Calcium
+engineering geology rock mechanics soil mechanics underground construction,soil mechanics,6,narrower,,https://w3id.org/eusoilvoc#SoilMechanics
+ghg emissions,emissions,6,narrower,,https://w3id.org/eusoilvoc#Emissions
+historisch bodemgebruik en vegetatie,land use,6,narrower,,https://w3id.org/eusoilvoc#LandUse
+historisch bodemgebruik en vegetatie,vegetation,6,narrower,,https://w3id.org/eusoilvoc#Vegetation
+incremental evapotranspiration,evapotranspiration,6,narrower,,https://w3id.org/eusoilvoc#Evapotranspiration
+iron minerals,iron,6,narrower,,https://w3id.org/eusoilvoc#Iron
+land cover change,land cover,6,narrower,,https://w3id.org/eusoilvoc#LandCover
+land cover data set,land cover,6,narrower,,https://w3id.org/eusoilvoc#LandCover
+land cover unit,land cover,6,narrower,,https://w3id.org/eusoilvoc#LandCover
+monitoring chemizmu gleb ornych,arable soils,6,narrower,,https://w3id.org/eusoilvoc#ArableSoils
+monitoring chemizmu gleb ornych,soil chemistry,6,narrower,,https://w3id.org/eusoilvoc#SoilChemistry
+monitoring of chemistry of arable soils,arable soils,6,narrower,,https://w3id.org/eusoilvoc#ArableSoils
+nitrogen use efficiency,nitrogen,6,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+organic matter inputs,inputs,6,narrower,,https://w3id.org/eusoilvoc#Inputs
+plant microbe interaction,microbes,6,narrower,,https://w3id.org/eusoilvoc#Microbes
+profiellocaties,soil profiles,6,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+rainfall evapotranspiration,evapotranspiration,6,narrower,,https://w3id.org/eusoilvoc#Evapotranspiration
+soil based ecosystem service,ecosystem services,6,narrower,,https://w3id.org/eusoilvoc#EcosystemServices
+soil quality assessment,soil quality,6,narrower,,https://w3id.org/eusoilvoc#SoilQuality
+stickstoffdünger,nitrogen,6,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+wandonderzoek,soil profiles,6,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+watererosionrisktopsoil,water erosion,6,narrower,,https://w3id.org/eusoilvoc#WaterErosion
+biodegradable microplastics,microplastics,5,narrower,,https://w3id.org/eusoilvoc#Microplastics
+bodensystematische einheit,soil classification,5,narrower,,https://w3id.org/eusoilvoc#SoilClassification
+gypsum soils,gypsum,5,narrower,,https://w3id.org/eusoilvoc#Gypsum
+iron compounds,iron,5,narrower,,https://w3id.org/eusoilvoc#Iron
+kupferbelastung,copper,5,narrower,,https://w3id.org/eusoilvoc#Copper
+land cover mapping,land cover,5,narrower,,https://w3id.org/eusoilvoc#LandCover
+microplastic pollution,microplastics,5,narrower,,https://w3id.org/eusoilvoc#Microplastics
+nitrogen addition,nitrogen,5,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen deposition,nitrogen,5,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen isotopes,nitrogen,5,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+ploughing depth,ploughing,5,narrower,,https://w3id.org/eusoilvoc#Ploughing
+remote sensing of soil moisture,soil moisture,5,narrower,,https://w3id.org/eusoilvoc#SoilMoisture
+soil erosion and agricultural sustainability,agricultural sustainability,5,narrower,,https://w3id.org/eusoilvoc#AgriculturalSustainability
+soil erosion and agricultural sustainability,soil erosion,5,narrower,,https://w3id.org/eusoilvoc#SoilErosion
+soil nitrogen,nitrogen,5,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+soil organic carbon stock,soil organic carbon,5,narrower,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+total nitrogen,nitrogen,5,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+ackerbauliches ertragspotenzial,crop yield,4,narrower,,https://w3id.org/eusoilvoc#CropYield
+aree allagabili,floods,4,narrower,,https://w3id.org/eusoilvoc#Floods
+carbon emissions,emissions,4,narrower,,https://w3id.org/eusoilvoc#Emissions
+existing land use object,land use,4,narrower,,https://w3id.org/eusoilvoc#LandUse
+global analysis of ecosystem services and land use,ecosystem services,4,narrower,,https://w3id.org/eusoilvoc#EcosystemServices
+global analysis of ecosystem services and land use,land use,4,narrower,,https://w3id.org/eusoilvoc#LandUse
+gypsum soil,gypsum,4,narrower,,https://w3id.org/eusoilvoc#Gypsum
+iron oxides,iron,4,narrower,,https://w3id.org/eusoilvoc#Iron
+iron reduction,iron,4,narrower,,https://w3id.org/eusoilvoc#Iron
+land use intensity,land use,4,narrower,,https://w3id.org/eusoilvoc#LandUse
+nematode communities,nematodes,4,narrower,,https://w3id.org/eusoilvoc#Nematodes
+soiltexturegroup,soil texture,4,narrower,,https://w3id.org/eusoilvoc#SoilTexture
+vegetation change,vegetation,4,narrower,,https://w3id.org/eusoilvoc#Vegetation
+vegetation indices,vegetation,4,narrower,,https://w3id.org/eusoilvoc#Vegetation
+wandbeschrijving,soil profiles,4,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+zinkbelastung,zinc,4,narrower,,https://w3id.org/eusoilvoc#Zinc
+agricultural soil management,agricultural soils,3,narrower,,https://w3id.org/eusoilvoc#AgriculturalSoils
+agricultural soil management,soil management,3,narrower,,https://w3id.org/eusoilvoc#SoilManagement
+available phosphorus,phosphorus,3,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+basensättigung im effektiven wurzelraum brandenburg,base saturation,3,narrower,,https://w3id.org/eusoilvoc#BaseSaturation
+basesaturationinrootzonedepth,base saturation,3,narrower,,https://w3id.org/eusoilvoc#BaseSaturation
+basesaturationinrootzonedepthwithorganicsurfacelayer,base saturation,3,narrower,,https://w3id.org/eusoilvoc#BaseSaturation
+bauleitplanung,land use,3,narrower,,https://w3id.org/eusoilvoc#LandUse
+bodenartenschichtung,soil texture,3,narrower,,https://w3id.org/eusoilvoc#SoilTexture
+bodenerosionsgefährdung durch wind in brandenburg,wind erosion,3,narrower,,https://w3id.org/eusoilvoc#WindErosion
+bodengutachten,soil surveys,3,narrower,,https://w3id.org/eusoilvoc#SoilSurveys
+bodenkundliche profilaufnahme,soil profiles,3,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+bodenprofildaten,soil profiles,3,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+cadmiumbelastung,cadmium,3,narrower,,https://w3id.org/eusoilvoc#Cadmium
+dissolved organic nitrogen,nitrogen,3,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+drained histosols,Histosols,3,narrower,,https://w3id.org/eusoilvoc#HistosolsWRB
+dust emission,emissions,3,narrower,,https://w3id.org/eusoilvoc#Emissions
+existing land use data set,land use,3,narrower,,https://w3id.org/eusoilvoc#LandUse
+global vegetation models,vegetation,3,narrower,,https://w3id.org/eusoilvoc#Vegetation
+greenhouse gas emission,emissions,3,narrower,,https://w3id.org/eusoilvoc#Emissions
+horizontbezogene daten,soil horizons,3,narrower,,https://w3id.org/eusoilvoc#SoilHorizons
+horizontdaten,soil horizons,3,narrower,,https://w3id.org/eusoilvoc#SoilHorizons
+humusgehaltsklassen,humus,3,narrower,,https://w3id.org/eusoilvoc#Humus
+humusstatus,humus,3,narrower,,https://w3id.org/eusoilvoc#Humus
+iron biogeochemistry,iron,3,narrower,,https://w3id.org/eusoilvoc#Iron
+leitprofil,soil profiles,3,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+leitprofile,soil profiles,3,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+methane emissions,emissions,3,narrower,,https://w3id.org/eusoilvoc#Emissions
+negative emissions,emissions,3,narrower,,https://w3id.org/eusoilvoc#Emissions
+nitrogen fertilization,nitrogen,3,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen leaching,nitrogen,3,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+no emissions,emissions,3,narrower,,https://w3id.org/eusoilvoc#Emissions
+phosphorus cycling,phosphorus,3,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+profilaufnahmen,soil profiles,3,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+profilbeschrieb,soil profiles,3,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+remote sensing in vegetation monitoring and phenology,vegetation,3,narrower,,https://w3id.org/eusoilvoc#Vegetation
+sand content,sand,3,narrower,,https://w3id.org/eusoilvoc#Sand
+sodium chloride,sodium,3,narrower,,https://w3id.org/eusoilvoc#Sodium
+soil based ecosystem services' bundles,ecosystem services,3,narrower,,https://w3id.org/eusoilvoc#EcosystemServices
+soil functions soil management climate,soil functions,3,narrower,,https://w3id.org/eusoilvoc#SoilFunctions
+soil functions soil management climate,soil management,3,narrower,,https://w3id.org/eusoilvoc#SoilManagement
+soil management practices,soil management,3,narrower,,https://w3id.org/eusoilvoc#SoilManagement
+soil moisture balance model,soil moisture,3,narrower,,https://w3id.org/eusoilvoc#SoilMoisture
+soil quality index,soil quality,3,narrower,,https://w3id.org/eusoilvoc#SoilQuality
+soil quality indicators,soil quality,3,narrower,,https://w3id.org/eusoilvoc#SoilQuality
+soil water balance model,soil water balance,3,narrower,,https://w3id.org/eusoilvoc#SoilWaterBalance
+soilinvestigationpurposevalue,soil investigations,3,narrower,,https://w3id.org/eusoilvoc#SoilInvestigations
+sorptionstrengthaluminium,aluminium,3,narrower,,https://w3id.org/eusoilvoc#Aluminium
+sorptionstrengthcadmium,cadmium,3,narrower,,https://w3id.org/eusoilvoc#Cadmium
+sorptionstrengthcobalt,cobalt,3,narrower,,https://w3id.org/eusoilvoc#Cobalt
+sorptionstrengthcopper,copper,3,narrower,,https://w3id.org/eusoilvoc#Copper
+sorptionstrengthiron,iron,3,narrower,,https://w3id.org/eusoilvoc#Iron
+sorptionstrengthmercury,mercury,3,narrower,,https://w3id.org/eusoilvoc#Mercury
+sorptionstrengthnickel,nickel,3,narrower,,https://w3id.org/eusoilvoc#Nickel
+sorptionstrengthzinc,zinc,3,narrower,,https://w3id.org/eusoilvoc#Zinc
+total phosphorus,phosphorus,3,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+vegetation monitoring,vegetation,3,narrower,,https://w3id.org/eusoilvoc#Vegetation
+winderosionrisktopsoil,wind erosion,3,narrower,,https://w3id.org/eusoilvoc#WindErosion
+aardewerk: bodemprofielgegevens voor vlaanderen,soil profiles,2,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+agricultural mineral soil,mineral soils,2,narrower,,https://w3id.org/eusoilvoc#MineralSoils
+agricultural runoff,runoff,2,narrower,,https://w3id.org/eusoilvoc#Runoff
+ammonia emissions,emissions,2,narrower,,https://w3id.org/eusoilvoc#Emissions
+anthropogenic emissions,emissions,2,narrower,,https://w3id.org/eusoilvoc#Emissions
+bodemprofielen en bodemboringen,soil profiles,2,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+bodenbedeckungsvektor,land cover,2,narrower,,https://w3id.org/eusoilvoc#LandCover
+carbon input,inputs,2,narrower,,https://w3id.org/eusoilvoc#Inputs
+clay content,clay,2,narrower,,https://w3id.org/eusoilvoc#Clay
+clay mineralogy,clay,2,narrower,,https://w3id.org/eusoilvoc#Clay
+clay softening,clay,2,narrower,,https://w3id.org/eusoilvoc#Clay
+decline in soil organic matter,soil organic matter,2,narrower,,https://w3id.org/eusoilvoc#SoilOrganicMatter
+deep percolation,percolation,2,narrower,,https://w3id.org/eusoilvoc#Percolation
+derivedsoilprofi,soil profiles,2,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+direttiva alluvioni,floods,2,narrower,,https://w3id.org/eusoilvoc#Floods
+elementcontentarsenic,arsenic,2,narrower,,https://w3id.org/eusoilvoc#Arsenic
+elementcontentcadmium,cadmium,2,narrower,,https://w3id.org/eusoilvoc#Cadmium
+elementcontentchromium,chromium,2,narrower,,https://w3id.org/eusoilvoc#Chromium
+elementcontentmercury,mercury,2,narrower,,https://w3id.org/eusoilvoc#Mercury
+elementcontentnickel,nickel,2,narrower,,https://w3id.org/eusoilvoc#Nickel
+elementcontentzinc,zinc,2,narrower,,https://w3id.org/eusoilvoc#Zinc
+evolution and ecology of endophyte grass symbiosis,grasses,2,narrower,,https://w3id.org/eusoilvoc#Grasses
+feinbodenarten,fine soil,2,narrower,,https://w3id.org/eusoilvoc#FineSoil
+feinbodenarten,soil texture,2,narrower,,https://w3id.org/eusoilvoc#SoilTexture
+fine soil fraction,fine soil,2,narrower,,https://w3id.org/eusoilvoc#FineSoil
+forestry and vegetation,vegetation,2,narrower,,https://w3id.org/eusoilvoc#Vegetation
+global emissions,emissions,2,narrower,,https://w3id.org/eusoilvoc#Emissions
+global methane emissions and impacts,emissions,2,narrower,,https://w3id.org/eusoilvoc#Emissions
+global soil information,soil information,2,narrower,,https://w3id.org/eusoilvoc#SoilInformation
+gravel content,gravel,2,narrower,,https://w3id.org/eusoilvoc#Gravel
+humusgehaltsklassen nach ka5 im oberboden des landes brandenburg,humus,2,narrower,,https://w3id.org/eusoilvoc#Humus
+iron cycle,iron,2,narrower,,https://w3id.org/eusoilvoc#Iron
+iron isotopes,iron,2,narrower,,https://w3id.org/eusoilvoc#Iron
+islas o enclaves de vegetación natural o roca,vegetation,2,narrower,,https://w3id.org/eusoilvoc#Vegetation
+labile carbon pool,carbon pools,2,narrower,,https://w3id.org/eusoilvoc#CarbonPools
+land use change and forestry,land use,2,narrower,,https://w3id.org/eusoilvoc#LandUse
+land use changes,land use,2,narrower,,https://w3id.org/eusoilvoc#LandUse
+landcovervector,land cover,2,narrower,,https://w3id.org/eusoilvoc#LandCover
+lesné pôdne jednotky,forest soils,2,narrower,,https://w3id.org/eusoilvoc#ForestSoils
+mercury pollution,mercury,2,narrower,,https://w3id.org/eusoilvoc#Mercury
+multiple ecosystem services,ecosystem services,2,narrower,,https://w3id.org/eusoilvoc#EcosystemServices
+nitrogen balance,nitrogen,2,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen dynamics,nitrogen,2,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen fertilizer,nitrogen,2,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen inhibitors,nitrogen,2,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen limitation,nitrogen,2,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen pollution,nitrogen,2,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+normalized differenced vegetation index,vegetation,2,narrower,,https://w3id.org/eusoilvoc#Vegetation
+organic nitrogen,nitrogen,2,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+oxide emissions,emissions,2,narrower,,https://w3id.org/eusoilvoc#Emissions
+peat extraction,peat,2,narrower,,https://w3id.org/eusoilvoc#Peat
+phosphorus limitation,phosphorus,2,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+phosphorus use efficiency,phosphorus,2,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+plant growth promoting microbes,microbes,2,narrower,,https://w3id.org/eusoilvoc#Microbes
+plant mediated emissions,emissions,2,narrower,,https://w3id.org/eusoilvoc#Emissions
+plant microbe insect interaction,microbes,2,narrower,,https://w3id.org/eusoilvoc#Microbes
+plant microbe pest interaction,microbes,2,narrower,,https://w3id.org/eusoilvoc#Microbes
+plant parasitic nematodes,nematodes,2,narrower,,https://w3id.org/eusoilvoc#Nematodes
+plant parasitic nematodes in molecular plant pathology,nematodes,2,narrower,,https://w3id.org/eusoilvoc#Nematodes
+precipitation change,precipitation,2,narrower,,https://w3id.org/eusoilvoc#Precipitation
+precipitation regime,precipitation,2,narrower,,https://w3id.org/eusoilvoc#Precipitation
+profielontwikkeling,soil profiles,2,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+recalcitrant carbon pool,carbon pools,2,narrower,,https://w3id.org/eusoilvoc#CarbonPools
+rice paddy soil,paddy soils,2,narrower,,https://w3id.org/eusoilvoc#PaddySoils
+rock fragment content,fragments,2,narrower,,https://w3id.org/eusoilvoc#Fragments
+root microbe interactions,microbes,2,narrower,,https://w3id.org/eusoilvoc#Microbes
+saline soil classification,saline soils,2,narrower,,https://w3id.org/eusoilvoc#SalineSoils
+saline soil classification,soil classification,2,narrower,,https://w3id.org/eusoilvoc#SoilClassification
+sandy soil microcosms,sandy soils,2,narrower,,https://w3id.org/eusoilvoc#SandySoils
+saturated soil water content,soil water contents,2,narrower,,https://w3id.org/eusoilvoc#SoilWaterContents
+silt content,silt,2,narrower,,https://w3id.org/eusoilvoc#Silt
+soil based ecosystem services and soil threats' bundles,ecosystem services,2,narrower,,https://w3id.org/eusoilvoc#EcosystemServices
+soil based ecosystem services and soil threats' bundles,soil threats,2,narrower,,https://w3id.org/eusoilvoc#SoilThreats
+soil erosion control,erosion control,2,narrower,,https://w3id.org/eusoilvoc#ErosionControl
+soil erosion control,soil erosion,2,narrower,,https://w3id.org/eusoilvoc#SoilErosion
+soil erosion modelling,soil erosion,2,narrower,,https://w3id.org/eusoilvoc#SoilErosion
+soil greenhouse gas emissions,emissions,2,narrower,,https://w3id.org/eusoilvoc#Emissions
+soil health indicators,soil health,2,narrower,,https://w3id.org/eusoilvoc#SoilHealth
+soil health living lab,soil health,2,narrower,,https://w3id.org/eusoilvoc#SoilHealth
+soil organic carbon content,soil organic carbon,2,narrower,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+soil organic carbon sequestration potential,soil organic carbon,2,narrower,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+soil organic carbon storage,soil organic carbon,2,narrower,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+soil organic matter fractions,soil organic matter,2,narrower,,https://w3id.org/eusoilvoc#SoilOrganicMatter
+soil phosphorus,phosphorus,2,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+soil science terminology,soil sciences,2,narrower,,https://w3id.org/eusoilvoc#SoilSciences
+soilbased ecosystem services,ecosystem services,2,narrower,,https://w3id.org/eusoilvoc#EcosystemServices
+sustainable management of forest soils,forest soils,2,narrower,,https://w3id.org/eusoilvoc#ForestSoils
+total petroleum hydrocarbons polluted soils,polluted soils,2,narrower,,https://w3id.org/eusoilvoc#PollutedSoils
+veenwaarschijnlijkheid,peat,2,narrower,,https://w3id.org/eusoilvoc#Peat
+vegetation composition,vegetation,2,narrower,,https://w3id.org/eusoilvoc#Vegetation
+vegetation model,vegetation,2,narrower,,https://w3id.org/eusoilvoc#Vegetation
+vegetation stripes,vegetation,2,narrower,,https://w3id.org/eusoilvoc#Vegetation
+volumetric soil water content,soil water contents,2,narrower,,https://w3id.org/eusoilvoc#SoilWaterContents
+wandprofiel,soil profiles,2,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+water quality monitoring,water quality,2,narrower,,https://w3id.org/eusoilvoc#WaterQuality
+african soil information service,soil information,1,narrower,,https://w3id.org/eusoilvoc#SoilInformation
+aged microplastics,microplastics,1,narrower,,https://w3id.org/eusoilvoc#Microplastics
+agricultural land use,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+agricultural land use evaluation system,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+agricultural soil database,agricultural soils,1,narrower,,https://w3id.org/eusoilvoc#AgriculturalSoils
+agricultural soil databases,agricultural soils,1,narrower,,https://w3id.org/eusoilvoc#AgriculturalSoils
+agricultural soil erosion,agricultural soils,1,narrower,,https://w3id.org/eusoilvoc#AgriculturalSoils
+agricultural soil erosion,soil erosion,1,narrower,,https://w3id.org/eusoilvoc#SoilErosion
+agricultural soil management practices,agricultural soils,1,narrower,,https://w3id.org/eusoilvoc#AgriculturalSoils
+agricultural soil management practices,soil management,1,narrower,,https://w3id.org/eusoilvoc#SoilManagement
+agricultural soil quality,agricultural soils,1,narrower,,https://w3id.org/eusoilvoc#AgriculturalSoils
+agricultural soil quality,soil quality,1,narrower,,https://w3id.org/eusoilvoc#SoilQuality
+agricultural soil science,soil sciences,1,narrower,,https://w3id.org/eusoilvoc#SoilSciences
+air quality and health,air quality,1,narrower,,https://w3id.org/eusoilvoc#AirQuality
+air quality legislation,air quality,1,narrower,,https://w3id.org/eusoilvoc#AirQuality
+air quality models,air quality,1,narrower,,https://w3id.org/eusoilvoc#AirQuality
+altitude climate granite parent material slate soil microbes,microbes,1,narrower,,https://w3id.org/eusoilvoc#Microbes
+altitude climate granite parent material slate soil microbes,parent material,1,narrower,,https://w3id.org/eusoilvoc#ParentMaterial
+amelioration of acid soils,acid soils,1,narrower,,https://w3id.org/eusoilvoc#AcidSoils
+ammonium nitrogen,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+annual fine root respiration,root respiration,1,narrower,,https://w3id.org/eusoilvoc#RootRespiration
+antecedent precipitation index,precipitation,1,narrower,,https://w3id.org/eusoilvoc#Precipitation
+apple replant disease pair wise sampling tagetes patula soil structure rhizosphere microbiome phytoalexins,soil structure,1,narrower,,https://w3id.org/eusoilvoc#SoilStructure
+arsenic poisoning,arsenic,1,narrower,,https://w3id.org/eusoilvoc#Arsenic
+atmospheric emissions,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+atmospheric nitrogen,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+atmospheric nitrogen deposition,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+atmospheric precipitation,precipitation,1,narrower,,https://w3id.org/eusoilvoc#Precipitation
+autotrophic soil respiration,soil respiration,1,narrower,,https://w3id.org/eusoilvoc#SoilRespiration
+available potassium,potassium,1,narrower,,https://w3id.org/eusoilvoc#Potassium
+available water storage capacity,water storage capacity,1,narrower,,https://w3id.org/eusoilvoc#WaterStorageCapacity
+beneficial microbes,microbes,1,narrower,,https://w3id.org/eusoilvoc#Microbes
+beneficial soil microorganisms,soil microorganisms,1,narrower,,https://w3id.org/eusoilvoc#SoilMicroorganisms
+beobachtete bodenprofile,soil profiles,1,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+bioavailable phosphorus,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+biodegradable microplastic,microplastics,1,narrower,,https://w3id.org/eusoilvoc#Microplastics
+biogenic carbonate,carbonate,1,narrower,,https://w3id.org/eusoilvoc#Carbonate
+biogeochemistry environmental microbiology global change invasion legacy effect nitrogen cycling soil ecology,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+biomass burning emissions,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+biomassa microbiana,biomass,1,narrower,soil biota biomass,https://w3id.org/eusoilvoc#Biomass
+biostimulation bioaugmentation phospholipid fatty acids total petroleum hydrocarbons polluted soils soil enzymes,polluted soils,1,narrower,,https://w3id.org/eusoilvoc#PollutedSoils
+bodemdiepteintervallen,soil depth,1,narrower,,https://w3id.org/eusoilvoc#SoilDepth
+bodemprofielontwikkeling,soil profiles,1,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+bodeninformationssystem bayern,soil information,1,narrower,,https://w3id.org/eusoilvoc#SoilInformation
+bodenkohlenstoff simulation carbon farming wurzel soil organic carbon roots,soil organic carbon,1,narrower,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+bodenkohlenstoff simulation stickstoffdüngung reduktion,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+bog vegetation,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+burn depth carbon emissions dnbr permafrost sentinel 2 soil organic layer,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+calcium cation,calcium,1,narrower,,https://w3id.org/eusoilvoc#Calcium
+calcium magnesium ratio,calcium,1,narrower,,https://w3id.org/eusoilvoc#Calcium
+calcium magnesium ratio,magnesium,1,narrower,,https://w3id.org/eusoilvoc#Magnesium
+calcium phosphates,calcium,1,narrower,,https://w3id.org/eusoilvoc#Calcium
+carbon nitrogen ratio,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+carbonised organic amendments,organic amendments,1,narrower,,https://w3id.org/eusoilvoc#OrganicAmendments
+carico azotato,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+carta dell'uso del suolo in scala 1:25 000 2008,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+carta dell'uso del suolo in scala 1:25000,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+carta delle colture dell'uso del suolo 2008,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+cesd soil quality,soil quality,1,narrower,,https://w3id.org/eusoilvoc#SoilQuality
+clay loam soil,loam soils,1,narrower,,https://w3id.org/eusoilvoc#LoamSoils
+climate and land use changes,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+climate smart agricultural soil management,agricultural soils,1,narrower,,https://w3id.org/eusoilvoc#AgriculturalSoils
+climate smart agricultural soil management,soil management,1,narrower,,https://w3id.org/eusoilvoc#SoilManagement
+combined sensors: agricultural soils,agricultural soils,1,narrower,,https://w3id.org/eusoilvoc#AgriculturalSoils
+compound concentration in soil solution,soil solution,1,narrower,,https://w3id.org/eusoilvoc#SoilSolution
+concentración de macronutrientes,macronutrients,1,narrower,,https://w3id.org/eusoilvoc#Macronutrients
+copper deficiency,copper,1,narrower,,https://w3id.org/eusoilvoc#Copper
+copper isotopes,copper,1,narrower,,https://w3id.org/eusoilvoc#Copper
+corine land cover,land cover,1,narrower,,https://w3id.org/eusoilvoc#LandCover
+crop vegetation,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+crop yield prediction,crop yield,1,narrower,,https://w3id.org/eusoilvoc#CropYield
+crop yield stability,crop yield,1,narrower,,https://w3id.org/eusoilvoc#CropYield
+crust vegetation,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+cultural ecosystem services,ecosystem services,1,narrower,,https://w3id.org/eusoilvoc#EcosystemServices
+cycle evolution global change microbe,microbes,1,narrower,,https://w3id.org/eusoilvoc#Microbes
+deep soil horizons,soil horizons,1,narrower,,https://w3id.org/eusoilvoc#SoilHorizons
+degree of phosphorus saturation,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+demographic vegetation model benchmarking,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+deplete soil nitrogen,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+derived soil profiles,soil profiles,1,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+digital soil map of the world,soil maps,1,narrower,,https://w3id.org/eusoilvoc#SoilMaps
+digitale bodemkaarten van het vlaams gewest,soil maps,1,narrower,,https://w3id.org/eusoilvoc#SoilMaps
+dioxide emissions,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+directive 2006/7/ec of the european parliament and of the council of 15 february 2006 concerning the management of bathing water quality and repealing directive 76/160/eec,water quality,1,narrower,,https://w3id.org/eusoilvoc#WaterQuality
+dissolved nitrogen,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+dissolved organic phosphorus,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+dominant soil fungi,soil fungi,1,narrower,,https://w3id.org/eusoilvoc#SoilFungi
+dust emissions,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+dynamic soil functions assessment,soil functions,1,narrower,,https://w3id.org/eusoilvoc#SoilFunctions
+earthworm burrows,earthworms,1,narrower,,https://w3id.org/eusoilvoc#Earthworms
+earthworm gut content,earthworms,1,narrower,,https://w3id.org/eusoilvoc#Earthworms
+earthworm morphological group,earthworms,1,narrower,,https://w3id.org/eusoilvoc#Earthworms
+earthworm species,earthworms,1,narrower,,https://w3id.org/eusoilvoc#Earthworms
+ecological water quality,water quality,1,narrower,,https://w3id.org/eusoilvoc#WaterQuality
+ecosystem services flows,ecosystem services,1,narrower,,https://w3id.org/eusoilvoc#EcosystemServices
+ecosystem services provided by agriculture,ecosystem services,1,narrower,,https://w3id.org/eusoilvoc#EcosystemServices
+ecosystem services relations' drivers,ecosystem services,1,narrower,,https://w3id.org/eusoilvoc#EcosystemServices
+ecosystem services relations’ drivers,ecosystem services,1,narrower,,https://w3id.org/eusoilvoc#EcosystemServices
+ecotoxicity pesticide regulatory framework pesticides risk assessment soil microorganism,soil microorganisms,1,narrower,,https://w3id.org/eusoilvoc#SoilMicroorganisms
+efficacité d'utilisation de l?azote,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+emisión de gases de efecto invernadero,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+emission control strategies,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+emission data,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+emission estimates,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+emission factors,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+emission inventory,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+emission model,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+emission modelling,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+emission processes,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+enhanced vegetation index,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+entomopathogenic nematodes,nematodes,1,narrower,,https://w3id.org/eusoilvoc#Nematodes
+epigeic earthworms,earthworms,1,narrower,,https://w3id.org/eusoilvoc#Earthworms
+european earthworm,earthworms,1,narrower,,https://w3id.org/eusoilvoc#Earthworms
+european mineral soils,mineral soils,1,narrower,,https://w3id.org/eusoilvoc#MineralSoils
+evapotranspiration data assimilation fao dualk c soil moisture land surface temperature,evapotranspiration,1,narrower,,https://w3id.org/eusoilvoc#Evapotranspiration
+evapotranspiration data assimilation fao dualk c soil moisture land surface temperature,soil moisture,1,narrower,,https://w3id.org/eusoilvoc#SoilMoisture
+evapotranspiration modeling and partition,evapotranspiration,1,narrower,,https://w3id.org/eusoilvoc#Evapotranspiration
+existing land use dataset,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+external inputs,inputs,1,narrower,,https://w3id.org/eusoilvoc#Inputs
+fao 56 soil water,soil water,1,narrower,,https://w3id.org/eusoilvoc#SoilWater
+fao 56 soil water balance,soil water balance,1,narrower,,https://w3id.org/eusoilvoc#SoilWaterBalance
+farm inputs,inputs,1,narrower,,https://w3id.org/eusoilvoc#Inputs
+ferrous iron phosphate mineral vivi,iron,1,narrower,,https://w3id.org/eusoilvoc#Iron
+field organic and low chemical input horticulture,inputs,1,narrower,,https://w3id.org/eusoilvoc#Inputs
+fire emissions,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+flood regulation,floods,1,narrower,,https://w3id.org/eusoilvoc#Floods
+flood regulation supply proxy,floods,1,narrower,,https://w3id.org/eusoilvoc#Floods
+flood risk governance,floods,1,narrower,,https://w3id.org/eusoilvoc#Floods
+flächennutzungsplan,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+forest soil carbon management,forest soils,1,narrower,,https://w3id.org/eusoilvoc#ForestSoils
+forest soil monitoring,forest soils,1,narrower,,https://w3id.org/eusoilvoc#ForestSoils
+fractional vegetation cover,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+functional soil volume,soil volume,1,narrower,,https://w3id.org/eusoilvoc#SoilVolume
+fungal biomass,biomass,1,narrower,soil biota biomass,https://w3id.org/eusoilvoc#Biomass
+fungus growing termites,termites,1,narrower,,https://w3id.org/eusoilvoc#Termites
+gaseous emission,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+genetic and environmental factors in grapevine cultivation,environmental factors,1,narrower,,https://w3id.org/eusoilvoc#EnvironmentalFactors
+gesamtabfluss,runoff,1,narrower,,https://w3id.org/eusoilvoc#Runoff
+ghg and climate regulation,climate regulation,1,narrower,,https://w3id.org/eusoilvoc#ClimateRegulation
+grass and legumes,grasses,1,narrower,,https://w3id.org/eusoilvoc#Grasses
+grass legume mixture,grasses,1,narrower,,https://w3id.org/eusoilvoc#Grasses
+grass legume mixtures,grasses,1,narrower,,https://w3id.org/eusoilvoc#Grasses
+grass strip,grasses,1,narrower,,https://w3id.org/eusoilvoc#Grasses
+greenhouse gas and climate regulation,climate regulation,1,narrower,,https://w3id.org/eusoilvoc#ClimateRegulation
+greenhouse gases and climate regulation indicators,climate regulation,1,narrower,,https://w3id.org/eusoilvoc#ClimateRegulation
+greenhouse gases emissions,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+gridded emissions,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+ground vegetation,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+growth promoting rhizobacteria,Rhizobacteria,1,narrower,,https://w3id.org/eusoilvoc#Rhizobacteria
+grundwassertiefenlinie,groundwater depth,1,narrower,,https://w3id.org/eusoilvoc#GroundwaterDepth
+gypsum affinity,gypsum,1,narrower,,https://w3id.org/eusoilvoc#Gypsum
+gypsum habitats,gypsum,1,narrower,,https://w3id.org/eusoilvoc#Gypsum
+gypsum outcrops,gypsum,1,narrower,,https://w3id.org/eusoilvoc#Gypsum
+gypsum soil system,gypsum,1,narrower,,https://w3id.org/eusoilvoc#Gypsum
+gypsum specialist species,gypsum,1,narrower,,https://w3id.org/eusoilvoc#Gypsum
+herbaceous vegetation,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+heterotrophic respiration incubation studies soil organic carbon mineralisation microbial activity co2 dissolution,soil organic carbon,1,narrower,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+humusklassen,humus,1,narrower,,https://w3id.org/eusoilvoc#Humus
+hydromorphic arable soils,arable soils,1,narrower,,https://w3id.org/eusoilvoc#ArableSoils
+increased n inputs,inputs,1,narrower,,https://w3id.org/eusoilvoc#Inputs
+indicative flood risk area,floods,1,narrower,,https://w3id.org/eusoilvoc#Floods
+indicators of soil quality,soil quality,1,narrower,,https://w3id.org/eusoilvoc#SoilQuality
+indirect emissions,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+integrated soil management,soil management,1,narrower,,https://w3id.org/eusoilvoc#SoilManagement
+integrated water quality management model,water quality,1,narrower,,https://w3id.org/eusoilvoc#WaterQuality
+intrinsic and dynamic soil properties,soil properties,1,narrower,,https://w3id.org/eusoilvoc#SoilProperties
+invasive grasses,grasses,1,narrower,,https://w3id.org/eusoilvoc#Grasses
+ion exchange resin,ion exchange,1,narrower,,https://w3id.org/eusoilvoc#IonExchange
+ion exchange resins,ion exchange,1,narrower,,https://w3id.org/eusoilvoc#IonExchange
+iron deficiency,iron,1,narrower,,https://w3id.org/eusoilvoc#Iron
+iron oxide,iron,1,narrower,,https://w3id.org/eusoilvoc#Iron
+iron oxyhydroxide,iron,1,narrower,,https://w3id.org/eusoilvoc#Iron
+iron particles,iron,1,narrower,,https://w3id.org/eusoilvoc#Iron
+iron phosphates,iron,1,narrower,,https://w3id.org/eusoilvoc#Iron
+iron reducing bacteria,iron,1,narrower,,https://w3id.org/eusoilvoc#Iron
+iron uptake,iron,1,narrower,,https://w3id.org/eusoilvoc#Iron
+key words nitrogen nutrition,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+kohlenstoff humus modellierung,humus,1,narrower,,https://w3id.org/eusoilvoc#Humus
+laminazione,floods,1,narrower,,https://w3id.org/eusoilvoc#Floods
+land cover changes,land cover,1,narrower,,https://w3id.org/eusoilvoc#LandCover
+land use and land cover analysis,land cover,1,narrower,,https://w3id.org/eusoilvoc#LandCover
+land use and land cover analysis,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+land use and land cover change,land cover,1,narrower,,https://w3id.org/eusoilvoc#LandCover
+land use and land cover change,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+land use and land use change,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+land use change soil organic carbon agriculture grassland cropland,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+land use change soil organic carbon agriculture grassland cropland,soil organic carbon,1,narrower,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+land use planning,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+land use scenario,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+land use sites,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+land use suitability assessment using gis,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+land use systems,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+land use type,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+land use types,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+land use zoning,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+lc corine land cover,land cover,1,narrower,,https://w3id.org/eusoilvoc#LandCover
+lesné pôdne typy,forest soils,1,narrower,,https://w3id.org/eusoilvoc#ForestSoils
+lesné pôdne typy,soil types,1,narrower,,https://w3id.org/eusoilvoc#SoilTypes
+lessivage,clay,1,narrower,,https://w3id.org/eusoilvoc#Clay
+light density polyethylene microplastics,microplastics,1,narrower,,https://w3id.org/eusoilvoc#Microplastics
+lithogenic carbonate,carbonate,1,narrower,,https://w3id.org/eusoilvoc#Carbonate
+low input agricultural practices,inputs,1,narrower,,https://w3id.org/eusoilvoc#Inputs
+lucas soil survey,soil surveys,1,narrower,,https://w3id.org/eusoilvoc#SoilSurveys
+macronutrient concentration,macronutrients,1,narrower,,https://w3id.org/eusoilvoc#Macronutrients
+magnesium cation,magnesium,1,narrower,,https://w3id.org/eusoilvoc#Magnesium
+magnesium ratio,magnesium,1,narrower,,https://w3id.org/eusoilvoc#Magnesium
+manganese deficiency,manganese,1,narrower,,https://w3id.org/eusoilvoc#Manganese
+map of the natural vegetation of europe,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+mecànica dels sòls models matemàtics,soil mechanics,1,narrower,,https://w3id.org/eusoilvoc#SoilMechanics
+mediterranean gypsum outcrops,gypsum,1,narrower,,https://w3id.org/eusoilvoc#Gypsum
+mercury detection,mercury,1,narrower,,https://w3id.org/eusoilvoc#Mercury
+metal matrix composites life cycle assessment low pressure die casting green sand casting titanium oxide aluminium alloy,aluminium,1,narrower,,https://w3id.org/eusoilvoc#Aluminium
+metal matrix composites life cycle assessment low pressure die casting green sand casting titanium oxide aluminium alloy,sand,1,narrower,,https://w3id.org/eusoilvoc#Sand
+microbe microbe cotransport,microbes,1,narrower,,https://w3id.org/eusoilvoc#Microbes
+microbial biomass carbon,biomass,1,narrower,soil biota biomass,https://w3id.org/eusoilvoc#Biomass
+microplastic contamination,microplastics,1,narrower,,https://w3id.org/eusoilvoc#Microplastics
+microplastic detection,microplastics,1,narrower,,https://w3id.org/eusoilvoc#Microplastics
+microplastic isolation,microplastics,1,narrower,,https://w3id.org/eusoilvoc#Microplastics
+microplastic pollution in marine and terrestrial environments,microplastics,1,narrower,,https://w3id.org/eusoilvoc#Microplastics
+microplastic sources,microplastics,1,narrower,,https://w3id.org/eusoilvoc#Microplastics
+microplastic transport,microplastics,1,narrower,,https://w3id.org/eusoilvoc#Microplastics
+microplastic uptake,microplastics,1,narrower,,https://w3id.org/eusoilvoc#Microplastics
+microplastics pollution,microplastics,1,narrower,,https://w3id.org/eusoilvoc#Microplastics
+multi stage vegetation index,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+nano and microplastic,microplastics,1,narrower,,https://w3id.org/eusoilvoc#Microplastics
+national forest soil inventory,forest soils,1,narrower,,https://w3id.org/eusoilvoc#ForestSoils
+national soil survey,soil surveys,1,narrower,,https://w3id.org/eusoilvoc#SoilSurveys
+native grasses,grasses,1,narrower,,https://w3id.org/eusoilvoc#Grasses
+near real time emissions,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+near surface soil moisture,soil moisture,1,narrower,,https://w3id.org/eusoilvoc#SoilMoisture
+near surface soil temperature,soil temperature,1,narrower,,https://w3id.org/eusoilvoc#SoilTemperature
+negative emission technologies,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+negative emission technology,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+nematode abundance,nematodes,1,narrower,,https://w3id.org/eusoilvoc#Nematodes
+nematode community,nematodes,1,narrower,,https://w3id.org/eusoilvoc#Nematodes
+nematodes trophic groups,nematodes,1,narrower,,https://w3id.org/eusoilvoc#Nematodes
+net zero emissions,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+nitrogen addition duration,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen availability,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen emission,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+nitrogen emission,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen fertilisation,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen fertilization farm to fork soil organic carbon soil organic carbon simulation,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen fertilization farm to fork soil organic carbon soil organic carbon simulation,soil organic carbon,1,narrower,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+nitrogen fixation rates,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen fixing bacteria,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen genes,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen immobilization,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen loading,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen mineralisation,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen mineralization,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen nutrition index,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen radioisotopes,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen ratio,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen uptake,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen uptake respiration,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+nitrous oxide emissions,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+nonvascular vegetation,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+nährkraft,soil nutrients,1,narrower,,https://w3id.org/eusoilvoc#SoilNutrients
+observed soil profile,soil profiles,1,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+observed soil profiles,soil profiles,1,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+ocean microplastics,microplastics,1,narrower,,https://w3id.org/eusoilvoc#Microplastics
+om input,inputs,1,narrower,,https://w3id.org/eusoilvoc#Inputs
+organic c inputs,inputs,1,narrower,,https://w3id.org/eusoilvoc#Inputs
+payment for ecosystem services,ecosystem services,1,narrower,,https://w3id.org/eusoilvoc#EcosystemServices
+peat ash,peat,1,narrower,,https://w3id.org/eusoilvoc#Peat
+peat coverage,peat,1,narrower,,https://w3id.org/eusoilvoc#Peat
+peat production,peat,1,narrower,,https://w3id.org/eusoilvoc#Peat
+peat thickness,peat,1,narrower,,https://w3id.org/eusoilvoc#Peat
+pedogenic iron,iron,1,narrower,,https://w3id.org/eusoilvoc#Iron
+perennial grass,grasses,1,narrower,,https://w3id.org/eusoilvoc#Grasses
+perennial grasses,grasses,1,narrower,,https://w3id.org/eusoilvoc#Grasses
+phosphorus acquisition strategies,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+phosphorus availability,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+phosphorus balance,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+phosphorus bioavailability,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+phosphorus burial,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+phosphorus cycle,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+phosphorus distribution,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+phosphorus fertilization,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+phosphorus fractionation,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+phosphorus fractions,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+phosphorus genes,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+phosphorus hotspot,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+phosphorus loss,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+phosphorus mobilization,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+phosphorus sorption index,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+plannedlanduse,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+plant microbe pest interactions,microbes,1,narrower,,https://w3id.org/eusoilvoc#Microbes
+plant microbiology and soil health,soil health,1,narrower,,https://w3id.org/eusoilvoc#SoilHealth
+plant nutrient uptake and signaling pathways,plant nutrient uptake,1,narrower,,https://w3id.org/eusoilvoc#PlantNutrientUptake
+plant phosphorus uptake,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+plant’s nitrogen budget,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+pollutant emission,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+potassium cation,potassium,1,narrower,,https://w3id.org/eusoilvoc#Potassium
+potassium silicon ratio,potassium,1,narrower,,https://w3id.org/eusoilvoc#Potassium
+precipitation increases,precipitation,1,narrower,,https://w3id.org/eusoilvoc#Precipitation
+precipitation indices,precipitation,1,narrower,,https://w3id.org/eusoilvoc#Precipitation
+precipitation reductions,precipitation,1,narrower,,https://w3id.org/eusoilvoc#Precipitation
+precipitation seasonality,precipitation,1,narrower,,https://w3id.org/eusoilvoc#Precipitation
+q q5 q57 ecological economics: ecosystem services,ecosystem services,1,narrower,,https://w3id.org/eusoilvoc#EcosystemServices
+qualitative soil indicators,soil indicators,1,narrower,,https://w3id.org/eusoilvoc#SoilIndicators
+quaternary red clay,clay,1,narrower,,https://w3id.org/eusoilvoc#Clay
+reactive nitrogen,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+realistic soil pollution,soil pollution,1,narrower,,https://w3id.org/eusoilvoc#SoilPollution
+red acid soil,acid soils,1,narrower,,https://w3id.org/eusoilvoc#AcidSoils
+reddish paddy soil,paddy soils,1,narrower,,https://w3id.org/eusoilvoc#PaddySoils
+reducción de emisiones,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+reed canary grass,grasses,1,narrower,,https://w3id.org/eusoilvoc#Grasses
+reference evapotranspiration,evapotranspiration,1,narrower,,https://w3id.org/eusoilvoc#Evapotranspiration
+relative transpiration,transpiration,1,narrower,,https://w3id.org/eusoilvoc#Transpiration
+retentionsflächen überschwemmung brandenburg,floods,1,narrower,,https://w3id.org/eusoilvoc#Floods
+rhizospheric microbes,microbes,1,narrower,,https://w3id.org/eusoilvoc#Microbes
+root biomass carbon,root biomass,1,narrower,,https://w3id.org/eusoilvoc#RootBiomass
+root growth angle,root growth,1,narrower,,https://w3id.org/eusoilvoc#RootGrowth
+root growth model,root growth,1,narrower,,https://w3id.org/eusoilvoc#RootGrowth
+root microbe association,microbes,1,narrower,,https://w3id.org/eusoilvoc#Microbes
+root zone soil moisture,soil moisture,1,narrower,,https://w3id.org/eusoilvoc#SoilMoisture
+root zone soil water depletion,soil water,1,narrower,,https://w3id.org/eusoilvoc#SoilWater
+runoff coefficient,runoff,1,narrower,,https://w3id.org/eusoilvoc#Runoff
+runoff generation,runoff,1,narrower,,https://w3id.org/eusoilvoc#Runoff
+réduction des émissions,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+saproptrophic soil fungi,soil fungi,1,narrower,,https://w3id.org/eusoilvoc#SoilFungi
+secondary soil salinization,soil salinization,1,narrower,,https://w3id.org/eusoilvoc#SoilSalinization
+semi variogram analysis crop yield,crop yield,1,narrower,,https://w3id.org/eusoilvoc#CropYield
+silt loam,silt,1,narrower,,https://w3id.org/eusoilvoc#Silt
+snow cover,snow,1,narrower,,https://w3id.org/eusoilvoc#Snow
+snow coverage,snow,1,narrower,,https://w3id.org/eusoilvoc#Snow
+snow depth,snow,1,narrower,,https://w3id.org/eusoilvoc#Snow
+sodium cation,sodium,1,narrower,,https://w3id.org/eusoilvoc#Sodium
+sodium stress,sodium,1,narrower,,https://w3id.org/eusoilvoc#Sodium
+soil and crops soil plant relationships soil productivity,soil productivity,1,narrower,,https://w3id.org/eusoilvoc#SoilProductivity
+soil bacteria contamination,soil bacteria,1,narrower,,https://w3id.org/eusoilvoc#SoilBacteria
+soil based ecosystem services relations,ecosystem services,1,narrower,,https://w3id.org/eusoilvoc#EcosystemServices
+soil carbon and nitrogen cycling,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+soil carbon and nitrogen stock,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+soil carbon and nitrogen stocks,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+soil carbon pools,carbon pools,1,narrower,,https://w3id.org/eusoilvoc#CarbonPools
+soil chemistry and soil carbon sequestration,soil carbon sequestration,1,narrower,,https://w3id.org/eusoilvoc#SoilCarbonSequestration
+soil chemistry and soil carbon sequestration,soil chemistry,1,narrower,,https://w3id.org/eusoilvoc#SoilChemistry
+soil co2 emission,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+soil conservation and protection,soil conservation,1,narrower,,https://w3id.org/eusoilvoc#SoilConservation
+soil earthworm,earthworms,1,narrower,,https://w3id.org/eusoilvoc#Earthworms
+soil erosion regulation,soil erosion,1,narrower,,https://w3id.org/eusoilvoc#SoilErosion
+soil fauna and microbial communities,soil fauna,1,narrower,,https://w3id.org/eusoilvoc#SoilFauna
+soil gas flow,soil gas,1,narrower,,https://w3id.org/eusoilvoc#SoilGas
+soil gas transport,soil gas,1,narrower,,https://w3id.org/eusoilvoc#SoilGas
+soil health abiotic stress,soil health,1,narrower,,https://w3id.org/eusoilvoc#SoilHealth
+soil health assessment,soil health,1,narrower,,https://w3id.org/eusoilvoc#SoilHealth
+soil health indicator,soil health,1,narrower,,https://w3id.org/eusoilvoc#SoilHealth
+soil health living laboratory,soil health,1,narrower,,https://w3id.org/eusoilvoc#SoilHealth
+soil health monitoring,soil health,1,narrower,,https://w3id.org/eusoilvoc#SoilHealth
+soil health objectives,soil health,1,narrower,,https://w3id.org/eusoilvoc#SoilHealth
+soil information system,soil information,1,narrower,,https://w3id.org/eusoilvoc#SoilInformation
+soil inorganic carbon stocks,soil inorganic carbon,1,narrower,,https://w3id.org/eusoilvoc#SoilInorganicCarbon
+soil management effects,soil management,1,narrower,,https://w3id.org/eusoilvoc#SoilManagement
+soil management knowledge,soil management,1,narrower,,https://w3id.org/eusoilvoc#SoilManagement
+soil mechanics mathematical models,soil mechanics,1,narrower,,https://w3id.org/eusoilvoc#SoilMechanics
+soil moisture active passive,soil moisture,1,narrower,,https://w3id.org/eusoilvoc#SoilMoisture
+soil moisture and ocean salinity satellite,soil moisture,1,narrower,,https://w3id.org/eusoilvoc#SoilMoisture
+soil moisture and temperature,soil moisture,1,narrower,,https://w3id.org/eusoilvoc#SoilMoisture
+soil moisture assimilation,soil moisture,1,narrower,,https://w3id.org/eusoilvoc#SoilMoisture
+soil moisture dynamics,soil moisture,1,narrower,,https://w3id.org/eusoilvoc#SoilMoisture
+soil moisture heterogeneity,soil moisture,1,narrower,,https://w3id.org/eusoilvoc#SoilMoisture
+soil moisture measurement remote sensing,soil moisture,1,narrower,,https://w3id.org/eusoilvoc#SoilMoisture
+soil moisture monitoring,soil moisture,1,narrower,,https://w3id.org/eusoilvoc#SoilMoisture
+soil nematodes,nematodes,1,narrower,,https://w3id.org/eusoilvoc#Nematodes
+soil nitrogen cycling,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+soil nutrient analysis,soil nutrients,1,narrower,,https://w3id.org/eusoilvoc#SoilNutrients
+soil nutrient concentrations,soil nutrients,1,narrower,,https://w3id.org/eusoilvoc#SoilNutrients
+soil nutrient imbalance,soil nutrients,1,narrower,,https://w3id.org/eusoilvoc#SoilNutrients
+soil nutrient management,soil nutrients,1,narrower,,https://w3id.org/eusoilvoc#SoilNutrients
+soil organic carbon accumulation,soil organic carbon,1,narrower,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+soil organic carbon and total nitrogen stock,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+soil organic carbon and total nitrogen stock,soil organic carbon,1,narrower,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+soil organic carbon change over time,soil organic carbon,1,narrower,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+soil organic carbon concentration,soil organic carbon,1,narrower,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+soil organic carbon density,soil organic carbon,1,narrower,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+soil organic carbon dynamics,soil organic carbon,1,narrower,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+soil organic carbon inventory,soil organic carbon,1,narrower,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+soil organic carbon modelling,soil organic carbon,1,narrower,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+soil organic carbon sequestration,soil organic carbon,1,narrower,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+soil organic carbon stabilization,soil organic carbon,1,narrower,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+soil organic carbon stocks,soil organic carbon,1,narrower,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+soil organic carbon transformation,soil organic carbon,1,narrower,,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+soil organic matter decomposition,soil organic matter,1,narrower,,https://w3id.org/eusoilvoc#SoilOrganicMatter
+soil organic matter mineralisation,soil organic matter,1,narrower,,https://w3id.org/eusoilvoc#SoilOrganicMatter
+soil organic phosphorus,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+soil particle size fractions,soil particle size,1,narrower,,https://w3id.org/eusoilvoc#SoilParticleSize
+soil phosphorus availability,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+soil property dataset,soil properties,1,narrower,,https://w3id.org/eusoilvoc#SoilProperties
+soil quality parameters,soil quality,1,narrower,,https://w3id.org/eusoilvoc#SoilQuality
+soil related ecosystem service,ecosystem services,1,narrower,,https://w3id.org/eusoilvoc#EcosystemServices
+soil respiration water limited ecosystems forest shrubland grassland soil temperature and moisture thresholds plant and microbial community adaptation land surface models,grassland soils,1,narrower,,https://w3id.org/eusoilvoc#GrasslandSoils
+soil respiration water limited ecosystems forest shrubland grassland soil temperature and moisture thresholds plant and microbial community adaptation land surface models,soil respiration,1,narrower,,https://w3id.org/eusoilvoc#SoilRespiration
+soil respiration water limited ecosystems forest shrubland grassland soil temperature and moisture thresholds plant and microbial community adaptation land surface models,soil temperature,1,narrower,,https://w3id.org/eusoilvoc#SoilTemperature
+soil temperature and moisture thresholds,soil temperature,1,narrower,,https://w3id.org/eusoilvoc#SoilTemperature
+soil texture mapping,soil texture,1,narrower,,https://w3id.org/eusoilvoc#SoilTexture
+soil threats data country=gr,soil threats,1,narrower,,https://w3id.org/eusoilvoc#SoilThreats
+soil type knowledge and probit regression,soil types,1,narrower,,https://w3id.org/eusoilvoc#SoilTypes
+soil water management,soil water,1,narrower,,https://w3id.org/eusoilvoc#SoilWater
+soil wind erosion,wind erosion,1,narrower,,https://w3id.org/eusoilvoc#WindErosion
+sols épais hydromorphe,hydromorphic soils,1,narrower,,https://w3id.org/eusoilvoc#HydromorphicSoils
+stammfeuchtestufe,soil moisture,1,narrower,,https://w3id.org/eusoilvoc#SoilMoisture
+stammnährkraftstufe,soil nutrients,1,narrower,,https://w3id.org/eusoilvoc#SoilNutrients
+standardized precipitation index,precipitation,1,narrower,,https://w3id.org/eusoilvoc#Precipitation
+sub seasonal vegetation sensitivity,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+subsoil clay fraction,clay,1,narrower,,https://w3id.org/eusoilvoc#Clay
+subsoil gravel content,gravel,1,narrower,,https://w3id.org/eusoilvoc#Gravel
+subsoil sand fraction,sand,1,narrower,,https://w3id.org/eusoilvoc#Sand
+subsoil silt fraction,silt,1,narrower,,https://w3id.org/eusoilvoc#Silt
+sulfur compounds,sulfur,1,narrower,,https://w3id.org/eusoilvoc#Sulfur
+sulfur cycling,sulfur,1,narrower,,https://w3id.org/eusoilvoc#Sulfur
+sulfur enhanced,sulfur,1,narrower,,https://w3id.org/eusoilvoc#Sulfur
+sulfur treated biochar,sulfur,1,narrower,,https://w3id.org/eusoilvoc#Sulfur
+surface soil moisture,soil moisture,1,narrower,,https://w3id.org/eusoilvoc#SoilMoisture
+symbiotic nitrogen fixation in legumes,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+termite decay,termites,1,narrower,,https://w3id.org/eusoilvoc#Termites
+termite distribution,termites,1,narrower,,https://w3id.org/eusoilvoc#Termites
+terrestrial nitrogen,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+topsoil clay fraction,clay,1,narrower,,https://w3id.org/eusoilvoc#Clay
+topsoil gravel content,gravel,1,narrower,,https://w3id.org/eusoilvoc#Gravel
+topsoil sand fraction,sand,1,narrower,,https://w3id.org/eusoilvoc#Sand
+topsoil silt fraction,silt,1,narrower,,https://w3id.org/eusoilvoc#Silt
+total potassium,potassium,1,narrower,,https://w3id.org/eusoilvoc#Potassium
+tphs polluted soils,polluted soils,1,narrower,,https://w3id.org/eusoilvoc#PollutedSoils
+transfer of symbiotically fixed nitrogen,nitrogen,1,narrower,,https://w3id.org/eusoilvoc#Nitrogen
+transpiration efficiency,transpiration,1,narrower,,https://w3id.org/eusoilvoc#Transpiration
+truly dissolved iron,iron,1,narrower,,https://w3id.org/eusoilvoc#Iron
+uncultured microbes,microbes,1,narrower,,https://w3id.org/eusoilvoc#Microbes
+urban land use,land use,1,narrower,,https://w3id.org/eusoilvoc#LandUse
+veenwaarschijnlijkheidskaart bodemprofielveen,peat,1,narrower,,https://w3id.org/eusoilvoc#Peat
+veenwaarschijnlijkheidskaart oppervlakteveen,peat,1,narrower,,https://w3id.org/eusoilvoc#Peat
+vegetation activity,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+vegetation c uptake,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+vegetation carbon,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+vegetation control,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+vegetation cover fraction,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+vegetation index,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+vegetation index based crop evapotranspiration,evapotranspiration,1,narrower,,https://w3id.org/eusoilvoc#Evapotranspiration
+vegetation index based crop evapotranspiration,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+vegetation index based kc,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+vegetation indexes,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+vegetation mapping,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+vegetation optical depth,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+vegetation response,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+vegetation shift,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+vegetation status,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+vegetation structure,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+vegetation treatments,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+vegetation variation,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+vine transpiration,transpiration,1,narrower,,https://w3id.org/eusoilvoc#Transpiration
+vineyard soil quality,soil quality,1,narrower,,https://w3id.org/eusoilvoc#SoilQuality
+visual soil quality indicators,soil quality,1,narrower,,https://w3id.org/eusoilvoc#SoilQuality
+voorkomen van klei in de laag 0 125cm,clay,1,narrower,,https://w3id.org/eusoilvoc#Clay
+voorkomen van klei op 20 125cm diepte onder niet kleibodems,clay,1,narrower,,https://w3id.org/eusoilvoc#Clay
+vs phosphorus limitation,phosphorus,1,narrower,,https://w3id.org/eusoilvoc#Phosphorus
+végétation historique,vegetation,1,narrower,,https://w3id.org/eusoilvoc#Vegetation
+wandmonsteranalyse,soil profiles,1,narrower,,https://w3id.org/eusoilvoc#SoilProfiles
+waste disposal facilities,waste disposal,1,narrower,,https://w3id.org/eusoilvoc#WasteDisposal
+water quality indices,water quality,1,narrower,,https://w3id.org/eusoilvoc#WaterQuality
+water quality management,water quality,1,narrower,,https://w3id.org/eusoilvoc#WaterQuality
+wilton silt loam,silt,1,narrower,,https://w3id.org/eusoilvoc#Silt
+woody peat,peat,1,narrower,,https://w3id.org/eusoilvoc#Peat
+zinc carbonate,carbonate,1,narrower,,https://w3id.org/eusoilvoc#Carbonate
+zinc carbonate,zinc,1,narrower,,https://w3id.org/eusoilvoc#Zinc
+zinc isotopes,zinc,1,narrower,,https://w3id.org/eusoilvoc#Zinc
+zinc oxide nanoparticles,zinc,1,narrower,,https://w3id.org/eusoilvoc#Zinc
+émission de gaz,emissions,1,narrower,,https://w3id.org/eusoilvoc#Emissions
+environmental sciences related to agriculture and land use,land use,9,unclear,category label,https://w3id.org/eusoilvoc#LandUse
+aménagement du territoire,land use,2,unclear,"spatial planning, broader than land use",https://w3id.org/eusoilvoc#LandUse
+feinbodenform,fine soil,2,unclear,German data field,https://w3id.org/eusoilvoc#FineSoil
+gypsum crystallization water,gypsum,2,unclear,chemistry,https://w3id.org/eusoilvoc#Gypsum
+nitrogen dioxide,nitrogen,2,unclear,air pollutant,https://w3id.org/eusoilvoc#Nitrogen
+nitrogen oxides,nitrogen,2,unclear,air pollutant,https://w3id.org/eusoilvoc#Nitrogen
+riverbank filtration,filtration,2,unclear,water treatment through soil,https://w3id.org/eusoilvoc#Filtration
+sand inoculation,sand,2,unclear,lab substrate,https://w3id.org/eusoilvoc#Sand
+snow experiments,snow,2,unclear,snow manipulation?,https://w3id.org/eusoilvoc#Snow
+ultra high performance liquid chromatography high resolution mass spectrometry ion mobility untargeted metabolomics multivariate data analysis durum wheat biostimulants soil amendments,soil amendments,2,unclear,long multi-topic keyword,https://w3id.org/eusoilvoc#SoilAmendments
+biomass c,biomass,1,unclear,plant or soil biomass?,https://w3id.org/eusoilvoc#Biomass
+biomass carbon,biomass,1,unclear,plant or soil biomass?,https://w3id.org/eusoilvoc#Biomass
+clay perdition,clay,1,unclear,unclear phrase,https://w3id.org/eusoilvoc#Clay
+computation of total soil organic carbon stock and its standard deviation from layered soils,layered soils,1,unclear,title as keyword,https://w3id.org/eusoilvoc#LayeredSoils
+computation of total soil organic carbon stock and its standard deviation from layered soils,soil organic carbon,1,unclear,title as keyword,https://w3id.org/eusoilvoc#SoilOrganicCarbon
+contaminated biomass,biomass,1,unclear,plant biomass,https://w3id.org/eusoilvoc#Biomass
+contaminated biomass feedstock,biomass,1,unclear,plant biomass,https://w3id.org/eusoilvoc#Biomass
+gypsum mining,gypsum,1,unclear,mining,https://w3id.org/eusoilvoc#Gypsum
+indoor air quality and health effects,air quality,1,unclear,indoor air,https://w3id.org/eusoilvoc#AirQuality
+kiesabbau,gravel,1,unclear,gravel mining,https://w3id.org/eusoilvoc#Gravel
+kiesgewinnung,gravel,1,unclear,gravel mining,https://w3id.org/eusoilvoc#Gravel
+loess plateau,loess,1,unclear,place name,https://w3id.org/eusoilvoc#Loess
+loess region in shanxi province,loess,1,unclear,place name,https://w3id.org/eusoilvoc#Loess
+nanoparticulate vivianite mercury,mercury,1,unclear,chemistry,https://w3id.org/eusoilvoc#Mercury
+phytoremediation contaminated biomass postharvest management metal recovery heavy metals life cycle assessment,biomass,1,unclear,plant biomass,https://w3id.org/eusoilvoc#Biomass
+planos especiais de ordenamento do território,land use,1,unclear,spatial planning,https://w3id.org/eusoilvoc#LandUse
+sand and dust storm,sand,1,unclear,"aeolian, not soil particle",https://w3id.org/eusoilvoc#Sand
+sand boil,sand,1,unclear,geotechnical phenomenon,https://w3id.org/eusoilvoc#Sand
+seawater iron content,iron,1,unclear,marine,https://w3id.org/eusoilvoc#Iron
+snow experiment,snow,1,unclear,snow manipulation?,https://w3id.org/eusoilvoc#Snow
+soil flood,floods,1,unclear,unclear phrase,https://w3id.org/eusoilvoc#Floods
+soil pore water,soil pores,1,unclear,pore water = soil solution,https://w3id.org/eusoilvoc#SoilPores
+soil resource acquisition,soil resources,1,unclear,plant ecology,https://w3id.org/eusoilvoc#SoilResources
+surface modified clay,clay,1,unclear,material,https://w3id.org/eusoilvoc#Clay
+the loess plateau,loess,1,unclear,place name,https://w3id.org/eusoilvoc#Loess
+zinc sensor,zinc,1,unclear,chemical sensor,https://w3id.org/eusoilvoc#Zinc
+zinc sulfide,zinc,1,unclear,compound,https://w3id.org/eusoilvoc#Zinc
+μολυσμένη βιομάζα,biomass,1,unclear,plant biomass,https://w3id.org/eusoilvoc#Biomass
+calcium carbonate,calcium,10,wrong,compound; carbonate link is enough,https://w3id.org/eusoilvoc#Calcium
+biomass production,biomass,7,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+above ground biomass,biomass,5,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+incremental evapo transpiration,transpiration,4,wrong,"should be evapotranspiration, not transpiration",https://w3id.org/eusoilvoc#Transpiration
+aboveground biomass,biomass,3,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+biomass yield,biomass,3,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+spider mites,mites,3,wrong,plant pest; SoilVoc mites are soil mesofauna,https://w3id.org/eusoilvoc#Mites
+vacuum filtration,filtration,3,wrong,lab method; SoilVoc filtration is a soil function,https://w3id.org/eusoilvoc#Filtration
+below ground biomass,biomass,2,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+inductively coupled plasma optical emission spectrometry,emissions,2,wrong,lab method (light emission),https://w3id.org/eusoilvoc#Emissions
+peptide fragments,fragments,2,wrong,molecular biology,https://w3id.org/eusoilvoc#Fragments
+plant biomass,biomass,2,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+restriction fragment length,fragments,2,wrong,molecular biology,https://w3id.org/eusoilvoc#Fragments
+aerial biomass,biomass,1,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+agricultural soil science,agricultural soils,1,wrong,"field of science, not a soil type",https://w3id.org/eusoilvoc#AgriculturalSoils
+aluminium alloy,aluminium,1,wrong,metallurgy,https://w3id.org/eusoilvoc#Aluminium
+belowground biomass,biomass,1,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+biomass allocation,biomass,1,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+biomass burning aerosol,biomass,1,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+biomass burning emissionen klima luftqualität,biomass,1,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+biomass burning emissions,biomass,1,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+biomass estimation,biomass,1,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+biomass quality,biomass,1,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+biomass sampling,biomass,1,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+biomass to liquids,biomass,1,wrong,bioenergy,https://w3id.org/eusoilvoc#Biomass
+calcium calmodulin dependent protein kinases,calcium,1,wrong,protein,https://w3id.org/eusoilvoc#Calcium
+calcium signaling,calcium,1,wrong,cell signalling,https://w3id.org/eusoilvoc#Calcium
+calcium signalling,calcium,1,wrong,cell signalling,https://w3id.org/eusoilvoc#Calcium
+carbonate rock ashlars,carbonate,1,wrong,building stone,https://w3id.org/eusoilvoc#Carbonate
+carbono da biomassa,biomass,1,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+chemical precipitation,precipitation,1,wrong,chemistry; SoilVoc precipitation is rainfall,https://w3id.org/eusoilvoc#Precipitation
+clay loam soil,clay,1,wrong,texture class; loam soils link is enough,https://w3id.org/eusoilvoc#Clay
+data filtration,filtration,1,wrong,data processing,https://w3id.org/eusoilvoc#Filtration
+energy input output,inputs,1,wrong,energy accounting,https://w3id.org/eusoilvoc#Inputs
+evaporation transpiration,transpiration,1,wrong,"should be evapotranspiration, not transpiration",https://w3id.org/eusoilvoc#Transpiration
+excitation emission matrix,emissions,1,wrong,fluorescence method,https://w3id.org/eusoilvoc#Emissions
+fragment recruitment,fragments,1,wrong,bioinformatics,https://w3id.org/eusoilvoc#Fragments
+graphene oxide gras,grasses,1,wrong,materials (GRAS),https://w3id.org/eusoilvoc#Grasses
+green sand casting,sand,1,wrong,metal casting,https://w3id.org/eusoilvoc#Sand
+groundwater inputs,inputs,1,wrong,"hydrology, not farm inputs",https://w3id.org/eusoilvoc#Inputs
+iberian iron age sanctuary,iron,1,wrong,archaeology (Iron Age),https://w3id.org/eusoilvoc#Iron
+input data processing,inputs,1,wrong,data processing,https://w3id.org/eusoilvoc#Inputs
+institute of soil science and plant cultivation,soil sciences,1,wrong,organisation name,https://w3id.org/eusoilvoc#SoilSciences
+iron age,iron,1,wrong,archaeology (Iron Age),https://w3id.org/eusoilvoc#Iron
+iron regulatory proteins,iron,1,wrong,protein,https://w3id.org/eusoilvoc#Iron
+kinematic soil structure interaction,soil structure,1,wrong,geotechnics: soil-structure interaction,https://w3id.org/eusoilvoc#SoilStructure
+lte excel input mask,inputs,1,wrong,data entry form,https://w3id.org/eusoilvoc#Inputs
+metagenome fragment recruitment,fragments,1,wrong,bioinformatics,https://w3id.org/eusoilvoc#Fragments
+metagenome fragment recruitments,fragments,1,wrong,bioinformatics,https://w3id.org/eusoilvoc#Fragments
+microbially induced calcite precipitation,precipitation,1,wrong,chemistry; SoilVoc precipitation is rainfall,https://w3id.org/eusoilvoc#Precipitation
+molybdenum nitrogenase,molybdenum,1,wrong,enzyme,https://w3id.org/eusoilvoc#Molybdenum
+navigation aérienne centre d'émission et de réception radioélectrique communications électroniques perturbations électromagnétiques obstacles zone de degagement zone primaire zone secondaire zone speciale secteur de degagement sup servitude assiette t8,emissions,1,wrong,radio emission,https://w3id.org/eusoilvoc#Emissions
+netto sedimentaanvoer naar de waterloop ongezuiverde riooluitlaten,inputs,1,wrong,sewer discharge,https://w3id.org/eusoilvoc#Inputs
+open biomass burning,biomass,1,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+organic soil improver,organic soils,1,wrong,"amendment, not organic soils",https://w3id.org/eusoilvoc#OrganicSoils
+phalaris aquatica biomass production,biomass,1,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+plant biomass hydrolysis,biomass,1,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+potassium channels,potassium,1,wrong,ion channel,https://w3id.org/eusoilvoc#Potassium
+primary biomass production,biomass,1,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+pyridinic nitrogen,nitrogen,1,wrong,carbon materials chemistry,https://w3id.org/eusoilvoc#Nitrogen
+reactive oxygen and nitrogen species,nitrogen,1,wrong,cell stress biology,https://w3id.org/eusoilvoc#Nitrogen
+refined grass fibers,grasses,1,wrong,fibre material,https://w3id.org/eusoilvoc#Grasses
+soc:clay ratio,clay ratio,1,wrong,not the SoilVoc clay ratio index,https://w3id.org/eusoilvoc#ClayRatio
+soil information officer,soil information,1,wrong,job title,https://w3id.org/eusoilvoc#SoilInformation
+structure soil structure interaction,soil structure,1,wrong,geotechnics: soil-structure interaction,https://w3id.org/eusoilvoc#SoilStructure
+structure soil structure interaction multiple scattering shear horizontal waves green’s function coupled response,soil structure,1,wrong,geotechnics,https://w3id.org/eusoilvoc#SoilStructure
+structure soil structure interactions,soil structure,1,wrong,geotechnics: soil-structure interaction,https://w3id.org/eusoilvoc#SoilStructure
+tree woody biomass,biomass,1,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+vanadium carbide,vanadium,1,wrong,materials science,https://w3id.org/eusoilvoc#Vanadium
+vegetative biomass ratio,biomass,1,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+water and biomass supply,biomass,1,wrong,plant/energy biomass; SoilVoc biomass is under soil biota,https://w3id.org/eusoilvoc#Biomass
+zinc transporter,zinc,1,wrong,gene/protein,https://w3id.org/eusoilvoc#Zinc

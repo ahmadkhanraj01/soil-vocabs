@@ -1,0 +1,1064 @@
+keyword,english,language,relation,soilvoc_label,soilvoc_level,soilvoc_uri,records,original_labels
+soil,soil,English,exact,soil,1,https://w3id.org/eusoilvoc#Soil,2433,"$^{18}$o-cue, cover crops, ejp-soil, ley farming, microbial activity, microbial physiology, pedoclimatic gradient, soil organic carbon, vegetation stripes | ch4 | climate change mitigation | conservation agriculture | cropping systems | ejp soil | n2o | nitrogen leaching | organic matter inputs | tillage | water management | divergent perspectives, ejp-soil, knowledge barriers, place-based practices, science-policy-practitioner nexus, soil challenges and threats, system approaches | dna-extraction,   molecular   characterization,   nematode communities, soil, vacuum-filtration, zonal centrifugation | dna-extraction, molecular characterization, nematode communities, soil, vacuum-filtration, zonal centrifugation | ejp soil | ejp soil, serena, greenhouse gas, soil based ecosystem service, nep, ireland | ejp soil, serena, soil sealing, soil based ecosystem service, ireland | ejp soil, soil indicators, soil policy stakeholders, soil science terminology, soil threats, soilbased ecosystem services, sustainable soil management | ejp-soil | ejp_soil | ejpsoil | ejpsoil, european agroecosystems, participatory research, soil biodiversity, soil health, web-based survey | ejpsoil, ltes, agricultural (meta)data, soc, organic carbon | ejpsoil, ltes, agricultural management (meta)data | elevated temperature, paddy, arsenite, arsenate, microbial community, soil | field spectrometry, soil, machine learning, soil spectral library | field spectroscopy, soc, lucas, epo, soil, machine learning, soil spectral library, vnir-swir | greenhouse gas, soil, peatland, selection harvest, climate smart forestry | physiography, soil | remediation, soil, water, sediments | soil | soil (mesh) | soil, agriculture, scientific knwoledge, iberian peninsula, portugal spain, early modern history | soil, biofertiliser, trichoderma, biodiversity, impact | soil, biological indicators, conservative agriculture, climate | soil, carbon, sequestration, climate change mitigation | soil, detection, microbial inoculants, bacteria, fungi, biofertilisers, biopesticides, microorganisms | soil, ecosystem services, urban forests | soil, erosion, connectivity, modelling | soil, eu mission | soil, map, soil data, classification, fao | soil, socio-economic, biodiversity, management, systems, crops,  pedoclimatic, case studies, production, agrifood | soil, socio-economic, biodiversity, management, systems, crops, pedoclimatic, case studies, production, agrifood | soil, trichoderma, invasion, microbial community, bioinoculants, t22 | soil/chemistry | soil/land management | soil/standards | soil/structure interaction | soil‐ | water content, soil | water-content,-soil"
+boden,soil,German,synonym,soil,1,https://w3id.org/eusoilvoc#Soil,723,boden
+geology,geology,English,exact,geology,1,https://w3id.org/eusoilvoc#Geology,568,geology | geology [science] | science::geology
+climate change,climate,English,broader,climate,2,https://w3id.org/eusoilvoc#Climate,305,"Climate change (incl. GHG reduction, adaptation and mitigation, and other air related issues) | agricultural research, zero hunger, land-use changes, agricultural efficiency, climate change | agriculture, climate change, expert knowledge, multidisciplinary, stakeholder, water policy, water quality | alnus cordata, genetic diversity, microsatellites, conservation planning, species distribution modeling, climate change | carbon cycle/climate change | climate change | climate change (mesh) | climate change, cultivated landscape, agriculture, forestry, sustainability, international law, european law, constitutional law, nature conservation, ecosystems, biodiversity | climate-change | ecosystem services, nutrient cycling, climate change, dryland, grazing | klimaendringer / climate change | permafrost, climate feedback, climate change, arctic | permafrost, organic carbon, climate change | som, c sequestration, soil enzyme activity, radiocarbon, climosequence, decomposition, climate change, forest soil, soil biology"
+land use,land use,English,exact,land use,4,https://w3id.org/eusoilvoc#LandUse,289,"agricultural plastic waste, g.i.s, land use, plastic detection, sustainability, waste valorization | land use | land use, land-use change and forestry | land use/land cover | land-use | land-use, land-use intensity, mixed-effects models, organism abundance, soil biodiversity, soil biota | land‑use | soil carbon, agriculture, land use, brazil, tropical forest, isotopes | soil organic carbon sequestration potential, conservation agriculture, land use, fine soil fraction, soil management, soil organic carbon | timesat, normalized difference vegetation index, corine, land use, land cover"
+land cover,land cover,English,exact,land cover,1,https://w3id.org/eusoilvoc#LandCover,282,"biota, land cover, landcover, cropland and pasture land | land cover | land use/land cover | land-cover | timesat, normalized difference vegetation index, corine, land use, land cover"
+soil types,soil types,German,exact,soil types,4,https://w3id.org/eusoilvoc#SoilTypes,259,soil types
+thematic map,soil maps,French,broader,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,254,thematic-map
+soil temperature,soil temperature,Italian,exact,soil temperature,3,https://w3id.org/eusoilvoc#SoilTemperature,249,soil temperature
+soil properties,soil properties,German,exact,soil properties,1,https://w3id.org/eusoilvoc#SoilProperties,246,soil properties | soil-properties
+soil cohesion,soil cohesion,German,exact,soil cohesion,4,https://w3id.org/eusoilvoc#SoilCohesion,242,soil cohesion
+soil health,soil health,English,exact,soil health,1,https://w3id.org/eusoilvoc#SoilHealth,240,"agriculture in transition, diversification in agriculture, soil functions, soil health, sustainable soil management, stakeholder recommendations | ejpsoil, european agroecosystems, participatory research, soil biodiversity, soil health, web-based survey | field test, crop rotation, soil health, fertilization | microbial communities,soil biodiversity, soil health | soil health | soil health, ecosystem services, policy instruments,incentives, soil monitoring law | soil health, rural development policy, integrated supply chain, sustainable business models, tuscany, policy fragmentation | soil health/quality"
+iron,iron,English,exact,iron,4,https://w3id.org/eusoilvoc#Iron,239,iron | iron (fe)
+temperature,soil temperature,Italian,broader,soil temperature,3,https://w3id.org/eusoilvoc#SoilTemperature,234,"soil respiration, temperature, volumetric soil water content, european forests, managements | temperature | temperature, water"
+soil organic carbon,soil organic carbon,English,exact,soil organic carbon,4,https://w3id.org/eusoilvoc#SoilOrganicCarbon,219,"$^{18}$o-cue, cover crops, ejp-soil, ley farming, microbial activity, microbial physiology, pedoclimatic gradient, soil organic carbon, vegetation stripes | management, vineyards, soil physical parameters, soil organic carbon | soc, maom, pom aggregates, mwd, soil organic carbon | soil organic carbon | soil organic carbon (soc) | soil organic carbon sequestration potential, conservation agriculture, land use, fine soil fraction, soil management, soil organic carbon | soil organic carbon,baseline,local geostatistics,spatial uncertainty,tuscany | soil organic-carbon"
+suolo,soil,Italian,synonym,soil,1,https://w3id.org/eusoilvoc#Soil,208,"ptc2,-dtl,-consumo,-suolo,-contenimento,-aree,-dense,-transizione,-libere | suolo"
+soil erosion,soil erosion,German,exact,soil erosion,2,https://w3id.org/eusoilvoc#SoilErosion,180,"soil erosion | soil erosion, bulk density, mineral nitrogen, exchangeable mg, available p, soc | soil-erosion"
+carbonate,carbonate,English,exact,carbonate,4,https://w3id.org/eusoilvoc#Carbonate,173,carbonate
+soil microfauna,soil microfauna,English,exact,soil microfauna,4,https://w3id.org/eusoilvoc#SoilMicrofauna,173,soil microfauna
+soil functions,soil functions,German,exact,soil functions,1,https://w3id.org/eusoilvoc#SoilFunctions,166,"agriculture in transition, diversification in agriculture, soil functions, soil health, sustainable soil management, stakeholder recommendations | functional land management, policy framework, soil functions, stakeholder workshops, sustainability | soil functions | soil functions, crop yield, plant-available mg, tillage, compost amendments, crop residue incorporation"
+bodenkarte,soil maps,German,synonym,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,152,bodenkarte
+bodennutzung,land use,German,synonym,land use,4,https://w3id.org/eusoilvoc#LandUse,150,bodennutzung
+soil productivity,soil productivity,German,exact,soil productivity,2,https://w3id.org/eusoilvoc#SoilProductivity,150,soil productivity
+soil degradation,soil degradation,German,exact,soil degradation,2,https://w3id.org/eusoilvoc#SoilDegradation,147,"agricultural stakeholders, conservation agriculture, europe, questionnaire, soil degradation | ecosystem service, land use change, soil degradation, land planning | soil degradation"
+soil microbiology,soil microbiology,English,mapped,soil biology,2,https://w3id.org/eusoilvoc#SoilBiology,147,"acacia, biodiversity, congo, forests, soil microbiology | soil microbiology | soil microbiology, metabolic flux analysis, phospholipid fatty acids"
+nitrogen,nitrogen,English,exact,nitrogen,4,https://w3id.org/eusoilvoc#Nitrogen,141,"912,land degradation, soil quality, nitrogen,geography | ammonium/nitrogen, inorganic, dissolved ratio | carbon, nitrogen, phosphorus, heterotrophs, autotrophs, soil microbes, ants | nitrate/nitrogen, inorganic, dissolved ratio | nitrogen | nitrogen (n) | nitrogen, inorganic, dissolved | nitrogen, inorganic, dissolved/nitrogen, organic, dissolved ratio | nitrogen, inorganic, dissolved/nitrogen, total dissolved ratio | nitrogen, organic, dissolved | nitrogen, total | nitrogen, total dissolved | nitrogen/analysis"
+soil type,soil type,English,exact,soil types,4,https://w3id.org/eusoilvoc#SoilTypes,141,soil type | soil-type
+bodenkunde,soil sciences,German,synonym,soil sciences,1,https://w3id.org/eusoilvoc#SoilSciences,134,bodenkunde
+basic soil properties,soil properties,English,broader,soil properties,1,https://w3id.org/eusoilvoc#SoilProperties,133,basic soil properties
+environmental factors,environmental factors,English,exact,environmental factors,3,https://w3id.org/eusoilvoc#EnvironmentalFactors,133,environmental factors
+geologie,geology,German,synonym,geology,1,https://w3id.org/eusoilvoc#Geology,131,geologie
+soil respiration,soil respiration,German,exact,soil respiration,3,https://w3id.org/eusoilvoc#SoilRespiration,129,"soil respiration | soil respiration, temperature, volumetric soil water content, european forests, managements"
+soil science,soil science,English,exact,soil sciences,1,https://w3id.org/eusoilvoc#SoilSciences,129,bepress|physical sciences and mathematics|earth sciences|soil science | name=soil science | soil science
+microbiology,soil biology,English,broader,soil biology,2,https://w3id.org/eusoilvoc#SoilBiology,128,microbiology | microbiology (for) | microbiology (for-2020) | microbiology (medical) | microbiology (microbiology in the medical area to be 30109) | name=microbiology
+bacteria,soil bacteria,English,broader,soil bacteria,4,https://w3id.org/eusoilvoc#SoilBacteria,125,"bacteria | bacteria (mesh) | bacteria (microorganisms) | bacteria, bryophytes, competition hierarchy, coexistence, functional traits, protists, rock-paper-scissors, saprobic fungi, vascular plants | bacteria, enzyme activities, bef relationship, nutrient cycling, terrestrial ecosystems | bacteria, fungi, carbon cycling, ecosystem processes, microbial community, global change | bacteria/drug effects | bacteria/genetics | bacteria/growth & development | drylands, bacteria, fungi, biodiversity, microbial composition, aridity | paleoclimate, bacteria, fungi, plants, animals, terrestrial ecosystems, ecological networks | soil, detection, microbial inoculants, bacteria, fungi, biofertilisers, biopesticides, microorganisms"
+soil pollution,soil pollution,English,exact,soil pollution,2,https://w3id.org/eusoilvoc#SoilPollution,122,"land degradation, soil carbon, urban soils, soil pollution, erosion, soil structure, eu global footprint, soil literacy | land degradation, soil carbon, urban soils, soil pollution, erosion, soil structure, soil literacy | soil pollution"
+water,soil water,English,broader,soil water,3,https://w3id.org/eusoilvoc#SoilWater,118,"depth, water | remediation, soil, water, sediments | temperature, water | water | water/metabolism"
+weather,weather,English,exact,weather,2,https://w3id.org/eusoilvoc#Weather,118,weather
+soil subsidence,soil subsidence,English,exact,soil subsidence,4,https://w3id.org/eusoilvoc#SoilSubsidence,117,soil subsidence
+soil air,soil air,German,exact,soil air,3,https://w3id.org/eusoilvoc#SoilAir,116,soil air
+soil compaction,soil compaction,German,exact,soil compaction,2,https://w3id.org/eusoilvoc#SoilCompaction,114,soil compaction
+bodenart,soil texture,German,synonym,soil texture,3,https://w3id.org/eusoilvoc#SoilTexture,113,bodenart
+soil structure,soil structure,German,exact,soil structure,3,https://w3id.org/eusoilvoc#SoilStructure,113,"erosion, soil structure | land degradation, soil carbon, erosion, soil structure | land degradation, soil carbon, erosion, soil structure, eu global footprint | land degradation, soil carbon, erosion, soil structure, soil literacy | land degradation, soil carbon, urban soils, soil pollution, erosion, soil structure, eu global footprint, soil literacy | land degradation, soil carbon, urban soils, soil pollution, erosion, soil structure, soil literacy | land degradation, soil structure, soil literacy | soil carbon, soil structure | soil carbon, soil structure, eu global footprint | soil carbon, soil structure, soil literacy | soil structure | soil structure, 3d print | soil structure, soil literacy | soil-structure"
+soil organic matter,soil organic matter,English,exact,soil organic matter,4,https://w3id.org/eusoilvoc#SoilOrganicMatter,111,soil organic matter | soil organic matter (som)
+soil sciences,soil sciences,English,exact,soil sciences,1,https://w3id.org/eusoilvoc#SoilSciences,111,anzsrc::0503 soil sciences | anzsrc::4106 soil sciences | soil sciences
+copertura del suolo,land cover,Italian,synonym,land cover,1,https://w3id.org/eusoilvoc#LandCover,107,copertura del suolo | copertura-del-suolo
+bodenbelastung,soil pollution,German,broader,soil pollution,2,https://w3id.org/eusoilvoc#SoilPollution,106,bodenbelastung
+microplastics,microplastics,English,exact,microplastics,4,https://w3id.org/eusoilvoc#Microplastics,103,"microplastics | microplastics (mps) | microplastics (mps), biodegradable plastics, organic pollutants (ops), albendazole, pyraclostrobin, soil ecotoxicology, folsomia candida | microplastics, global plastic treaty, human rights, nanoplastics, source reduction, transparency | microplastics, nanoplastics, raman microspectroscopy | microplastics, polystyrene, macrophages | microplastics/analysis | microplastics/isolation & purification | microplastics/standards"
+soil moisture,soil moisture,English,exact,soil moisture,3,https://w3id.org/eusoilvoc#SoilMoisture,102,"data assimilation, soil moisture, snow, vegetation, microwave remote sensing, land surface modeling, targeted observation | sentinel 1, backscattering coefficient, vv co-polarization, vh cross-polarization, soil moisture | soil moisture | soil-moisture | synthetic aperture radar (sar), soil moisture"
+soil management,soil management,English,exact,soil management,1,https://w3id.org/eusoilvoc#SoilManagement,101,"soil management | soil organic carbon sequestration potential, conservation agriculture, land use, fine soil fraction, soil management, soil organic carbon | sustainable agriculture, sustainable land management, soil management, social capital | vineyard, erosion, soil management, rusle, europe"
+climate,climate,English,exact,climate,2,https://w3id.org/eusoilvoc#Climate,100,"bepress|physical sciences and mathematics|oceanography and atmospheric sciences and meteorology|climate | climate | climate (mesh) | iron cycle, mineralogy, climate, earth system model, ec-earth3 | soil, biological indicators, conservative agriculture, climate"
+bodem,soil,Dutch,synonym,soil,1,https://w3id.org/eusoilvoc#Soil,95,"bodem | bodem, sociaaleconomisch, biodiversiteit, beheer, systemen,  gewassen, pedoklimatologisch, case studies, productie,  agrovoeding | bodem, sociaaleconomisch, biodiversiteit, beheer, systemen, gewassen, pedoklimatologisch, case studies, productie, agrovoeding"
+soil physical properties,soil physical properties,German,exact,soil physical properties,3,https://w3id.org/eusoilvoc#SoilPhysicalProperties,94,soil physical properties | soil physical-properties
+plant roots,plant roots,English,mapped,roots,4,https://w3id.org/eusoilvoc#Roots,89,plant roots | plant roots/genetics | plant roots/growth & development | plant roots/metabolism | plant roots/microbiology | plant-roots
+microbes,microbes,English,exact,microbes,3,https://w3id.org/eusoilvoc#Microbes,88,microbes
+soil threats,soil threats,English,exact,soil threats,1,https://w3id.org/eusoilvoc#SoilThreats,87,"ejp soil, soil indicators, soil policy stakeholders, soil science terminology, soil threats, soilbased ecosystem services, sustainable soil management | soil ecosystem services, soil threats, indicators, scenario-based, agroecosystems | soil threats"
+bodentyp,soil types,German,synonym,soil types,4,https://w3id.org/eusoilvoc#SoilTypes,85,bodentyp
+biomass,biomass,English,exact,biomass,4,https://w3id.org/eusoilvoc#Biomass,84,biomass | biomass (ecology) | mesh: biomass
+bodenprofil,soil profiles,German,synonym,soil profiles,3,https://w3id.org/eusoilvoc#SoilProfiles,83,bodenprofil
+ecosystem services,ecosystem services,English,exact,ecosystem services,1,https://w3id.org/eusoilvoc#EcosystemServices,82,"blue carbon · ecosystem services · sea ice · nature-based solutions · southern ocean | ecosystem services | ecosystem services (es) | ecosystem services, agronomic practices, soil quality indicators | ecosystem services, nutrient cycling, climate change, dryland, grazing | soil health, ecosystem services, policy instruments,incentives, soil monitoring law | soil, ecosystem services, urban forests"
+geologia,geology,Italian,synonym,geology,1,https://w3id.org/eusoilvoc#Geology,82,geologia
+soil ph,soil ph,English,exact,soil pH,3,https://w3id.org/eusoilvoc#SoilpH,82,soil pH | soil ph
+bodenfunktion,soil functions,German,synonym,soil functions,1,https://w3id.org/eusoilvoc#SoilFunctions,80,bodenfunktion
+soil formation,soil formation,German,exact,soil formation,3,https://w3id.org/eusoilvoc#SoilFormation,80,soil formation
+soil pollutants,soil pollutants,English,exact,soil pollutants,3,https://w3id.org/eusoilvoc#SoilPollutants,80,"soil pollutants | soil pollutants, radioactive"
+bodenerosion,soil erosion,German,synonym,soil erosion,2,https://w3id.org/eusoilvoc#SoilErosion,74,bodenerosion
+carbon sequestration,carbon sequestration,English,mapped,soil carbon sequestration,2,https://w3id.org/eusoilvoc#SoilCarbonSequestration,74,"carbon sequestration | carbon sequestration · modelling · carbon input · allometric function · climate change mitigation | carbon sequestration, carbon farming, forest management"
+bodenchemie,soil chemistry,German,synonym,soil chemistry,2,https://w3id.org/eusoilvoc#SoilChemistry,73,bodenchemie
+soil movement,soil movement,German,exact,soil movement,3,https://w3id.org/eusoilvoc#SoilMovement,72,soil movement
+bodeneigenschaften,soil properties,German,synonym,soil properties,1,https://w3id.org/eusoilvoc#SoilProperties,71,bodeneigenschaften
+soil strength,soil strength,German,exact,soil strength,3,https://w3id.org/eusoilvoc#SoilStrength,71,soil strength
+bodendegradation,soil degradation,German,synonym,soil degradation,2,https://w3id.org/eusoilvoc#SoilDegradation,70,bodendegradation
+fungi,soil fungi,English,broader,soil fungi,4,https://w3id.org/eusoilvoc#SoilFungi,70,"bacteria, fungi, carbon cycling, ecosystem processes, microbial community, global change | drylands, bacteria, fungi, biodiversity, microbial composition, aridity | fungi | paleoclimate, bacteria, fungi, plants, animals, terrestrial ecosystems, ecological networks | soil, detection, microbial inoculants, bacteria, fungi, biofertilisers, biopesticides, microorganisms"
+bodenfeuchtigkeit,soil moisture,German,synonym,soil moisture,3,https://w3id.org/eusoilvoc#SoilMoisture,69,bodenfeuchtigkeit
+bodengefüge,soil structure,German,synonym,soil structure,3,https://w3id.org/eusoilvoc#SoilStructure,69,bodengefüge | bodengefüge
+bodensystematik,soil classification,German,synonym,soil classification,6,https://w3id.org/eusoilvoc#SoilClassification,69,bodensystematik
+bodenfruchtbarkeit,soil productivity,de,translation,soil productivity,2,https://w3id.org/eusoilvoc#SoilProductivity,68,bodenfruchtbarkeit
+bodenphysikalische eigenschaften,soil physical properties,German,broader,soil physical properties,3,https://w3id.org/eusoilvoc#SoilPhysicalProperties,68,bodenphysikalische eigenschaften | bodenphysikalische-eigenschaften
+oberboden,topsoil,German,synonym,topsoil,2,https://w3id.org/eusoilvoc#Topsoil,68,oberboden
+soil salinization,soil salinization,German,exact,soil salinization,3,https://w3id.org/eusoilvoc#SoilSalinization,68,soil salinization
+bodenausgangsgestein,parent material,German,synonym,parent material,2,https://w3id.org/eusoilvoc#ParentMaterial,67,bodenausgangsgestein
+bodenbildung,soil formation,German,synonym,soil formation,3,https://w3id.org/eusoilvoc#SoilFormation,67,bodenbildung
+bodenhorizont,soil horizons,German,synonym,soil horizons,3,https://w3id.org/eusoilvoc#SoilHorizons,67,bodenhorizont
+landwirtschaftliche fläche,agricultural soils,German,broader,agricultural soils,6,https://w3id.org/eusoilvoc#AgriculturalSoils,67,landwirtschaftliche fläche
+phosphorus,phosphorus,English,exact,phosphorus,4,https://w3id.org/eusoilvoc#Phosphorus,67,"carbon, nitrogen, phosphorus, heterotrophs, autotrophs, soil microbes, ants | phosphorus | phosphorus (p)"
+bodenmineralogie,soil clay mineralogy,German,broader,soil clay mineralogy,4,https://w3id.org/eusoilvoc#SoilClayMineralogy,66,bodenmineralogie
+lithology,lithology,English,exact,lithology,2,https://w3id.org/eusoilvoc#Lithology,65,lithology | lithology/composition/facies
+bodenauslaugung,soil leaching,German,synonym,soil leaching,4,https://w3id.org/eusoilvoc#SoilLeaching,64,bodenauslaugung
+bodenbiologie,soil biology,German,synonym,soil biology,2,https://w3id.org/eusoilvoc#SoilBiology,64,bodenbiologie
+bodendekontamination,soil pollution,German,broader,soil pollution,2,https://w3id.org/eusoilvoc#SoilPollution,62,bodendekontamination
+bodenluft,soil air,German,synonym,soil air,3,https://w3id.org/eusoilvoc#SoilAir,62,bodenluft
+bodenmechanik,soil mechanics,German,synonym,soil mechanics,2,https://w3id.org/eusoilvoc#SoilMechanics,62,bodenmechanik
+bodenskelett,coarse fragments,German,synonym,coarse fragments,4,https://w3id.org/eusoilvoc#CoarseFragments,62,bodenskelett
+microbiota,microbiota,English,mapped,microbes,3,https://w3id.org/eusoilvoc#Microbes,62,"agricultural management, macrofauna, mesofauna, microfauna, microbiota | ecopile, hydrocarbon, bioremediation, microbial succession, microbiota | microbiota | microbiota (mesh)"
+soil carbon,soil organic carbon,English,broader,soil organic carbon,4,https://w3id.org/eusoilvoc#SoilOrganicCarbon,60,"land degradation, soil carbon, erosion, soil structure | land degradation, soil carbon, erosion, soil structure, eu global footprint | land degradation, soil carbon, erosion, soil structure, soil literacy | land degradation, soil carbon, urban soils, soil pollution, erosion, soil structure, eu global footprint, soil literacy | land degradation, soil carbon, urban soils, soil pollution, erosion, soil structure, soil literacy | soil carbon | soil carbon, agriculture, land use, brazil, tropical forest, isotopes | soil carbon, erosion | soil carbon, eu global footprint | soil carbon, soil structure | soil carbon, soil structure, eu global footprint | soil carbon, soil structure, soil literacy"
+soil organisms,soil organisms,English,exact,soil organisms,2,https://w3id.org/eusoilvoc#SoilOrganisms,60,soil organisms
+zinc,zinc,English,exact,zinc,4,https://w3id.org/eusoilvoc#Zinc,60,zinc
+soil water,soil water,English,exact,soil water,3,https://w3id.org/eusoilvoc#SoilWater,58,soil water
+irrigation,irrigation,English,exact,irrigation,2,https://w3id.org/eusoilvoc#Irrigation,57,"irrigation | irrigation, earth observation, machine learning, water management, agriculture"
+landscape,soil landscapes,English,broader,soil landscapes,2,https://w3id.org/eusoilvoc#SoilLandscapes,57,"Landscape/land management | landscape | natural areas, landscape, ecosystems"
+soil surface sealing,soil surface sealing,English,exact,soil surface sealing,4,https://w3id.org/eusoilvoc#SoilSurfaceSealing,57,soil surface sealing
+land management,soil management,English,broader,soil management,1,https://w3id.org/eusoilvoc#SoilManagement,55,Landscape/land management | land management | soil/land management
+soil age,soil age,German,exact,soil age,2,https://w3id.org/eusoilvoc#SoilAge,55,soil age
+tillage,soil tillage,English,synonym,soil tillage,2,https://w3id.org/eusoilvoc#SoilTillage,55,"ch4 | climate change mitigation | conservation agriculture | cropping systems | ejp soil | n2o | nitrogen leaching | organic matter inputs | tillage | water management | green manure | organic carbon | rainfed agroecosystems | soil fertility | tillage | labile carbon|long-term field experiments|organic matter addition|soil biological indicators|tillage | soil functions, crop yield, plant-available mg, tillage, compost amendments, crop residue incorporation | soil microbiome, high-throughput sequencing, enzymatic activity, long-term soil archives, soil management practices, tillage | tillage"
+soil map,soil map,English,exact,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,54,soil map
+sealing,soil sealing,English,synonym,soil sealing,2,https://w3id.org/eusoilvoc#SoilSealing,53,sealing
+soil contaminants,soil contaminants,English,exact,soil pollutants,3,https://w3id.org/eusoilvoc#SoilPollutants,52,soil contaminants
+crop yield,crop yield,English,exact,crop yield,3,https://w3id.org/eusoilvoc#CropYield,51,"crop residues, crop yield, long-term experiment, nitrogen use efficiency, poultry manure | crop yield | soil functions, crop yield, plant-available mg, tillage, compost amendments, crop residue incorporation"
+mulching,mulching,English,exact,mulching,2,https://w3id.org/eusoilvoc#Mulching,51,mulching
+trees,trees,English,exact,trees,4,https://w3id.org/eusoilvoc#Trees,50,mesh: trees | trees | trees/growth & development
+chemical,soil chemical properties,English,broader,soil chemical properties,3,https://w3id.org/eusoilvoc#SoilChemicalProperties,49,"depression, chemical | models, chemical | physical, chemical, mathematical & earth sciences | water pollutants, chemical | water pollutants, chemical/metabolism [mesh] | water pollution, chemical"
+erosion,erosion,English,mapped,soil erosion,2,https://w3id.org/eusoilvoc#SoilErosion,49,"erosion | erosion, eu global footprint | erosion, soil literacy | erosion, soil structure | land degradation, soil carbon, erosion, soil structure | land degradation, soil carbon, erosion, soil structure, eu global footprint | land degradation, soil carbon, erosion, soil structure, soil literacy | land degradation, soil carbon, urban soils, soil pollution, erosion, soil structure, eu global footprint, soil literacy | land degradation, soil carbon, urban soils, soil pollution, erosion, soil structure, soil literacy | soil carbon, erosion | soil, erosion, connectivity, modelling | vineyard, erosion, soil management, rusle, europe"
+crops,crops,English,mapped,crop,3,https://w3id.org/eusoilvoc#Crop,48,"crops | crops, agricultural | soil, socio-economic, biodiversity, management, systems, crops,  pedoclimatic, case studies, production, agrifood | soil, socio-economic, biodiversity, management, systems, crops, pedoclimatic, case studies, production, agrifood"
+hydrology,soil hydrology,English,broader,soil hydrology,2,https://w3id.org/eusoilvoc#SoilHydrology,48,"anzsrc::3707 hydrology | hydrology | hydrology (agriculture) | hydrology, hydrography, oceanography | oceanography, hydrology, water resources | sciences of the universe [physics]/earth sciences/hydrology"
+rhizosphere,rhizosphere,English,exact,rhizosphere,2,https://w3id.org/eusoilvoc#Rhizosphere,47,rhizosphere
+soil degradation processes,soil degradation,Hungarian,broader,soil degradation,2,https://w3id.org/eusoilvoc#SoilDegradation,46,soil degradation processes
+forests,forest soils,English,broader,forest soils,6,https://w3id.org/eusoilvoc#ForestSoils,44,"acacia, biodiversity, congo, forests, soil microbiology | forests | mesh: forests"
+organic carbon,soil organic carbon,English,synonym,soil organic carbon,4,https://w3id.org/eusoilvoc#SoilOrganicCarbon,44,"ejpsoil, ltes, agricultural (meta)data, soc, organic carbon | green manure | organic carbon | rainfed agroecosystems | soil fertility | tillage | organic carbon | organic-carbon | permafrost, organic carbon, climate change"
+bodenbedeckung,land cover,German,broader,land cover,1,https://w3id.org/eusoilvoc#LandCover,43,bodenbedeckung
+utilizzo del territorio,land use,Italian,synonym,land use,4,https://w3id.org/eusoilvoc#LandUse,43,utilizzo del territorio | utilizzo-del-territorio
+organic matter,soil organic matter,English,broader,soil organic matter,4,https://w3id.org/eusoilvoc#SoilOrganicMatter,42,organic matter | organic-matter
+sand,sand,English,exact,sand,5,https://w3id.org/eusoilvoc#Sand,41,sand
+soil quality,soil quality,English,exact,soil quality,2,https://w3id.org/eusoilvoc#SoilQuality,41,"912,land degradation, soil quality, nitrogen,geography | soil quality"
+zink,zinc,"de,nl",translation,zinc,4,https://w3id.org/eusoilvoc#Zinc,41,zink
+grassland,grassland soils,English,broader,grassland soils,6,https://w3id.org/eusoilvoc#GrasslandSoils,40,grassland | grassland (mesh)
+grünland,grassland soils,German,broader,grassland soils,6,https://w3id.org/eusoilvoc#GrasslandSoils,40,grünland | grünland
+soil fertility,soil fertility,English,mapped,soil productivity,2,https://w3id.org/eusoilvoc#SoilProductivity,40,green manure | organic carbon | rainfed agroecosystems | soil fertility | tillage | soil fertility
+agricultural,agricultural soils,English,broader,agricultural soils,6,https://w3id.org/eusoilvoc#AgriculturalSoils,39,"agricultural | anzsrc::30 agricultural | chemistry, agricultural | crops, agricultural"
+bodenschädigung,soil degradation,German,broader,soil degradation,2,https://w3id.org/eusoilvoc#SoilDegradation,38,bodenschädigung | bodenschädigung
+copper,copper,English,exact,copper,4,https://w3id.org/eusoilvoc#Copper,38,copper
+vegetation,vegetation,English,exact,vegetation,3,https://w3id.org/eusoilvoc#Vegetation,38,"data assimilation, soil moisture, snow, vegetation, microwave remote sensing, land surface modeling, targeted observation | vegetation | vegetation (pathology)"
+food production,food production,English,exact,food production,2,https://w3id.org/eusoilvoc#FoodProduction,37,food production | food production (agriculture)
+pesticide use,pesticide use,English,exact,pesticide use,2,https://w3id.org/eusoilvoc#PesticideUse,37,pesticide use
+subsoil,subsoil,English,exact,subsoil,2,https://w3id.org/eusoilvoc#Subsoil,37,subsoil
+bodemprofiel,soil profiles,Dutch,synonym,soil profiles,3,https://w3id.org/eusoilvoc#SoilProfiles,36,bodemprofiel
+evapotranspiration,evapotranspiration,English,exact,evapotranspiration,3,https://w3id.org/eusoilvoc#Evapotranspiration,36,evapotranspiration
+management,soil management,English,broader,soil management,1,https://w3id.org/eusoilvoc#SoilManagement,36,"commerce, management, tourism and services | management | management, monitoring, policy and law | management, vineyards, soil physical parameters, soil organic carbon | name=management, monitoring, policy and law | soil, socio-economic, biodiversity, management, systems, crops,  pedoclimatic, case studies, production, agrifood | soil, socio-economic, biodiversity, management, systems, crops, pedoclimatic, case studies, production, agrifood"
+soc,soil organic carbon,English,synonym,soil organic carbon,4,https://w3id.org/eusoilvoc#SoilOrganicCarbon,36,"ejpsoil, ltes, agricultural (meta)data, soc, organic carbon | field spectroscopy, soc, lucas, epo, soil, machine learning, soil spectral library, vnir-swir | soc | soc, maom, pom aggregates, mwd, soil organic carbon | soc, sics | soc/clay ratio | soil erosion, bulk density, mineral nitrogen, exchangeable mg, available p, soc | soil monitoring law, soc/clay ratio, cropland, ndvi, satellite data, national soil monitoring"
+soil biodiversity loss,soil biodiversity loss,English,exact,soil biodiversity loss,2,https://w3id.org/eusoilvoc#SoilBiodiversityLoss,36,soil biodiversity loss
+usage des sols,land use,French,synonym,land use,4,https://w3id.org/eusoilvoc#LandUse,36,usage des sols | usage-des-sols
+water quality,water quality,English,exact,water quality,3,https://w3id.org/eusoilvoc#WaterQuality,35,"agriculture, climate change, expert knowledge, multidisciplinary, stakeholder, water policy, water quality | water quality | water-quality"
+pesticides,pesticide use,English,broader,pesticide use,2,https://w3id.org/eusoilvoc#PesticideUse,33,pesticides
+sol,soil,French,synonym,soil,1,https://w3id.org/eusoilvoc#Soil,33,sol
+emissions,emissions,English,exact,emissions,4,https://w3id.org/eusoilvoc#Emissions,32,emissions
+topsoil,topsoil,English,exact,topsoil,2,https://w3id.org/eusoilvoc#Topsoil,32,topsoil
+precipitation,precipitation,English,exact,precipitation,3,https://w3id.org/eusoilvoc#Precipitation,31,precipitation
+bodemkaart,soil maps,Dutch,synonym,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,30,bodemkaart
+bodemtextuur,soil texture,Dutch,synonym,soil texture,3,https://w3id.org/eusoilvoc#SoilTexture,30,bodemtextuur
+cadmium,cadmium,German,exact,cadmium,4,https://w3id.org/eusoilvoc#Cadmium,30,cadmium
+forest,forest soils,English,broader,forest soils,6,https://w3id.org/eusoilvoc#ForestSoils,30,forest
+physiography,physiography,English,exact,physiography,1,https://w3id.org/eusoilvoc#Physiography,30,"physiography | physiography, soil"
+conservation agriculture,soil conservation,English,broader,soil conservation,2,https://w3id.org/eusoilvoc#SoilConservation,29,"agricultural stakeholders, conservation agriculture, europe, questionnaire, soil degradation | ch4 | climate change mitigation | conservation agriculture | cropping systems | ejp soil | n2o | nitrogen leaching | organic matter inputs | tillage | water management | conservation agriculture | conservation agriculture, compost, n$_2$o, n-cycle, nitrification, denitrification | soil organic carbon sequestration potential, conservation agriculture, land use, fine soil fraction, soil management, soil organic carbon"
+crop,crop,English,exact,crop,3,https://w3id.org/eusoilvoc#Crop,29,crop
+digital soil mapping,digital soil mapping,French,exact,digital soil mapping,3,https://w3id.org/eusoilvoc#DigitalSoilMapping,29,digital soil mapping | digital-soil-mapping
+fertiliser use,fertiliser use,English,exact,fertiliser use,2,https://w3id.org/eusoilvoc#FertiliserUse,29,fertiliser use
+soil stability,soil stability,English,exact,soil stability,4,https://w3id.org/eusoilvoc#SoilStability,29,soil stability
+earthworms,earthworms,English,exact,earthworms,3,https://w3id.org/eusoilvoc#Earthworms,28,earthworms
+land degradation,soil degradation,English,synonym,soil degradation,2,https://w3id.org/eusoilvoc#SoilDegradation,28,"912,land degradation, soil quality, nitrogen,geography | land degradation | land degradation, soil carbon, erosion, soil structure | land degradation, soil carbon, erosion, soil structure, eu global footprint | land degradation, soil carbon, erosion, soil structure, soil literacy | land degradation, soil carbon, urban soils, soil pollution, erosion, soil structure, eu global footprint, soil literacy | land degradation, soil carbon, urban soils, soil pollution, erosion, soil structure, soil literacy | land degradation, soil literacy | land degradation, soil structure, soil literacy"
+oxidation reduction,soil oxidation reduction reaction,English,synonym,soil oxidation reduction reaction,4,https://w3id.org/eusoilvoc#SoilOxidationReductionReaction,28,oxidation-reduction
+suelo,soil,Spanish,synonym,soil,1,https://w3id.org/eusoilvoc#Soil,28,suelo
+nitrogen fixation,biological nitrogen fixation,English,synonym,biological nitrogen fixation,3,https://w3id.org/eusoilvoc#BiologicalNitrogenFixation,27,nitrogen fixation | nitrogen-fixation
+soil microbial biomass,soil microbial biomass,English,exact,soil microbial biomass,5,https://w3id.org/eusoilvoc#SoilMicrobialBiomass,27,soil microbial biomass
+soil sealing,soil sealing,English,exact,soil sealing,2,https://w3id.org/eusoilvoc#SoilSealing,27,"ejp soil, serena, soil sealing, soil based ecosystem service, ireland | soil and land consumption, soil sealing, infrastructure, highway, brebemi | soil sealing"
+soil water retention,soil water retention,English,exact,soil water retention,4,https://w3id.org/eusoilvoc#SoilWaterRetention,27,soil water retention | soil-water-retention
+soils and soil sciences,soil sciences,English,synonym,soil sciences,1,https://w3id.org/eusoilvoc#SoilSciences,27,soils and soil sciences
+texture,soil texture,English,synonym,soil texture,3,https://w3id.org/eusoilvoc#SoilTexture,27,texture
+transpiration,transpiration,English,exact,transpiration,3,https://w3id.org/eusoilvoc#Transpiration,27,transpiration
+utilisation du sol,land use,fr,translation,land use,4,https://w3id.org/eusoilvoc#LandUse,27,utilisation du sol | utilisation-du-sol
+water resources,soil water,English,broader,soil water,3,https://w3id.org/eusoilvoc#SoilWater,27,"oceanography, hydrology, water resources | water resources"
+soil texture,soil texture,English,exact,soil texture,3,https://w3id.org/eusoilvoc#SoilTexture,26,soil texture | soil-texture
+soils,soils,English,variant,soil,1,https://w3id.org/eusoilvoc#Soil,26,soils
+kupfer,copper,de,translation,copper,4,https://w3id.org/eusoilvoc#Copper,25,kupfer
+microbial biomass,soil microbial biomass,English,synonym,soil microbial biomass,5,https://w3id.org/eusoilvoc#SoilMicrobialBiomass,25,microbial biomass
+soil denitrification,soil denitrification,English,exact,soil denitrification,5,https://w3id.org/eusoilvoc#SoilDenitrification,25,soil denitrification
+soluri,soil,Romanian,synonym,soil,1,https://w3id.org/eusoilvoc#Soil,25,soluri
+climate regulation,climate regulation,English,exact,climate regulation,2,https://w3id.org/eusoilvoc#ClimateRegulation,24,climate regulation
+erosión,erosión,Spanish,mapped,soil erosion,2,https://w3id.org/eusoilvoc#SoilErosion,24,erosión
+fine sand,fine sand,English,exact,fine sand,5,https://w3id.org/eusoilvoc#FineSand,24,fine sand
+land resources,soil resources,English,broader,soil resources,2,https://w3id.org/eusoilvoc#SoilResources,24,land resources
+no till,no till,English,exact,no till,2,https://w3id.org/eusoilvoc#NoTill,24,no till | no-till
+soil indicators,soil indicators,English,exact,soil indicators,1,https://w3id.org/eusoilvoc#SoilIndicators,24,"ejp soil, soil indicators, soil policy stakeholders, soil science terminology, soil threats, soilbased ecosystem services, sustainable soil management | soil indicators"
+bodemanalyse,soil analysis,Dutch,synonym,soil analysis,3,https://w3id.org/eusoilvoc#SoilAnalysis,23,bodemanalyse
+cation exchange capacity,cation exchange capacity,German,exact,cation exchange capacity,5,https://w3id.org/eusoilvoc#CationExchangeCapacity,23,cation exchange capacity | cation-exchange-capacity
+pollution,soil pollution,English,broader,soil pollution,2,https://w3id.org/eusoilvoc#SoilPollution,23,pollution
+roots,roots,English,exact,roots,4,https://w3id.org/eusoilvoc#Roots,23,roots
+soil improvement,soil improvement,English,exact,soil improvement,2,https://w3id.org/eusoilvoc#SoilImprovement,23,soil improvement
+sols,soil,French,synonym,soil,1,https://w3id.org/eusoilvoc#Soil,23,sols
+bodemerosie,soil erosion,Dutch,synonym,soil erosion,2,https://w3id.org/eusoilvoc#SoilErosion,22,bodemerosie
+environmental pollution,soil pollution,English,broader,soil pollution,2,https://w3id.org/eusoilvoc#SoilPollution,22,environmental pollution
+manganese,manganese,English,exact,manganese,4,https://w3id.org/eusoilvoc#Manganese,22,manganese
+microplastic,microplastic,English,exact,microplastics,4,https://w3id.org/eusoilvoc#Microplastics,22,microplastic
+nickel,nickel,English,exact,nickel,4,https://w3id.org/eusoilvoc#Nickel,22,nickel
+yield,crop yield,English,synonym,crop yield,3,https://w3id.org/eusoilvoc#CropYield,22,yield | yield (agricultural) | yield (engineering)
+bodemkunde,soil sciences,Dutch,synonym,soil sciences,1,https://w3id.org/eusoilvoc#SoilSciences,21,bodemkunde
+bodemkwaliteit,soil quality,Dutch,synonym,soil quality,2,https://w3id.org/eusoilvoc#SoilQuality,21,bodemkwaliteit
+fonction du sol,soil functions,fr,translation,soil functions,1,https://w3id.org/eusoilvoc#SoilFunctions,21,fonction du sol | fonction-du-sol
+greenhouse gas emissions,emissions,English,broader,emissions,4,https://w3id.org/eusoilvoc#Emissions,21,"greenhouse gas emissions | greenhouse gas emissions, soil acidification, liming, nitrification, denitrification, biological drivers | greenhouse-gas-emissions"
+habitat,habitat,English,exact,habitats,2,https://w3id.org/eusoilvoc#Habitats,21,"egs, open grasslands, habitat, uav, hr images | habitat | habitat (ecology)"
+habitats,habitats,English,exact,habitats,2,https://w3id.org/eusoilvoc#Habitats,21,habitats
+peat,peat,German,exact,peat,4,https://w3id.org/eusoilvoc#Peat,21,peat
+soil water content,soil water content,English,exact,soil water contents,5,https://w3id.org/eusoilvoc#SoilWaterContents,21,"sensors, soil water content, neutron detection, lattice water | soil water content | soil-water content"
+suitability,soil suitability,English,synonym,soil suitability,2,https://w3id.org/eusoilvoc#SoilSuitability,21,suitability
+usage du sol,land use,French,exact,land use,4,https://w3id.org/eusoilvoc#LandUse,21,usage du sol | usage-du-sol
+agricultural land,agricultural soils,English,broader,agricultural soils,6,https://w3id.org/eusoilvoc#AgriculturalSoils,20,agricultural land
+bodemprofielgegevens,soil profiles,Dutch,broader,soil profiles,3,https://w3id.org/eusoilvoc#SoilProfiles,20,bodemprofielgegevens
+bodenfunktionen,soil functions,English,synonym,soil functions,1,https://w3id.org/eusoilvoc#SoilFunctions,20,bodenfunktionen
+farmland,agricultural soils,French,broader,agricultural soils,6,https://w3id.org/eusoilvoc#AgriculturalSoils,20,farmland
+mangan,manganese,de,translation,manganese,4,https://w3id.org/eusoilvoc#Manganese,20,mangan
+occupation des terres,land use,French,synonym,land use,4,https://w3id.org/eusoilvoc#LandUse,20,occupation des terres | occupation-des-terres
+peat decompostion,peat,English,synonym,peat,4,https://w3id.org/eusoilvoc#Peat,20,peat decompostion
+soil organic carbon loss,soil organic carbon loss,English,exact,soil organic carbon loss,2,https://w3id.org/eusoilvoc#SOCLoss,20,soil organic carbon loss
+soil use,land use,English,synonym,land use,4,https://w3id.org/eusoilvoc#LandUse,20,soil use
+bodemchemie,soil chemistry,Dutch,synonym,soil chemistry,2,https://w3id.org/eusoilvoc#SoilChemistry,19,bodemchemie
+calcium,calcium,English,exact,calcium,4,https://w3id.org/eusoilvoc#Calcium,19,calcium | calcium/magnesium ratio
+inundation,inundation,English,exact,inundation,2,https://w3id.org/eusoilvoc#Inundation,19,inundation
+land suitability,soil suitability,English,synonym,soil suitability,2,https://w3id.org/eusoilvoc#SoilSuitability,19,land suitability
+natural resources,soil resources,English,broader,soil resources,2,https://w3id.org/eusoilvoc#SoilResources,19,natural resources
+rain,rain,English,exact,rain,4,https://w3id.org/eusoilvoc#Rain,19,rain
+water management,soil water,English,broader,soil water,3,https://w3id.org/eusoilvoc#SoilWater,19,"ch4 | climate change mitigation | conservation agriculture | cropping systems | ejp soil | n2o | nitrogen leaching | organic matter inputs | tillage | water management | irrigation, earth observation, machine learning, water management, agriculture | water management | water policy/water governance/water management"
+bodemgebruik,land use,Dutch,synonym,land use,4,https://w3id.org/eusoilvoc#LandUse,18,bodemgebruik
+landcover,landcover,English,mapped,land cover,1,https://w3id.org/eusoilvoc#LandCover,18,"biota, land cover, landcover, cropland and pasture land | landcover"
+nitrates,nitrate-nitrogen,English,synonym,nitrate-nitrogen,4,https://w3id.org/eusoilvoc#NitrateNitrogen,18,nitrates
+adsorption,soil adsorption,English,synonym,soil adsorption,3,https://w3id.org/eusoilvoc#SoilAdsorption,17,adsorption
+floods,floods,English,exact,floods,3,https://w3id.org/eusoilvoc#Floods,17,floods
+nutrients,soil nutrients,English,synonym,soil nutrients,2,https://w3id.org/eusoilvoc#SoilNutrients,17,nutrients
+soil adsorption,soil adsorption,English,exact,soil adsorption,3,https://w3id.org/eusoilvoc#SoilAdsorption,17,soil adsorption
+soil biology,soil biology,English,exact,soil biology,2,https://w3id.org/eusoilvoc#SoilBiology,17,"anzsrc::410603 soil biology | soil biology | som, c sequestration, soil enzyme activity, radiocarbon, climosequence, decomposition, climate change, forest soil, soil biology"
+surface runoff,surface runoff,English,exact,surface runoff,4,https://w3id.org/eusoilvoc#SurfaceRunoff,17,surface runoff
+agricultural area,agricultural soils,German,broader,agricultural soils,6,https://w3id.org/eusoilvoc#AgriculturalSoils,16,agricultural area
+agricultural soils,agricultural soils,English,exact,agricultural soils,6,https://w3id.org/eusoilvoc#AgriculturalSoils,16,agricultural soils
+ammonium,ammonium fixation,English,broader,ammonium fixation,5,https://w3id.org/eusoilvoc#AmmoniumFixation,16,"ammonium | ammonium, molecular mechanism, mycobiont, nitrate, photobiont, stress response | ammonium/nitrogen, inorganic, dissolved ratio"
+bodembiologie,soil biology,Dutch,synonym,soil biology,2,https://w3id.org/eusoilvoc#SoilBiology,16,bodembiologie
+bodemproces,soil processes,Dutch,exact,soil processes,1,https://w3id.org/eusoilvoc#SoilProcesses,16,bodemproces
+bodemstructuur,soil structure,Dutch,synonym,soil structure,3,https://w3id.org/eusoilvoc#SoilStructure,16,bodemstructuur
+bodemvorming,soil formation,Dutch,synonym,soil formation,3,https://w3id.org/eusoilvoc#SoilFormation,16,bodemvorming
+bodenbearbeitung,soil tillage,German,synonym,soil tillage,2,https://w3id.org/eusoilvoc#SoilTillage,16,bodenbearbeitung
+clay,clay,English,exact,clay,4,https://w3id.org/eusoilvoc#Clay,16,clay
+drainage,soil drainage,Dutch,synonym,soil drainage,2,https://w3id.org/eusoilvoc#SoilDrainage,16,drainage
+indicators,soil indicators,English,broader,soil indicators,1,https://w3id.org/eusoilvoc#SoilIndicators,16,"indicators | soil ecosystem services, soil threats, indicators, scenario-based, agroecosystems"
+nanoplastics,nanoplastics,English,exact,nanoplastics,5,https://w3id.org/eusoilvoc#Nanoplastics,16,"microplastics, global plastic treaty, human rights, nanoplastics, source reduction, transparency | microplastics, nanoplastics, raman microspectroscopy | nanoplastics"
+prairie,prairie soils,French,synonym,prairie soils,6,https://w3id.org/eusoilvoc#PrairieSoils,16,prairie
+salinity,soil salinity,English,synonym,soil salinity,3,https://w3id.org/eusoilvoc#SoilSalinity,16,salinity
+slope,slope,English,exact,slope,2,https://w3id.org/eusoilvoc#Slope,16,slope
+soil acidification,soil acidification,English,exact,soil acidification,2,https://w3id.org/eusoilvoc#SoilAcidification,16,"greenhouse gas emissions, soil acidification, liming, nitrification, denitrification, biological drivers | soil acidification"
+soil chemistry,soil chemistry,English,exact,soil chemistry,2,https://w3id.org/eusoilvoc#SoilChemistry,16,soil chemistry
+soil microbial activity,soil microbial activity,English,exact,soil microbial activity,3,https://w3id.org/eusoilvoc#SoilMicrobialActivity,16,soil microbial activity
+bodemdegradatie,soil degradation,Dutch,synonym,soil degradation,2,https://w3id.org/eusoilvoc#SoilDegradation,15,bodemdegradatie
+bodemfunctie,soil functions,Dutch,synonym,soil functions,1,https://w3id.org/eusoilvoc#SoilFunctions,15,bodemfunctie
+bodemlucht,soil air,Dutch,synonym,soil air,3,https://w3id.org/eusoilvoc#SoilAir,15,bodemlucht
+bodemvocht,soil moisture,Dutch,synonym,soil moisture,3,https://w3id.org/eusoilvoc#SoilMoisture,15,bodemvocht
+bodentypen,soil types,German,synonym,soil types,4,https://w3id.org/eusoilvoc#SoilTypes,15,bodentypen
+cementation,cementation,English,exact,cementation,4,https://w3id.org/eusoilvoc#Cementation,15,cementation
+moorboden,organic soils,German,synonym,organic soils,6,https://w3id.org/eusoilvoc#OrganicSoils,15,moorboden
+nutrient,soil nutrients,English,synonym,soil nutrients,2,https://w3id.org/eusoilvoc#SoilNutrients,15,nutrient
+oligochaeta,earthworms,English,broader,earthworms,3,https://w3id.org/eusoilvoc#Earthworms,15,oligochaeta
+bodemdaling,soil subsidence,Dutch,synonym,soil subsidence,4,https://w3id.org/eusoilvoc#SoilSubsidence,14,bodemdaling
+bodemorganisme,soil organisms,Dutch,synonym,soil organisms,2,https://w3id.org/eusoilvoc#SoilOrganisms,14,bodemorganisme
+bodemverdichting,soil compaction,Dutch,synonym,soil compaction,2,https://w3id.org/eusoilvoc#SoilCompaction,14,bodemverdichting
+bodemverzuring,soil acidification,Dutch,synonym,soil acidification,2,https://w3id.org/eusoilvoc#SoilAcidification,14,bodemverzuring
+bodemvruchtbaarheid,soil fertility,Dutch,mapped,soil productivity,2,https://w3id.org/eusoilvoc#SoilProductivity,14,bodemvruchtbaarheid
+edafología y química agrícola,soil sciences,Spanish,exact,soil sciences,1,https://w3id.org/eusoilvoc#SoilSciences,14,edafología y química agrícola
+grasslands,grassland soils,English,broader,grassland soils,6,https://w3id.org/eusoilvoc#GrasslandSoils,14,grasslands
+microorganisms,microorganisms,English,mapped,microbes,3,https://w3id.org/eusoilvoc#Microbes,14,"microorganisms | microorganisms, genetically-modified | soil incubation | microorganisms | soil, detection, microbial inoculants, bacteria, fungi, biofertilisers, biopesticides, microorganisms"
+season,season,English,exact,season,2,https://w3id.org/eusoilvoc#Season,14,season
+soil sorption,soil sorption,French,exact,soil sorption,3,https://w3id.org/eusoilvoc#SoilSorption,14,soil sorption
+soil thermal properties,soil thermal properties,English,exact,soil thermal properties,4,https://w3id.org/eusoilvoc#SoilThermalProperties,14,soil thermal properties
+sottosuolo,subsoil,Italian,exact,subsoil,2,https://w3id.org/eusoilvoc#Subsoil,14,sottosuolo
+agricultural soil,agricultural soil,English,exact,agricultural soils,6,https://w3id.org/eusoilvoc#AgriculturalSoils,13,"agricultural soil | forest soil, agricultural soil"
+air quality,air quality,English,exact,air quality,3,https://w3id.org/eusoilvoc#AirQuality,13,air quality | air-quality
+arable land,arable land,English,mapped,arable soils,6,https://w3id.org/eusoilvoc#ArableSoils,13,arable land
+bodenkartierung,soil mapping,German,mapped,soil surveys,2,https://w3id.org/eusoilvoc#SoilSurveys,13,bodenkartierung
+bodenwasserhaushalt,soil water balance,German,exact,soil water balance,4,https://w3id.org/eusoilvoc#SoilWaterBalance,13,bodenwasserhaushalt
+böden,soil,de,translation,soil,1,https://w3id.org/eusoilvoc#Soil,13,böden
+ciencias del suelo,soil sciences,Spanish,exact,soil sciences,1,https://w3id.org/eusoilvoc#SoilSciences,13,ciencias de la tierra y del espacio::2511 ciencias del suelo (edafología) | ciencias del suelo (edafología)
+conventional drainage,conventional drainage,English,exact,conventional drainage,3,https://w3id.org/eusoilvoc#ConventionalDrainage,13,conventional drainage
+evapouration,evapouration,English,exact,evapouration,3,https://w3id.org/eusoilvoc#Evapouration,13,evapouration
+filtration,filtration,English,exact,filtration,3,https://w3id.org/eusoilvoc#Filtration,13,filtration
+gypsum,gypsum,English,exact,gypsum,4,https://w3id.org/eusoilvoc#Gypsum,13,gypsum
+humus,humus,German,exact,humus,5,https://w3id.org/eusoilvoc#Humus,13,humus
+micronutrients,micronutrients,English,exact,micronutrients,3,https://w3id.org/eusoilvoc#Micronutrients,13,micronutrients
+seasons,seasons,English,variant,season,2,https://w3id.org/eusoilvoc#Season,13,seasons
+soil carbon sequestration,soil carbon sequestration,English,exact,soil carbon sequestration,2,https://w3id.org/eusoilvoc#SoilCarbonSequestration,13,soil carbon sequestration
+soil hydraulic properties,soil hydraulic properties,English,exact,soil hydraulic properties,3,https://w3id.org/eusoilvoc#SoilHydraulicProperties,13,soil hydraulic properties
+air porosity,air porosity,English,exact,air porosity,3,https://w3id.org/eusoilvoc#AirPorosity,12,air porosity
+bodenwasser,soil water,de,translation,soil water,3,https://w3id.org/eusoilvoc#SoilWater,12,bodenwasser
+inputs,inputs,French,exact,inputs,4,https://w3id.org/eusoilvoc#Inputs,12,inputs
+niederschlag,precipitation,de,translation,precipitation,3,https://w3id.org/eusoilvoc#Precipitation,12,niederschlag
+potassium,potassium,English,exact,potassium,4,https://w3id.org/eusoilvoc#Potassium,12,potassium | potassium/silicon ratio
+pédologie,pedology,French,exact,pedology,2,https://w3id.org/eusoilvoc#Pedology,12,pédologie | pédologie
+root growth,root growth,English,exact,root growth,3,https://w3id.org/eusoilvoc#RootGrowth,12,root growth | root-growth
+root respiration,root respiration,English,exact,root respiration,3,https://w3id.org/eusoilvoc#RootRespiration,12,root respiration
+sickerwasser,seepage water,German,mapped,infiltration water,4,https://w3id.org/eusoilvoc#InfiltrationWater,12,sickerwasser
+soil depth,soil depth,English,exact,soil depth,3,https://w3id.org/eusoilvoc#SoilDepth,12,soil depth
+soil function,soil function,English,exact,soil functions,1,https://w3id.org/eusoilvoc#SoilFunctions,12,soil function
+soil nutrients,soil nutrients,English,exact,soil nutrients,2,https://w3id.org/eusoilvoc#SoilNutrients,12,soil nutrients
+soil water storage,soil water storage,English,exact,soil water storage,4,https://w3id.org/eusoilvoc#SoilWaterStorage,12,soil water storage | soil-water storage
+torf,peat,de,translation,peat,4,https://w3id.org/eusoilvoc#Peat,12,torf
+biologie du sol,soil biology,French,exact,soil biology,2,https://w3id.org/eusoilvoc#SoilBiology,11,biologie du sol | biologie-du-sol
+bodenphysik,soil physics,German,exact,soil physics,2,https://w3id.org/eusoilvoc#SoilPhysics,11,bodenphysik
+bodenuntersuchung,soil analysis,German,exact,soil analysis,3,https://w3id.org/eusoilvoc#SoilAnalysis,11,bodenuntersuchung
+carbon stock,carbon stock,English,variant,carbon pools,2,https://w3id.org/eusoilvoc#CarbonPools,11,carbon stock
+géologie,geology,"de,fr,nl",translation,geology,1,https://w3id.org/eusoilvoc#Geology,11,"géologie | géologie | géologie, ingénierie du pétrole & des mines"
+leistungsfähigkeit der böden zur erfüllung der natürlichen bodenfunktionen und der archivfunktion,soil functions,German,exact,soil functions,1,https://w3id.org/eusoilvoc#SoilFunctions,11,leistungsfähigkeit der böden zur erfüllung der natürlichen bodenfunktionen und der archivfunktion
+maaperä,soil,Finnish,exact,soil,1,https://w3id.org/eusoilvoc#Soil,11,maaperä | maaperä
+nematodes,nematodes,English,exact,nematodes,5,https://w3id.org/eusoilvoc#Nematodes,11,"biodiversity   status,   conventional   farming,   nematodes, bioindicators, organic farming | biodiversity status, conventional farming, nematodes, bioindicators, organic farming | biodiversity,  bio-indicators,  dna,  molecular  characterization, nematodes, soil ecosystems | biodiversity, bio-indicators, dna, molecular characterization, nematodes, soil ecosystems | nematodes"
+occupation du sol,land cover,French,exact,land cover,1,https://w3id.org/eusoilvoc#LandCover,11,occupation du sol
+organisme du sol,soil organisms,fr,translation,soil organisms,2,https://w3id.org/eusoilvoc#SoilOrganisms,11,organisme du sol | organisme-du-sol
+soil aggregate stability,soil aggregate stability,English,exact,soil aggregate stability,5,https://w3id.org/eusoilvoc#SoilAggregateStability,11,soil aggregate stability
+soil aggregation,soil aggregation,English,exact,soil aggregation,3,https://w3id.org/eusoilvoc#SoilAggregation,11,soil aggregation
+soil salinity,soil salinity,English,exact,soil salinity,3,https://w3id.org/eusoilvoc#SoilSalinity,11,soil salinity
+sulfur,sulfur,English,exact,sulfur,4,https://w3id.org/eusoilvoc#Sulfur,11,sulfur | sulfur (s)
+usage existant du sol,land use,French,exact,land use,4,https://w3id.org/eusoilvoc#LandUse,11,usage-existant-du-sol
+uso suolo,land use,Italian,exact,land use,4,https://w3id.org/eusoilvoc#LandUse,11,uso suolo | uso-suolo
+void classification,void classification,English,exact,void classification,5,https://w3id.org/eusoilvoc#VoidClassification,11,void classification
+weather past,weather past,English,exact,weather past,3,https://w3id.org/eusoilvoc#WeatherPast,11,weather past
+affectation des sols,land use,French,exact,land use,4,https://w3id.org/eusoilvoc#LandUse,10,affectation des sols
+biomass productivity,biomass productivity,English,exact,biomass productivity,3,https://w3id.org/eusoilvoc#BiomassProductivity,10,biomass productivity
+bodenarten,soil texture,German,exact,soil texture,3,https://w3id.org/eusoilvoc#SoilTexture,10,bodenarten
+bodenkennwerte,soil properties,German,exact,soil properties,1,https://w3id.org/eusoilvoc#SoilProperties,10,bodenkennwerte
+building,building,English,exact,building,2,https://w3id.org/eusoilvoc#Building,10,building
+edafología,pedology,Spanish,exact,pedology,2,https://w3id.org/eusoilvoc#Pedology,10,edafología | edafología | edafología (biología)
+evaporation,evaporation,English,variant,evapouration,3,https://w3id.org/eusoilvoc#Evapouration,10,evaporation
+flachwurzelzone,root zone,German,mapped,rhizosphere,2,https://w3id.org/eusoilvoc#Rhizosphere,10,flachwurzelzone
+forest soil,forest soil,English,exact,forest soils,6,https://w3id.org/eusoilvoc#ForestSoils,10,"forest soil | forest soil, agricultural soil | som, c sequestration, soil enzyme activity, radiocarbon, climosequence, decomposition, climate change, forest soil, soil biology"
+gesättigte wasserleitfähigkeiten,saturated hydraulic conductivity,German,exact,saturated hydraulic conductivity,5,https://w3id.org/eusoilvoc#SaturatedHydraulicConductivity,10,gesättigte wasserleitfähigkeiten
+humusmengen,humus,German,exact,humus,5,https://w3id.org/eusoilvoc#Humus,10,humusmengen
+rock,rock,English,exact,rock,5,https://w3id.org/eusoilvoc#Rock,10,"depth, sediment/rock | depth, sediment/rock, bottom/maximum | rock"
+soil chemicophysical properties,soil chemicophysical properties,English,exact,soil chemicophysical properties,2,https://w3id.org/eusoilvoc#SoilChemicophysicalProperties,10,soil chemicophysical properties
+soil hydraulic conductivity,soil hydraulic conductivity,English,exact,soil hydraulic conductivity,4,https://w3id.org/eusoilvoc#SoilHydraulicConductivity,10,soil hydraulic conductivity
+soil microorganisms,soil microorganisms,English,exact,soil microorganisms,3,https://w3id.org/eusoilvoc#SoilMicroorganisms,10,"soil microorganisms | soil microorganisms, soil microbiome, soil microbial diversity, c sequestration, ghg emissions, n2o emissions, ch4 emissions, n leaching, om input"
+soil particles,soil particles,English,exact,soil particles,3,https://w3id.org/eusoilvoc#SoilParticles,10,soil particles
+soil water movement,soil water movement,English,exact,soil water movement,4,https://w3id.org/eusoilvoc#SoilWaterMovement,10,soil water movement
+wassererosion,water erosion,German,exact,water erosion,3,https://w3id.org/eusoilvoc#WaterErosion,10,wassererosion
+wurzelraum,root zone,German,mapped,rhizosphere,2,https://w3id.org/eusoilvoc#Rhizosphere,10,wurzelraum
+biological soil crust,biological soil crust,English,variant,soil biological crusts,3,https://w3id.org/eusoilvoc#SoilBiologicalCrusts,9,"annual plant, biological soil crust, biotic and abiotic filters, coexistence, community assembly, drought, functional diversity, mediterranean grassland | biological soil crust"
+bodemonderzoek,soil survey,Dutch,exact,soil surveys,2,https://w3id.org/eusoilvoc#SoilSurveys,9,bodemonderzoek
+bodenstruktur,soil structure,German,exact,soil structure,3,https://w3id.org/eusoilvoc#SoilStructure,9,bodenstruktur
+forest soils,forest soils,English,exact,forest soils,6,https://w3id.org/eusoilvoc#ForestSoils,9,forest soils
+jord,soil,Danish,exact,soil,1,https://w3id.org/eusoilvoc#Soil,9,jord
+magnesium,magnesium,English,exact,magnesium,4,https://w3id.org/eusoilvoc#Magnesium,9,magnesium
+no tillage,no tillage,English,mapped,no till,2,https://w3id.org/eusoilvoc#NoTill,9,no tillage | no-tillage
+runoff,runoff,English,exact,runoff,3,https://w3id.org/eusoilvoc#Runoff,9,runoff
+salinisation,salinisation,English,mapped,soil salinisation,3,https://w3id.org/eusoilvoc#SoilSalinisation,9,salinisation
+soil fluid,soil fluid,English,exact,soil fluid,3,https://w3id.org/eusoilvoc#SoilFluid,9,soil fluid
+soil fungi,soil fungi,English,exact,soil fungi,4,https://w3id.org/eusoilvoc#SoilFungi,9,soil fungi
+soil nitrogen loss,soil nitrogen loss,English,exact,soil nitrogen loss,3,https://w3id.org/eusoilvoc#SoilNLoss,9,soil nitrogen loss
+soil physics,soil physics,German,exact,soil physics,2,https://w3id.org/eusoilvoc#SoilPhysics,9,anzsrc::410605 soil physics | soil physics | soil-physics
+soil sampling,soil sampling,English,exact,soil sampling,3,https://w3id.org/eusoilvoc#SoilSampling,9,soil sampling
+soildepth,soil depth,English,exact,soil depth,3,https://w3id.org/eusoilvoc#SoilDepth,9,soildepth
+solo,soil,pt,translation,soil,1,https://w3id.org/eusoilvoc#Soil,9,solo
+wind erosion,wind erosion,English,exact,wind erosion,3,https://w3id.org/eusoilvoc#WindErosion,9,wind erosion | wind-erosion
+biological nitrogen fixation,biological nitrogen fixation,English,exact,biological nitrogen fixation,3,https://w3id.org/eusoilvoc#BiologicalNitrogenFixation,8,biological nitrogen fixation
+boron,boron,English,exact,boron,4,https://w3id.org/eusoilvoc#Boron,8,boron
+bulk density peat,bulk density peat,English,exact,bulk density peat,5,https://w3id.org/eusoilvoc#BulkDensityPeat,8,bulk density peat
+calitate a solului,soil quality,Romanian,exact,soil quality,2,https://w3id.org/eusoilvoc#SoilQuality,8,calitate a solului
+carbon storage,carbon storage,English,mapped,soil carbon sequestration,2,https://w3id.org/eusoilvoc#SoilCarbonSequestration,8,"carbon storage | carbon storage, microbial communities, boreal forest, fertilization"
+cubierta terrestre,land cover,es,translation,land cover,1,https://w3id.org/eusoilvoc#LandCover,8,cubierta terrestre
+earthworm,earthworm,English,exact,earthworms,3,https://w3id.org/eusoilvoc#Earthworms,8,earthworm
+ecosystem service,ecosystem service,English,exact,ecosystem services,1,https://w3id.org/eusoilvoc#EcosystemServices,8,"ecosystem service | ecosystem service, land use change, soil degradation, land planning"
+feldkapazität,field capacity,German,mapped,soil field moisture capacity,3,https://w3id.org/eusoilvoc#SoilFieldMoistureCapacity,8,feldkapazität
+gebäude,building,de,translation,building,2,https://w3id.org/eusoilvoc#Building,8,gebäude
+geologi,geology,Danish,exact,geology,1,https://w3id.org/eusoilvoc#Geology,8,geologi
+gleba,soil,Polish,exact,soil,1,https://w3id.org/eusoilvoc#Soil,8,gleba
+leaching,leaching,English,mapped,soil leaching,4,https://w3id.org/eusoilvoc#SoilLeaching,8,leaching
+organic amendments,organic amendments,English,exact,organic amendments,3,https://w3id.org/eusoilvoc#OrganicAmendments,8,organic amendments
+root,root,English,exact,roots,4,https://w3id.org/eusoilvoc#Roots,8,root
+schadstoffbelastung,soil pollution,German,exact,soil pollution,2,https://w3id.org/eusoilvoc#SoilPollution,8,schadstoffbelastung
+soil aeration index,soil aeration index,English,exact,soil aeration index,3,https://w3id.org/eusoilvoc#SoilAerationIndex,8,soil aeration index
+soil analysis,soil analysis,English,exact,soil analysis,3,https://w3id.org/eusoilvoc#SoilAnalysis,8,soil analysis
+soil fauna,soil fauna,English,exact,soil fauna,3,https://w3id.org/eusoilvoc#SoilFauna,8,soil fauna
+soil penetration resistance,soil penetration resistance,English,exact,soil penetration resistance,3,https://w3id.org/eusoilvoc#SoilPenetrationResistance,8,"soil matric potential, soil water availability, drought, minimum agriculture, minimum tillage, conventional tillage, soil penetration resistance | soil penetration resistance"
+soil thermal conductivity,soil thermal conductivity,German,exact,soil thermal conductivity,5,https://w3id.org/eusoilvoc#SoilThermalConductivity,8,soil thermal conductivity | soil-thermal-conductivity
+soil threat,soil threat,English,exact,soil threats,1,https://w3id.org/eusoilvoc#SoilThreats,8,soil threat
+uso del suolo,land use,Italian,exact,land use,4,https://w3id.org/eusoilvoc#LandUse,8,uso del suolo | uso-del-suolo
+utilizarea terenului,land use,Romanian,exact,land use,4,https://w3id.org/eusoilvoc#LandUse,8,utilizarea terenului
+water erosion,water erosion,English,exact,water erosion,3,https://w3id.org/eusoilvoc#WaterErosion,8,water erosion
+akker,arable land,Dutch,mapped,arable soils,6,https://w3id.org/eusoilvoc#ArableSoils,7,akker
+bodemprofielen,soil profiles,Dutch,exact,soil profiles,3,https://w3id.org/eusoilvoc#SoilProfiles,7,bodemprofielen
+bodemtype,soil types,Dutch,exact,soil types,4,https://w3id.org/eusoilvoc#SoilTypes,7,bodemtype
+bodenübersichtskarte,soil maps,German,exact,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,7,bodenübersichtskarte
+conventional tillage,conventional tillage,English,exact,conventional tillage,3,https://w3id.org/eusoilvoc#ConventionalTillage,7,"conventional tillage | soil matric potential, soil water availability, drought, minimum agriculture, minimum tillage, conventional tillage, soil penetration resistance"
+erosion control,erosion control,English,exact,erosion control,3,https://w3id.org/eusoilvoc#ErosionControl,7,erosion control
+fertilité du sol,soil productivity,fr,translation,soil productivity,2,https://w3id.org/eusoilvoc#SoilProductivity,7,fertilité-du-sol | fertilité du sol
+geología,geology,"es,it,pt",translation,geology,1,https://w3id.org/eusoilvoc#Geology,7,geología
+harta pedologică,soil maps,Romanian,exact,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,7,harta pedologică
+horizontinformatie,soil horizons,Dutch,exact,soil horizons,3,https://w3id.org/eusoilvoc#SoilHorizons,7,horizontinformatie
+inspire thema so,soil,German,exact,soil,1,https://w3id.org/eusoilvoc#Soil,7,inspire-thema so
+ion exchange,ion exchange,English,exact,ion exchange,3,https://w3id.org/eusoilvoc#IonExchange,7,ion exchange
+landgebruik,land use,nl,translation,land use,4,https://w3id.org/eusoilvoc#LandUse,7,landgebruik
+maankäyttö,land use,Finnish,exact,land use,4,https://w3id.org/eusoilvoc#LandUse,7,maankäyttö
+polycyclic aromatic hydrocarbons,polycyclic aromatic hydrocarbons,English,exact,polycyclic aromatic hydrocarbons,4,https://w3id.org/eusoilvoc#PolycyclicAromaticHydrocarbons,7,polycyclic aromatic hydrocarbons
+saturated hydraulic conductivity,saturated hydraulic conductivity,English,exact,saturated hydraulic conductivity,5,https://w3id.org/eusoilvoc#SaturatedHydraulicConductivity,7,"saturated hydraulic conductivity | water retention function, saturated hydraulic conductivity, semi-variogram, kriging, functional evaluation, hydrus-1d"
+sciences du sol,soil sciences,French,exact,soil sciences,1,https://w3id.org/eusoilvoc#SoilSciences,7,sciences du sol | sciences-du-sol
+sgd geologie,geology,German,exact,geology,1,https://w3id.org/eusoilvoc#Geology,7,sgd_geologie
+soil consolidation,soil consolidation,English,exact,soil consolidation,5,https://w3id.org/eusoilvoc#SoilConsolidation,7,soil consolidation
+soil nutrient availability,soil nutrient availability,English,exact,soil nutrient availability,4,https://w3id.org/eusoilvoc#SoilNutrientAvailability,7,soil nutrient availability
+soil particle size,soil particle size,English,exact,soil particle size,5,https://w3id.org/eusoilvoc#SoilParticleSize,7,soil particle size
+séquestration du carbone,carbon sequestration,French,mapped,soil carbon sequestration,2,https://w3id.org/eusoilvoc#SoilCarbonSequestration,7,séquestration du carbone
+uso del suelo,land use,es,translation,land use,4,https://w3id.org/eusoilvoc#LandUse,7,uso del suelo
+wasserspeicherfähigkeit,water storage capacity,German,exact,water storage capacity,3,https://w3id.org/eusoilvoc#WaterStorageCapacity,7,wasserspeicherfähigkeit | wasserspeicherfähigkeit
+water purification,water purification,English,exact,water purification,2,https://w3id.org/eusoilvoc#WaterPurification,7,water purification
+zemědělská půda,agricultural soils,Czech,exact,agricultural soils,6,https://w3id.org/eusoilvoc#AgriculturalSoils,7,zemědělská půda
+analyse des sols,soil analysis,French,exact,soil analysis,3,https://w3id.org/eusoilvoc#SoilAnalysis,6,analyse des sols | analyse-des-sols
+biocrusts,biocrusts,English,mapped,soil biological crusts,3,https://w3id.org/eusoilvoc#SoilBiologicalCrusts,6,biocrusts
+bodemmechanica,soil mechanics,Dutch,exact,soil mechanics,2,https://w3id.org/eusoilvoc#SoilMechanics,6,bodemmechanica
+bodenkundliche aufnahmen,soil surveys,German,exact,soil surveys,2,https://w3id.org/eusoilvoc#SoilSurveys,6,bodenkundliche aufnahmen | bodenkundliche-aufnahmen
+buildings,buildings,English,mapped,building,2,https://w3id.org/eusoilvoc#Building,6,buildings
+carbone organique du sol,soil organic carbon,fr,translation,soil organic carbon,4,https://w3id.org/eusoilvoc#SoilOrganicCarbon,6,carbone organique du sol
+chemizm gleb,soil chemistry,Polish,exact,soil chemistry,2,https://w3id.org/eusoilvoc#SoilChemistry,6,chemizm gleb
+conservación de suelos,soil conservation,Spanish,exact,soil conservation,2,https://w3id.org/eusoilvoc#SoilConservation,6,conservación de suelos
+conservation du sol,soil conservation,French,exact,soil conservation,2,https://w3id.org/eusoilvoc#SoilConservation,6,conservation du sol | conservation-du-sol
+conservation tillage,conservation tillage,English,exact,conservation tillage,3,https://w3id.org/eusoilvoc#ConservationTillage,6,conservation tillage
+dégradation du sol,soil degradation,fr,translation,soil degradation,2,https://w3id.org/eusoilvoc#SoilDegradation,6,dégradation-du-sol | dégradation du sol
+erosionsschutz,erosion control,German,exact,erosion control,3,https://w3id.org/eusoilvoc#ErosionControl,6,erosionsschutz
+horizon de sol,soil horizon,French,exact,soil horizons,3,https://w3id.org/eusoilvoc#SoilHorizons,6,horizon-de-sol
+krajinný pokryv,land cover,Czech,exact,land cover,1,https://w3id.org/eusoilvoc#LandCover,6,krajinný pokryv
+matière organique du sol,soil organic matter,fr,translation,soil organic matter,4,https://w3id.org/eusoilvoc#SoilOrganicMatter,6,matière organique du sol
+nutrient availability,nutrient availability,English,mapped,soil nutrient availability,4,https://w3id.org/eusoilvoc#SoilNutrientAvailability,6,nutrient availability
+plant cover,plant cover,Spanish,exact,plant cover,2,https://w3id.org/eusoilvoc#PlantCover,6,plant cover
+ploughing,ploughing,English,exact,ploughing,3,https://w3id.org/eusoilvoc#Ploughing,6,ploughing
+profil du sol,soil profiles,French,exact,soil profiles,3,https://w3id.org/eusoilvoc#SoilProfiles,6,profil du sol | profil-du-sol
+ressources du sol,soil resources,French,exact,soil resources,2,https://w3id.org/eusoilvoc#SoilResources,6,ressources du sol | ressources-du-sol
+slope orientation,slope orientation,English,exact,slope orientation,3,https://w3id.org/eusoilvoc#SlopeOrientation,6,slope orientation
+snow,snow,English,exact,snow,4,https://w3id.org/eusoilvoc#Snow,6,"data assimilation, soil moisture, snow, vegetation, microwave remote sensing, land surface modeling, targeted observation | snow"
+soc loss,soc loss,English,exact,soil organic carbon loss,2,https://w3id.org/eusoilvoc#SOCLoss,6,soc loss
+soil bacteria,soil bacteria,English,exact,soil bacteria,4,https://w3id.org/eusoilvoc#SoilBacteria,6,soil bacteria
+soil biota,soil biota,English,exact,soil biota,3,https://w3id.org/eusoilvoc#SoilBiota,6,"land-use, land-use intensity, mixed-effects models, organism abundance, soil biodiversity, soil biota | soil biota"
+soil chemical properties,soil chemical properties,English,exact,soil chemical properties,3,https://w3id.org/eusoilvoc#SoilChemicalProperties,6,soil chemical properties
+soil conservation,soil conservation,English,exact,soil conservation,2,https://w3id.org/eusoilvoc#SoilConservation,6,soil conservation
+soil description,soil description,English,exact,soil description,1,https://w3id.org/eusoilvoc#SoilDescription,6,soil description
+soil dispersion,soil dispersion,English,exact,soil dispersion,3,https://w3id.org/eusoilvoc#SoilDispersion,6,soil dispersion
+soil electrical conductivity,soil electrical conductivity,English,exact,soil electrical conductivity,4,https://w3id.org/eusoilvoc#SoilElectricalConductivity,6,soil electrical conductivity
+soil heat radiation,soil heat radiation,English,exact,soil heat radiation,6,https://w3id.org/eusoilvoc#SoilHeatRadiation,6,soil heat radiation
+soil melting,soil melting,English,exact,soil melting,4,https://w3id.org/eusoilvoc#SoilMelting,6,soil melting
+soil profiles,soil profiles,English,exact,soil profiles,3,https://w3id.org/eusoilvoc#SoilProfiles,6,soil profiles
+soil saturation,soil saturation,English,exact,soil saturation,5,https://w3id.org/eusoilvoc#SoilSaturation,6,soil saturation
+type de sol,soil types,fr,translation,soil types,4,https://w3id.org/eusoilvoc#SoilTypes,6,type de sol | type-de-sol
+verzadigingsgraad,degree of saturation,nl,translation,degree of saturation,3,https://w3id.org/eusoilvoc#DegreeOfSaturation,6,verzadigingsgraad
+vochtgehalte,moisture content,Dutch,exact,soil moisture contents,2,https://w3id.org/eusoilvoc#SoilMoistureContents,6,vochtgehalte
+waterlogging,waterlogging,English,exact,waterlogging,2,https://w3id.org/eusoilvoc#Waterlogging,6,waterlogging
+winderosion,wind erosion,German,exact,wind erosion,3,https://w3id.org/eusoilvoc#WindErosion,6,winderosion
+zuurtegraad,soil ph,Dutch,exact,soil pH,3,https://w3id.org/eusoilvoc#SoilpH,6,zuurtegraad
+augsnes karte,soil maps,Latvian,exact,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,5,augsnes-karte
+basensättigung,base saturation,de,translation,base saturation,4,https://w3id.org/eusoilvoc#BaseSaturation,5,basensättigung | basensättigung
+bauwerke,buildings,German,mapped,building,2,https://w3id.org/eusoilvoc#Building,5,bauwerke
+biological soil crusts,biological soil crusts,English,mapped,soil biological crusts,3,https://w3id.org/eusoilvoc#SoilBiologicalCrusts,5,biological soil crusts
+bodemkaart: bodemtypes,soil types,Dutch,exact,soil types,4,https://w3id.org/eusoilvoc#SoilTypes,5,bodemkaart:-bodemtypes
+chimie des sols,soil chemical,fr,translation,soil chemical,2,https://w3id.org/eusoilvoc#SoilChemical,5,chimie des sols | chimie-des-sols
+crop yields,crop yields,English,mapped,crop yield,3,https://w3id.org/eusoilvoc#CropYield,5,crop yields
+déterioration du sol,soil degradation,fr,translation,soil degradation,2,https://w3id.org/eusoilvoc#SoilDegradation,5,déterioration-du-sol | déterioration du sol
+emission,emission,English,exact,emissions,4,https://w3id.org/eusoilvoc#Emissions,5,emission
+grasses,grasses,English,exact,grasses,4,https://w3id.org/eusoilvoc#Grasses,5,grasses
+groundwater quality,groundwater quality,English,mapped,water quality,3,https://w3id.org/eusoilvoc#WaterQuality,5,groundwater quality | groundwater-quality
+litologia,lithology,"es,it,pt",translation,lithology,2,https://w3id.org/eusoilvoc#Lithology,5,litologia
+maanpeite,land cover,Finnish,exact,land cover,1,https://w3id.org/eusoilvoc#LandCover,5,maanpeite
+macronutrients,macronutrients,English,exact,macronutrients,3,https://w3id.org/eusoilvoc#Macronutrients,5,macronutrients
+mineral composition,mineral composition,English,mapped,mineral concentration,4,https://w3id.org/eusoilvoc#MineralConcentration,5,"mineral composition | mineral dust, size distribution, mineral composition, field campaign, morocco | mineral-composition"
+minimum tillage,minimum tillage,English,exact,minimum tillage,4,https://w3id.org/eusoilvoc#MinimumTillage,5,"minimum tillage | soil matric potential, soil water availability, drought, minimum agriculture, minimum tillage, conventional tillage, soil penetration resistance"
+nematode,nematode,English,exact,nematodes,5,https://w3id.org/eusoilvoc#Nematodes,5,"best4soil, database, hostplant, soilborne pathogen, nematode, field crop, vegetable, green manure, cover crop | nematode"
+nitrogen content,nitrogen content,English,exact,nitrogen content,3,https://w3id.org/eusoilvoc#NitrogenContent,5,nitrogen content
+organic soils,organic soils,English,exact,organic soils,6,https://w3id.org/eusoilvoc#OrganicSoils,5,organic soils
+percolation,percolation,English,exact,percolation,3,https://w3id.org/eusoilvoc#Percolation,5,percolation
+plant water uptake,plant water uptake,English,exact,plant water uptake,3,https://w3id.org/eusoilvoc#PlantWaterUptake,5,plant water uptake
+plastic mulch,plastic mulch,English,exact,plastic mulches,4,https://w3id.org/eusoilvoc#PlasticMulches,5,plastic mulch
+polychlorinated biphenyls,polychlorinated biphenyls,English,exact,polychlorinated biphenyls,4,https://w3id.org/eusoilvoc#PolychlorinatedBiphenyls,5,polychlorinated biphenyls
+půda,soil,Czech,exact,soil,1,https://w3id.org/eusoilvoc#Soil,5,půda
+salt contents,salt contents,English,exact,salt contents,5,https://w3id.org/eusoilvoc#SaltContents,5,salt contents
+salts,salts,English,exact,salts,3,https://w3id.org/eusoilvoc#Salts,5,salts
+silt,silt,English,exact,silt,5,https://w3id.org/eusoilvoc#Silt,5,silt
+soil aggregate,soil aggregate,English,exact,soil aggregate,3,https://w3id.org/eusoilvoc#SoilAggregate,5,soil aggregate
+soil classification,soil classification,English,exact,soil classification,6,https://w3id.org/eusoilvoc#SoilClassification,5,soil classification
+soil dynamics,soil dynamics,English,exact,soil dynamics,3,https://w3id.org/eusoilvoc#SoilDynamics,5,soil dynamics
+soil fragmentation,soil fragmentation,English,exact,soil fragmentation,3,https://w3id.org/eusoilvoc#SoilFragmentation,5,soil fragmentation
+soil mechanical properties,soil mechanical properties,English,exact,soil mechanical properties,2,https://w3id.org/eusoilvoc#SoilMechanicalProperties,5,soil mechanical properties
+soil microbial respiration,soil microbial respiration,English,exact,soil microbial respiration,4,https://w3id.org/eusoilvoc#SoilMicrobialRespiration,5,soil microbial respiration
+soil micropore,soil micropore,English,exact,soil micropore,3,https://w3id.org/eusoilvoc#SoilMicropore,5,soil micropore
+soil mineralization,soil mineralization,English,exact,soil mineralization,3,https://w3id.org/eusoilvoc#SoilMineralization,5,soil mineralization
+soil organic matter contents,soil organic matter contents,English,exact,soil organic matter contents,5,https://w3id.org/eusoilvoc#SoilOrganicMatterContents,5,soil organic matter contents
+soil retention,soil retention,English,exact,soil retention,3,https://w3id.org/eusoilvoc#SoilRetention,5,soil retention
+soil sensitivity,soil sensitivity,English,exact,soil sensitivity,4,https://w3id.org/eusoilvoc#SoilSensitivity,5,soil sensitivity
+soil substance,soil substance,German,exact,soil substance,1,https://w3id.org/eusoilvoc#SoilSubstance,5,soil substance
+soil water availability,soil water availability,English,exact,soil water availability,3,https://w3id.org/eusoilvoc#SoilWaterAvailability,5,"soil matric potential, soil water availability, drought, minimum agriculture, minimum tillage, conventional tillage, soil penetration resistance | soil water availability"
+soil water repellency,soil water repellency,English,exact,soil water repellency,2,https://w3id.org/eusoilvoc#SoilWaterRepellency,5,soil water repellency
+suoli,soils,Italian,variant,soil,1,https://w3id.org/eusoilvoc#Soil,5,suoli
+vegetation cover,vegetation cover,English,mapped,plant cover,2,https://w3id.org/eusoilvoc#PlantCover,5,vegetation cover
+abiotic factors,abiotic factors,English,mapped,environmental factors,3,https://w3id.org/eusoilvoc#EnvironmentalFactors,4,abiotic factors
+air filled porosity,air filled porosity,English,exact,air filled porosity,3,https://w3id.org/eusoilvoc#AirFilledPorosity,4,air filled porosity | air-filled porosity
+aluminium,aluminium,English,exact,aluminium,4,https://w3id.org/eusoilvoc#Aluminium,4,aluminium
+base saturation,base saturation,German,exact,base saturation,4,https://w3id.org/eusoilvoc#BaseSaturation,4,base saturation
+biología de suelos,soil biology,Spanish,exact,soil biology,2,https://w3id.org/eusoilvoc#SoilBiology,4,biología de suelos
+bodenausgangsgesteine,parent material,German,exact,parent material,2,https://w3id.org/eusoilvoc#ParentMaterial,4,bodenausgangsgesteine
+bodeneigenschaft,soil properties,de,translation,soil properties,1,https://w3id.org/eusoilvoc#SoilProperties,4,bodeneigenschaft
+bodenerosion durch wasser,water erosion,German,exact,water erosion,3,https://w3id.org/eusoilvoc#WaterErosion,4,bodenerosion durch wasser | bodenerosion-durch-wasser
+chromium,chromium,English,exact,chromium,4,https://w3id.org/eusoilvoc#Chromium,4,chromium
+clay ratio,clay ratio,English,exact,clay ratio,4,https://w3id.org/eusoilvoc#ClayRatio,4,"clay ratio | soc/clay ratio | soil monitoring law, soc/clay ratio, cropland, ndvi, satellite data, national soil monitoring"
+couverture du sol,land cover,fr,translation,land cover,1,https://w3id.org/eusoilvoc#LandCover,4,couverture du sol
+kohlenstoffvorräte,carbon stocks,German,mapped,carbon pools,2,https://w3id.org/eusoilvoc#CarbonPools,4,kohlenstoffvorräte | kohlenstoffvorräte
+körnung,soil texture,German,exact,soil texture,3,https://w3id.org/eusoilvoc#SoilTexture,4,körnung
+mapa půdní,soil maps,Czech,exact,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,4,mapa půdní
+mecànica de sòls,soil mechanics,Catalan,exact,soil mechanics,2,https://w3id.org/eusoilvoc#SoilMechanics,4,enginyeria civil::geotècnia::mecànica de sòls [àrees temàtiques de la upc] | àrees temàtiques de la upc::enginyeria civil::geotècnia::mecànica de sòls
+mineral soil,mineral soil,English,exact,mineral soils,6,https://w3id.org/eusoilvoc#MineralSoils,4,mineral soil
+muld,soil,Estonian,exact,soil,1,https://w3id.org/eusoilvoc#Soil,4,muld
+mullad,soils,Estonian,variant,soil,1,https://w3id.org/eusoilvoc#Soil,4,mullad
+ocupação do solo,land cover,Portuguese,exact,land cover,1,https://w3id.org/eusoilvoc#LandCover,4,ocupação do solo
+pedologia,pedology,Italian,exact,pedology,2,https://w3id.org/eusoilvoc#Pedology,4,pedologia
+penetration resistance,penetration resistance,English,mapped,soil penetration resistance,3,https://w3id.org/eusoilvoc#SoilPenetrationResistance,4,penetration resistance
+plant available phosphorus,plant available phosphorus,English,exact,plant available phosphorus,4,https://w3id.org/eusoilvoc#PlantAvailablePhosphorus,4,plant available phosphorus
+plant nutrient uptake,plant nutrient uptake,English,exact,plant nutrient uptake,3,https://w3id.org/eusoilvoc#PlantNutrientUptake,4,plant nutrient uptake
+pokrovnost tal,land cover,Slovenian,exact,land cover,1,https://w3id.org/eusoilvoc#LandCover,4,pokrovnost tal
+půdy,soils,Czech,variant,soil,1,https://w3id.org/eusoilvoc#Soil,4,půdy
+rakennukset,buildings,Finnish,mapped,building,2,https://w3id.org/eusoilvoc#Building,4,rakennukset
+root biomass,root biomass,English,exact,root biomass,5,https://w3id.org/eusoilvoc#RootBiomass,4,root biomass
+sodium,sodium,English,exact,sodium,4,https://w3id.org/eusoilvoc#Sodium,4,sodium
+soil aeration,soil aeration,English,exact,soil aeration,3,https://w3id.org/eusoilvoc#SoilAeration,4,soil aeration
+soil aggregates,soil aggregates,English,mapped,soil aggregate,3,https://w3id.org/eusoilvoc#SoilAggregate,4,soil aggregates
+soil available water capacity,soil available water capacity,German,exact,soil available water capacity,5,https://w3id.org/eusoilvoc#SoilAvailableWaterCapacity,4,soil available water capacity
+soil bulk density,soil bulk density,English,exact,soil bulk density,4,https://w3id.org/eusoilvoc#SoilBulkDensity,4,"soil bulk density | soil bulk density, rock fragment content, soil organic carbon stock, national soil carbon inventory, agricultural mineral soil"
+soil clay mineralogy,soil clay mineralogy,English,exact,soil clay mineralogy,4,https://w3id.org/eusoilvoc#SoilClayMineralogy,4,soil clay mineralogy
+soil crusts,soil crusts,English,exact,soil crusts,2,https://w3id.org/eusoilvoc#SoilCrusts,4,soil crusts
+soil drainage,soil drainage,English,exact,soil drainage,2,https://w3id.org/eusoilvoc#SoilDrainage,4,soil drainage | soil-drainage
+soil macrofauna,soil macrofauna,English,exact,soil macrofauna,4,https://w3id.org/eusoilvoc#SoilMacrofauna,4,soil macrofauna
+soil microorganism,soil microorganism,English,exact,soil microorganisms,3,https://w3id.org/eusoilvoc#SoilMicroorganisms,4,soil microorganism
+soil nutrient,soil nutrient,English,exact,soil nutrients,2,https://w3id.org/eusoilvoc#SoilNutrients,4,soil nutrient
+soil pore size distribution,soil pore size distribution,English,exact,soil pore size distribution,4,https://w3id.org/eusoilvoc#SoilPoreSizeDistribution,4,soil pore size distribution
+soil porosity,soil porosity,Italian,exact,soil porosity,2,https://w3id.org/eusoilvoc#SoilPorosity,4,soil porosity
+soil processes,soil processes,English,exact,soil processes,1,https://w3id.org/eusoilvoc#SoilProcesses,4,soil processes
+soil profile,soil profile,English,exact,soil profiles,3,https://w3id.org/eusoilvoc#SoilProfiles,4,soil profile
+soil transport,soil transport,English,exact,soil transport,3,https://w3id.org/eusoilvoc#SoilTransport,4,soil transport
+sous sol,subsoil,French,exact,subsoil,2,https://w3id.org/eusoilvoc#Subsoil,4,sous-sol
+stickstoff,nitrogen,de,translation,nitrogen,4,https://w3id.org/eusoilvoc#Nitrogen,4,stickstoff
+supporting services,supporting services,Spanish,exact,supporting services,2,https://w3id.org/eusoilvoc#SupportingServices,4,supporting services
+terreno,soil,Italian,exact,soil,1,https://w3id.org/eusoilvoc#Soil,4,terreno
+trace elements,trace elements,English,mapped,micronutrients,3,https://w3id.org/eusoilvoc#Micronutrients,4,trace elements
+typ půdní,soil types,Czech,exact,soil types,4,https://w3id.org/eusoilvoc#SoilTypes,4,typ půdní
+vernässungsverhältnisse,waterlogging,German,exact,waterlogging,2,https://w3id.org/eusoilvoc#Waterlogging,4,vernässungsverhältnisse | vernässungsverhältnisse
+wet plasticity,wet plasticity,English,exact,wet plasticity,5,https://w3id.org/eusoilvoc#WetPlasticity,4,wet plasticity
+zero tillage,zero tillage,English,mapped,no till,2,https://w3id.org/eusoilvoc#NoTill,4,zero tillage
+acker,arable land,German,mapped,arable soils,6,https://w3id.org/eusoilvoc#ArableSoils,3,acker
+arealanvendelse,land use,Danish,exact,land use,4,https://w3id.org/eusoilvoc#LandUse,3,arealanvendelse
+arealdække,land cover,Danish,exact,land cover,1,https://w3id.org/eusoilvoc#LandCover,3,arealdække
+arsenic,arsenic,English,exact,arsenic,4,https://w3id.org/eusoilvoc#Arsenic,3,arsenic
+ausgangsgestein,parent material,German,exact,parent material,2,https://w3id.org/eusoilvoc#ParentMaterial,3,ausgangsgestein
+bodemeenheden,soil units,Dutch,mapped,genetic soil types,5,https://w3id.org/eusoilvoc#GeneticSoilTypes,3,bodemeenheden
+bodemhorizonten,soil horizons,Dutch,exact,soil horizons,3,https://w3id.org/eusoilvoc#SoilHorizons,3,bodemhorizonten
+bodemkaart1:50 000,soil maps,Dutch,exact,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,3,bodemkaart1:50.000
+bodenabtrag,soil erosion,German,exact,soil erosion,2,https://w3id.org/eusoilvoc#SoilErosion,3,bodenabtrag
+bodenaufnahmen,soil surveys,German,exact,soil surveys,2,https://w3id.org/eusoilvoc#SoilSurveys,3,bodenaufnahmen
+bodeneinheiten,soil units,German,mapped,genetic soil types,5,https://w3id.org/eusoilvoc#GeneticSoilTypes,3,bodeneinheiten
+bodenerosion durch wind,wind erosion,German,exact,wind erosion,3,https://w3id.org/eusoilvoc#WindErosion,3,bodenerosion durch wind
+bodenkarten,soil maps,German,exact,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,3,bodenkarten
+bodenkundliche karte,soil maps,German,exact,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,3,bodenkundliche karte
+bodenkundliche kartierungen,soil mapping,German,mapped,soil surveys,2,https://w3id.org/eusoilvoc#SoilSurveys,3,bodenkundliche kartierungen | bodenkundliche-kartierungen
+bodenkundliche landesaufnahme,soil survey,German,exact,soil surveys,2,https://w3id.org/eusoilvoc#SoilSurveys,3,bodenkundliche landesaufnahme
+bodenkundliche untersuchungen,soil analysis,German,exact,soil analysis,3,https://w3id.org/eusoilvoc#SoilAnalysis,3,bodenkundliche untersuchungen | bodenkundliche-untersuchungen
+bodenprofile,soil profiles,German,exact,soil profiles,3,https://w3id.org/eusoilvoc#SoilProfiles,3,bodenprofile
+bodentiefe,soil depth,de,translation,soil depth,3,https://w3id.org/eusoilvoc#SoilDepth,3,bodentiefe
+bâtiments,buildings,French,mapped,building,2,https://w3id.org/eusoilvoc#Building,3,bâtiments | bâtiments
+c speicher,carbon storage,German,mapped,soil carbon sequestration,2,https://w3id.org/eusoilvoc#SoilCarbonSequestration,3,c-speicher
+carbonate contents,carbonate contents,English,exact,carbonate contents,5,https://w3id.org/eusoilvoc#CarbonateContents,3,carbonate contents
+carta del suolo,soil maps,Italian,exact,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,3,carta del suolo
+cell respiration,cell respiration,English,mapped,plant respiration,3,https://w3id.org/eusoilvoc#PlantRespiration,3,cell respiration
+collembola,collembola,English,exact,Collembola,5,https://w3id.org/eusoilvoc#Collembola,3,collembola
+coltivazione,cultivation,Italian,mapped,crop,3,https://w3id.org/eusoilvoc#Crop,3,coltivazione
+consumo di suolo,land take,Italian,exact,land take,3,https://w3id.org/eusoilvoc#LandTake,3,consumo-di-suolo
+contaminated soils,contaminated soils,English,mapped,polluted soils,6,https://w3id.org/eusoilvoc#PollutedSoils,3,contaminated soils
+crop biomass,crop biomass,English,mapped,biomass,4,https://w3id.org/eusoilvoc#Biomass,3,crop biomass
+cropping,cropping,English,mapped,crop,3,https://w3id.org/eusoilvoc#Crop,3,cropping
+cultivation,cultivation,English,mapped,crop,3,https://w3id.org/eusoilvoc#Crop,3,cultivation
+cultivo,cultivation,Spanish,mapped,crop,3,https://w3id.org/eusoilvoc#Crop,3,cultivo
+edificios,buildings,Spanish,mapped,building,2,https://w3id.org/eusoilvoc#Building,3,edificios
+ekosystemtjänster,ecosystem services,Swedish,exact,ecosystem services,1,https://w3id.org/eusoilvoc#EcosystemServices,3,ekosystemtjänster
+fieldcapacity,field capacity,English,mapped,soil field moisture capacity,3,https://w3id.org/eusoilvoc#SoilFieldMoistureCapacity,3,fieldcapacity
+flood,flood,English,exact,floods,3,https://w3id.org/eusoilvoc#Floods,3,flood
+flooding,flooding,English,mapped,inundation,2,https://w3id.org/eusoilvoc#Inundation,3,flooding
+flächennutzung,land use,German,exact,land use,4,https://w3id.org/eusoilvoc#LandUse,3,flächennutzung
+forurenset grunn,soil pollution,Norwegian,exact,soil pollution,2,https://w3id.org/eusoilvoc#SoilPollution,3,forurenset grunn
+gesättigte wasserleitfähigkeit,saturated hydraulic conductivity,German,exact,saturated hydraulic conductivity,5,https://w3id.org/eusoilvoc#SaturatedHydraulicConductivity,3,gesättigte-wasserleitfähigkeit
+gravel,gravel,English,exact,gravel,3,https://w3id.org/eusoilvoc#Gravel,3,gravel
+ground cover,ground cover,English,exact,ground cover,2,https://w3id.org/eusoilvoc#GroundCover,3,ground cover
+groundwater reproduction,groundwater reproduction,English,exact,groundwater reproduction,3,https://w3id.org/eusoilvoc#GroundwaterReproduction,3,groundwater reproduction
+gründigkeit,soil depth,German,exact,soil depth,3,https://w3id.org/eusoilvoc#SoilDepth,3,gründigkeit
+horizonte,soil horizons,German,exact,soil horizons,3,https://w3id.org/eusoilvoc#SoilHorizons,3,horizonte
+jordhälsa,soil health,Swedish,exact,soil health,1,https://w3id.org/eusoilvoc#SoilHealth,3,jordhälsa
+kak,cation exchange capacity,German,exact,cation exchange capacity,5,https://w3id.org/eusoilvoc#CationExchangeCapacity,3,kak
+kationenaustauschkapazität,cation exchange capacity,de,translation,cation exchange capacity,5,https://w3id.org/eusoilvoc#CationExchangeCapacity,3,kationenaustauschkapazität | kationenaustauschkapazität
+kationenaustauschverhältnisse,cation exchange,German,exact,cation exchange,4,https://w3id.org/eusoilvoc#CationExchange,3,kationenaustauschverhältnisse
+klima,climate,de,translation,climate,2,https://w3id.org/eusoilvoc#Climate,3,"klima | tla, biologija tal, trajnostno kmetijstvo, monitoring, kakovost tal, klima"
+kohlenstoffspeicher,carbon pools,de,translation,carbon pools,2,https://w3id.org/eusoilvoc#CarbonPools,3,kohlenstoffspeicher
+landbedeckung,land cover,de,translation,land cover,1,https://w3id.org/eusoilvoc#LandCover,3,landbedeckung
+lead,lead,English,exact,lead,4,https://w3id.org/eusoilvoc#Lead,3,lead
+liming,liming,English,exact,liming,2,https://w3id.org/eusoilvoc#Liming,3,"greenhouse gas emissions, soil acidification, liming, nitrification, denitrification, biological drivers | liming"
+lithologyvalue,lithology,English,exact,lithology,2,https://w3id.org/eusoilvoc#Lithology,3,lithologyvalue
+markhälsa,soil health,Swedish,exact,soil health,1,https://w3id.org/eusoilvoc#SoilHealth,3,markhälsa
+mercury,mercury,English,exact,mercury,4,https://w3id.org/eusoilvoc#Mercury,3,mercury
+mineral particles,mineral particles,English,exact,mineral particles,4,https://w3id.org/eusoilvoc#MineralParticles,3,mineral particles
+nutrient dynamics,nutrient dynamics,English,exact,nutrient dynamics,2,https://w3id.org/eusoilvoc#NutrientDynamics,3,nutrient dynamics
+organic amendment,organic amendment,English,exact,organic amendments,3,https://w3id.org/eusoilvoc#OrganicAmendments,3,organic amendment
+peat soils,peat soils,English,exact,peat soils,6,https://w3id.org/eusoilvoc#PeatSoils,3,peat soils
+pedogenese,soil formation,"de,fr",translation,soil formation,3,https://w3id.org/eusoilvoc#SoilFormation,3,pedogenese
+phosphor,phosphor,English,mapped,phosphorus,4,https://w3id.org/eusoilvoc#Phosphorus,3,phosphor
+phosphorus retention,phosphorus retention,English,exact,phosphorus retention,5,https://w3id.org/eusoilvoc#PhosphorusRetention,3,phosphorus retention
+plant respiration,plant respiration,English,exact,plant respiration,3,https://w3id.org/eusoilvoc#PlantRespiration,3,plant respiration
+processi del suolo,soil processes,it,translation,soil processes,1,https://w3id.org/eusoilvoc#SoilProcesses,3,processi del suolo | processi-del-suolo
+pôda,soil,Slovak,exact,soil,1,https://w3id.org/eusoilvoc#Soil,3,pôda
+regim de utilizare a solului,land use,Romanian,exact,land use,4,https://w3id.org/eusoilvoc#LandUse,3,regim de utilizare a solului
+rendement des cultures,crop yield,fr,translation,crop yield,3,https://w3id.org/eusoilvoc#CropYield,3,rendement des cultures
+sandy soils,sandy soils,English,exact,sandy soils,6,https://w3id.org/eusoilvoc#SandySoils,3,sandy soils
+soil amendment,soil amendment,English,exact,soil amendments,2,https://w3id.org/eusoilvoc#SoilAmendments,3,soil amendment
+soil carbon density,soil carbon density,English,exact,soil carbon density,5,https://w3id.org/eusoilvoc#SoilCarbonDensity,3,soil carbon density
+soil components,soil components,English,exact,soil components,2,https://w3id.org/eusoilvoc#SoilComponents,3,soil components
+soil desertification,soil desertification,English,exact,soil desertification,3,https://w3id.org/eusoilvoc#SoilDesertification,3,soil desertification
+soil flocculation,soil flocculation,English,exact,soil flocculation,3,https://w3id.org/eusoilvoc#SoilFlocculation,3,soil flocculation
+soil mapping,soil mapping,English,mapped,soil surveys,2,https://w3id.org/eusoilvoc#SoilSurveys,3,soil mapping
+soil matric potential,soil matric potential,English,exact,soil matric potential,4,https://w3id.org/eusoilvoc#SoilMatricPotential,3,"soil matric potential | soil matric potential, soil water availability, drought, minimum agriculture, minimum tillage, conventional tillage, soil penetration resistance"
+soil mechanics,soil mechanics,English,exact,soil mechanics,2,https://w3id.org/eusoilvoc#SoilMechanics,3,soil mechanics
+soil microbiota,soil microbiota,English,mapped,soil microfauna,4,https://w3id.org/eusoilvoc#SoilMicrofauna,3,soil microbiota
+soil phosphorus loss,soil phosphorus loss,English,exact,soil phosphorus loss,3,https://w3id.org/eusoilvoc#SoilPLoss,3,soil phosphorus loss
+soil pore heterogeneity,soil pore heterogeneity,English,exact,soil pore heterogeneity,5,https://w3id.org/eusoilvoc#SoilPoreHeterogeneity,3,soil pore heterogeneity
+soil property,soil property,English,exact,soil properties,1,https://w3id.org/eusoilvoc#SoilProperties,3,soil property
+soil redox potential,soil redox potential,English,exact,soil redox potential,4,https://w3id.org/eusoilvoc#SoilRedoxPotential,3,soil redox potential
+soil survey,soil survey,English,exact,soil surveys,2,https://w3id.org/eusoilvoc#SoilSurveys,3,soil survey
+soil tillage,soil tillage,English,exact,soil tillage,2,https://w3id.org/eusoilvoc#SoilTillage,3,soil tillage
+soil water balance,soil water balance,English,exact,soil water balance,4,https://w3id.org/eusoilvoc#SoilWaterBalance,3,soil water balance
+soil water characteristics,soil water characteristics,English,exact,soil water characteristics,4,https://w3id.org/eusoilvoc#SoilWaterCharacteristics,3,soil water characteristics
+soil water potential,soil water potential,English,exact,soil water potential,3,https://w3id.org/eusoilvoc#SoilWaterPotential,3,soil water potential
+soiltype,soil type,English,exact,soil types,4,https://w3id.org/eusoilvoc#SoilTypes,3,soiltype
+staunässe,waterlogging,German,exact,waterlogging,2,https://w3id.org/eusoilvoc#Waterlogging,3,staunässe
+strade,roads,Italian,variant,road,3,https://w3id.org/eusoilvoc#Road,3,strade
+termites,termites,English,exact,termites,5,https://w3id.org/eusoilvoc#Termites,3,termites
+textura solului,soil texture,Romanian,exact,soil texture,3,https://w3id.org/eusoilvoc#SoilTexture,3,textura solului
+textuur,soil texture,Dutch,exact,soil texture,3,https://w3id.org/eusoilvoc#SoilTexture,3,textuur
+tipuri de soluri,soil types,Romanian,exact,soil types,4,https://w3id.org/eusoilvoc#SoilTypes,3,tipuri de soluri
+tree,tree,English,exact,trees,4,https://w3id.org/eusoilvoc#Trees,3,tree
+untergrund,subsoil,German,exact,subsoil,2,https://w3id.org/eusoilvoc#Subsoil,3,untergrund
+uso do solo,land use,Portuguese,exact,land use,4,https://w3id.org/eusoilvoc#LandUse,3,uso do solo
+utilisation des terres,land use,fr,translation,land use,4,https://w3id.org/eusoilvoc#LandUse,3,utilisation des terres
+viabilità,roads,Italian,variant,road,3,https://w3id.org/eusoilvoc#Road,3,viabilità | viabilità
+ökosystemleistung,ecosystem services,German,exact,ecosystem services,1,https://w3id.org/eusoilvoc#EcosystemServices,3,ökosystemleistung
+alkaline soils,alkaline soils,English,exact,alkaline soils,6,https://w3id.org/eusoilvoc#AlkalineSoils,2,"alkaline soils | sodic soils, alkaline soils, saline soil classification, seawater intrusion, sodicity bioremediation, leaching and drainage, agronomical practices, microbial management"
+alluvione,inundation,it,translation,inundation,2,https://w3id.org/eusoilvoc#Inundation,2,alluvione
+alluvioni,floods,Italian,exact,floods,3,https://w3id.org/eusoilvoc#Floods,2,alluvioni
+aluminum,aluminum,English,mapped,aluminium,4,https://w3id.org/eusoilvoc#Aluminium,2,aluminum
+arbres,trees,French,exact,trees,4,https://w3id.org/eusoilvoc#Trees,2,arbres
+arid soils,arid soils,Catalan,exact,arid soils,6,https://w3id.org/eusoilvoc#AridSoils,2,arid soils
+ausgangsmaterial,parent material,de,translation,parent material,2,https://w3id.org/eusoilvoc#ParentMaterial,2,ausgangsmaterial
+baum,trees,de,translation,trees,4,https://w3id.org/eusoilvoc#Trees,2,baum
+biocrust,biocrust,English,variant,soil biological crusts,3,https://w3id.org/eusoilvoc#SoilBiologicalCrusts,2,biocrust
+biomasa,biomass,es,translation,biomass,4,https://w3id.org/eusoilvoc#Biomass,2,biomasa
+bioturbation,bioturbation,English,exact,bioturbation,3,https://w3id.org/eusoilvoc#Bioturbation,2,bioturbation
+bodemkaarten,soil maps,Dutch,exact,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,2,bodemkaarten
+bodenanalysen,soil analysis,German,exact,soil analysis,3,https://w3id.org/eusoilvoc#SoilAnalysis,2,bodenanalysen
+bodenaufbau,soil structure,German,exact,soil structure,3,https://w3id.org/eusoilvoc#SoilStructure,2,bodenaufbau
+bodeninformation,soil information,German,exact,soil information,2,https://w3id.org/eusoilvoc#SoilInformation,2,bodeninformation
+bodenkartierungen,soil mapping,German,mapped,soil surveys,2,https://w3id.org/eusoilvoc#SoilSurveys,2,bodenkartierungen
+bodenkundliche übersichtskarte,soil maps,German,exact,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,2,bodenkundliche übersichtskarte
+bodenmikroorganismus,soil microfauna,de,translation,soil microfauna,4,https://w3id.org/eusoilvoc#SoilMicrofauna,2,bodenmikroorganismus
+bodenproben,soil samples,German,mapped,soil sampling,3,https://w3id.org/eusoilvoc#SoilSampling,2,bodenproben
+bâtiment,building,fr,translation,building,2,https://w3id.org/eusoilvoc#Building,2,bâtiment
+bäume,trees,German,exact,trees,4,https://w3id.org/eusoilvoc#Trees,2,bäume | bäume
+calitatea solurilor,soil quality,Romanian,exact,soil quality,2,https://w3id.org/eusoilvoc#SoilQuality,2,calitatea solurilor
+carbon sink,carbon sink,English,variant,carbon pools,2,https://w3id.org/eusoilvoc#CarbonPools,2,carbon sink
+carbon sinks,carbon sinks,English,mapped,carbon pools,2,https://w3id.org/eusoilvoc#CarbonPools,2,carbon sinks
+carbon stocks,carbon stocks,English,mapped,carbon pools,2,https://w3id.org/eusoilvoc#CarbonPools,2,carbon stocks
+carbonates,carbonates,English,variant,carbonate,4,https://w3id.org/eusoilvoc#Carbonate,2,carbonates
+carta dei suoli,soil maps,Italian,exact,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,2,carta dei suoli
+cartographie numérique des sols,digital soil mapping,French,exact,digital soil mapping,3,https://w3id.org/eusoilvoc#DigitalSoilMapping,2,cartographie numérique des sols
+clay soils,clay soils,English,exact,clay soils,6,https://w3id.org/eusoilvoc#ClaySoils,2,clay soils
+cobertura del suelo,land cover,es,translation,land cover,1,https://w3id.org/eusoilvoc#LandCover,2,cobertura del suelo
+colluvium,colluvium,English,exact,colluvium,3,https://w3id.org/eusoilvoc#Colluvium,2,colluvium
+colture,crops,Italian,mapped,crop,3,https://w3id.org/eusoilvoc#Crop,2,colture
+corg,soil organic carbon,de,translation,soil organic carbon,4,https://w3id.org/eusoilvoc#SoilOrganicCarbon,2,corg
+crop residue mulch,crop residue mulch,English,exact,crop residue mulch,3,https://w3id.org/eusoilvoc#CropResidueMulch,2,crop residue mulch
+deep ploughing,deep ploughing,English,exact,deep ploughing,4,https://w3id.org/eusoilvoc#DeepPloughing,2,deep ploughing
+degradació dels sòls,soil degradation,Catalan,exact,soil degradation,2,https://w3id.org/eusoilvoc#SoilDegradation,2,degradació dels sòls
+dinitrogen,dinitrogen,English,mapped,nitrogen,4,https://w3id.org/eusoilvoc#Nitrogen,2,dinitrogen
+dušik,nitrogen,Croatian,exact,nitrogen,4,https://w3id.org/eusoilvoc#Nitrogen,2,"dušik | ohranitveno kmetijstvo, sonaravno kmetijstvo, kompost, dušik, nitrifikacija, denitrifikacija"
+edifici,buildings,Italian,mapped,building,2,https://w3id.org/eusoilvoc#Building,2,edifici
+environmental conditions,environmental conditions,English,mapped,environmental factors,3,https://w3id.org/eusoilvoc#EnvironmentalFactors,2,environmental conditions
+erosie,erosion,Dutch,mapped,soil erosion,2,https://w3id.org/eusoilvoc#SoilErosion,2,erosie
+erosiebeheersing,erosion control,Dutch,exact,erosion control,3,https://w3id.org/eusoilvoc#ErosionControl,2,erosiebeheersing
+eroziunea solurilor,soil erosion,Romanian,exact,soil erosion,2,https://w3id.org/eusoilvoc#SoilErosion,2,eroziunea solurilor
+fertilitate a solului,soil fertility,Romanian,mapped,soil productivity,2,https://w3id.org/eusoilvoc#SoilProductivity,2,fertilitate a solului
+foreste e uso del suolo,land use forests,it,translation,land use forests,5,https://w3id.org/eusoilvoc#LandUseForests,2,foreste e uso del suolo | foreste-e-uso-del-suolo
+gewassen,crops,Dutch,mapped,crop,3,https://w3id.org/eusoilvoc#Crop,2,"bodem, sociaaleconomisch, biodiversiteit, beheer, systemen,  gewassen, pedoklimatologisch, case studies, productie,  agrovoeding | bodem, sociaaleconomisch, biodiversiteit, beheer, systemen, gewassen, pedoklimatologisch, case studies, productie, agrovoeding"
+gras,grass,German,exact,grasses,4,https://w3id.org/eusoilvoc#Grasses,2,gras
+grobbodenarten,coarse fragments,German,exact,coarse fragments,4,https://w3id.org/eusoilvoc#CoarseFragments,2,grobbodenarten
+grunnforurensning,soil pollution,Norwegian,exact,soil pollution,2,https://w3id.org/eusoilvoc#SoilPollution,2,grunnforurensning
+hail,hail,English,exact,hail,4,https://w3id.org/eusoilvoc#Hail,2,hail
+hartă a solurilor,soil maps,Romanian,exact,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,2,hartă a solurilor
+huumus,humus,Estonian,exact,humus,5,https://w3id.org/eusoilvoc#Humus,2,huumus
+inspire lcv,land cover,German,exact,land cover,1,https://w3id.org/eusoilvoc#LandCover,2,inspire lcv
+klei,clay,nl,translation,clay,4,https://w3id.org/eusoilvoc#Clay,2,klei
+koolstofvoorraad,carbon stock,Dutch,variant,carbon pools,2,https://w3id.org/eusoilvoc#CarbonPools,2,koolstofvoorraad
+landnutzung,land use,de,translation,land use,4,https://w3id.org/eusoilvoc#LandUse,2,landnutzung
+lesní půda,forest soils,Czech,exact,forest soils,6,https://w3id.org/eusoilvoc#ForestSoils,2,lesní půda
+loam soil,loam soil,English,exact,loam soils,6,https://w3id.org/eusoilvoc#LoamSoils,2,loam soil
+losses from soil,losses from soil,English,exact,losses from soil,2,https://w3id.org/eusoilvoc#LossesFromSoil,2,losses from soil
+lõimis,soil texture,Estonian,exact,soil texture,3,https://w3id.org/eusoilvoc#SoilTexture,2,lõimis | lõimis
+maakasutus,land use,Estonian,exact,land use,4,https://w3id.org/eusoilvoc#LandUse,2,maakasutus
+maakate,land cover,Estonian,exact,land cover,1,https://w3id.org/eusoilvoc#LandCover,2,maakate
+markanvändning,land use,Swedish,exact,land use,4,https://w3id.org/eusoilvoc#LandUse,2,markanvändning
+mediterranean soil,mediterranean soil,English,variant,xeric soils,6,https://w3id.org/eusoilvoc#XericSoils,2,mediterranean soil
+mineral concentration,mineral concentration,English,exact,mineral concentration,4,https://w3id.org/eusoilvoc#MineralConcentration,2,mineral concentration
+mullalõimis,soil texture,Estonian,exact,soil texture,3,https://w3id.org/eusoilvoc#SoilTexture,2,mullalõimis | mullalõimis
+mullastikukaart,soil maps,Estonian,exact,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,2,mullastikukaart
+nitrogen losses,nitrogen losses,English,mapped,soil nitrogen loss,3,https://w3id.org/eusoilvoc#SoilNLoss,2,nitrogen losses
+ocupações de solo,land cover,Portuguese,exact,land cover,1,https://w3id.org/eusoilvoc#LandCover,2,ocupações de solo
+parent deposition,parent deposition,English,exact,parent deposition,3,https://w3id.org/eusoilvoc#ParentDeposition,2,parent deposition
+parent material,parent material,English,exact,parent material,2,https://w3id.org/eusoilvoc#ParentMaterial,2,parent material
+particle size fraction sum,particle size fraction sum,English,exact,particle size fraction sum,5,https://w3id.org/eusoilvoc#ParticleSizeFractionSum,2,particle size fraction sum
+peat soil,peat soil,English,exact,peat soils,6,https://w3id.org/eusoilvoc#PeatSoils,2,peat soil
+pedoloska karta,soil maps,Slovenian,exact,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,2,pedoloska karta
+pf curve,pf curve,English,exact,pF curve,5,https://w3id.org/eusoilvoc#pFcurve,2,pF curve | pf-curve
+plant transpiration,plant transpiration,English,mapped,transpiration,3,https://w3id.org/eusoilvoc#Transpiration,2,plant transpiration
+propriété physicochimique du sol,soil physical properties,fr,translation,soil physical properties,3,https://w3id.org/eusoilvoc#SoilPhysicalProperties,2,propriété physicochimique du sol
+pôdne typy,soil types,Slovak,exact,soil types,4,https://w3id.org/eusoilvoc#SoilTypes,2,pôdne typy
+põllukultuurid,crops,Estonian,mapped,crop,3,https://w3id.org/eusoilvoc#Crop,2,põllukultuurid
+põllumaa,arable land,Estonian,mapped,arable soils,6,https://w3id.org/eusoilvoc#ArableSoils,2,põllumaa
+química de suelos,soil chemistry,Spanish,exact,soil chemistry,2,https://w3id.org/eusoilvoc#SoilChemistry,2,química de suelos
+racine,roots,fr,translation,roots,4,https://w3id.org/eusoilvoc#Roots,2,racine
+revised universal soil loss equation,revised universal soil loss equation,English,exact,Revised Universal Soil Loss Equation,3,https://w3id.org/eusoilvoc#RevisedUniversalSoilLossEquation,2,revised universal soil loss equation | revised universal soil loss equation (rusle)
+rhizosphère,rhizosphère,English,accents,rhizosphere,2,https://w3id.org/eusoilvoc#Rhizosphere,2,rhizosphère
+road,road,English,exact,road,3,https://w3id.org/eusoilvoc#Road,2,road
+sandy soil,sandy soil,English,exact,sandy soils,6,https://w3id.org/eusoilvoc#SandySoils,2,sandy soil
+seedling emergence,seedling emergence,Italian,exact,seedling emergence,3,https://w3id.org/eusoilvoc#SeedlingEmergence,2,seedling emergence
+semiarid soil,semiarid soil,English,variant,semi-arid soils,6,https://w3id.org/eusoilvoc#SemiAridSoils,2,"cyanobacteria liquid culture, sand inoculation, sandy soil microcosms, eps monosaccharidic composition, eps molecular weight distribution, semiarid soil | semiarid soil"
+sodic soils,sodic soils,English,exact,sodic soils,6,https://w3id.org/eusoilvoc#SodicSoils,2,"sodic soils | sodic soils, alkaline soils, saline soil classification, seawater intrusion, sodicity bioremediation, leaching and drainage, agronomical practices, microbial management"
+soil biological processes,soil biological processes,English,exact,soil biological processes,2,https://w3id.org/eusoilvoc#SoilBiologicalProcesses,2,soil biological processes
+soil charge properties,soil charge properties,English,exact,soil charge properties,4,https://w3id.org/eusoilvoc#SoilChargeProperties,2,soil charge properties
+soil chemical processes,soil chemical processes,English,exact,soil chemical processes,2,https://w3id.org/eusoilvoc#SoilChemicalProcesses,2,soil chemical processes
+soil clay contents,soil clay contents,English,exact,soil clay contents,5,https://w3id.org/eusoilvoc#SoilClayContents,2,soil clay contents
+soil contents,soil contents,English,exact,soil contents,4,https://w3id.org/eusoilvoc#SoilContents,2,soil contents
+soil desiccation,soil desiccation,English,exact,soil desiccation,5,https://w3id.org/eusoilvoc#SoilDesiccation,2,soil desiccation
+soil erodibility,soil erodibility,English,exact,soil erodibility,4,https://w3id.org/eusoilvoc#SoilErodibility,2,soil erodibility
+soil gas,soil gas,English,exact,soil gas,3,https://w3id.org/eusoilvoc#SoilGas,2,soil gas
+soil gaseous emission,soil gaseous emission,English,exact,soil gaseous emission,3,https://w3id.org/eusoilvoc#SoilGaseousEmission,2,soil gaseous emission
+soil gravel contents,soil gravel contents,English,exact,soil gravel contents,5,https://w3id.org/eusoilvoc#SoilGravelContents,2,soil gravel contents
+soil horizons,soil horizons,English,exact,soil horizons,3,https://w3id.org/eusoilvoc#SoilHorizons,2,soil horizons
+soil information,soil information,English,exact,soil information,2,https://w3id.org/eusoilvoc#SoilInformation,2,soil information
+soil inorganic carbon,soil inorganic carbon,English,exact,soil inorganic carbon,3,https://w3id.org/eusoilvoc#SoilInorganicCarbon,2,soil inorganic carbon
+soil liquid,soil liquid,English,exact,soil liquid,3,https://w3id.org/eusoilvoc#SoilLiquid,2,soil liquid
+soil location,soil location,English,exact,soil location,3,https://w3id.org/eusoilvoc#SoilLocation,2,soil location
+soil loss,soil loss,English,exact,soil denudation,2,https://w3id.org/eusoilvoc#SoilDenudation,2,soil loss
+soil maps,soil maps,English,exact,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,2,soil maps
+soil morphology,soil morphology,English,exact,soil morphology,2,https://w3id.org/eusoilvoc#SoilMorphology,2,"soil morphology | soil morphology, x-ray computed tomography, wheat cultivars, root traits"
+soil particle size distribution,soil particle size distribution,English,exact,soil particle size distribution,5,https://w3id.org/eusoilvoc#SoilParticleSizeDistribution,2,soil particle size distribution
+soil permeability,soil permeability,English,exact,soil permeability,2,https://w3id.org/eusoilvoc#SoilPermeability,2,soil permeability
+soil solution,soil solution,English,exact,soil solution,3,https://w3id.org/eusoilvoc#SoilSolution,2,soil solution
+soil stabilization,soil stabilization,English,exact,soil stabilization,3,https://w3id.org/eusoilvoc#SoilStabilization,2,soil stabilization
+soil surface properties,soil surface properties,English,exact,soil surface properties,2,https://w3id.org/eusoilvoc#SoilSurfaceProperties,2,soil surface properties
+soil vapour pressure,soil vapour pressure,English,exact,soil vapour pressure,4,https://w3id.org/eusoilvoc#SoilVapourPressure,2,soil vapour pressure
+soil water holding capacity,soil water holding capacity,English,exact,soil water holding capacity,5,https://w3id.org/eusoilvoc#SoilWaterHoldingCapacity,2,soil water holding capacity
+soil water transport,soil water transport,English,exact,soil water transport,5,https://w3id.org/eusoilvoc#SoilWaterTransport,2,soil water transport
+springtails,springtails,English,mapped,Collembola,5,https://w3id.org/eusoilvoc#Collembola,2,springtails
+strada,road,it,translation,road,3,https://w3id.org/eusoilvoc#Road,2,strada
+sòls àrids,arid soils,Catalan,exact,arid soils,6,https://w3id.org/eusoilvoc#AridSoils,2,sòls àrids
+teelt,cultivation,Dutch,mapped,crop,3,https://w3id.org/eusoilvoc#Crop,2,teelt
+tillage erosion,tillage erosion,English,exact,tillage erosion,3,https://w3id.org/eusoilvoc#TillageErosion,2,tillage erosion
+tip de sol,soil type,Romanian,exact,soil types,4,https://w3id.org/eusoilvoc#SoilTypes,2,tip de sol
+utilización del terreno,land use,Spanish,exact,land use,4,https://w3id.org/eusoilvoc#LandUse,2,utilización del terreno
+veen,peat,Dutch,exact,peat,4,https://w3id.org/eusoilvoc#Peat,2,veen
+využití území,land use,Czech,exact,land use,4,https://w3id.org/eusoilvoc#LandUse,2,využití území
+végétation,végétation,French,accents,vegetation,3,https://w3id.org/eusoilvoc#Vegetation,2,végétation
+waste disposal,waste disposal,English,exact,waste disposal,3,https://w3id.org/eusoilvoc#WasteDisposal,2,"waste disposal | waste disposal, fluid"
+water regulation,water regulation,English,exact,water regulation,2,https://w3id.org/eusoilvoc#WaterRegulation,2,water regulation
+watererosie,water erosion,Dutch,exact,water erosion,3,https://w3id.org/eusoilvoc#WaterErosion,2,watererosie
+weather conditions,weather conditions,English,mapped,weather,2,https://w3id.org/eusoilvoc#Weather,2,weather conditions
+árboles,trees,Spanish,exact,trees,4,https://w3id.org/eusoilvoc#Trees,2,árboles
+土壤保持,soil conservation,Chinese,exact,soil conservation,2,https://w3id.org/eusoilvoc#SoilConservation,2,土壤保持
+acid soil,acid soil,English,exact,acid soils,6,https://w3id.org/eusoilvoc#AcidSoils,1,acid soil
+acid sulfate soil,acid sulfate soil,English,variant,acid sulphate soils,6,https://w3id.org/eusoilvoc#AcidSulphateSoils,1,acid sulfate soil
+acid sulfate soils,acid sulfate soils,English,mapped,acid sulphate soils,6,https://w3id.org/eusoilvoc#AcidSulphateSoils,1,acid sulfate soils
+acidifiere a solului,soil acidification,Romanian,exact,soil acidification,2,https://w3id.org/eusoilvoc#SoilAcidification,1,acidifiere a solului
+acidifikácia pôd,soil acidification,Slovak,exact,soil acidification,2,https://w3id.org/eusoilvoc#SoilAcidification,1,acidifikácia pôd
+acoperire a terenului,land cover,Romanian,exact,land cover,1,https://w3id.org/eusoilvoc#LandCover,1,acoperire a terenului
+acoperire terestră,land cover,Romanian,exact,land cover,1,https://w3id.org/eusoilvoc#LandCover,1,acoperire terestră
+agricultural sustainability,agricultural sustainability,English,exact,agricultural sustainability,3,https://w3id.org/eusoilvoc#AgriculturalSustainability,1,agricultural sustainability
+ah horizont,a horizons,German,exact,A horizons,4,https://w3id.org/eusoilvoc#AHorizons,1,ah-horizont
+allagamento,flooding,Italian,mapped,inundation,2,https://w3id.org/eusoilvoc#Inundation,1,allagamento
+anàlisi dels sòls,soil analysis,Catalan,exact,soil analysis,3,https://w3id.org/eusoilvoc#SoilAnalysis,1,anàlisi dels sòls
+apă din sol,soil water,Romanian,exact,soil water,3,https://w3id.org/eusoilvoc#SoilWater,1,apă din sol
+argile,clay,fr,translation,clay,4,https://w3id.org/eusoilvoc#Clay,1,argile
+artificializzazione,land take,Italian,exact,land take,3,https://w3id.org/eusoilvoc#LandTake,1,artificializzazione
+available water holding capacity,available water holding capacity,English,exact,available water holding capacity,6,https://w3id.org/eusoilvoc#AvailableWaterHoldingCapacity,1,available water holding capacity
+azote,nitrogen,fr,translation,nitrogen,4,https://w3id.org/eusoilvoc#Nitrogen,1,azote
+azoto,nitrogen,"it,pt",translation,nitrogen,4,https://w3id.org/eusoilvoc#Nitrogen,1,azoto
+bark mulches,bark mulches,English,exact,bark mulches,4,https://w3id.org/eusoilvoc#BarkMulches,1,bark mulches
+biologia dels sòls,soil biology,Catalan,exact,soil biology,2,https://w3id.org/eusoilvoc#SoilBiology,1,biologia dels sòls
+biological activity in soil,biological activity in soil,English,exact,biological activity in soil,3,https://w3id.org/eusoilvoc#SoilBiologicalActivity,1,biological activity in soil
+biological features,biological features,English,exact,biological features,3,https://w3id.org/eusoilvoc#BiologicalFeatures,1,biological features
+biomassa,biomass,"it,nl,pt",translation,biomass,4,https://w3id.org/eusoilvoc#Biomass,1,biomassa
+biomasse,biomass,"de,fr",translation,biomass,4,https://w3id.org/eusoilvoc#Biomass,1,biomasse
+bodemclassificaties,soil classification,Dutch,exact,soil classification,6,https://w3id.org/eusoilvoc#SoilClassification,1,bodemclassificaties
+bodemeenheid,soil unit,Dutch,variant,genetic soil types,5,https://w3id.org/eusoilvoc#GeneticSoilTypes,1,bodemeenheid
+bodemmonster,soil samples,Dutch,mapped,soil sampling,3,https://w3id.org/eusoilvoc#SoilSampling,1,bodemmonster
+bodemopbouw,soil structure,Dutch,exact,soil structure,3,https://w3id.org/eusoilvoc#SoilStructure,1,bodemopbouw
+bodemtypes,soil types,Dutch,exact,soil types,4,https://w3id.org/eusoilvoc#SoilTypes,1,bodemtypes
+bodenlösung,soil solution,de,translation,soil solution,3,https://w3id.org/eusoilvoc#SoilSolution,1,bodenlösung
+bodenprobe,soil samples,German,mapped,soil sampling,3,https://w3id.org/eusoilvoc#SoilSampling,1,bodenprobe
+bodenressourcen,soil resources,German,exact,soil resources,2,https://w3id.org/eusoilvoc#SoilResources,1,bodenressourcen
+bodenstandort,soil location,de,translation,soil location,3,https://w3id.org/eusoilvoc#SoilLocation,1,bodenstandort
+bodenversiegelung,soil sealing,de,translation,soil sealing,2,https://w3id.org/eusoilvoc#SoilSealing,1,bodenversiegelung
+calcareous soils,calcareous soils,English,exact,calcareous soils,6,https://w3id.org/eusoilvoc#CalcareousSoils,1,calcareous soils
+carbon pools,carbon pools,English,exact,carbon pools,2,https://w3id.org/eusoilvoc#CarbonPools,1,carbon pools
+carbono orgánico del suelo,soil organic carbon,es,translation,soil organic carbon,4,https://w3id.org/eusoilvoc#SoilOrganicCarbon,1,carbono orgánico del suelo
+carta de solos,soil maps,Portuguese,exact,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,1,carta de solos
+cartas de solos,soil maps,Portuguese,exact,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,1,cartas de solos
+carte pédologique,soil maps,French,exact,soil maps,3,https://w3id.org/eusoilvoc#SoilMaps,1,carte pédologique
+cartographie numérique du sol,digital soil mapping,French,exact,digital soil mapping,3,https://w3id.org/eusoilvoc#DigitalSoilMapping,1,cartographie numérique du sol
+cation exchange,cation exchange,English,exact,cation exchange,4,https://w3id.org/eusoilvoc#CationExchange,1,cation exchange
+cedimenti,subsidence,Italian,mapped,soil subsidence,4,https://w3id.org/eusoilvoc#SoilSubsidence,1,cedimenti
+chimie a solului,soil chemistry,Romanian,exact,soil chemistry,2,https://w3id.org/eusoilvoc#SoilChemistry,1,chimie a solului
+clădiri,buildings,Romanian,mapped,building,2,https://w3id.org/eusoilvoc#Building,1,clădiri
+coarse fragments,coarse fragments,English,exact,coarse fragments,4,https://w3id.org/eusoilvoc#CoarseFragments,1,coarse fragments
+colamenti,mudflows,Italian,mapped,mud flows,4,https://w3id.org/eusoilvoc#MudFlows,1,colamenti
+compactare a solului,soil compaction,Romanian,exact,soil compaction,2,https://w3id.org/eusoilvoc#SoilCompaction,1,compactare a solului
+conservación del suelo,soil conservation,Spanish,exact,soil conservation,2,https://w3id.org/eusoilvoc#SoilConservation,1,conservación del suelo
+conservação do solo,soil conservation,Portuguese,exact,soil conservation,2,https://w3id.org/eusoilvoc#SoilConservation,1,conservação do solo
+contaminación del suelo,soil pollution,es,translation,soil pollution,2,https://w3id.org/eusoilvoc#SoilPollution,1,contaminación del suelo
+contaminated soil,contaminated soil,English,variant,polluted soils,6,https://w3id.org/eusoilvoc#PollutedSoils,1,contaminated soil
+cromo,chromium,Italian,exact,chromium,4,https://w3id.org/eusoilvoc#Chromium,1,cromo
+deep tillage,deep tillage,English,exact,deep tillage,3,https://w3id.org/eusoilvoc#DeepTillage,1,deep-tillage
+degradação do solo,soil degradation,pt,translation,soil degradation,2,https://w3id.org/eusoilvoc#SoilDegradation,1,degradação do solo
+degree of saturation,degree of saturation,English,exact,degree of saturation,3,https://w3id.org/eusoilvoc#DegreeOfSaturation,1,degree of saturation
+dry consistency,dry consistency,English,exact,dry consistency,5,https://w3id.org/eusoilvoc#DryConsistency,1,dry consistency
+edaphic factors,edaphic factors,English,exact,edaphic factors,2,https://w3id.org/eusoilvoc#EdaphicFactors,1,edaphic factors
+ekosystémové služby,ecosystem services,Slovak,exact,ecosystem services,1,https://w3id.org/eusoilvoc#EcosystemServices,1,ekosystémové služby
+elinympäristöt,habitats,Finnish,exact,habitats,2,https://w3id.org/eusoilvoc#Habitats,1,elinympäristöt (habitaatit)
+emergenza,seedling emergence,it,translation,seedling emergence,3,https://w3id.org/eusoilvoc#SeedlingEmergence,1,emergenza
+enmiendas orgánicas,organic amendments,Spanish,exact,organic amendments,3,https://w3id.org/eusoilvoc#OrganicAmendments,1,enmiendas orgánicas
+environmental benefits,environmental benefits,English,mapped,ecosystem services,1,https://w3id.org/eusoilvoc#EcosystemServices,1,environmental benefits
+environmental factor,environmental factor,English,exact,environmental factors,3,https://w3id.org/eusoilvoc#EnvironmentalFactors,1,environmental factor
+environmental variables,environmental variables,English,mapped,environmental factors,3,https://w3id.org/eusoilvoc#EnvironmentalFactors,1,environmental variables
+erosion ratio,erosion ratio,English,exact,erosion ratio,5,https://w3id.org/eusoilvoc#ErosionRatio,1,erosion ratio
+erosió eòlica,wind erosion,Catalan,exact,wind erosion,3,https://w3id.org/eusoilvoc#WindErosion,1,erosió eòlica
+erosión suelo,soil erosion,Spanish,exact,soil erosion,2,https://w3id.org/eusoilvoc#SoilErosion,1,erosión suelo
+esondazione,flooding,Italian,mapped,inundation,2,https://w3id.org/eusoilvoc#Inundation,1,esondazione
+esondazioni,floods,Italian,exact,floods,3,https://w3id.org/eusoilvoc#Floods,1,esondazioni
+evaporación,evapouration,es,translation,evapouration,3,https://w3id.org/eusoilvoc#Evapouration,1,evaporación
+fe2+,fe2+,English,mapped,iron,4,https://w3id.org/eusoilvoc#Iron,1,fe2+
+fertilidad del suelo,soil productivity,es,translation,soil productivity,2,https://w3id.org/eusoilvoc#SoilProductivity,1,fertilidad del suelo
+fertilità,soil fertility,Italian,mapped,soil productivity,2,https://w3id.org/eusoilvoc#SoilProductivity,1,fertilità
+fertilité,soil fertility,French,mapped,soil productivity,2,https://w3id.org/eusoilvoc#SoilProductivity,1,fertilité
+flood duration,flood duration,English,exact,flood duration,4,https://w3id.org/eusoilvoc#FloodDuration,1,flood duration
+fragment,fragment,English,exact,fragments,4,https://w3id.org/eusoilvoc#Fragments,1,fragment
+fragments,fragments,English,exact,fragments,4,https://w3id.org/eusoilvoc#Fragments,1,fragments
+free living nematodes,free living nematodes,English,mapped,free-living nematodes,4,https://w3id.org/eusoilvoc#FreeLivingNematodes,1,free-living nematodes
+gebouwen,buildings,Dutch,mapped,building,2,https://w3id.org/eusoilvoc#Building,1,gebouwen
+gestion intégrée de la fertilité des sols,integrated soil fertility management,French,exact,integrated soil fertility management,2,https://w3id.org/eusoilvoc#IntegratedSoilFertilityManagement,1,gestion intégrée de la fertilité des sols
+giacitura,slope orientation,Italian,exact,slope orientation,3,https://w3id.org/eusoilvoc#SlopeOrientation,1,"strati,-giacitura"
+gradient,gradient,English,mapped,slope,2,https://w3id.org/eusoilvoc#Slope,1,gradient
+grass,grass,English,exact,grasses,4,https://w3id.org/eusoilvoc#Grasses,1,grass
+grassland soils,grassland soils,English,exact,grassland soils,6,https://w3id.org/eusoilvoc#GrasslandSoils,1,grassland soils
+grond,soil,Dutch,exact,soil,1,https://w3id.org/eusoilvoc#Soil,1,grond
+groundwater depth,groundwater depth,English,exact,groundwater depth,5,https://w3id.org/eusoilvoc#GroundwaterDepth,1,groundwater depth
+grundwasserneubildung,groundwater reproduction,de,translation,groundwater reproduction,3,https://w3id.org/eusoilvoc#GroundwaterReproduction,1,grundwasserneubildung
+grunnforururensning,soil pollution,Norwegian,exact,soil pollution,2,https://w3id.org/eusoilvoc#SoilPollution,1,grunnforururensning
+halloysite,halloysite,English,exact,halloysite,6,https://w3id.org/eusoilvoc#Halloysite,1,halloysite
+hochwasser,floods,German,exact,floods,3,https://w3id.org/eusoilvoc#Floods,1,hochwasser
+hydromorphie,hydromorphy,French,mapped,waterlogging,2,https://w3id.org/eusoilvoc#Waterlogging,1,hydromorphie
+hydromorphology,hydromorphology,English,mapped,waterlogging,2,https://w3id.org/eusoilvoc#Waterlogging,1,hydromorphology
+immissionen,emissions,German,exact,emissions,4,https://w3id.org/eusoilvoc#Emissions,1,immissionen
+index of resistance,index of resistance,English,exact,index of resistance,4,https://w3id.org/eusoilvoc#IndexOfResistance,1,index of resistance
+inspire mv bodenbedeckung alkis,land cover,German,exact,land cover,1,https://w3id.org/eusoilvoc#LandCover,1,inspire_mv_bodenbedeckung_alkis
+jarðvegsrof,soil erosion,Icelandic,exact,soil erosion,2,https://w3id.org/eusoilvoc#SoilErosion,1,jarðvegsrof
+jarðvegur,soil,Icelandic,exact,soil,1,https://w3id.org/eusoilvoc#Soil,1,jarðvegur
+jordart,soil type,Danish,exact,soil types,4,https://w3id.org/eusoilvoc#SoilTypes,1,jordart
+jordkvalitet,soil quality,Norwegian,exact,soil quality,2,https://w3id.org/eusoilvoc#SoilQuality,1,jordkvalitet
+jordressurs,soil resources,Norwegian,exact,soil resources,2,https://w3id.org/eusoilvoc#SoilResources,1,jordressurs
+jordsmonn,soil,Norwegian,exact,soil,1,https://w3id.org/eusoilvoc#Soil,1,jordsmonn
+k faktor,soil erodibility,German,exact,soil erodibility,4,https://w3id.org/eusoilvoc#SoilErodibility,1,k-faktor
+kalium,potassium,"de,nl",translation,potassium,4,https://w3id.org/eusoilvoc#Potassium,1,kalium
+kemija tla,soil chemistry,Croatian,exact,soil chemistry,2,https://w3id.org/eusoilvoc#SoilChemistry,1,kemija tla
+klimaat,climate,nl,translation,climate,2,https://w3id.org/eusoilvoc#Climate,1,klimaat
+kmetijske rastline,crops,Slovenian,mapped,crop,3,https://w3id.org/eusoilvoc#Crop,1,kmetijske rastline
+krš,karst,Croatian,variant,karst soils,6,https://w3id.org/eusoilvoc#KarstSoils,1,krš
+land use class,land use class,English,exact,land use class,2,https://w3id.org/eusoilvoc#LandUseClass,1,land use class
+land use forests,land use forests,English,exact,land use forests,5,https://w3id.org/eusoilvoc#LandUseForests,1,land use forests
+land use grasses,land use grasses,English,exact,land use grasses,5,https://w3id.org/eusoilvoc#LandUseGrasses,1,land use grasses
+limon,silt,fr,translation,silt,5,https://w3id.org/eusoilvoc#Silt,1,limon
+loess soils,loess soils,English,exact,loess soils,6,https://w3id.org/eusoilvoc#LoessSoils,1,loess soils
+lombrichi,earthworms,it,translation,earthworms,3,https://w3id.org/eusoilvoc#Earthworms,1,lombrichi
+maaperäbiologia,soil biology,Finnish,exact,soil biology,2,https://w3id.org/eusoilvoc#SoilBiology,1,maaperäbiologia
+maaperäeläimistö,soil fauna,Finnish,exact,soil fauna,3,https://w3id.org/eusoilvoc#SoilFauna,1,maaperäeläimistö
+maaperän organismit,soil organisms,Finnish,exact,soil organisms,2,https://w3id.org/eusoilvoc#SoilOrganisms,1,maaperän organismit
+maaperän respiraatio,soil respiration,Finnish,exact,soil respiration,3,https://w3id.org/eusoilvoc#SoilRespiration,1,maaperän respiraatio
+manejo del suelo,soil management,es,translation,soil management,1,https://w3id.org/eusoilvoc#SoilManagement,1,manejo del suelo
+mass wasting,mass wasting,English,mapped,mass movement,4,https://w3id.org/eusoilvoc#MassMovement,1,mass wasting
+matéria orgânica do solo,soil organic matter,pt,translation,soil organic matter,4,https://w3id.org/eusoilvoc#SoilOrganicMatter,1,matéria orgânica do solo
+mecànica dels sòls,soil mechanics,Catalan,exact,soil mechanics,2,https://w3id.org/eusoilvoc#SoilMechanics,1,mecànica dels sòls
+mecánica de suelos,soil mechanics,Spanish,exact,soil mechanics,2,https://w3id.org/eusoilvoc#SoilMechanics,1,mecánica de suelos (agricultura)
+mediterranean soils,mediterranean soils,English,mapped,xeric soils,6,https://w3id.org/eusoilvoc#XericSoils,1,mediterranean soils
+medium sand,medium sand,English,exact,medium sand,5,https://w3id.org/eusoilvoc#MediumSand,1,medium sand
+microbe,microbe,English,exact,microbes,3,https://w3id.org/eusoilvoc#Microbes,1,microbe
+microbiología de suelos,soil microbiology,Spanish,mapped,soil biology,2,https://w3id.org/eusoilvoc#SoilBiology,1,microbiología de suelos
+microorganism,microorganism,English,variant,microbes,3,https://w3id.org/eusoilvoc#Microbes,1,microorganism
+mineral nitrogen,mineral nitrogen,English,mapped,inorganic nitrogen,5,https://w3id.org/eusoilvoc#InorganicNitrogen,1,"soil erosion, bulk density, mineral nitrogen, exchangeable mg, available p, soc"
+mineral soils,mineral soils,English,exact,mineral soils,6,https://w3id.org/eusoilvoc#MineralSoils,1,mineral soils
+mite,mite,English,exact,mites,5,https://w3id.org/eusoilvoc#Mites,1,mite
+mulch,mulch,English,exact,mulch,2,https://w3id.org/eusoilvoc#Mulch,1,mulch
+mulla omadused,soil properties,Estonian,exact,soil properties,1,https://w3id.org/eusoilvoc#SoilProperties,1,mulla omadused
+nanoplastic,nanoplastic,English,exact,nanoplastics,5,https://w3id.org/eusoilvoc#Nanoplastics,1,nanoplastic
+natrium,sodium,"de,nl",translation,sodium,4,https://w3id.org/eusoilvoc#Sodium,1,natrium
+način korišćenja zemljišta,land use,Serbian,exact,land use,4,https://w3id.org/eusoilvoc#LandUse,1,način korišćenja zemljišta
+neve,snow,"it,pt",translation,snow,4,https://w3id.org/eusoilvoc#Snow,1,neve
+nitrogen loss,nitrogen loss,English,mapped,soil nitrogen loss,3,https://w3id.org/eusoilvoc#SoilNLoss,1,nitrogen loss
+nitrogen total,nitrogen total,English,exact,nitrogen total,4,https://w3id.org/eusoilvoc#NitrogenTotal,1,nitrogen total
+ocupacao do solo,land cover,Portuguese,exact,land cover,1,https://w3id.org/eusoilvoc#LandCover,1,ocupacao-do-solo
+organic mulch,organic mulch,English,exact,organic mulches,3,https://w3id.org/eusoilvoc#OrganicMulches,1,organic mulch
+organic mulches,organic mulches,English,exact,organic mulches,3,https://w3id.org/eusoilvoc#OrganicMulches,1,organic mulches
+organischer bodenkohlenstoff,soil organic carbon,de,translation,soil organic carbon,4,https://w3id.org/eusoilvoc#SoilOrganicCarbon,1,organischer bodenkohlenstoff
+oxisol,oxisol,English,exact,Oxisols,8,https://w3id.org/eusoilvoc#OxisolsUSDA,1,oxisol
+peat decomposition,peat decomposition,English,exact,peat decomposition,5,https://w3id.org/eusoilvoc#PeatDecomposition,1,peat decomposition
+peat drainage,peat drainage,English,exact,peat drainage,5,https://w3id.org/eusoilvoc#PeatDrainage,1,peat drainage
+pedogenesis,pedogenesis,English,mapped,soil formation,3,https://w3id.org/eusoilvoc#SoilFormation,1,pedogenesis
+pedologie,pedology,French,exact,pedology,2,https://w3id.org/eusoilvoc#Pedology,1,pedologie
+pedologija,pedology,Croatian,exact,pedology,2,https://w3id.org/eusoilvoc#Pedology,1,pedologija
+pedoni,pedons,Italian,variant,pedon,2,https://w3id.org/eusoilvoc#Pedon,1,pedoni
+pentes,slopes,French,mapped,slope,2,https://w3id.org/eusoilvoc#Slope,1,pentes
+pflanzenverfügbares bodenwasser,plant available water,German,exact,plant available water,4,https://w3id.org/eusoilvoc#PlantAvailableWater,1,pflanzenverfügbares-bodenwasser
+phosphore,phosphorus,fr,translation,phosphorus,4,https://w3id.org/eusoilvoc#Phosphorus,1,phosphore
+physikochemische bodeneigenschaft,soil physical properties,de,translation,soil physical properties,3,https://w3id.org/eusoilvoc#SoilPhysicalProperties,1,physikochemische bodeneigenschaft
+piena,flood,Italian,exact,floods,3,https://w3id.org/eusoilvoc#Floods,1,piena
+plant available water,plant available water,English,exact,plant available water,4,https://w3id.org/eusoilvoc#PlantAvailableWater,1,plant available water
+plant available water contents,plant available water contents,English,exact,plant available water contents,6,https://w3id.org/eusoilvoc#PlantAvailableWaterContents,1,plant available water contents
+polluted soil,polluted soil,English,exact,polluted soils,6,https://w3id.org/eusoilvoc#PollutedSoils,1,polluted soil
+polluted soils,polluted soils,English,exact,polluted soils,6,https://w3id.org/eusoilvoc#PollutedSoils,1,polluted soils
+pollution du sol,soil pollution,fr,translation,soil pollution,2,https://w3id.org/eusoilvoc#SoilPollution,1,pollution du sol
+polución del suelo,soil pollution,es,translation,soil pollution,2,https://w3id.org/eusoilvoc#SoilPollution,1,polución del suelo
+pore abundance,pore abundance,English,exact,pore abundance,3,https://w3id.org/eusoilvoc#PoreAbundance,1,pore abundance
+poľnohospodárske pôdy,agricultural soils,Slovak,exact,agricultural soils,6,https://w3id.org/eusoilvoc#AgriculturalSoils,1,poľnohospodárske pôdy
+profil de sol,soil profiles,Romanian,exact,soil profiles,3,https://w3id.org/eusoilvoc#SoilProfiles,1,profil de sol
+profil glebowy,soil profiles,Polish,exact,soil profiles,3,https://w3id.org/eusoilvoc#SoilProfiles,1,profil-glebowy
+propriedades físico químicas do solo,soil physicochemical properties,Portuguese,mapped,soil chemicophysical properties,2,https://w3id.org/eusoilvoc#SoilChemicophysicalProperties,1,propriedades físico-químicas do solo
+pôdne jednotky,soil units,Slovak,mapped,genetic soil types,5,https://w3id.org/eusoilvoc#GeneticSoilTypes,1,pôdne jednotky
+pôdne vlastnosti,soil properties,Slovak,exact,soil properties,1,https://w3id.org/eusoilvoc#SoilProperties,1,pôdne vlastnosti
+regadio,irrigation,Portuguese,exact,irrigation,2,https://w3id.org/eusoilvoc#Irrigation,1,regadio
+regadío,irrigation,Portuguese,exact,irrigation,2,https://w3id.org/eusoilvoc#Irrigation,1,regadío
+regenwürmer,earthworms,German,exact,earthworms,3,https://w3id.org/eusoilvoc#Earthworms,1,regenwürmer
+rendimiento de cultivos,crop yield,es,translation,crop yield,3,https://w3id.org/eusoilvoc#CropYield,1,rendimiento de cultivos
+retisol,retisol,English,exact,Retisols,8,https://w3id.org/eusoilvoc#RetisolsWRB,1,retisol
+retisols,retisols,English,exact,Retisols,8,https://w3id.org/eusoilvoc#RetisolsWRB,1,retisols
+rhizobacteria,rhizobacteria,English,exact,Rhizobacteria,5,https://w3id.org/eusoilvoc#Rhizobacteria,1,rhizobacteria
+riego,irrigation,es,translation,irrigation,2,https://w3id.org/eusoilvoc#Irrigation,1,riego
+roads,roads,English,variant,road,3,https://w3id.org/eusoilvoc#Road,1,roads
+roccia,rock,it,translation,rock,5,https://w3id.org/eusoilvoc#Rock,1,roccia
+sable,sand,fr,translation,sand,5,https://w3id.org/eusoilvoc#Sand,1,sable
+saline soil,saline soil,English,exact,saline soils,6,https://w3id.org/eusoilvoc#SalineSoils,1,saline soil
+salinizare a solului,soil salinization,Romanian,exact,soil salinization,3,https://w3id.org/eusoilvoc#SoilSalinization,1,salinizare a solului
+salt,salt,English,exact,salts,3,https://w3id.org/eusoilvoc#Salts,1,salt
+salt cover,salt cover,English,exact,salt cover,4,https://w3id.org/eusoilvoc#SaltCover,1,salt cover
+salt sieving,salt sieving,English,exact,salt sieving,2,https://w3id.org/eusoilvoc#SaltSieving,1,salt sieving
+salt thickness,salt thickness,English,exact,salt thickness,4,https://w3id.org/eusoilvoc#SaltThickness,1,salt thickness
+salute del suolo,soil health,Italian,exact,soil health,1,https://w3id.org/eusoilvoc#SoilHealth,1,salute del suolo
+santé des sols,soil health,French,exact,soil health,1,https://w3id.org/eusoilvoc#SoilHealth,1,santé des sols
+schluff,silt,de,translation,silt,5,https://w3id.org/eusoilvoc#Silt,1,schluff
+science des sols,soil science,French,exact,soil sciences,1,https://w3id.org/eusoilvoc#SoilSciences,1,"extraction automatique du language,métadonnée,science des sols"
+seedbed preparation,seedbed preparation,English,exact,seedbed preparation,2,https://w3id.org/eusoilvoc#SeedbedPreparation,1,seedbed preparation
+services écosystémiques,ecosystem services,fr,translation,ecosystem services,1,https://w3id.org/eusoilvoc#EcosystemServices,1,services écosystémiques
+servizio ecosistemico,ecosystem services,Italian,exact,ecosystem services,1,https://w3id.org/eusoilvoc#EcosystemServices,1,servizio ecosistemico
+site preparation,site preparation,English,exact,site preparation,2,https://w3id.org/eusoilvoc#SitePreparation,1,site preparation
+sleet,sleet,English,exact,sleet,4,https://w3id.org/eusoilvoc#Sleet,1,sleet
+slib,silt,nl,translation,silt,5,https://w3id.org/eusoilvoc#Silt,1,slib
+snö,snow,Swedish,exact,snow,4,https://w3id.org/eusoilvoc#Snow,1,snö
+soil absorption,soil absorption,English,exact,soil absorption,3,https://w3id.org/eusoilvoc#SoilAbsorption,1,soil absorption
+soil accumulation,soil accumulation,English,exact,soil accumulation,4,https://w3id.org/eusoilvoc#SoilAccumulation,1,soil accumulation
+soil air flow,soil air flow,English,exact,soil air flow,5,https://w3id.org/eusoilvoc#SoilAirFlow,1,soil air flow
+soil air movement,soil air movement,English,exact,soil air movement,4,https://w3id.org/eusoilvoc#SoilAirMovement,1,soil air movement
+soil air permeability,soil air permeability,English,exact,soil air permeability,3,https://w3id.org/eusoilvoc#SoilAirPermeability,1,soil air permeability
+soil amendments,soil amendments,English,exact,soil amendments,2,https://w3id.org/eusoilvoc#SoilAmendments,1,soil amendments
+soil biological functions,soil biological functions,English,exact,soil biological functions,2,https://w3id.org/eusoilvoc#SoilBiologicalFunctions,1,soil biological functions
+soil biological properties,soil biological properties,English,exact,soil biological properties,2,https://w3id.org/eusoilvoc#SoilBiologicalProperties,1,soil biological properties
+soil chemical,soil chemical,English,exact,soil chemical,2,https://w3id.org/eusoilvoc#SoilChemical,1,soil chemical
+soil chemical functions,soil chemical functions,English,exact,soil chemical functions,2,https://w3id.org/eusoilvoc#SoilChemicalFunctions,1,soil chemical functions
+soil clay mineral,soil clay mineral,English,exact,soil clay mineral,5,https://w3id.org/eusoilvoc#SoilClayMineral,1,soil clay mineral
+soil compression,soil compression,English,exact,soil compression,4,https://w3id.org/eusoilvoc#SoilCompression,1,soil compression
+soil deterioration,soil deterioration,English,mapped,soil degradation,2,https://w3id.org/eusoilvoc#SoilDegradation,1,soil deterioration
+soil drying,soil drying,English,exact,soil drying,4,https://w3id.org/eusoilvoc#SoilDrying,1,soil drying
+soil elasticity,soil elasticity,English,exact,soil elasticity,4,https://w3id.org/eusoilvoc#SoilElasticity,1,soil elasticity
+soil environmental functions,soil environmental functions,English,exact,soil environmental functions,2,https://w3id.org/eusoilvoc#SoilEnvironmentalFunctions,1,soil environmental functions
+soil erosion degree,soil erosion degree,English,exact,soil erosion degree,3,https://w3id.org/eusoilvoc#SoilErosionDegree,1,soil erosion degree
+soil erosion model,soil erosion model,English,exact,soil erosion models,2,https://w3id.org/eusoilvoc#SoilErosionModels,1,soil erosion model
+soil erosion models,soil erosion models,English,exact,soil erosion models,2,https://w3id.org/eusoilvoc#SoilErosionModels,1,soil erosion models
+soil flow,soil flow,English,exact,soil flow,3,https://w3id.org/eusoilvoc#SoilFlow,1,soil flow
+soil fungal communities,soil fungal communities,English,mapped,soil fungi,4,https://w3id.org/eusoilvoc#SoilFungi,1,soil fungal communities
+soil heating,soil heating,English,exact,soil heating,3,https://w3id.org/eusoilvoc#SoilHeating,1,soil heating
+soil hydrology,soil hydrology,English,exact,soil hydrology,2,https://w3id.org/eusoilvoc#SoilHydrology,1,"soil hydrology, swap model, water balance"
+soil hydrophobicity,soil hydrophobicity,English,exact,soil hydrophobicity,2,https://w3id.org/eusoilvoc#SoilHydrophobicity,1,soil hydrophobicity
+soil mesofauna,soil mesofauna,English,exact,soil mesofauna,4,https://w3id.org/eusoilvoc#SoilMesofauna,1,soil mesofauna
+soil microbial activities,soil microbial activities,English,variant,soil microbial activity,3,https://w3id.org/eusoilvoc#SoilMicrobialActivity,1,soil microbial activities
+soil mineral matter,soil mineral matter,English,exact,soil mineral matter,3,https://w3id.org/eusoilvoc#SoilMineralMatter,1,soil mineral matter
+soil moisture contents,soil moisture contents,English,exact,soil moisture contents,2,https://w3id.org/eusoilvoc#SoilMoistureContents,1,soil moisture contents
+soil moisture deficit,soil moisture deficit,English,exact,soil moisture deficit,3,https://w3id.org/eusoilvoc#SoilMoistureDeficit,1,soil moisture deficit
+soil nutrient content,soil nutrient content,English,mapped,soil productivity,2,https://w3id.org/eusoilvoc#SoilProductivity,1,soil nutrient content
+soil nutrient loss,soil nutrient loss,English,exact,soil nutrient loss,2,https://w3id.org/eusoilvoc#SoilNutrientLoss,1,soil nutrient loss
+soil nutrient retention,soil nutrient retention,English,exact,soil nutrient retention,4,https://w3id.org/eusoilvoc#SoilNutrientRetention,1,soil nutrient retention
+soil organic matter class,soil organic matter class,English,exact,soil organic matter class,2,https://w3id.org/eusoilvoc#SoilOrganicMatterClass,1,soil organic matter class
+soil oxygen consumption,soil oxygen consumption,English,exact,soil oxygen consumption,3,https://w3id.org/eusoilvoc#SoilOxygenConsumption,1,soil oxygen consumption
+soil pore shape,soil pore shape,English,exact,soil pore shape,5,https://w3id.org/eusoilvoc#SoilPoreShape,1,soil pore shape
+soil pore size,soil pore size,English,exact,soil pore size,3,https://w3id.org/eusoilvoc#SoilPoreSize,1,soil pore size
+soil pores,soil pores,English,exact,soil pores,2,https://w3id.org/eusoilvoc#SoilPores,1,soil pores
+soil reactivity,soil reactivity,English,exact,soil reactivity,4,https://w3id.org/eusoilvoc#SoilReactivity,1,soil reactivity
+soil resource,soil resource,Italian,exact,soil resources,2,https://w3id.org/eusoilvoc#SoilResources,1,soil resource
+soil restoration,soil restoration,English,mapped,soil reclamation,2,https://w3id.org/eusoilvoc#SoilReclamation,1,soil restoration
+soil samples,soil samples,English,mapped,soil sampling,3,https://w3id.org/eusoilvoc#SoilSampling,1,soil samples
+soil security,soil security,English,exact,soil security,2,https://w3id.org/eusoilvoc#SoilSecurity,1,soil security
+soil seed bank,soil seed bank,English,exact,soil seed banks,3,https://w3id.org/eusoilvoc#SoilSeedBanks,1,soil seed bank
+soil separate,soil separate,English,exact,soil separate,4,https://w3id.org/eusoilvoc#SoilSeparate,1,soil separate
+soil shear strength,soil shear strength,English,exact,soil shear strength,4,https://w3id.org/eusoilvoc#SoilShearStrength,1,soil shear strength
+soil sickness,soil sickness,English,exact,soil sickness,3,https://w3id.org/eusoilvoc#SoilSickness,1,soil sickness
+soil slope stability,soil slope stability,English,exact,soil slope stability,5,https://w3id.org/eusoilvoc#SoilSlopeStability,1,soil slope stability
+soil structural change,soil structural change,English,exact,soil structural change,3,https://w3id.org/eusoilvoc#SoilStructuralChange,1,soil structural change
+soil structural changes,soil structural changes,English,variant,soil structural change,3,https://w3id.org/eusoilvoc#SoilStructuralChange,1,soil structural changes
+soil structural crusts,soil structural crusts,English,exact,soil structural crusts,4,https://w3id.org/eusoilvoc#SoilStructuralCrusts,1,soil structural crusts
+soil structural stability,soil structural stability,English,exact,soil structural stability,4,https://w3id.org/eusoilvoc#SoilStructuralStability,1,soil structural stability
+soil structural units,soil structural units,English,mapped,soil aggregate,3,https://w3id.org/eusoilvoc#SoilAggregate,1,soil structural units
+soil swelling,soil swelling,English,exact,soil swelling,5,https://w3id.org/eusoilvoc#SoilSwelling,1,soil swelling
+soil total carbon,soil total carbon,English,exact,soil total carbon,3,https://w3id.org/eusoilvoc#SoilTotalCarbon,1,soil total carbon
+soil transport processes,soil transport processes,English,mapped,ion transport in soil,4,https://w3id.org/eusoilvoc#IonTransportInSoil,1,soil transport processes
+soil volume,soil volume,English,exact,soil volume,4,https://w3id.org/eusoilvoc#SoilVolume,1,soil volume
+soil water infiltration,soil water infiltration,English,exact,soil water infiltration,3,https://w3id.org/eusoilvoc#SoilWaterInfiltration,1,soil water infiltration
+soil water regime,soil water regime,English,exact,soil water regimes,3,https://w3id.org/eusoilvoc#SoilWaterRegimes,1,soil water regime
+sol contaminé,contaminated soil,French,variant,polluted soils,6,https://w3id.org/eusoilvoc#PollutedSoils,1,sol contaminé
+solos agrícolas,agricultural soils,Portuguese,exact,agricultural soils,6,https://w3id.org/eusoilvoc#AgriculturalSoils,1,solos agrícolas
+springtail,springtail,English,variant,Collembola,5,https://w3id.org/eusoilvoc#Collembola,1,springtail
+stabilitatea solului,soil stability,Romanian,exact,soil stability,4,https://w3id.org/eusoilvoc#SoilStability,1,stabilitatea solului
+stabilité du sol,soil stability,fr,translation,soil stability,4,https://w3id.org/eusoilvoc#SoilStability,1,stabilité-du-sol
+stagnosols,stagnosols,English,exact,Stagnosols,8,https://w3id.org/eusoilvoc#StagnosolsWRB,1,stagnosols
+stanište,habitat,Croatian,exact,habitats,2,https://w3id.org/eusoilvoc#Habitats,1,stanište
+stickiness,stickiness,English,exact,stickiness,4,https://w3id.org/eusoilvoc#Stickiness,1,stickiness
+subsoiling,subsoiling,English,exact,subsoiling,3,https://w3id.org/eusoilvoc#Subsoiling,1,subsoiling
+subsoils,subsoils,English,variant,subsoil,2,https://w3id.org/eusoilvoc#Subsoil,1,subsoils
+subsurface runoff,subsurface runoff,English,mapped,interflow,3,https://w3id.org/eusoilvoc#Interflow,1,subsurface runoff
+suelo semiárido,semi-arid soils,Spanish,exact,semi-arid soils,6,https://w3id.org/eusoilvoc#SemiAridSoils,1,suelo semiárido
+suelos áridos,arid soils,Spanish,exact,arid soils,6,https://w3id.org/eusoilvoc#AridSoils,1,suelos áridos
+sòl,soil,fr,translation,soil,1,https://w3id.org/eusoilvoc#Soil,1,"sòl, ús del"
+sòls,soils,Catalan,variant,soil,1,https://w3id.org/eusoilvoc#Soil,1,sòls
+sòls forestals,forest soils,Catalan,exact,forest soils,6,https://w3id.org/eusoilvoc#ForestSoils,1,sòls forestals
+température du sol,soil temperature,fr,translation,soil temperature,3,https://w3id.org/eusoilvoc#SoilTemperature,1,température du sol
+textur,soil texture,German,exact,soil texture,3,https://w3id.org/eusoilvoc#SoilTexture,1,textur
+textura solurilor,soil texture,Romanian,exact,soil texture,3,https://w3id.org/eusoilvoc#SoilTexture,1,textura solurilor
+textură a solului,soil texture,Romanian,exact,soil texture,3,https://w3id.org/eusoilvoc#SoilTexture,1,textură a solului
+ton,clay,de,translation,clay,4,https://w3id.org/eusoilvoc#Clay,1,ton
+topsoils,topsoils,English,variant,topsoil,2,https://w3id.org/eusoilvoc#Topsoil,1,topsoils
+tree density,tree density,English,exact,tree density,5,https://w3id.org/eusoilvoc#TreeDensity,1,tree density
+tropical soils,tropical soils,English,exact,tropical soils,6,https://w3id.org/eusoilvoc#TropicalSoils,1,tropical soils
+turf,peat,nl,translation,peat,4,https://w3id.org/eusoilvoc#Peat,1,turf
+unsaturated hydraulic conductivity,unsaturated hydraulic conductivity,English,exact,unsaturated hydraulic conductivity,5,https://w3id.org/eusoilvoc#UnsaturatedHydraulicConductivity,1,unsaturated hydraulic conductivity
+untergrund boden,subsoil,German,exact,subsoil,2,https://w3id.org/eusoilvoc#Subsoil,1,untergrund-boden
+utilizare a terenului,land use,Romanian,exact,land use,4,https://w3id.org/eusoilvoc#LandUse,1,utilizare a terenului
+vegetació,vegetation,Catalan,exact,vegetation,3,https://w3id.org/eusoilvoc#Vegetation,1,vegetació
+vegetation type,vegetation type,English,variant,vegetation,3,https://w3id.org/eusoilvoc#Vegetation,1,vegetation type
+vegetation types,vegetation types,English,mapped,vegetation,3,https://w3id.org/eusoilvoc#Vegetation,1,vegetation types
+verdunstung,evapouration,de,translation,evapouration,3,https://w3id.org/eusoilvoc#Evapouration,1,verdunstung
+volcanic ash soils,volcanic ash soils,English,mapped,volcanic soils,6,https://w3id.org/eusoilvoc#VolcanicSoils,1,volcanic ash soils
+využitie územia,land use,Slovak,exact,land use,4,https://w3id.org/eusoilvoc#LandUse,1,využitie územia
+waldboden,forest soils,German,exact,forest soils,6,https://w3id.org/eusoilvoc#ForestSoils,1,waldboden
+waterkwaliteit,water quality,nl,translation,water quality,3,https://w3id.org/eusoilvoc#WaterQuality,1,waterkwaliteit
+wurzel,roots,de,translation,roots,4,https://w3id.org/eusoilvoc#Roots,1,wurzel
+érosion,érosion,English,mapped,soil erosion,2,https://w3id.org/eusoilvoc#SoilErosion,1,érosion
+érosion des sols,soil erosion,French,exact,soil erosion,2,https://w3id.org/eusoilvoc#SoilErosion,1,érosion-des-sols
+überflutung,inundation,de,translation,inundation,2,https://w3id.org/eusoilvoc#Inundation,1,überflutung
+почвы,soils,Russian,variant,soil,1,https://w3id.org/eusoilvoc#Soil,1,почвы

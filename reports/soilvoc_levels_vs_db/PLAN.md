@@ -4,13 +4,15 @@ Task from the PO: *"Populate SoilVoc vocabulary in the DB for Keywords/Subjects 
 
 Numbers come from a read-only check of the stage DB (`msp-kh-stage`, schema `validate`) on 2 November 2026.
 Details: `report.md`, `records_and_keywords.md`, `../subjects_cleaned/` and `../subjects_vs_soilvoc/`.
+Term and keyword lists: `../subjects_cleaned/soilvoc_terms_in_db.csv` (one row per SoilVoc term in the DB) and `../subjects_cleaned/soilvoc_keywords_in_db.csv` (one row per DB keyword mapped to SoilVoc).
 
 ## Summary: SoilVoc keywords in use after cleaning
 
 - **476 of 1,464 SoilVoc terms (33%)** are used by at least one record's subjects. Before cleaning: 439.
-- **487** if SoilVoc terms found inside longer keywords are also counted (e.g. "sustainable soil management" → soil management).
+- **483** if SoilVoc terms found inside longer keywords are also counted (e.g. "sustainable soil management" → soil management), after a manual review removed wrong ones. Before the review: 487.
 - **1,063 unique DB keywords** map to those terms. Before cleaning: 464.
 - **5,916 records** have a SoilVoc subject: 17.6% of all records and 60% of the 9,836 records with subjects. Before cleaning: 5,020.
+- **6,050 records** if reviewed SoilVoc terms inside longer keywords are also counted. Before the review: 6,081.
 
 ```mermaid
 ---
@@ -23,9 +25,9 @@ config:
 ---
 xychart-beta
   title "SoilVoc terms used by records (of 1,464)"
-  x-axis ["Before cleaning", "After cleaning", "Incl. terms inside keywords"]
+  x-axis ["Before cleaning", "After cleaning", "Incl. reviewed terms inside keywords"]
   y-axis "SoilVoc terms" 0 --> 600
-  bar [439, 476, 487]
+  bar [439, 476, 483]
 ```
 
 ## Where we are now
@@ -114,8 +116,8 @@ Result after cleaning:
 
 - Unique keywords: 19,262 before, 18,334 after.
 - **SoilVoc keywords: 1,063** (exact 688, synonym 82, translated by SoilVoc labels 98, mapped through AGROVOC/GEMET/USDA 116, plural/spelling 32, accents 2, broader 45), plus 29 that could mean more than one SoilVoc term and 830 that contain a SoilVoc term inside. "Exact" includes keywords that became an exact SoilVoc label after translation.
-- **SoilVoc concepts used by records: 476 of 1,464** (439 before cleaning); 487 counting terms found inside longer keywords.
-- **Records with a SoilVoc subject: 5,916** (17.6% of all records, 60.1% of the 9,836 records with subjects). Before cleaning: 5,020. Without broader links: 5,433. Counting terms inside longer keywords: 6,081.
+- **SoilVoc concepts used by records: 476 of 1,464** (439 before cleaning); 483 counting reviewed terms found inside longer keywords (487 before the review).
+- **Records with a SoilVoc subject: 5,916** (17.6% of all records, 60.1% of the 9,836 records with subjects). Before cleaning: 5,020. Without broader links: 5,433. Counting reviewed terms inside longer keywords: 6,050 (6,081 before the review).
 - Noise: 1,046 keywords. Category labels: 377 (many translated INSPIRE theme names). Proposed new SoilVoc terms: 92.
 - Not yet classified: 14,897 keywords: English topics that are not in SoilVoc (carbon, ecosystem, biodiversity, landslides…), species names, place and project names, and the 626 untranslated names and codes.
 
@@ -154,10 +156,34 @@ config:
 ---
 xychart-beta
   title "Records with a SoilVoc subject"
-  x-axis ["Before cleaning (exact labels)", "After cleaning", "Incl. terms inside keywords"]
+  x-axis ["Before cleaning (exact labels)", "After cleaning", "Incl. reviewed terms inside keywords"]
   y-axis "Records" 0 --> 7000
-  bar [5020, 5916, 6081]
+  bar [5020, 5916, 6050]
 ```
+
+### Review of SoilVoc terms inside longer keywords
+
+All 830 keywords where a SoilVoc term was found inside a longer keyword (866 keyword–term pairs) were checked one by one.
+Verdicts with a reason for each pair: `curation/inside_keyword_review.csv` (script: `scripts/review_inside_keywords.py`).
+
+- **Same concept: 50 pairs.** These can become normal matches: "plant growth promoting rhizobacteria", "nitrate nitrogen", "plantio direto" (no-till), "pf wg kurve" (water retention curve), "bonitate" (soil rating), "sustainable soil management", and land-use terms in other languages.
+- **Narrower, safe as a broader link: 706 pairs.** "land use change" → land use, "soil organic carbon stock" → soil organic carbon, "rice paddy soil" → paddy soils.
+- **Wrong, dropped: 72 pairs.** The word is used in another sense:
+  - SoilVoc *biomass* is under *soil biota*, so plant and energy biomass (above-ground biomass, biomass production, biomass burning) does not fit; only microbial and fungal biomass do.
+  - lab and data methods: ICP-OES and excitation-emission matrix → emissions, vacuum and data filtration → filtration, Excel input mask → inputs;
+  - biology: calcium signalling, potassium channels, iron regulatory proteins, molybdenum nitrogenase, spider mites (SoilVoc mites are soil fauna);
+  - materials and engineering: vanadium carbide, aluminium alloy, green sand casting, soil-structure interaction (geotechnics);
+  - other: Iron Age, chemical precipitation (SoilVoc precipitation is rainfall), organic soil improver, SOC:clay ratio.
+- **Unclear, for a person to decide: 38 pairs.** Loess Plateau (place name), gravel mining, nitrogen oxides (air pollutant), titles used as keywords.
+
+Effect on the 11 SoilVoc terms that were found only inside longer keywords:
+
+- **Kept (7):** paddy soils, plant growth-promoting rhizobacteria, phosphorus content, hydromorphic soils, fine soil, cobalt and soil investigations. The last two come from data-field names (`sorptionStrengthCobalt`, `soilInvestigationPurposeValue`) on datasets that really are about these topics.
+- **Unclear (2):** loess (only place names), layered soils (a title used as a keyword).
+- **Dropped (2):** molybdenum (enzyme), vanadium (vanadium carbide).
+- Result: 476 + 7 = **483 SoilVoc terms**, and **6,050 records** (21 records were linked only through wrong matches and 10 only through unclear ones).
+
+The same check shows some direct matches that need a look before loading: "biomass" (84 records) and "crop biomass" are most likely plant biomass; "immissionen" (pollutant deposition) is mapped to emissions; "inputs" (12) and "filtration" (13) may be lab or data uses. If they are confirmed wrong, the numbers above drop a little.
 
 How much of this the one-table design can store: it allows one SoilVoc term per subject and no broader links. Under those limits the cleaning gives **443 concepts and 5,356 records**. The rest needs split combined labels, broader links or partial matches, so it would need the small mapping table later.
 
@@ -219,7 +245,7 @@ The cost of keeping it to one table: each subject links to one concept only, and
 
 - **Reuse the existing matching:** it is already built and tested (`scripts/compare_subjects_to_soilvoc.py`). It covers exact matches, mappings via AGROVOC/GEMET/USDA, spelling variants, cleaning rules, and 698 manual decisions.
 - **Dry-run first:** a file lists every link that would be inserted (subject, original label, SoilVoc term, relation), for review.
-- **Check by hand:** a person spot-checks the manual decisions, especially synonyms and broader links, before anything is loaded.
+- **Check by hand:** a person spot-checks the manual decisions, especially synonyms and broader links, before anything is loaded. The inside-keyword review (`curation/inside_keyword_review.csv`) is already done; its 38 unclear pairs and the doubtful direct matches (biomass, emissions, inputs, filtration) still need a decision.
 - **Dev first:** we load into the dev DB, compare with stage, then promote to stage.
 - **Keep it running:** later, the same matching runs at harvest time so new records are linked automatically.
 
@@ -242,7 +268,7 @@ flowchart LR
 ## What we will achieve
 
 - **Subjects linked:** 1,133 subjects (whole, not split) linked to one SoilVoc term each, reaching 443 SoilVoc concepts. Before cleaning, 464 unique subjects matched exactly.
-- **Records reached:** 5,356 records get at least one SoilVoc subject with the one-table design, up from 5,020 with exact matches only. With split combined labels and broader links (a mapping table later) this goes to 5,916, and to 6,081 with terms found inside longer keywords.
+- **Records reached:** 5,356 records get at least one SoilVoc subject with the one-table design, up from 5,020 with exact matches only. With split combined labels and broader links (a mapping table later) this goes to 5,916, and to 6,050 with reviewed terms found inside longer keywords.
 - **Noise flagged:** 1,046 noise keywords and 375 category labels (SDG goals, fields of science, INSPIRE themes, portal tags). They are only 8.0% of subject rows but 43% of all subject uses, so hiding them cleans filters and search a lot.
 - **Clean filters:** based on SoilVoc levels 1–2 (e.g. soil threats › soil erosion), which are well covered: 88% and 62% of those concepts appear in the data.
 - **Nothing lost:** original keywords stay in the DB, every change is reversible, and real topics that aren't in SoilVoc yet are kept as "not yet classified", not thrown away as noise.
