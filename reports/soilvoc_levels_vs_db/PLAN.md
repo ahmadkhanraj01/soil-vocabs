@@ -241,6 +241,216 @@ erDiagram
 
 The cost of keeping it to one table: each subject links to one concept only, and there is nowhere to store "broader". If those are needed later, a small mapping table can be added without changing anything above.
 
+## The two options: ERD, query and API response
+
+Both options add `soilvoc_types` and mark noise in `subjects.vocabulary_name`. They differ in how a subject is linked to SoilVoc.
+
+- **Option 1, two tables:** `soilvoc_types` plus a link table `subject_soilvoc`. Keeps the full cleaning result: **483 terms, 6,050 records**.
+- **Option 2, one table:** only `soilvoc_types`; the link is stored in the existing `subjects.uri`. One term per subject: **443 terms, 5,356 records**.
+
+The examples below use real data from the stage DB: the record *"Variation of soil organic carbon … across an erosion–deposition catena in a historical Spanish olive orchard"* and the **soil threats** branch of SoilVoc. Table names use the `validate` schema; the endpoints follow the existing SoilVoc API (`/api/v1/...`).
+
+### Option 1: two tables (`soilvoc_types` + `subject_soilvoc`)
+
+```mermaid
+erDiagram
+    records ||--o{ record_subject : has
+    subjects ||--o{ record_subject : "used in"
+    subjects ||--o{ subject_soilvoc : "linked to"
+    soilvoc_types ||--o{ subject_soilvoc : "used by"
+    soilvoc_types |o--o{ soilvoc_types : "parent_code"
+    soilvoc_types {
+        text code PK "SoilVoc URI"
+        smallint level "1 to 8"
+        text parent_code FK "broader concept"
+        text name "preferred label"
+        text_array alt_labels
+    }
+    subject_soilvoc {
+        uuid subject_id PK,FK
+        text soilvoc_code PK,FK
+        text link_type "exact, synonym, translation, mapped, variant, broader, inside"
+        text part "part of the label that matched, e.g. after a split"
+        boolean reviewed
+    }
+    subjects {
+        uuid id PK
+        text label "unchanged"
+        text vocabulary_name "NEW VALUE: SoilVoc, noise or empty"
+    }
+```
+
+- A subject can link to several SoilVoc terms ("soil erosion and agricultural sustainability" → 2 terms).
+- `link_type` lets the UI choose how strict to be: only exact and synonym, or also broader and inside-a-longer-keyword links.
+- Wrong links from the review are simply not inserted; unclear ones get `reviewed = false`.
+
+**Filter: SoilVoc terms under "soil threats" with their record counts** (only terms that have records; each count includes the narrower terms below it).
+
+```sql
+WITH RECURSIVE tree AS (            -- every concept under each child of 'soil threats'
+    SELECT code, code AS facet
+    FROM validate.soilvoc_types
+    WHERE parent_code = 'https://w3id.org/eusoilvoc#SoilThreats'
+  UNION ALL
+    SELECT t.code, tree.facet
+    FROM validate.soilvoc_types t
+    JOIN tree ON t.parent_code = tree.code
+)
+SELECT f.code, f.name, f.level,
+       COUNT(DISTINCT rs.record_id) AS records
+FROM tree
+JOIN validate.soilvoc_types   f  ON f.code = tree.facet
+JOIN validate.subject_soilvoc ss ON ss.soilvoc_code = tree.code
+                                AND ss.link_type <> 'inside'      -- strict mode
+JOIN validate.record_subject  rs ON rs.subject_id = ss.subject_id
+GROUP BY f.code, f.name, f.level
+ORDER BY records DESC;
+```
+
+`GET /api/v1/soilvoc/facets?parent=SoilThreats`
+
+```json
+{
+  "parent": { "code": "https://w3id.org/eusoilvoc#SoilThreats", "name": "soil threats", "level": 1, "records": 884 },
+  "link_types": ["exact", "synonym", "translation", "mapped", "variant", "broader"],
+  "facets": [
+    { "code": "https://w3id.org/eusoilvoc#SoilPollution",        "name": "soil pollution",         "level": 2, "records": 393, "has_children": true },
+    { "code": "https://w3id.org/eusoilvoc#SoilDegradation",      "name": "soil degradation",       "level": 2, "records": 234, "has_children": true },
+    { "code": "https://w3id.org/eusoilvoc#SoilErosion",          "name": "soil erosion",           "level": 2, "records": 227, "has_children": true },
+    { "code": "https://w3id.org/eusoilvoc#SoilCompaction",       "name": "soil compaction",        "level": 2, "records": 115, "has_children": false },
+    { "code": "https://w3id.org/eusoilvoc#SoilSealing",          "name": "soil sealing",           "level": 2, "records": 80,  "has_children": true },
+    { "code": "https://w3id.org/eusoilvoc#SoilBiodiversityLoss", "name": "soil biodiversity loss", "level": 2, "records": 36,  "has_children": false },
+    { "code": "https://w3id.org/eusoilvoc#SoilAcidification",    "name": "soil acidification",     "level": 2, "records": 31,  "has_children": false },
+    { "code": "https://w3id.org/eusoilvoc#SOCLoss",              "name": "soil organic carbon loss","level": 2, "records": 20,  "has_children": false },
+    { "code": "https://w3id.org/eusoilvoc#SoilNutrientLoss",     "name": "soil nutrient loss",     "level": 2, "records": 15,  "has_children": true },
+    { "code": "https://w3id.org/eusoilvoc#Waterlogging",         "name": "waterlogging",           "level": 2, "records": 14,  "has_children": false }
+  ]
+}
+```
+
+**Subjects of one record, noise hidden, with their SoilVoc terms.**
+
+```sql
+SELECT s.id, s.label, s.vocabulary_name,
+       st.code, st.name, st.level, ss.link_type
+FROM validate.record_subject rs
+JOIN validate.subjects s             ON s.id = rs.subject_id
+LEFT JOIN validate.subject_soilvoc ss ON ss.subject_id = s.id
+LEFT JOIN validate.soilvoc_types  st ON st.code = ss.soilvoc_code
+WHERE rs.record_id = '55ca08a8-1a43-4a9c-ada0-f9e258bc9627'
+  AND s.vocabulary_name IS DISTINCT FROM 'noise';
+```
+
+`GET /api/v1/records/55ca08a8-1a43-4a9c-ada0-f9e258bc9627/subjects`
+
+```json
+{
+  "record_id": "55ca08a8-1a43-4a9c-ada0-f9e258bc9627",
+  "subjects": [
+    { "id": "79400f8f-5212-4f8a-81e7-19d03bcc0c74", "label": "soil erosion",
+      "soilvoc": [{ "code": "https://w3id.org/eusoilvoc#SoilErosion", "name": "soil erosion", "level": 2, "link_type": "exact" }] },
+    { "id": "dc3b0d3a-359c-46a7-9c13-ce2085572fae", "label": "soil organic carbon",
+      "soilvoc": [{ "code": "https://w3id.org/eusoilvoc#SoilOrganicCarbon", "name": "soil organic carbon", "level": 4, "link_type": "exact" }] },
+    { "id": "a0eb635f-eade-4ddc-9781-09e01aabb2c5", "label": "organic carbon",
+      "soilvoc": [{ "code": "https://w3id.org/eusoilvoc#SoilOrganicCarbon", "name": "soil organic carbon", "level": 4, "link_type": "synonym" }] },
+    { "id": "18e771fd-d87e-4ef0-b1ee-fe4f8c328aa5", "label": "organic nitrogen",
+      "soilvoc": [{ "code": "https://w3id.org/eusoilvoc#Nitrogen", "name": "nitrogen", "level": 4, "link_type": "inside" }] },
+    { "id": "545f9872-e4b4-42b2-a250-c90c0cc48f23", "label": "olive", "soilvoc": [] }
+  ],
+  "hidden_noise": ["15. life on land", "2. zero hunger"]
+}
+```
+
+### Option 2: one table (`soilvoc_types` + `subjects.uri`)
+
+```mermaid
+erDiagram
+    records ||--o{ record_subject : has
+    subjects ||--o{ record_subject : "used in"
+    soilvoc_types |o--o{ subjects : "subjects.uri"
+    soilvoc_types |o--o{ soilvoc_types : "parent_code"
+    soilvoc_types {
+        text code PK "SoilVoc URI"
+        smallint level "1 to 8"
+        text parent_code FK "broader concept"
+        text name "preferred label"
+        text_array alt_labels
+    }
+    subjects {
+        uuid id PK
+        text label "unchanged"
+        text uri "NEW VALUE: one SoilVoc URI"
+        text vocabulary_name "NEW VALUE: SoilVoc, noise or empty"
+    }
+```
+
+- One SoilVoc term per subject, only safe matches (exact, synonym, translation, mapped, variant).
+- No place for broader links, split combined labels or inside-a-longer-keyword links, so "organic nitrogen" → nitrogen is not stored.
+- Counts are lower than in option 1 because only whole subjects are linked.
+
+**Filter: SoilVoc terms under "soil threats" with their record counts.** Same recursive query; the join goes straight to `subjects.uri`.
+
+```sql
+WITH RECURSIVE tree AS (
+    SELECT code, code AS facet
+    FROM validate.soilvoc_types
+    WHERE parent_code = 'https://w3id.org/eusoilvoc#SoilThreats'
+  UNION ALL
+    SELECT t.code, tree.facet
+    FROM validate.soilvoc_types t
+    JOIN tree ON t.parent_code = tree.code
+)
+SELECT f.code, f.name, f.level,
+       COUNT(DISTINCT rs.record_id) AS records
+FROM tree
+JOIN validate.soilvoc_types  f  ON f.code = tree.facet
+JOIN validate.subjects       s  ON s.uri = tree.code
+JOIN validate.record_subject rs ON rs.subject_id = s.id
+GROUP BY f.code, f.name, f.level
+ORDER BY records DESC;
+```
+
+`GET /api/v1/soilvoc/facets?parent=SoilThreats` returns the same shape as option 1 (without `link_types`), with lower counts.
+
+**Subjects of one record, noise hidden.**
+
+```sql
+SELECT s.id, s.label, st.code, st.name, st.level
+FROM validate.record_subject rs
+JOIN validate.subjects s           ON s.id = rs.subject_id
+LEFT JOIN validate.soilvoc_types st ON st.code = s.uri
+WHERE rs.record_id = '55ca08a8-1a43-4a9c-ada0-f9e258bc9627'
+  AND s.vocabulary_name IS DISTINCT FROM 'noise';
+```
+
+`GET /api/v1/records/55ca08a8-1a43-4a9c-ada0-f9e258bc9627/subjects`
+
+```json
+{
+  "record_id": "55ca08a8-1a43-4a9c-ada0-f9e258bc9627",
+  "subjects": [
+    { "id": "79400f8f-5212-4f8a-81e7-19d03bcc0c74", "label": "soil erosion",
+      "soilvoc": { "code": "https://w3id.org/eusoilvoc#SoilErosion", "name": "soil erosion", "level": 2 } },
+    { "id": "dc3b0d3a-359c-46a7-9c13-ce2085572fae", "label": "soil organic carbon",
+      "soilvoc": { "code": "https://w3id.org/eusoilvoc#SoilOrganicCarbon", "name": "soil organic carbon", "level": 4 } },
+    { "id": "a0eb635f-eade-4ddc-9781-09e01aabb2c5", "label": "organic carbon",
+      "soilvoc": { "code": "https://w3id.org/eusoilvoc#SoilOrganicCarbon", "name": "soil organic carbon", "level": 4 } },
+    { "id": "18e771fd-d87e-4ef0-b1ee-fe4f8c328aa5", "label": "organic nitrogen", "soilvoc": null },
+    { "id": "545f9872-e4b4-42b2-a250-c90c0cc48f23", "label": "olive", "soilvoc": null }
+  ],
+  "hidden_noise": ["15. life on land", "2. zero hunger"]
+}
+```
+
+### What differs between the two
+
+- **Tables:** option 1 adds two tables, option 2 adds one and fills two existing columns.
+- **Coverage:** option 1 reaches 483 terms and 6,050 records; option 2 reaches 443 terms and 5,356 records.
+- **Combined labels and partial matches:** only option 1 can store them ("organic nitrogen" → nitrogen above).
+- **Strictness:** option 1 can switch between strict and loose matching with `link_type`; option 2 is always strict.
+- **Upgrade path:** option 2 can become option 1 later by adding `subject_soilvoc` and copying `subjects.uri` into it.
+- **Note for both:** `parent_code` keeps one parent per concept (131 SoilVoc concepts have several). If a concept must appear under all its parents, add a small `soilvoc_broader (code, broader_code)` table and use it in the recursive query.
+
 ## How we will do it
 
 - **Reuse the existing matching:** it is already built and tested (`scripts/compare_subjects_to_soilvoc.py`). It covers exact matches, mappings via AGROVOC/GEMET/USDA, spelling variants, cleaning rules, and 698 manual decisions.
@@ -297,6 +507,7 @@ xychart-beta
 
 ## Questions for the PO
 
+- Which option: two tables (483 terms, 6,050 records) or one table (443 terms, 5,356 records)? See "The two options" above.
 - Should we load into dev, stage or both?
 - Should noise subjects be hidden in the UI only, or also marked in the data?
 - Is it fine to store `noise` in `subjects.vocabulary_name`, or would you rather have a small `is_noise` column?
